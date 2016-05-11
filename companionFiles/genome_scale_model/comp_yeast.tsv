@@ -1,0 +1,17 @@
+compID	compName
+c_01	boundary
+c_02	cell envelope
+c_03	cytoplasm
+c_04	endoplasmic reticulum
+c_05	endoplasmic reticulum membrane
+c_06	extracellular
+c_07	Golgi
+c_08	Golgi membrane
+c_09	lipid particle
+c_10	mitochondrial membrane
+c_11	mitochondrion
+c_13	nucleus
+c_14	peroxisomal membrane
+c_15	peroxisome
+c_16	vacuolar membrane
+c_17	vacuole

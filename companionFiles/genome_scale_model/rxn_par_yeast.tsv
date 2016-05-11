@@ -1,0 +1,3499 @@
+ReactionID	Enzymes	Annotation
+r_0001	((YEL039C AND YEL071W) OR (YJR048W AND YEL071W) OR (YDL174C AND YEL039C) OR (YDL174C AND YJR048W))	http://identifiers.org/kegg.reaction/R00197
+r_0002	((YDL178W AND YEL039C) OR (YDL178W AND YJR048W))	http://identifiers.org/kegg.reaction/R00197
+r_0003	YAL060W	http://identifiers.org/kegg.reaction/R02946,http://identifiers.org/pubmed/10938079
+r_0004	((YML054C AND YEL039C) OR (YML054C AND YJR048W))	http://identifiers.org/kegg.reaction/R00196
+r_0005	(YGR032W OR YLR342W)	http://identifiers.org/kegg.reaction/R03118,http://identifiers.org/pubmed/7649185
+r_0006	(YGR143W OR YPR159W)	http://identifiers.org/pubmed/8321211
+r_0007	YIL020C	http://identifiers.org/kegg.reaction/R04640
+r_0012	YHR037W	http://identifiers.org/pubmed/387737
+r_0013	(YMR009W AND YEL038W)	http://identifiers.org/pubmed/14506228
+r_0014	YOL066C	http://identifiers.org/pubmed/9068650
+r_0015	YBR153W	http://identifiers.org/kegg.reaction/R09376,http://identifiers.org/pubmed/9068650
+r_0016	(YMR108W OR (YCL009C AND YMR108W))	http://identifiers.org/kegg.reaction/R08648,http://identifiers.org/pubmed/8972574
+r_0017	YNL256W	http://identifiers.org/kegg.reaction/R03503
+r_0018	(YER152C OR YGL202W OR YJL060W)	http://identifiers.org/kegg.reaction/R01939,http://identifiers.org/pubmed/10714900,http://identifiers.org/pubmed/19342587
+r_0019	YHR063C	http://identifiers.org/kegg.reaction/R02472
+r_0020	YDR035W	http://identifiers.org/kegg.reaction/R01826
+r_0021	(YOR125C AND YOL096C AND YML110C AND YGL119W AND YGR255C AND YDR204W AND YLR201C)	http://identifiers.org/kegg.reaction/R04983,http://identifiers.org/pubmed/15792955
+r_0022	(YOR125C AND YOL096C AND YML110C AND YGL119W AND YGR255C AND YDR204W AND YLR201C)	http://identifiers.org/kegg.reaction/R04982,http://identifiers.org/pubmed/15792955
+r_0023	YGL009C	http://identifiers.org/kegg.reaction/R03968,http://identifiers.org/pubmed/3071717
+r_0024	(YOR108W OR YNL104C)	http://identifiers.org/kegg.reaction/R01213,http://identifiers.org/pubmed/6090272
+r_0025	YNL104C	http://identifiers.org/kegg.reaction/R01213,http://identifiers.org/pubmed/6090272
+r_0026		http://identifiers.org/kegg.reaction/R07396,http://identifiers.org/pubmed/14506228
+r_0027	YDR234W	http://identifiers.org/kegg.reaction/R03444,http://identifiers.org/pubmed/5908136
+r_0028	YPR001W	http://identifiers.org/kegg.reaction/R00931,http://identifiers.org/pubmed/16332871
+r_0029	YJR148W	http://identifiers.org/kegg.reaction/R01652
+r_0030	YHR208W	http://identifiers.org/kegg.reaction/R01652
+r_0032	YOL064C	http://identifiers.org/kegg.reaction/R00188,http://identifiers.org/pubmed/7809627
+r_0033	(YGL248W OR YOR360C)	http://identifiers.org/kegg.reaction/R00191
+r_0034	YOR360C	NA
+r_0035	YOR360C	NA
+r_0036	YOR360C	http://identifiers.org/kegg.reaction/R01234
+r_0037	YOR360C	NA
+r_0038	YDR487C	http://identifiers.org/kegg.reaction/R07281,http://identifiers.org/pubmed/12595523
+r_0039	YDR127W	http://identifiers.org/kegg.reaction/R03084
+r_0040	YDR127W	http://identifiers.org/kegg.reaction/R03083,http://identifiers.org/pubmed/6355828
+r_0041	YBR265W	http://identifiers.org/kegg.reaction/R02978,http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9804843
+r_0042	(YDR035W OR YBR249C)	http://identifiers.org/kegg.reaction/R01826,http://identifiers.org/pubmed/2880280
+r_0043		http://identifiers.org/kegg.reaction/R06865,http://identifiers.org/pubmed/15792955
+r_0044		http://identifiers.org/kegg.reaction/R06866,http://identifiers.org/pubmed/15792955
+r_0045	YLR231C	http://identifiers.org/kegg.reaction/R02668
+r_0057	YKR009C	http://identifiers.org/kegg.reaction/R04739
+r_0058	YJR025C	http://identifiers.org/pubmed/9539135
+r_0059	YER175C	http://identifiers.org/pubmed/15147181
+r_0060	YGL009C	http://identifiers.org/kegg.reaction/R04001,http://identifiers.org/pubmed/3071717
+r_0061	YCL018W	http://identifiers.org/kegg.reaction/R04426,http://identifiers.org/pubmed/6297759
+r_0062	(YLR134W OR YGR087C OR YLR044C)	http://identifiers.org/pubmed/12902239
+r_0063	YBR176W	http://identifiers.org/kegg.reaction/R01226
+r_0064	(YLR134W OR YDL080C OR YGR087C OR YLR044C)	http://identifiers.org/kegg.reaction/R03894,http://identifiers.org/pubmed/12902239
+r_0065	YDR127W	http://identifiers.org/kegg.reaction/R03460,http://identifiers.org/pubmed/6355828
+r_0066	YNR033W	http://identifiers.org/kegg.reaction/R01716
+r_0067	YMR289W	http://identifiers.org/kegg.reaction/R05553
+r_0068	YGR019W	http://identifiers.org/kegg.reaction/R01648,http://identifiers.org/pubmed/10590462
+r_0069	YCR053W	http://identifiers.org/kegg.reaction/R05086,http://identifiers.org/pubmed/8082795
+r_0070		http://identifiers.org/kegg.reaction/R01301,http://identifiers.org/pubmed/11583838
+r_0072	YDL080C	http://identifiers.org/pubmed/12902239
+r_0073	(YOR163W OR YLR410W)	http://identifiers.org/kegg.reaction/R05779,http://identifiers.org/pubmed/17412958
+r_0074	YDR017C	http://identifiers.org/pubmed/17412958
+r_0075	YLR017W	http://identifiers.org/kegg.reaction/R01402,http://identifiers.org/pubmed/14506228
+r_0076	YGL224C	http://identifiers.org/kegg.reaction/R00511,http://identifiers.org/pubmed/11934891
+r_0077	YOR155C	http://identifiers.org/kegg.reaction/R01126,http://identifiers.org/pubmed/12735798
+r_0078	YGL224C	http://identifiers.org/kegg.reaction/R00963,http://identifiers.org/pubmed/11934891
+r_0079	YGR061C	http://identifiers.org/kegg.reaction/R04463
+r_0080	(YPL023C OR YGL125W)	http://identifiers.org/kegg.reaction/R01224,http://identifiers.org/pubmed/21623372
+r_0081	YDR232W	http://identifiers.org/kegg.reaction/R00830
+r_0082	YOR163W	http://identifiers.org/kegg.reaction/R05779,http://identifiers.org/pubmed/10419486
+r_0083	YDR017C	http://identifiers.org/kegg.reaction/R09087,http://identifiers.org/pubmed/11956213
+r_0084	YER183C	http://identifiers.org/kegg.reaction/R02301
+r_0085	YER091C	http://identifiers.org/kegg.reaction/R04405,http://identifiers.org/pubmed/3542720
+r_0086		http://identifiers.org/kegg.reaction/R07392,http://identifiers.org/pubmed/14506228
+r_0087		http://identifiers.org/kegg.reaction/R04420,http://identifiers.org/pubmed/14506228
+r_0088	YLR410W	http://identifiers.org/pubmed/17412958
+r_0089	YLR410W	http://identifiers.org/pubmed/17412958
+r_0090	(YOL136C OR YIL107C)	NA
+r_0091	(YGR248W OR YHR163W)	http://identifiers.org/kegg.reaction/R02035,http://identifiers.org/pubmed/14454532
+r_0092	(YOR163W OR YLR410W)	http://identifiers.org/kegg.reaction/R05779,http://identifiers.org/pubmed/17412958
+r_0093	YDR017C	http://identifiers.org/pubmed/17412958
+r_0094		http://identifiers.org/kegg.reaction/R03210,http://identifiers.org/pubmed/16269718
+r_0095	(YLR134W OR YGR087C OR YLR044C)	http://identifiers.org/pubmed/12902239
+r_0096	YLR355C	http://identifiers.org/pubmed/8972574
+r_0097	(YMR108W OR (YCL009C AND YMR108W))	http://identifiers.org/kegg.reaction/R00006,http://identifiers.org/pubmed/8972574
+r_0099	YKL192C	http://identifiers.org/kegg.reaction/R01624,http://identifiers.org/pubmed/15387819
+r_0100	YIL160C	NA
+r_0101	YIL160C	NA
+r_0102	YIL160C	http://identifiers.org/kegg.reaction/R03991
+r_0103	YPL028W	NA
+r_0104	YPL028W	NA
+r_0105	YIL160C	http://identifiers.org/kegg.reaction/R03858
+r_0106	YIL160C	http://identifiers.org/kegg.reaction/R03778
+r_0107	YIL160C	http://identifiers.org/kegg.reaction/R04742
+r_0108	YMR207C	http://identifiers.org/kegg.reaction/R00742,http://identifiers.org/pubmed/14761959
+r_0109	(YNR016C AND YDL141W)	http://identifiers.org/kegg.reaction/R00742
+r_0111	YBL015W	http://identifiers.org/kegg.reaction/R00227
+r_0112	(YAL054C OR YLR153C)	http://identifiers.org/kegg.reaction/R00235,http://identifiers.org/pubmed/8910545
+r_0113	YAL054C	http://identifiers.org/kegg.reaction/R00235
+r_0114	YLR153C	http://identifiers.org/kegg.reaction/R00235,http://identifiers.org/pubmed/16857587
+r_0115	YER069W	http://identifiers.org/kegg.reaction/R02649
+r_0116	(YBR093C OR YAR071W)	http://identifiers.org/kegg.reaction/R00548,http://identifiers.org/pubmed/13405892
+r_0117	YPR002W	http://identifiers.org/pubmed/16332871
+r_0118	YOL140W	http://identifiers.org/kegg.reaction/R02283
+r_0119	YPL148C	NA
+r_0120	YGL205W	NA
+r_0121	YGL205W	NA
+r_0122	YGL205W	NA
+r_0123	YGL205W	NA
+r_0124	YGL205W	NA
+r_0125	YGL205W	NA
+r_0126	YCR048W	http://identifiers.org/pubmed/10672016
+r_0127	(YCR048W OR YNR019W)	http://identifiers.org/pubmed/10672016
+r_0128	YCR048W	http://identifiers.org/pubmed/10672016
+r_0129	YCR048W	http://identifiers.org/pubmed/10672016
+r_0130	YCR048W	http://identifiers.org/pubmed/10672016
+r_0131	YCR048W	http://identifiers.org/pubmed/10672016
+r_0132	(YCR048W OR YNR019W)	http://identifiers.org/pubmed/10672016
+r_0133	YCR048W	http://identifiers.org/pubmed/10672016
+r_0134	YCR048W	http://identifiers.org/pubmed/10672016
+r_0135	YCR048W	http://identifiers.org/pubmed/10672016
+r_0137	YJL091C	http://identifiers.org/pubmed/12714589
+r_0138	YNL141W	NA
+r_0139	YML022W	http://identifiers.org/kegg.reaction/R00190,http://identifiers.org/pubmed/9864350
+r_0140	YNL141W	NA
+r_0141	YDR400W	http://identifiers.org/kegg.reaction/R01245
+r_0142	YJR105W	http://identifiers.org/kegg.reaction/R00185
+r_0143	YML035C	NA
+r_0144	YER043C	http://identifiers.org/kegg.reaction/R00192,http://identifiers.org/pubmed/15556636
+r_0145	YOL052C	http://identifiers.org/kegg.reaction/R00178,http://identifiers.org/pubmed/3087344
+r_0146	YNR058W	http://identifiers.org/kegg.reaction/R03231
+r_0147	YJL005W	http://identifiers.org/kegg.reaction/R00089
+r_0148	YDR226W	http://identifiers.org/kegg.reaction/R00127
+r_0149	YER170W	http://identifiers.org/kegg.reaction/R00127
+r_0150	YER170W	NA
+r_0151	YLR359W	http://identifiers.org/kegg.reaction/R04559
+r_0152	YLR359W	http://identifiers.org/kegg.reaction/R01083
+r_0153	YNL220W	http://identifiers.org/kegg.reaction/R01135
+r_0154	YKL001C	http://identifiers.org/kegg.reaction/R00509,http://identifiers.org/pubmed/1654509
+r_0155	YGR247W	http://identifiers.org/pubmed/10734185
+r_0156	YFL030W	http://identifiers.org/kegg.reaction/R00369
+r_0157	YOR335C	http://identifiers.org/kegg.reaction/R03038,http://identifiers.org/pubmed/7761427
+r_0158	(YGR177C OR YOR377W)	http://identifiers.org/pubmed/12957907
+r_0159	(YGR177C OR YOR377W)	http://identifiers.org/pubmed/12957907
+r_0160	(YGR177C OR YOR377W)	http://identifiers.org/pubmed/12957907
+r_0161	(YGR177C OR YOR377W)	http://identifiers.org/pubmed/12957907
+r_0162	(YGR177C OR YOR377W)	http://identifiers.org/pubmed/12957907
+r_0163	YMR303C	http://identifiers.org/kegg.reaction/R00754,http://identifiers.org/pubmed/12702265
+r_0164	(YDR368W OR YHR104W)	http://identifiers.org/kegg.reaction/R01041,http://identifiers.org/pubmed/12210903
+r_0165	(YGL256W OR YMR083W)	http://identifiers.org/kegg.reaction/R00754,http://identifiers.org/pubmed/12499363
+r_0166	(YOL086C OR YBR145W OR YDL168W)	http://identifiers.org/pubmed/12702265
+r_0167	(YGL256W OR YMR083W)	http://identifiers.org/pubmed/12499363
+r_0168	(YCR105W OR YDR368W OR YMR318C)	http://identifiers.org/pubmed/12210903,http://identifiers.org/pubmed/12423374
+r_0169	(YOL086C OR YBR145W OR YDL168W)	http://identifiers.org/kegg.reaction/R02611,http://identifiers.org/pubmed/12702265
+r_0170	(YGL256W OR YMR083W)	http://identifiers.org/kegg.reaction/R02611,http://identifiers.org/pubmed/12499363
+r_0171	(YCR105W OR YMR318C)	http://identifiers.org/pubmed/11742541,http://identifiers.org/pubmed/12423374
+r_0172	(YMR169C OR YMR170C)	http://identifiers.org/pubmed/12586697
+r_0173	YPL061W	http://identifiers.org/kegg.reaction/R00711,http://identifiers.org/pubmed/15256563
+r_0174	YOR374W	http://identifiers.org/kegg.reaction/R00710,http://identifiers.org/pubmed/15256563
+r_0175	(YER073W OR YOR374W)	http://identifiers.org/kegg.reaction/R00711,http://identifiers.org/pubmed/15256563
+r_0176	YOR374W	http://identifiers.org/kegg.reaction/R02678
+r_0177	YPL061W	NA
+r_0178	(YER073W OR YOR374W)	http://identifiers.org/pubmed/9675847
+r_0179	(YOL086C OR YBR145W OR YDL168W)	http://identifiers.org/kegg.reaction/R05685,http://identifiers.org/pubmed/12702265
+r_0180	(YGL256W OR YMR083W)	http://identifiers.org/kegg.reaction/R05685,http://identifiers.org/pubmed/12499363
+r_0181	(YCR105W OR YMR318C)	http://identifiers.org/kegg.reaction/R05686,http://identifiers.org/pubmed/11742541,http://identifiers.org/pubmed/12423374
+r_0182	(YOL086C OR YBR145W OR YDL168W)	http://identifiers.org/pubmed/12702265
+r_0183	(YGL256W OR YMR083W)	http://identifiers.org/pubmed/12499363
+r_0184	(YCR105W OR YMR318C)	http://identifiers.org/pubmed/11742541,http://identifiers.org/pubmed/12423374
+r_0185	(YMR169C OR YMR170C)	http://identifiers.org/kegg.reaction/R02536,http://identifiers.org/pubmed/8801420
+r_0186	(YOL086C OR YBR145W OR YDL168W)	http://identifiers.org/kegg.reaction/R02679,http://identifiers.org/pubmed/12702265
+r_0187	(YGL256W OR YMR083W)	http://identifiers.org/kegg.reaction/R02679,http://identifiers.org/pubmed/12499363
+r_0188	YDR481C	http://identifiers.org/kegg.reaction/R04620
+r_0189	YIR029W	http://identifiers.org/pubmed/4604238
+r_0190	YIR027C	http://identifiers.org/kegg.reaction/R02424,http://identifiers.org/pubmed/4604238
+r_0191	YBR208C	NA
+r_0192	(YBR205W OR YBR199W OR YDR483W OR YJL139C OR YKR061W OR YNL029C OR YOR099W OR YPL053C)	http://identifiers.org/kegg.reaction/R05002,http://identifiers.org/pubmed/14752117,http://identifiers.org/pubmed/21623372,http://identifiers.org/pubmed/8631921,http://identifiers.org/pubmed/9020857
+r_0193	YPR026W	NA
+r_0194	YDR001C	http://identifiers.org/pubmed/8764988
+r_0195	((YBR126C AND YDR074W AND YMR261C) OR (YML100W AND YBR126C AND YDR074W))	http://identifiers.org/kegg.reaction/R00836,http://identifiers.org/pubmed/21623372
+r_0198	(YJL216C OR YIL172C OR YBR299W OR YGR292W OR YGR287C OR YJL221C)	http://identifiers.org/kegg.reaction/R01555
+r_0199	YMR293C	NA
+r_0200		http://identifiers.org/pubmed/3086094
+r_0201	YOR374W	http://identifiers.org/kegg.reaction/R02549
+r_0202	YDR354W	http://identifiers.org/kegg.reaction/R01073
+r_0203	(YER090W AND YKL211C)	http://identifiers.org/kegg.reaction/R00986,http://identifiers.org/pubmed/8001582
+r_0204	YDR305C	http://identifiers.org/kegg.reaction/R00125
+r_0205	YHR104W	http://identifiers.org/kegg.reaction/R01759
+r_0206	YPL111W	NA
+r_0207	YHR018C	http://identifiers.org/kegg.reaction/R01086
+r_0208	YOL058W	http://identifiers.org/kegg.reaction/R01954,http://identifiers.org/pubmed/35347
+r_0209	YDR341C	http://identifiers.org/kegg.reaction/R03646
+r_0210	YHR091C	http://identifiers.org/kegg.reaction/R03646
+r_0211	(YGR124W OR YPR145W)	http://identifiers.org/kegg.reaction/R00578,http://identifiers.org/pubmed/9881155
+r_0212	YHR019C	http://identifiers.org/kegg.reaction/R03648,http://identifiers.org/pubmed/9605503
+r_0213	YCR024C	http://identifiers.org/kegg.reaction/R03648,http://identifiers.org/pubmed/9605503
+r_0214	YJL130C	http://identifiers.org/kegg.reaction/R01397
+r_0215	YER052C	http://identifiers.org/kegg.reaction/R00480,http://identifiers.org/pubmed/9315655
+r_0216	YLR027C	http://identifiers.org/kegg.reaction/R00355,http://identifiers.org/pubmed/1859361
+r_0217	YKL106W	http://identifiers.org/kegg.reaction/R00355,http://identifiers.org/pubmed/1482685
+r_0218	YLR027C	http://identifiers.org/kegg.reaction/R00355,http://identifiers.org/pubmed/9288922
+r_0219	YDR158W	http://identifiers.org/kegg.reaction/R02291,http://identifiers.org/pubmed/2570346
+r_0220	YLL018C	http://identifiers.org/kegg.reaction/R05577,http://identifiers.org/pubmed/3902099
+r_0221	YPL104W	http://identifiers.org/kegg.reaction/R05577,http://identifiers.org/pubmed/2668951
+r_0222	YDR530C	http://identifiers.org/kegg.reaction/R00126
+r_0223	YCL050C	NA
+r_0224	YCL050C	NA
+r_0225	YER055C	http://identifiers.org/kegg.reaction/R01071
+r_0226	((Q0130 AND YBL099W AND YDR298C AND Q0085 AND YJR121W AND Q0080 AND YBR039W AND YDR377W AND YML081C-A AND YDR322C-A AND YKL016C AND YPL271W AND YDL004W AND YPL078C AND YLR295C) OR (YPR020W AND Q0130 AND YBL099W AND YDR298C AND Q0085 AND YJR121W AND Q0080 AND YBR039W AND YDR377W AND YML081C-A AND YKL016C AND YPL271W AND YDL004W AND YPL078C AND YLR295C))	http://identifiers.org/pubmed/6223276
+r_0227	(YER005W OR (YCR024C-A AND YGL008C AND YEL017C-A) OR (YCR024C-A AND YPL036W AND YEL017C-A))	http://identifiers.org/pubmed/10409709
+r_0228	YBR110W	http://identifiers.org/kegg.reaction/R04502,http://identifiers.org/pubmed/6368538
+r_0229	YGR286C	NA
+r_0230	YDL141W	http://identifiers.org/kegg.reaction/R01074,http://identifiers.org/pubmed/9688262
+r_0231	YNL280C	http://identifiers.org/kegg.reaction/R05639
+r_0233	YMR015C	NA
+r_0234	YGL001C	NA
+r_0235	YGL001C	NA
+r_0236	YLR100W	http://identifiers.org/kegg.reaction/R07495
+r_0237	YLR100W	NA
+r_0238	YGR060W	NA
+r_0239	YGR060W	NA
+r_0240	YGR060W	NA
+r_0241	YGR060W	http://identifiers.org/kegg.reaction/R07509
+r_0242	YLR056W	NA
+r_0243	YMR202W	http://identifiers.org/kegg.reaction/R07497
+r_0244	YGL012W	http://identifiers.org/kegg.reaction/R05641
+r_0249	(YKL019W AND YDL090C)	http://identifiers.org/kegg.reaction/R07273,http://identifiers.org/pubmed/1763050
+r_0250	((YJR109C AND YOR303W) OR YJL130C)	http://identifiers.org/kegg.reaction/R00575
+r_0252	(YER024W OR YAR035W)	http://identifiers.org/pubmed/11329169
+r_0253	YML042W	NA
+r_0254	YML042W	NA
+r_0255	YGR088W	http://identifiers.org/pubmed/3536508
+r_0256	YDR256C	http://identifiers.org/pubmed/9931255
+r_0259	YDR297W	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368039
+r_0260	YMR272C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368039
+r_0261	YDR297W	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368039
+r_0262	YMR272C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368039
+r_0263	((YKL008C AND YMR298W) OR (YHL003C AND YMR298W))	http://identifiers.org/pubmed/11387200,http://identifiers.org/pubmed/15692566,http://identifiers.org/pubmed/18296751
+r_0264	((YKL008C AND YMR298W) OR (YHL003C AND YMR298W))	http://identifiers.org/kegg.reaction/R06517,http://identifiers.org/pubmed/11387200,http://identifiers.org/pubmed/15692566,http://identifiers.org/pubmed/18296751
+r_0265	((YKL008C AND YMR298W) OR (YHL003C AND YMR298W))	http://identifiers.org/pubmed/11387200,http://identifiers.org/pubmed/15692566,http://identifiers.org/pubmed/18296751
+r_0266	((YKL008C AND YMR298W) OR (YHL003C AND YMR298W))	http://identifiers.org/kegg.reaction/R06527,http://identifiers.org/pubmed/11387200,http://identifiers.org/pubmed/15692566,http://identifiers.org/pubmed/18296751
+r_0267	YMR272C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368039
+r_0268	YMR272C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368039
+r_0269	YMR272C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368039
+r_0270	YMR272C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368039
+r_0271	(YLR307W OR YLR308W)	http://identifiers.org/kegg.reaction/R02333
+r_0272	(YBR038W OR YNL192W OR YBR023C)	http://identifiers.org/kegg.reaction/R02335,http://identifiers.org/pubmed/16408321
+r_0273	YLR133W	http://identifiers.org/kegg.reaction/R01021,http://identifiers.org/pubmed/10329685
+r_0274	YGR202C	http://identifiers.org/kegg.reaction/R01890
+r_0278	YPR060C	http://identifiers.org/kegg.reaction/R01715,http://identifiers.org/pubmed/3027508
+r_0279	YGL148W	http://identifiers.org/kegg.reaction/R01714,http://identifiers.org/pubmed/8971708
+r_0280	YLR304C	http://identifiers.org/kegg.reaction/R01900,http://identifiers.org/pubmed/21623372
+r_0281	(YBR002C OR YMR101C)	http://identifiers.org/kegg.reaction/R02061,http://identifiers.org/pubmed/12702274
+r_0282	(YBR002C OR YMR101C)	http://identifiers.org/kegg.reaction/R07475,http://identifiers.org/pubmed/12702274
+r_0283	(YBR002C OR YMR101C)	http://identifiers.org/kegg.reaction/R05613,http://identifiers.org/pubmed/12702274
+r_0284	(YBR002C OR YMR101C)	http://identifiers.org/kegg.reaction/R05612,http://identifiers.org/pubmed/12702274
+r_0285	(YBR002C OR YMR101C)	http://identifiers.org/kegg.reaction/R05611,http://identifiers.org/pubmed/12702274
+r_0286	(YBR002C OR YMR101C)	http://identifiers.org/kegg.reaction/R07267,http://identifiers.org/pubmed/12702274
+r_0287	(YBR002C OR YMR101C)	http://identifiers.org/kegg.reaction/R08747,http://identifiers.org/pubmed/12702274
+r_0288	(YBR002C OR YMR101C)	http://identifiers.org/pubmed/12702274
+r_0289	(YBR002C OR YMR101C)	http://identifiers.org/pubmed/12702274
+r_0290	(YBR002C OR YMR101C)	http://identifiers.org/pubmed/12702274
+r_0291	(YBR002C OR YMR101C)	http://identifiers.org/pubmed/12702274
+r_0292	(YBR002C OR YMR101C)	http://identifiers.org/pubmed/12702274
+r_0293	(YBR002C OR YMR101C)	http://identifiers.org/pubmed/12702274
+r_0294	(YBR002C OR YMR101C)	http://identifiers.org/pubmed/12702274
+r_0295	(YBR002C OR YMR101C)	http://identifiers.org/pubmed/12702274
+r_0296	(YBR002C OR YMR101C)	http://identifiers.org/pubmed/12702274
+r_0297	(YBR002C OR YMR101C)	http://identifiers.org/pubmed/12702274
+r_0298	(YBR002C OR YMR101C)	http://identifiers.org/pubmed/12702274
+r_0299	(YBR002C OR YMR101C)	http://identifiers.org/pubmed/12702274
+r_0300	(YNR001C OR YPR001W)	http://identifiers.org/pubmed/9140965
+r_0301	YCR005C	http://identifiers.org/pubmed/10587442
+r_0302	YLR304C	http://identifiers.org/kegg.reaction/R01325,http://identifiers.org/pubmed/21623372
+r_0303	YLR304C	http://identifiers.org/kegg.reaction/R01325
+r_0304	YDR044W	http://identifiers.org/kegg.reaction/R03220
+r_0306	(YBL039C OR YJR103W)	http://identifiers.org/kegg.reaction/R00573
+r_0307	(YBL039C OR YJR103W)	NA
+r_0308	YGL184C	http://identifiers.org/pubmed/10922376
+r_0309	YGR155W	http://identifiers.org/kegg.reaction/R01290,http://identifiers.org/pubmed/10766767
+r_0310	YAL012W	http://identifiers.org/pubmed/1577698
+r_0311	YJR130C	http://identifiers.org/kegg.reaction/R03217,http://identifiers.org/pubmed/10821189
+r_0312	YLR303W	http://identifiers.org/kegg.reaction/R00897,http://identifiers.org/pubmed/21623372,http://identifiers.org/pubmed/7765825
+r_0313	YNL247W	http://identifiers.org/kegg.reaction/R03650,http://identifiers.org/pubmed/9523015
+r_0314	YLR245C	NA
+r_0315	YNR012W	http://identifiers.org/kegg.reaction/R00517
+r_0317	(YHR042W AND YHR007C)	http://identifiers.org/kegg.reaction/R05640,http://identifiers.org/pubmed/10622712
+r_0318	YPR062W	NA
+r_0319	YML086C	http://identifiers.org/kegg.reaction/R02715,http://identifiers.org/pubmed/10508108
+r_0320	YMR041C	http://identifiers.org/kegg.reaction/R01574,http://identifiers.org/pubmed/17097644
+r_0321	YBR149W	http://identifiers.org/kegg.reaction/R01575
+r_0322	YKL060C	http://identifiers.org/kegg.reaction/R02568
+r_0323	YJR159W	http://identifiers.org/kegg.reaction/R00875
+r_0326	YHR144C	NA
+r_0327	YHR144C	NA
+r_0328	YNL141W	NA
+r_0329	YLR245C	NA
+r_0330	YDR454C	http://identifiers.org/kegg.reaction/R02090
+r_0331	YHR068W	NA
+r_0332	YCR036W	http://identifiers.org/kegg.reaction/R02750
+r_0333	YLR209C	http://identifiers.org/kegg.reaction/R02484
+r_0334	YDR196C	http://identifiers.org/kegg.reaction/R00130
+r_0335	YNR057C	http://identifiers.org/kegg.reaction/R03182
+r_0338	YKL216W	NA
+r_0339	YKL216W	NA
+r_0340	YPL087W	http://identifiers.org/pubmed/10900202,http://identifiers.org/pubmed/18296751
+r_0341	YPL087W	http://identifiers.org/pubmed/10900202,http://identifiers.org/pubmed/18296751
+r_0342	YPL087W	http://identifiers.org/pubmed/10900202,http://identifiers.org/pubmed/18296751
+r_0343	YPL087W	http://identifiers.org/pubmed/10900202,http://identifiers.org/pubmed/18296751
+r_0344	YOR236W	http://identifiers.org/kegg.reaction/R00939
+r_0345	YOR236W	http://identifiers.org/kegg.reaction/R00939
+r_0346	YMR113W	http://identifiers.org/kegg.reaction/R02237,http://identifiers.org/pubmed/11731153
+r_0347	YNL256W	http://identifiers.org/kegg.reaction/R03504
+r_0348	YDL100C	http://identifiers.org/kegg.reaction/R04621
+r_0349	YLR420W	http://identifiers.org/kegg.reaction/R01993,http://identifiers.org/pubmed/2897615
+r_0350	YNL256W	http://identifiers.org/kegg.reaction/R03066
+r_0351	YNL256W	http://identifiers.org/kegg.reaction/R03067
+r_0352	YJR016C	http://identifiers.org/kegg.reaction/R04441,http://identifiers.org/pubmed/14576278
+r_0353	YJR016C	http://identifiers.org/kegg.reaction/R05070,http://identifiers.org/pubmed/14576278
+r_0354	(YFL053W OR YML070W)	http://identifiers.org/kegg.reaction/R01011
+r_0355	YJL167W	http://identifiers.org/kegg.reaction/R01658
+r_0356	YKL152C	http://identifiers.org/kegg.reaction/R01662,http://identifiers.org/pubmed/6313356
+r_0357	YOR163W	http://identifiers.org/pubmed/10419486
+r_0358	YDR017C	http://identifiers.org/pubmed/11956213
+r_0359	YLR172C	http://identifiers.org/kegg.reaction/R04481,http://identifiers.org/pubmed/1508200
+r_0360	YMR013C	http://identifiers.org/kegg.reaction/R01018
+r_0361	YPR183W	http://identifiers.org/kegg.reaction/R01009
+r_0362	(YOR321W OR (YAL023C AND YDL095W) OR YJR143C OR YDL093W)	NA
+r_0363	YJR057W	http://identifiers.org/kegg.reaction/R02094
+r_0364	YBR252W	http://identifiers.org/kegg.reaction/R02100
+r_0365	YJR153W	http://identifiers.org/pubmed/10028181
+r_0366	(YHR174W OR YGR254W)	http://identifiers.org/kegg.reaction/R00658,http://identifiers.org/pubmed/7520111
+r_0368	(YDR147W OR YLR133W)	http://identifiers.org/kegg.reaction/R01468,http://identifiers.org/pubmed/9506987
+r_0369	YOR126C	http://identifiers.org/pubmed/10855721
+r_0370	(YNR067C OR YLR300W OR YDR261C OR YGR282C OR YOR190W)	http://identifiers.org/kegg.reaction/R00308,http://identifiers.org/pubmed/8458852
+r_0373	YPL069C	http://identifiers.org/kegg.reaction/R02061,http://identifiers.org/pubmed/7665600
+r_0399	YER015W	NA
+r_0400	YER015W	NA
+r_0402	YER015W	http://identifiers.org/kegg.reaction/R01280
+r_0410	YER015W	NA
+r_0412	YER015W	NA
+r_0436	YOR176W	http://identifiers.org/kegg.reaction/R00310
+r_0437	((YKR066C AND YEL039C) OR (YKR066C AND YJR048W))	http://identifiers.org/kegg.reaction/R00017
+r_0438	((YLR038C AND Q0275 AND YHR051W AND YDL067C AND Q0045 AND YGL191W AND Q0250 AND YLR395C AND YMR256C AND YJR048W AND YGL187C AND YIL111W) OR (YLR038C AND Q0275 AND YHR051W AND YDL067C AND Q0045 AND YGL191W AND YEL039C AND Q0250 AND YLR395C AND YMR256C AND YGL187C AND YIL111W) OR (YLR038C AND Q0275 AND YNL052W AND YHR051W AND YDL067C AND Q0045 AND YGL191W AND Q0250 AND YLR395C AND YMR256C AND YJR048W AND YGL187C) OR (YLR038C AND Q0275 AND YNL052W AND YHR051W AND YDL067C AND Q0045 AND YGL191W AND YEL039C AND Q0250 AND YLR395C AND YMR256C AND YGL187C))	http://identifiers.org/kegg.reaction/R00081
+r_0439	((YJL166W AND YHR001W-A AND YEL024W AND YDR529C AND YGR183C AND YPR191W AND YOR065W AND YBL045C AND YFR033C AND YJR048W AND Q0105) OR (YJL166W AND YEL039C AND YHR001W-A AND YEL024W AND YDR529C AND YGR183C AND YPR191W AND YOR065W AND YBL045C AND YFR033C AND Q0105))	NA
+r_0440	YDL045C	http://identifiers.org/kegg.reaction/R00161
+r_0441	YLR011W	http://identifiers.org/kegg.reaction/R05705,http://identifiers.org/pubmed/15184374
+r_0442	YLR011W	http://identifiers.org/kegg.reaction/R05706,http://identifiers.org/pubmed/15184374
+r_0443	YDL168W	NA
+r_0445	YOR388C	http://identifiers.org/kegg.reaction/R00519
+r_0446	YGR204W	http://identifiers.org/kegg.reaction/R00943,http://identifiers.org/pubmed/10871621,http://identifiers.org/pubmed/1916088,http://identifiers.org/pubmed/8852837
+r_0447	YBR084W	http://identifiers.org/kegg.reaction/R00943,http://identifiers.org/pubmed/10871621,http://identifiers.org/pubmed/1916088,http://identifiers.org/pubmed/8852837
+r_0448	YJL155C	http://identifiers.org/kegg.reaction/R00763
+r_0449	YLR377C	http://identifiers.org/kegg.reaction/R00762
+r_0450	YKL060C	http://identifiers.org/pubmed/8435847
+r_0451	YPL262W	http://identifiers.org/kegg.reaction/R01082,http://identifiers.org/pubmed/9627400
+r_0452	YPL262W	http://identifiers.org/kegg.reaction/R01082,http://identifiers.org/pubmed/11585823,http://identifiers.org/pubmed/20231875
+r_0453	YKL216W	http://identifiers.org/kegg.reaction/R01867,http://identifiers.org/pubmed/1409592
+r_0454	YEL047C	http://identifiers.org/kegg.reaction/R00408,http://identifiers.org/pubmed/22672422,http://identifiers.org/pubmed/8946166,http://identifiers.org/pubmed/9587404
+r_0455	YEL047C	http://identifiers.org/kegg.reaction/R00408,http://identifiers.org/pubmed/22672422
+r_0457	YLR299W	NA
+r_0458	YBR020W	http://identifiers.org/kegg.reaction/R01092
+r_0459	YBR018C	http://identifiers.org/kegg.reaction/R00502
+r_0460	YJL101C	http://identifiers.org/kegg.reaction/R00894
+r_0461		http://identifiers.org/kegg.reaction/R07475,http://identifiers.org/pubmed/15792955
+r_0462	YJL167W	http://identifiers.org/kegg.reaction/R02003
+r_0463	YPR184W	http://identifiers.org/pubmed/11094287
+r_0464	YIL099W	http://identifiers.org/pubmed/11486014
+r_0465		http://identifiers.org/pubmed/369615
+r_0466	YNL241C	http://identifiers.org/kegg.reaction/R00835,http://identifiers.org/pubmed/2269430
+r_0467	YBR196C	http://identifiers.org/kegg.reaction/R00771,http://identifiers.org/pubmed/8435847
+r_0468	YDR300C	http://identifiers.org/kegg.reaction/R00239
+r_0469	YMR250W	http://identifiers.org/kegg.reaction/R00261,http://identifiers.org/pubmed/11031268
+r_0470	YDL215C	http://identifiers.org/pubmed/14554197
+r_0471	(YOR375C OR YAL062W)	NA
+r_0472	YDL171C	http://identifiers.org/kegg.reaction/R00093,http://identifiers.org/pubmed/9657994
+r_0473	YOR323C	http://identifiers.org/kegg.reaction/R03313
+r_0475		http://identifiers.org/pubmed/3309138
+r_0476	YPR035W	http://identifiers.org/pubmed/9611819
+r_0477	YKL104C	http://identifiers.org/kegg.reaction/R00768,http://identifiers.org/pubmed/2656689
+r_0478	YOR168W	http://identifiers.org/kegg.reaction/R03652,http://identifiers.org/pubmed/2991203
+r_0479	YGL245W	http://identifiers.org/kegg.reaction/R05578
+r_0480	YOL033W	http://identifiers.org/kegg.reaction/R05578,http://identifiers.org/pubmed/7607232
+r_0481	((YCL035C AND YPL091W) OR (YDR098C AND YPL091W) OR (YER174C AND YPL091W) OR (YDR513W AND YPL091W))	http://identifiers.org/kegg.reaction/R00115
+r_0482	(YPL059W AND YPL091W)	http://identifiers.org/kegg.reaction/R00115,http://identifiers.org/pubmed/14672937
+r_0483	(YIR037W OR YCL035C OR YBR244W OR YKL026C OR YDR513W)	http://identifiers.org/kegg.reaction/R00274
+r_0484	YPL059W	http://identifiers.org/kegg.reaction/R00274,http://identifiers.org/pubmed/12138088
+r_0485	YOL049W	http://identifiers.org/kegg.reaction/R00497
+r_0486	(YJR009C OR YJL052W OR YGR192C)	http://identifiers.org/pubmed/3905788
+r_0487	YOR120W	http://identifiers.org/pubmed/11113971
+r_0488	YHL032C	http://identifiers.org/kegg.reaction/R00847
+r_0489	(YER062C OR YIL053W)	http://identifiers.org/kegg.reaction/R00841
+r_0490	YIL155C	http://identifiers.org/kegg.reaction/R00848
+r_0491	(YOL059W OR YDL022W)	http://identifiers.org/kegg.reaction/R00842,http://identifiers.org/pubmed/8196651
+r_0492	YOL059W	http://identifiers.org/kegg.reaction/R00842
+r_0497	YPL110C	http://identifiers.org/kegg.reaction/R01030,http://identifiers.org/pubmed/16141200
+r_0499	YDR408C	http://identifiers.org/kegg.reaction/R04325
+r_0500		http://identifiers.org/kegg.reaction/R00371,http://identifiers.org/pubmed/3086094
+r_0501	(YMR189W AND YFL018C AND YDR019C AND YAL044C)	NA
+r_0502	YLR058C	http://identifiers.org/kegg.reaction/R00945,http://identifiers.org/pubmed/8852837
+r_0503	YBR263W	http://identifiers.org/kegg.reaction/R00945,http://identifiers.org/pubmed/22672422,http://identifiers.org/pubmed/8852837
+r_0504	(YMR189W AND YFL018C AND YDR019C AND YAL044C)	NA
+r_0505	((YDR019C AND YAL044C AND YMR189W AND YFL018C) OR (YIL125W AND YDR148C AND YFL018C))	http://identifiers.org/kegg.reaction/R01698
+r_0506	(YMR189W AND YFL018C AND YDR019C AND YAL044C)	http://identifiers.org/kegg.reaction/R03425
+r_0507	(YMR189W AND YFL018C AND YDR019C AND YAL044C)	NA
+r_0508	(YMR189W AND YFL018C AND YDR019C AND YAL044C)	http://identifiers.org/kegg.reaction/R03815
+r_0509	(YMR189W AND YFL018C AND YDR019C AND YAL044C)	NA
+r_0510	((YKR058W AND YFR015C) OR (YJL137C AND YFR015C) OR (YLR258W AND YKR058W) OR (YLR258W AND YJL137C))	http://identifiers.org/pubmed/8900126
+r_0511	YPR160W	NA
+r_0512	(YPR081C OR YBR121C)	http://identifiers.org/kegg.reaction/R03654,http://identifiers.org/pubmed/10874035
+r_0514	YMR217W	http://identifiers.org/kegg.reaction/R01231
+r_0515	YDR400W	http://identifiers.org/kegg.reaction/R01677
+r_0518	YMR281W	http://identifiers.org/kegg.reaction/R03482,http://identifiers.org/pubmed/10085243
+r_0519	(YJR013W AND YCL052C)	http://identifiers.org/pubmed/11102867
+r_0520	YKL165C	http://identifiers.org/pubmed/11102867
+r_0521	YBR004C	http://identifiers.org/pubmed/15623507
+r_0522	YGL142C	http://identifiers.org/pubmed/11102867
+r_0523	(YDR302W OR YLL031C)	http://identifiers.org/pubmed/10793139
+r_0524	YGR267C	http://identifiers.org/kegg.reaction/R00424
+r_0525	YBL033C	http://identifiers.org/kegg.reaction/R00425
+r_0526	YDL238C	http://identifiers.org/pubmed/15565584
+r_0527	YDR399W	http://identifiers.org/kegg.reaction/R01229
+r_0528	YDR454C	http://identifiers.org/kegg.reaction/R00332
+r_0529	YDR454C	NA
+r_0530	(YPL252C AND YDR376W AND YER141W)	http://identifiers.org/pubmed/11788607
+r_0531	YPL172C	http://identifiers.org/kegg.reaction/R07411,http://identifiers.org/pubmed/11788607
+r_0532	(YOR125C AND YOL096C AND YML110C AND YGL119W AND YGR255C AND YDR204W AND YLR201C)	NA
+r_0533	(YGL253W OR YFR053C)	http://identifiers.org/kegg.reaction/R00760
+r_0534	(YGL253W OR YFR053C OR YCL040W)	http://identifiers.org/kegg.reaction/R00299,http://identifiers.org/pubmed/6394965
+r_0535	(YGL253W OR YFR053C)	http://identifiers.org/kegg.reaction/R01326
+r_0536	YCL030C	http://identifiers.org/kegg.reaction/R01158
+r_0537	YFR025C	http://identifiers.org/kegg.reaction/R03013
+r_0538	YIL116W	http://identifiers.org/kegg.reaction/R03243
+r_0539	YPR033C	http://identifiers.org/kegg.reaction/R03655,http://identifiers.org/pubmed/1459448
+r_0540	YPR033C	http://identifiers.org/kegg.reaction/R03655,http://identifiers.org/pubmed/1459448
+r_0541	YBR034C	http://identifiers.org/kegg.reaction/R01159,http://identifiers.org/pubmed/8647869
+r_0542	YDR234W	http://identifiers.org/kegg.reaction/R04371,http://identifiers.org/pubmed/2507177
+r_0543	(YDL131W OR YDL182W)	http://identifiers.org/kegg.reaction/R00271
+r_0544	(YPL273W OR YLL062C)	http://identifiers.org/kegg.reaction/R00650,http://identifiers.org/pubmed/11013242
+r_0545	YIL094C	http://identifiers.org/pubmed/10714900
+r_0547	YJR139C	http://identifiers.org/kegg.reaction/R01775,http://identifiers.org/pubmed/8500624
+r_0548	YHR025W	http://identifiers.org/kegg.reaction/R01771,http://identifiers.org/pubmed/8973190
+r_0549	YNL277W	http://identifiers.org/kegg.reaction/R01776,http://identifiers.org/pubmed/16232856
+r_0550	((YDR453C AND YGR209C) OR (YLR043C AND YDR453C))	http://identifiers.org/pubmed/15210711
+r_0551	(YBL064C AND YCR083W)	http://identifiers.org/pubmed/10821871
+r_0552	((YGR209C AND YLR109W) OR (YLR043C AND YLR109W))	http://identifiers.org/pubmed/14640681
+r_0553	YDR272W	http://identifiers.org/kegg.reaction/R01736
+r_0554	YOR040W	http://identifiers.org/kegg.reaction/R01736
+r_0555	YNR041C	http://identifiers.org/kegg.reaction/R05616
+r_0556	YPL214C	http://identifiers.org/kegg.reaction/R04448
+r_0557	YDL205C	NA
+r_0558	(YLR450W OR YML075C)	http://identifiers.org/kegg.reaction/R02082
+r_0559	YML126C	http://identifiers.org/kegg.reaction/R01978
+r_0560	YML126C	http://identifiers.org/kegg.reaction/R01978
+r_0561	(YPL258C OR YPR121W OR YOL055C)	http://identifiers.org/kegg.reaction/R03471
+r_0562	YDR399W	http://identifiers.org/kegg.reaction/R01132
+r_0563	YBR248C	http://identifiers.org/kegg.reaction/R04558
+r_0564	YOR202W	http://identifiers.org/kegg.reaction/R03457
+r_0565	(YLR432W OR YHR216W OR YML056C)	http://identifiers.org/kegg.reaction/R01130,http://identifiers.org/pubmed/11003640
+r_0566	YKL211C	http://identifiers.org/kegg.reaction/R03508,http://identifiers.org/pubmed/6323449
+r_0567	(YLR134W OR YGR087C OR YLR044C)	http://identifiers.org/kegg.reaction/R01974,http://identifiers.org/pubmed/12902239
+r_0568	YBR011C	http://identifiers.org/pubmed/8224193
+r_0569	YMR267W	http://identifiers.org/pubmed/1648084
+r_0570	(YMR120C OR YLR028C)	http://identifiers.org/kegg.reaction/R01127
+r_0571	YDR315C	http://identifiers.org/kegg.reaction/R05202,http://identifiers.org/pubmed/10960485
+r_0572	YDR173C	http://identifiers.org/pubmed/11956213
+r_0573	YDR173C	http://identifiers.org/kegg.reaction/R05801,http://identifiers.org/pubmed/11956213
+r_0574	YDR173C	http://identifiers.org/kegg.reaction/R05800,http://identifiers.org/pubmed/11956213
+r_0575	YDR173C	http://identifiers.org/kegg.reaction/R03433,http://identifiers.org/pubmed/11956213
+r_0596	YER019W	http://identifiers.org/pubmed/11006294,http://identifiers.org/pubmed/18296751
+r_0597	YER019W	http://identifiers.org/pubmed/11006294,http://identifiers.org/pubmed/18296751
+r_0598	YER019W	http://identifiers.org/pubmed/11006294,http://identifiers.org/pubmed/18296751
+r_0599	YER019W	http://identifiers.org/pubmed/11006294,http://identifiers.org/pubmed/18296751
+r_0600	YER019W	http://identifiers.org/pubmed/11006294,http://identifiers.org/pubmed/18296751
+r_0601	YER019W	http://identifiers.org/pubmed/11006294,http://identifiers.org/pubmed/18296751
+r_0602	YER019W	http://identifiers.org/pubmed/11006294,http://identifiers.org/pubmed/18296751
+r_0603	YER019W	http://identifiers.org/pubmed/11006294,http://identifiers.org/pubmed/18296751
+r_0604	YER019W	http://identifiers.org/pubmed/11006294,http://identifiers.org/pubmed/18296751
+r_0605	YER019W	http://identifiers.org/pubmed/11006294,http://identifiers.org/pubmed/18296751
+r_0606	YER019W	http://identifiers.org/pubmed/11006294,http://identifiers.org/pubmed/18296751
+r_0607	YER019W	http://identifiers.org/pubmed/11006294,http://identifiers.org/pubmed/18296751
+r_0608	YER019W	http://identifiers.org/pubmed/11006294,http://identifiers.org/pubmed/18296751
+r_0609	YER019W	http://identifiers.org/pubmed/11006294,http://identifiers.org/pubmed/18296751
+r_0610	YER019W	http://identifiers.org/pubmed/11006294,http://identifiers.org/pubmed/18296751
+r_0611	YER019W	http://identifiers.org/pubmed/11006294,http://identifiers.org/pubmed/18296751
+r_0612	YER019W	http://identifiers.org/pubmed/11006294,http://identifiers.org/pubmed/18296751
+r_0613	YER019W	http://identifiers.org/pubmed/11006294,http://identifiers.org/pubmed/18296751
+r_0614	YER019W	http://identifiers.org/pubmed/11006294,http://identifiers.org/pubmed/18296751
+r_0615	YER019W	http://identifiers.org/pubmed/11006294,http://identifiers.org/pubmed/18296751
+r_0616	YER019W	http://identifiers.org/pubmed/17880915,http://identifiers.org/pubmed/18296751
+r_0617	YER019W	http://identifiers.org/pubmed/17880915,http://identifiers.org/pubmed/18296751
+r_0618	YER019W	http://identifiers.org/pubmed/17880915,http://identifiers.org/pubmed/18296751
+r_0619	YER019W	http://identifiers.org/pubmed/17880915,http://identifiers.org/pubmed/18296751
+r_0620	YER019W	http://identifiers.org/pubmed/17880915,http://identifiers.org/pubmed/18296751
+r_0621	YER019W	http://identifiers.org/pubmed/17880915,http://identifiers.org/pubmed/18296751
+r_0622	YER019W	http://identifiers.org/pubmed/17880915,http://identifiers.org/pubmed/18296751
+r_0623	YER019W	http://identifiers.org/pubmed/17880915,http://identifiers.org/pubmed/18296751
+r_0624	YER019W	http://identifiers.org/pubmed/17880915,http://identifiers.org/pubmed/18296751
+r_0625	YER019W	http://identifiers.org/pubmed/17880915,http://identifiers.org/pubmed/18296751
+r_0626	YER019W	http://identifiers.org/pubmed/17880915,http://identifiers.org/pubmed/18296751
+r_0627	YER019W	http://identifiers.org/pubmed/17880915,http://identifiers.org/pubmed/18296751
+r_0628	YER019W	http://identifiers.org/pubmed/17880915,http://identifiers.org/pubmed/18296751
+r_0629	YER019W	http://identifiers.org/pubmed/17880915,http://identifiers.org/pubmed/18296751
+r_0630	YER019W	http://identifiers.org/pubmed/17880915,http://identifiers.org/pubmed/18296751
+r_0631	YER019W	http://identifiers.org/pubmed/17880915,http://identifiers.org/pubmed/18296751
+r_0632	YER019W	http://identifiers.org/pubmed/17880915,http://identifiers.org/pubmed/18296751
+r_0633	YER019W	http://identifiers.org/pubmed/17880915,http://identifiers.org/pubmed/18296751
+r_0634	YER019W	http://identifiers.org/pubmed/17880915,http://identifiers.org/pubmed/18296751
+r_0635	YER019W	http://identifiers.org/pubmed/17880915,http://identifiers.org/pubmed/18296751
+r_0636	YER019W	http://identifiers.org/pubmed/17880915,http://identifiers.org/pubmed/18296751
+r_0637	YER019W	http://identifiers.org/pubmed/17880915,http://identifiers.org/pubmed/18296751
+r_0638	YER019W	http://identifiers.org/pubmed/17880915,http://identifiers.org/pubmed/18296751
+r_0639	YER019W	http://identifiers.org/pubmed/17880915,http://identifiers.org/pubmed/18296751
+r_0640	YER019W	http://identifiers.org/pubmed/17880915,http://identifiers.org/pubmed/18296751
+r_0641	YER019W	http://identifiers.org/pubmed/17880915,http://identifiers.org/pubmed/18296751
+r_0642	YER019W	http://identifiers.org/pubmed/17880915,http://identifiers.org/pubmed/18296751
+r_0643	YER019W	http://identifiers.org/pubmed/17880915,http://identifiers.org/pubmed/18296751
+r_0644	YER019W	http://identifiers.org/pubmed/17880915,http://identifiers.org/pubmed/18296751
+r_0645	YER019W	http://identifiers.org/pubmed/17880915,http://identifiers.org/pubmed/18296751
+r_0646	YER019W	http://identifiers.org/pubmed/11006294,http://identifiers.org/pubmed/18296751
+r_0647	YER019W	http://identifiers.org/pubmed/11006294,http://identifiers.org/pubmed/18296751
+r_0648	YER019W	http://identifiers.org/pubmed/11006294,http://identifiers.org/pubmed/18296751
+r_0649	YER019W	http://identifiers.org/pubmed/11006294,http://identifiers.org/pubmed/18296751
+r_0650	YER019W	http://identifiers.org/pubmed/11006294,http://identifiers.org/pubmed/18296751
+r_0651	YER019W	http://identifiers.org/pubmed/11006294,http://identifiers.org/pubmed/18296751
+r_0652	YER019W	http://identifiers.org/pubmed/11006294,http://identifiers.org/pubmed/18296751
+r_0653	YER019W	http://identifiers.org/pubmed/11006294,http://identifiers.org/pubmed/18296751
+r_0654	YER019W	http://identifiers.org/pubmed/11006294,http://identifiers.org/pubmed/18296751
+r_0655	YER019W	http://identifiers.org/pubmed/11006294,http://identifiers.org/pubmed/18296751
+r_0656	YOR126C	http://identifiers.org/pubmed/10855721
+r_0657	YOR126C	http://identifiers.org/pubmed/10855721
+r_0658	(YOR136W AND YNL037C)	http://identifiers.org/kegg.reaction/R00709,http://identifiers.org/pubmed/1644826
+r_0659	YLR174W	http://identifiers.org/pubmed/9175438
+r_0661	YNL009W	http://identifiers.org/kegg.reaction/R00267,http://identifiers.org/pubmed/9175438
+r_0662	YER065C	http://identifiers.org/kegg.reaction/R00479
+r_0663	YJR148W	http://identifiers.org/kegg.reaction/R02199,http://identifiers.org/pubmed/8798704
+r_0664	YHR208W	http://identifiers.org/kegg.reaction/R02199,http://identifiers.org/pubmed/8798704
+r_0665	YBL076C	http://identifiers.org/kegg.reaction/R03656,http://identifiers.org/pubmed/7619074
+r_0666	YPL040C	http://identifiers.org/kegg.reaction/R03656,http://identifiers.org/pubmed/7607232
+r_0667	YPL117C	http://identifiers.org/kegg.reaction/R01123
+r_0668	(YGR244C AND YOR142W)	http://identifiers.org/kegg.reaction/R02404,http://identifiers.org/pubmed/9874242
+r_0669	YLR355C	http://identifiers.org/pubmed/3027658
+r_0670	YLR231C	http://identifiers.org/kegg.reaction/R00987,http://identifiers.org/pubmed/12062417
+r_0671	YBL098W	http://identifiers.org/kegg.reaction/R01960,http://identifiers.org/pubmed/12062417
+r_0672	YHR037W	http://identifiers.org/kegg.reaction/R04444
+r_0673	YHR037W	http://identifiers.org/kegg.reaction/R05051
+r_0674	YLR089C	http://identifiers.org/kegg.reaction/R00258
+r_0675	YEL046C	http://identifiers.org/kegg.reaction/R06171,http://identifiers.org/pubmed/9151955
+r_0676	YMR226C	http://identifiers.org/pubmed/12535615
+r_0678	(YBR115C AND YGL154C)	http://identifiers.org/pubmed/3928261
+r_0679	YDR321W	http://identifiers.org/pubmed/8026756
+r_0680	(YLR160C OR YLR155C OR YLR158C OR YLR157C)	http://identifiers.org/pubmed/3042786
+r_0681	YLR027C	NA
+r_0682	YKL106W	NA
+r_0683	YLR027C	NA
+r_0687	YER023W	http://identifiers.org/kegg.reaction/R03293
+r_0688	(YHR104W OR YOL151W)	http://identifiers.org/kegg.reaction/R02260,http://identifiers.org/pubmed/12722185
+r_0689	YCL064C	http://identifiers.org/pubmed/2194168
+r_0690	YMR226C	http://identifiers.org/kegg.reaction/R06126,http://identifiers.org/pubmed/12535615
+r_0691	YJR159W	NA
+r_0692	YCL064C	http://identifiers.org/pubmed/1628804
+r_0693	YER086W	http://identifiers.org/pubmed/3289762
+r_0694	YJR078W	http://identifiers.org/kegg.reaction/R00678,http://identifiers.org/pubmed/12062417
+r_0695	YDR403W	http://identifiers.org/pubmed/8706696
+r_0696		http://identifiers.org/kegg.reaction/R01446,http://identifiers.org/pubmed/3908097
+r_0697	YML004C	http://identifiers.org/kegg.reaction/R02530
+r_0698	YHR072W	http://identifiers.org/kegg.reaction/R03199
+r_0699	YJR148W	http://identifiers.org/kegg.reaction/R01090,http://identifiers.org/pubmed/9748245
+r_0700	YHR208W	http://identifiers.org/kegg.reaction/R01090,http://identifiers.org/pubmed/8798704
+r_0701	YPL160W	http://identifiers.org/kegg.reaction/R03657,http://identifiers.org/pubmed/9742237
+r_0702	YLR382C	http://identifiers.org/kegg.reaction/R03657,http://identifiers.org/pubmed/1990003
+r_0703	YNL045W	http://identifiers.org/pubmed/11601994
+r_0704	YNL045W	http://identifiers.org/pubmed/11601994
+r_0705	YNL045W	http://identifiers.org/pubmed/11601994
+r_0706	YNL045W	http://identifiers.org/pubmed/11601994
+r_0707	YNL045W	http://identifiers.org/kegg.reaction/R03057,http://identifiers.org/pubmed/11601994
+r_0708	YNL045W	http://identifiers.org/kegg.reaction/R03057,http://identifiers.org/pubmed/11601994
+r_0711	YDR037W	http://identifiers.org/kegg.reaction/R03658,http://identifiers.org/pubmed/2903861
+r_0712	YNL073W	http://identifiers.org/kegg.reaction/R03658,http://identifiers.org/pubmed/2016746
+r_0713	YKL085W	http://identifiers.org/kegg.reaction/R00342,http://identifiers.org/pubmed/9175438
+r_0714	YOL126C	http://identifiers.org/kegg.reaction/R00342,http://identifiers.org/pubmed/11914276
+r_0715	YDL078C	http://identifiers.org/kegg.reaction/R00342,http://identifiers.org/pubmed/9175438
+r_0716	(YNL117W OR YIR031C)	http://identifiers.org/kegg.reaction/R00472
+r_0717	YNL117W	http://identifiers.org/kegg.reaction/R00472,http://identifiers.org/pubmed/11846793
+r_0718	YKL029C	http://identifiers.org/kegg.reaction/R00214
+r_0721	(YOR221C AND YKL192C)	http://identifiers.org/kegg.reaction/R01626,http://identifiers.org/pubmed/15387819
+r_0722	YDL055C	http://identifiers.org/kegg.reaction/R00885
+r_0723	YER003C	http://identifiers.org/kegg.reaction/R00772
+r_0724	YBR084W	http://identifiers.org/kegg.reaction/R01655
+r_0725	YGR204W	http://identifiers.org/kegg.reaction/R01655
+r_0726	(YLR180W OR YDR502C)	http://identifiers.org/kegg.reaction/R00177,http://identifiers.org/pubmed/194884
+r_0727	YER091C	http://identifiers.org/kegg.reaction/R00946,http://identifiers.org/pubmed/16083849
+r_0728	YBL013W	http://identifiers.org/kegg.reaction/R03940
+r_0729	YGR264C	http://identifiers.org/kegg.reaction/R03659,http://identifiers.org/pubmed/6304034
+r_0730	YGR171C	http://identifiers.org/kegg.reaction/R03659,http://identifiers.org/pubmed/2645139
+r_0731	YKR080W	http://identifiers.org/kegg.reaction/R01218
+r_0732	YGR204W	http://identifiers.org/kegg.reaction/R01220
+r_0733	YBR084W	http://identifiers.org/kegg.reaction/R01220,http://identifiers.org/pubmed/10871621,http://identifiers.org/pubmed/1916088,http://identifiers.org/pubmed/8852837
+r_0734	YPR006C	http://identifiers.org/kegg.reaction/R00409,http://identifiers.org/pubmed/16332871
+r_0735	YMR208W	http://identifiers.org/kegg.reaction/R02245
+r_0736	YMR208W	NA
+r_0737	YMR208W	NA
+r_0738	YMR208W	NA
+r_0739	YNR043W	http://identifiers.org/kegg.reaction/R01121
+r_0747	((YBR161W AND YBR036C) OR (YPL057C AND YBR036C))	http://identifiers.org/pubmed/12954640,http://identifiers.org/pubmed/18296751
+r_0748	((YBR161W AND YBR036C) OR (YPL057C AND YBR036C))	http://identifiers.org/pubmed/12954640,http://identifiers.org/pubmed/18296751
+r_0749	((YBR161W AND YBR036C) OR (YPL057C AND YBR036C))	http://identifiers.org/pubmed/12954640,http://identifiers.org/pubmed/18296751
+r_0750	((YBR161W AND YBR036C) OR (YPL057C AND YBR036C))	http://identifiers.org/pubmed/12954640,http://identifiers.org/pubmed/18296751
+r_0751	((YBR161W AND YBR036C) OR (YPL057C AND YBR036C))	http://identifiers.org/pubmed/12954640,http://identifiers.org/pubmed/18296751
+r_0752	((YBR161W AND YBR036C) OR (YPL057C AND YBR036C))	http://identifiers.org/pubmed/12954640,http://identifiers.org/pubmed/18296751
+r_0753	((YBR161W AND YBR036C) OR (YPL057C AND YBR036C))	http://identifiers.org/pubmed/12954640,http://identifiers.org/pubmed/18296751
+r_0754	((YBR161W AND YBR036C) OR (YPL057C AND YBR036C))	http://identifiers.org/pubmed/12954640,http://identifiers.org/pubmed/18296751
+r_0755	((YBR161W AND YBR036C) OR (YPL057C AND YBR036C))	http://identifiers.org/pubmed/12954640,http://identifiers.org/pubmed/18296751
+r_0756	((YBR161W AND YBR036C) OR (YPL057C AND YBR036C))	http://identifiers.org/pubmed/12954640,http://identifiers.org/pubmed/18296751
+r_0757	(YHR046C OR YDR287W)	http://identifiers.org/kegg.reaction/R01185,http://identifiers.org/pubmed/10844654
+r_0758	YJL153C	NA
+r_0759	YER069W	http://identifiers.org/kegg.reaction/R03443
+r_0760	YFL017C	http://identifiers.org/kegg.reaction/R02058,http://identifiers.org/pubmed/9867860
+r_0761	(YMR062C OR YJL071W)	http://identifiers.org/kegg.reaction/R00259
+r_0762	YDR428C	http://identifiers.org/kegg.reaction/R01959,http://identifiers.org/pubmed/18205391
+r_0763	(YDR402C AND YDR403W)	http://identifiers.org/pubmed/8706696
+r_0764	YGL067W	NA
+r_0765	(YJR049C OR YEL041W)	http://identifiers.org/kegg.reaction/R00104,http://identifiers.org/pubmed/15978040
+r_0766	(YJR049C OR YEL041W OR YPL188W)	http://identifiers.org/kegg.reaction/R00104,http://identifiers.org/pubmed/15978040
+r_0767	(YPL015C OR YOL068C OR YDL042C OR YDR191W OR YOR025W)	http://identifiers.org/kegg.reaction/R00102,http://identifiers.org/pubmed/17482543
+r_0768	YHR074W	http://identifiers.org/pubmed/12771147
+r_0769	YHR074W	http://identifiers.org/pubmed/12771147
+r_0770	(YMR145C OR YDL085W)	http://identifiers.org/pubmed/9733747
+r_0771	(YJR049C OR YEL041W)	http://identifiers.org/kegg.reaction/R00105,http://identifiers.org/pubmed/15978040
+r_0772	(YJR049C OR YEL041W OR YPL188W)	http://identifiers.org/kegg.reaction/R00105,http://identifiers.org/pubmed/15978040
+r_0773	YML120C	NA
+r_0774	YOR209C	http://identifiers.org/kegg.reaction/R01724
+r_0775	YOR209C	http://identifiers.org/kegg.reaction/R01724
+r_0781	YGL037C	NA
+r_0782	YLR285W	http://identifiers.org/kegg.reaction/R01269,http://identifiers.org/pubmed/12736687
+r_0783	YLR328W	http://identifiers.org/kegg.reaction/R00137,http://identifiers.org/pubmed/15078171
+r_0784	(YGR010W OR YLR328W)	http://identifiers.org/kegg.reaction/R00137,http://identifiers.org/pubmed/15078171
+r_0785	(YGR010W OR YLR328W)	http://identifiers.org/kegg.reaction/R03005,http://identifiers.org/pubmed/15078171
+r_0786	YFR047C	http://identifiers.org/kegg.reaction/R03348
+r_0787	YFR047C	http://identifiers.org/kegg.reaction/R03348
+r_0788	YER005W	http://identifiers.org/kegg.reaction/R00122,http://identifiers.org/pubmed/10409709
+r_0789	YER005W	http://identifiers.org/kegg.reaction/R00328,http://identifiers.org/pubmed/10409709
+r_0790	YER005W	http://identifiers.org/kegg.reaction/R00155,http://identifiers.org/pubmed/10409709
+r_0791	YEL042W	http://identifiers.org/kegg.reaction/R00155
+r_0792	YER005W	http://identifiers.org/kegg.reaction/R00514
+r_0793	YER005W	http://identifiers.org/kegg.reaction/R00961
+r_0795	YKL067W	http://identifiers.org/kegg.reaction/R00570
+r_0796	YKL067W	http://identifiers.org/kegg.reaction/R01137
+r_0797	YKL067W	http://identifiers.org/kegg.reaction/R02326
+r_0798	YKL067W	http://identifiers.org/kegg.reaction/R01857
+r_0799	YKL067W	http://identifiers.org/kegg.reaction/R02093
+r_0800	YKL067W	http://identifiers.org/kegg.reaction/R00330
+r_0801	YKL067W	http://identifiers.org/kegg.reaction/R00722
+r_0802	YKL067W	http://identifiers.org/kegg.reaction/R03530
+r_0803	YKL067W	http://identifiers.org/kegg.reaction/R02331
+r_0804	YER005W	http://identifiers.org/pubmed/10409709
+r_0805	YER005W	http://identifiers.org/kegg.reaction/R00159,http://identifiers.org/pubmed/10409709
+r_0806	YER005W	http://identifiers.org/kegg.reaction/R00569
+r_0807	YER005W	NA
+r_0810	YEL042W	http://identifiers.org/kegg.reaction/R00328
+r_0811	YKL067W	http://identifiers.org/kegg.reaction/R00156
+r_0812	YLR303W	http://identifiers.org/kegg.reaction/R00651,http://identifiers.org/pubmed/15042590
+r_0813	YLR303W	http://identifiers.org/kegg.reaction/R01287,http://identifiers.org/pubmed/15042590
+r_0815	YAL012W	http://identifiers.org/kegg.reaction/R03260,http://identifiers.org/pubmed/8511969
+r_0816	YJL088W	NA
+r_0817	YKL184W	NA
+r_0818	YMR062C	NA
+r_0819	YLR438W	NA
+r_0820	(YML106W OR YMR271C)	http://identifiers.org/kegg.reaction/R01870
+r_0821	YEL021W	http://identifiers.org/kegg.reaction/R00965
+r_0831	(YIL125W AND YDR148C AND YFL018C)	http://identifiers.org/pubmed/2178788
+r_0832	(YIL125W AND YDR148C AND YFL018C)	http://identifiers.org/pubmed/10224250
+r_0841	YGR277C	http://identifiers.org/kegg.reaction/R03035,http://identifiers.org/pubmed/19266201
+r_0842	YDR531W	http://identifiers.org/kegg.reaction/R03018
+r_0843	YIL145C	http://identifiers.org/kegg.reaction/R02473
+r_0844	YJR019C	http://identifiers.org/pubmed/10092594
+r_0845	YJR019C	http://identifiers.org/pubmed/10092594
+r_0847	YJR019C	http://identifiers.org/kegg.reaction/R01274,http://identifiers.org/pubmed/10092594
+r_0848	YJR019C	http://identifiers.org/pubmed/10092594
+r_0849	YJR019C	http://identifiers.org/kegg.reaction/R08174,http://identifiers.org/pubmed/10092594
+r_0850	YJR019C	http://identifiers.org/pubmed/10092594
+r_0851	YGL202W	http://identifiers.org/kegg.reaction/R00694,http://identifiers.org/pubmed/9491082,http://identifiers.org/pubmed/9491083
+r_0852	(YLR060W AND YFL022C)	http://identifiers.org/kegg.reaction/R03660,http://identifiers.org/pubmed/3049607
+r_0853	YPR047W	http://identifiers.org/kegg.reaction/R03660,http://identifiers.org/pubmed/3029120
+r_0854	YDR380W	http://identifiers.org/kegg.reaction/R01377,http://identifiers.org/pubmed/12902239
+r_0855	YGL234W	http://identifiers.org/kegg.reaction/R04208
+r_0882	YEL058W	http://identifiers.org/kegg.reaction/R08193,http://identifiers.org/pubmed/8174553
+r_0883	((YPR167C AND YGR209C) OR (YLR043C AND YPR167C))	http://identifiers.org/pubmed/2203779
+r_0884	YKR097W	http://identifiers.org/kegg.reaction/R00341
+r_0885	YGR007W	http://identifiers.org/kegg.reaction/R02038
+r_0886	(YGR240C AND YMR205C)	http://identifiers.org/kegg.reaction/R00756,http://identifiers.org/pubmed/3007939
+r_0887	(YGR240C AND YMR205C)	http://identifiers.org/kegg.reaction/R01843
+r_0888	(YMR278W OR YMR105C OR YKL127W)	http://identifiers.org/kegg.reaction/R08639,http://identifiers.org/pubmed/18042468,http://identifiers.org/pubmed/8119301
+r_0889	(YGR256W OR YHR183W)	http://identifiers.org/kegg.reaction/R01528,http://identifiers.org/pubmed/24626
+r_0890	YEL058W	http://identifiers.org/kegg.reaction/R02060,http://identifiers.org/pubmed/8174553
+r_0891	(YIL074C OR YER081W)	http://identifiers.org/kegg.reaction/R01513,http://identifiers.org/pubmed/12525494
+r_0892	YCR012W	http://identifiers.org/kegg.reaction/R01512,http://identifiers.org/pubmed/6347186
+r_0893	YKL152C	http://identifiers.org/kegg.reaction/R01518,http://identifiers.org/pubmed/3033435
+r_0902	YFL045C	http://identifiers.org/kegg.reaction/R01818
+r_0903	(YPL258C OR YPR121W OR YOL055C)	http://identifiers.org/kegg.reaction/R04509,http://identifiers.org/pubmed/10383756
+r_0904	YMR220W	http://identifiers.org/kegg.reaction/R03245
+r_0905	YIL083C	http://identifiers.org/kegg.reaction/R04231
+r_0906	(YKL088W OR (YKL088W AND YKR072C) OR (YKL088W AND YOR054C) OR (YKL088W AND YKR072C AND YOR054C))	http://identifiers.org/kegg.reaction/R03269
+r_0907	(YMR105C OR YKL127W)	NA
+r_0908	YAR015W	http://identifiers.org/kegg.reaction/R04591
+r_0909	YCL030C	http://identifiers.org/kegg.reaction/R04037,http://identifiers.org/pubmed/7049842
+r_0910	YCL030C	http://identifiers.org/kegg.reaction/R04035
+r_0911	YOR128C	http://identifiers.org/kegg.reaction/R04209
+r_0912	(YMR120C OR YLR028C)	http://identifiers.org/kegg.reaction/R04560
+r_0913	YDR007W	http://identifiers.org/kegg.reaction/R03509,http://identifiers.org/pubmed/348687
+r_0914	YGL234W	http://identifiers.org/kegg.reaction/R04144
+r_0915	YMR300C	http://identifiers.org/kegg.reaction/R01072
+r_0916	((YHL011C AND YKL181W) OR (YOL061W AND YBL068W) OR (YOL061W AND YER099C))	http://identifiers.org/pubmed/10212224
+r_0917	YGR208W	http://identifiers.org/kegg.reaction/R00582,http://identifiers.org/pubmed/1326413
+r_0918	YOR184W	http://identifiers.org/kegg.reaction/R04173,http://identifiers.org/pubmed/8017107
+r_0919	YBR183W	http://identifiers.org/pubmed/10702247,http://identifiers.org/pubmed/18296751
+r_0920	YDR402C	http://identifiers.org/kegg.reaction/R06527
+r_0921	YDR294C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9334171
+r_0922	YDR297W	http://identifiers.org/kegg.reaction/R06525,http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368039
+r_0929	YMR020W	http://identifiers.org/pubmed/12670477
+r_0935	YGL040C	http://identifiers.org/kegg.reaction/R00036
+r_0936	YMR020W	http://identifiers.org/pubmed/12670477
+r_0937	YMR020W	http://identifiers.org/pubmed/12670477
+r_0938	YNL316C	http://identifiers.org/kegg.reaction/R01373,http://identifiers.org/pubmed/7502583
+r_0939	YBR166C	http://identifiers.org/kegg.reaction/R01730,http://identifiers.org/pubmed/2697638
+r_0940	YLR142W	NA
+r_0941	YHR020W	http://identifiers.org/kegg.reaction/R03661
+r_0942	YER014W	http://identifiers.org/kegg.reaction/R03222
+r_0943	(YDR400W AND YLR209C AND YLR017W)	http://identifiers.org/pubmed/17482543
+r_0944	YLR209C	NA
+r_0945	YLR209C	NA
+r_0946	YLR209C	http://identifiers.org/kegg.reaction/R02557
+r_0947	YLR209C	http://identifiers.org/kegg.reaction/R01969
+r_0948	YLR209C	http://identifiers.org/kegg.reaction/R02748
+r_0949	YLR209C	NA
+r_0950	YLR209C	NA
+r_0951	YLR209C	NA
+r_0952	YLR209C	NA
+r_0953	YBR035C	NA
+r_0954	YBR035C	NA
+r_0955	YBR035C	http://identifiers.org/kegg.reaction/R00278
+r_0956	YBR035C	http://identifiers.org/kegg.reaction/R01711
+r_0957	YER023W	NA
+r_0958	(YBR218C OR YGL062W)	http://identifiers.org/kegg.reaction/R00344
+r_0959	(YLR134W OR YGR087C OR YLR044C)	http://identifiers.org/kegg.reaction/R00224
+r_0960	(YLR134W OR YGR087C OR YLR044C)	http://identifiers.org/pubmed/12902239
+r_0961	(YBR221C AND YER178W AND YFL018C AND YGR193C AND YNL071W)	http://identifiers.org/kegg.reaction/R00209,http://identifiers.org/pubmed/8433986
+r_0962	(YOR347C OR YAL038W)	http://identifiers.org/kegg.reaction/R00200,http://identifiers.org/pubmed/6185493
+r_0963	(YOR125C AND YOL096C AND YML110C AND YGL119W AND YGR255C AND YDR204W AND YLR201C)	NA
+r_0964	YDR135C	http://identifiers.org/pubmed/9729482
+r_0965	YDR236C	http://identifiers.org/kegg.reaction/R00549
+r_0966	YDR236C	http://identifiers.org/kegg.reaction/R00549
+r_0967	YOL143C	http://identifiers.org/kegg.reaction/R04457
+r_0968	YBR256C	http://identifiers.org/kegg.reaction/R00066
+r_0969	YCR036W	http://identifiers.org/pubmed/1964349
+r_0970	YGR209C	http://identifiers.org/kegg.reaction/R02014
+r_0971	YGR209C	http://identifiers.org/kegg.reaction/R02022
+r_0972	YGR209C	http://identifiers.org/kegg.reaction/R02020
+r_0973	YGR209C	http://identifiers.org/kegg.reaction/R02023
+r_0974	(YER070W OR YGR180C OR YJL026W OR YIL066C)	http://identifiers.org/kegg.reaction/R02017
+r_0975	(YER070W OR YGR180C OR YJL026W OR YIL066C)	http://identifiers.org/kegg.reaction/R02017
+r_0976	(YER070W OR YGR180C OR YJL026W OR YIL066C)	http://identifiers.org/kegg.reaction/R02024
+r_0977	(YER070W OR YGR180C OR YJL026W OR YIL066C)	http://identifiers.org/kegg.reaction/R02024
+r_0978	(YER070W OR YGR180C OR YJL026W OR YIL066C)	http://identifiers.org/kegg.reaction/R02019
+r_0979	(YER070W OR YGR180C OR YJL026W OR YIL066C)	http://identifiers.org/kegg.reaction/R02019
+r_0982	YOR095C	http://identifiers.org/pubmed/9763699
+r_0983	YNL129W	http://identifiers.org/kegg.reaction/R02324,http://identifiers.org/pubmed/15137942
+r_0984	YJL121C	http://identifiers.org/kegg.reaction/R01529,http://identifiers.org/pubmed/9032985
+r_0985	(YOR125C AND YOL096C AND YML110C AND YGL119W AND YGR255C AND YDR204W AND YLR201C)	http://identifiers.org/kegg.reaction/R04711,http://identifiers.org/pubmed/15792955
+r_0986	YML008C	http://identifiers.org/kegg.reaction/R04427
+r_0987	YJL068C	http://identifiers.org/kegg.reaction/R00527
+r_0988	YIR034C	http://identifiers.org/kegg.reaction/R00715,http://identifiers.org/pubmed/3928261
+r_0989	YNR050C	http://identifiers.org/kegg.reaction/R02315,http://identifiers.org/pubmed/3123231
+r_0990	YKL060C	http://identifiers.org/kegg.reaction/R01829
+r_0992		http://identifiers.org/kegg.reaction/R00586,http://identifiers.org/pubmed/8335636
+r_0993	((YBR058C-A AND YDR062W AND YMR296C) OR (YDR062W AND YMR296C))	http://identifiers.org/kegg.reaction/R01281,http://identifiers.org/pubmed/10713067,http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/2066332,http://identifiers.org/pubmed/8058731
+r_0995	(YHR011W OR YDR023W)	http://identifiers.org/kegg.reaction/R03662,http://identifiers.org/pubmed/3031581
+r_0996	YDR127W	http://identifiers.org/kegg.reaction/R02413,http://identifiers.org/pubmed/6355828
+r_0997	YDR127W	http://identifiers.org/kegg.reaction/R02412,http://identifiers.org/pubmed/6355828
+r_0998	YBR213W	http://identifiers.org/pubmed/11980703
+r_0999	YBR213W	http://identifiers.org/kegg.reaction/R02864,http://identifiers.org/pubmed/11980703
+r_1001	YPR069C	http://identifiers.org/kegg.reaction/R01920
+r_1002	YLR146C	http://identifiers.org/kegg.reaction/R02869
+r_1003	YDR294C	http://identifiers.org/kegg.reaction/R02464,http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9334171
+r_1004	(YKR053C OR YJL134W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9353337,http://identifiers.org/pubmed/9419344
+r_1005	(YKR053C OR YJL134W)	http://identifiers.org/kegg.reaction/R06520,http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9353337,http://identifiers.org/pubmed/9419344
+r_1006	(YOR171C OR YLR260W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9677363
+r_1007	(YOR171C OR YLR260W)	http://identifiers.org/kegg.reaction/R02976,http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9677363
+r_1008		http://identifiers.org/kegg.reaction/R02244,http://identifiers.org/pubmed/11329290
+r_1009		http://identifiers.org/kegg.reaction/R02244,http://identifiers.org/pubmed/11329290
+r_1010	YGR175C	http://identifiers.org/pubmed/10622712
+r_1011	YGR175C	http://identifiers.org/kegg.reaction/R02874,http://identifiers.org/pubmed/10622712
+r_1012	YHR190W	http://identifiers.org/kegg.reaction/R06223
+r_1021	((YKL141W AND YDR178W AND YLL041C AND YKL148C) OR (YKL141W AND YDR178W AND YJL045W AND YLL041C))	http://identifiers.org/pubmed/9929002
+r_1022	(YGR244C AND YOR142W)	http://identifiers.org/kegg.reaction/R00405,http://identifiers.org/pubmed/9874242
+r_1023	YBR006W	http://identifiers.org/kegg.reaction/R00714,http://identifiers.org/pubmed/11031268
+r_1024	YIL162W	http://identifiers.org/kegg.reaction/R00801
+r_1025	YJR010W	http://identifiers.org/kegg.reaction/R00529,http://identifiers.org/pubmed/197388
+r_1026	YCL050C	http://identifiers.org/kegg.reaction/R00530,http://identifiers.org/pubmed/2556364
+r_1027	(YJR137C AND YFR030W)	NA
+r_1028	YLL048C	http://identifiers.org/pubmed/9182565
+r_1029	YLL057C	http://identifiers.org/pubmed/10482536
+r_1030	(YAL044C AND YDR019C AND YFL018C AND YMR189W)	NA
+r_1031	(YOR241W OR YKL132C)	http://identifiers.org/kegg.reaction/R00942,http://identifiers.org/pubmed/10799479,http://identifiers.org/pubmed/21190580
+r_1032	YBR092C	NA
+r_1033	YBR092C	http://identifiers.org/kegg.reaction/R02135
+r_1034	YOR143C	http://identifiers.org/kegg.reaction/R00619
+r_1035	YOR143C	http://identifiers.org/kegg.reaction/R00616
+r_1036	YPL214C	http://identifiers.org/kegg.reaction/R03223
+r_1037	((YIL010W AND YGR209C) OR (YLR043C AND YIL010W))	http://identifiers.org/pubmed/12730197
+r_1038	(YDR353W OR (YDR353W AND YGR209C) OR (YDR353W AND YLR043C))	http://identifiers.org/kegg.reaction/R02016
+r_1039	((YPL091W AND YCR083W) OR (YHR106W AND YCR083W))	http://identifiers.org/kegg.reaction/R02016,http://identifiers.org/pubmed/15701801
+r_1040	YEL046C	http://identifiers.org/kegg.reaction/R00751,http://identifiers.org/pubmed/9151955
+r_1041	YCR053W	http://identifiers.org/kegg.reaction/R01466,http://identifiers.org/pubmed/8082795
+r_1042	YIL078W	http://identifiers.org/kegg.reaction/R03663,http://identifiers.org/pubmed/2995918
+r_1043	YKL194C	http://identifiers.org/kegg.reaction/R03663,http://identifiers.org/pubmed/2999113
+r_1044	YLR209C	http://identifiers.org/kegg.reaction/R01570
+r_1045	YOR074C	http://identifiers.org/kegg.reaction/R02101
+r_1046	YER175C	http://identifiers.org/kegg.reaction/R05763,http://identifiers.org/pubmed/15147181
+r_1047	YBR003W	http://identifiers.org/kegg.reaction/R05613,http://identifiers.org/pubmed/2198286
+r_1048	YLR354C	http://identifiers.org/pubmed/8300619
+r_1049	(YPR074C OR YBR117C)	http://identifiers.org/pubmed/8268320
+r_1050	(YPR074C OR YBR117C)	NA
+r_1051	((YBR126C AND YDR074W AND YMR261C) OR (YML100W AND YBR126C AND YDR074W))	http://identifiers.org/kegg.reaction/R02778,http://identifiers.org/pubmed/21623372
+r_1054	YDR050C	http://identifiers.org/pubmed/6759603
+r_1055	YGL026C	http://identifiers.org/pubmed/6342605
+r_1056	YGL202W	http://identifiers.org/kegg.reaction/R00684,http://identifiers.org/pubmed/9491082,http://identifiers.org/pubmed/9491083
+r_1057	YOL097C	http://identifiers.org/kegg.reaction/R03664,http://identifiers.org/pubmed/9046085
+r_1058	YDR268W	http://identifiers.org/kegg.reaction/R03664,http://identifiers.org/pubmed/2999114
+r_1063	YGL202W	http://identifiers.org/kegg.reaction/R00734,http://identifiers.org/pubmed/9491082,http://identifiers.org/pubmed/9491083
+r_1065	YLR027C	http://identifiers.org/kegg.reaction/R00734
+r_1066	YGR185C	http://identifiers.org/kegg.reaction/R02918,http://identifiers.org/pubmed/8509419
+r_1067	YPL097W	http://identifiers.org/kegg.reaction/R02918,http://identifiers.org/pubmed/3315228
+r_1068	YLR189C	http://identifiers.org/pubmed/10224056
+r_1069	YDL103C	http://identifiers.org/kegg.reaction/R00416,http://identifiers.org/pubmed/16408321
+r_1070	YBR019C	NA
+r_1071	YBR018C	http://identifiers.org/kegg.reaction/R00955
+r_1072	YKL024C	http://identifiers.org/kegg.reaction/R00158
+r_1073	YKL024C	http://identifiers.org/kegg.reaction/R00158
+r_1074	YHR128W	http://identifiers.org/kegg.reaction/R00966
+r_1075	YBR208C	http://identifiers.org/kegg.reaction/R00774
+r_1076	YIR032C	http://identifiers.org/pubmed/1776360
+r_1077	YNR012W	http://identifiers.org/kegg.reaction/R00964
+r_1078	YNR012W	http://identifiers.org/kegg.reaction/R00968
+r_1079	YKL024C	http://identifiers.org/kegg.reaction/R02098
+r_1080	YKL024C	http://identifiers.org/kegg.reaction/R02098
+r_1081	YDR047W	http://identifiers.org/kegg.reaction/R03197
+r_1082	YKR069W	http://identifiers.org/kegg.reaction/R03194
+r_1083	YOR278W	http://identifiers.org/kegg.reaction/R03165
+r_1084	YKL035W	http://identifiers.org/kegg.reaction/R00289,http://identifiers.org/pubmed/7588797
+r_1085	(YBR127C AND YDL185W AND YEL027W AND YEL051W AND YGR020C AND YHR026W AND YHR039C-A AND YKL080W AND YLR447C AND YMR054W AND YOR332W AND YPL234C AND YPR036W)	http://identifiers.org/pubmed/11278748,http://identifiers.org/pubmed/11836511
+r_1086	(YBR127C AND YDL185W AND YEL027W AND YEL051W AND YGR020C AND YHR026W AND YHR039C-A AND YKL080W AND YLR447C AND YOR270C AND YOR332W AND YPL234C AND YPR036W)	http://identifiers.org/pubmed/11278748,http://identifiers.org/pubmed/11836511
+r_1087	YJR148W	http://identifiers.org/kegg.reaction/R01214,http://identifiers.org/pubmed/9748245
+r_1088	YHR208W	http://identifiers.org/kegg.reaction/R01214,http://identifiers.org/pubmed/9748245
+r_1089	YGR094W	http://identifiers.org/kegg.reaction/R03665,http://identifiers.org/pubmed/3294828
+r_1090	YGR094W	http://identifiers.org/kegg.reaction/R03665,http://identifiers.org/pubmed/3294828
+r_1091	YJR133W	http://identifiers.org/kegg.reaction/R02142
+r_1092	YLR070C	http://identifiers.org/kegg.reaction/R01896
+r_1093	YHR104W	http://identifiers.org/kegg.reaction/R01431
+r_1094	YGR194C	http://identifiers.org/kegg.reaction/R01639
+r_1095	(YNL292W OR YPL212C OR YGL063W OR YFL001W)	NA
+r_1096		http://identifiers.org/pubmed/15215118
+r_1097		http://identifiers.org/pubmed/10938079
+r_1098		http://identifiers.org/pubmed/10653746
+r_1099	(YOR222W OR YPL134C)	http://identifiers.org/pubmed/16844075
+r_1100		http://identifiers.org/pubmed/11583838
+r_1101	(YOR348C OR YDL210W)	NA
+r_1102	YDL210W	NA
+r_1103		http://identifiers.org/pubmed/8573145
+r_1104	YNR056C	http://identifiers.org/pubmed/10333520
+r_1106	YCR010C	http://identifiers.org/pubmed/14968426
+r_1107		http://identifiers.org/pubmed/10653746
+r_1108	(YER056C OR YER060W OR YER060W-A OR YGL186C)	NA
+r_1109	YAL022C	http://identifiers.org/pubmed/10827169
+r_1110	(YMR056C OR YBR085W OR YBL030C)	http://identifiers.org/pubmed/22672422
+r_1111	YPR128C	NA
+r_1112	YMR241W	http://identifiers.org/pubmed/20371607
+r_1113	YJR152W	NA
+r_1114	YIR028W	NA
+r_1115	(YPR138C OR YNL142W OR YGR121C OR YDR384C)	http://identifiers.org/pubmed/12966084
+r_1116	YPR128C	NA
+r_1117	YPR021C	http://identifiers.org/pubmed/14622413
+r_1118	YPR021C	http://identifiers.org/pubmed/14622413
+r_1119	YGR065C	NA
+r_1120	YOR100C	NA
+r_1121		http://identifiers.org/pubmed/12484746
+r_1122		http://identifiers.org/pubmed/12484746
+r_1123		http://identifiers.org/pubmed/12484746
+r_1124		http://identifiers.org/pubmed/12484746
+r_1125	YGL077C	NA
+r_1126	YBR291C	NA
+r_1127	YBR291C	NA
+r_1128	YBR291C	NA
+r_1129	YHR002W	http://identifiers.org/pubmed/11158296
+r_1130	YBR192W	http://identifiers.org/pubmed/16844075
+r_1131	YBR192W	http://identifiers.org/pubmed/16194150
+r_1132	YAL022C	http://identifiers.org/pubmed/10827170
+r_1133	(YER056C OR YER060W OR YER060W-A OR YGL186C)	NA
+r_1134	(YDL245C OR YDR342C OR YDR343C OR YDR345C OR YEL069C OR YFL011W OR YHR092C OR YHR094C OR YHR096C OR YJL214W OR YJL219W OR YJR158W OR YMR011W OR YNR072W OR YOL156W)	NA
+r_1135	(YFL011W OR YOL156W OR YDR536W OR YLR081W OR YNL318C OR YJL219W)	NA
+r_1136	YKL217W	NA
+r_1137		http://identifiers.org/pubmed/14871487
+r_1138		http://identifiers.org/pubmed/14871487
+r_1139	(YDL245C OR YDR342C OR YDR343C OR YDR345C OR YEL069C OR YFL011W OR YHR092C OR YHR094C OR YHR096C OR YJL214W OR YJL219W OR YJR158W OR YMR011W OR YNR072W OR YOL156W)	NA
+r_1146	(YOR011W OR YIL013C)	http://identifiers.org/pubmed/12077145
+r_1147	(YOR011W OR YIL013C)	http://identifiers.org/pubmed/12077145
+r_1148	(YOR011W OR YIL013C)	http://identifiers.org/pubmed/17434796
+r_1149		http://identifiers.org/pubmed/15201274
+r_1151	YIL134W	http://identifiers.org/pubmed/8631763
+r_1161	(YOR011W OR YIL013C)	http://identifiers.org/pubmed/12077145
+r_1162	(YOR011W OR YIL013C)	http://identifiers.org/pubmed/17434796
+r_1164		http://identifiers.org/pubmed/15215118
+r_1165	YGL225W	http://identifiers.org/pubmed/9395539
+r_1166	(YDL245C OR YDR342C OR YDR343C OR YDR345C OR YDR536W OR YEL069C OR YFL011W OR YHR092C OR YHR094C OR YHR096C OR YJL214W OR YJL219W OR YJR158W OR YLR081W OR YMR011W OR YNR072W OR YOL156W OR YDL247W OR YJR160C)	http://identifiers.org/pubmed/10618490
+r_1167	YJL212C	http://identifiers.org/pubmed/10788431
+r_1168	(YLL015W OR YDR135C)	http://identifiers.org/pubmed/10790694
+r_1169	YCR098C	http://identifiers.org/pubmed/15145930
+r_1170	YCR098C	http://identifiers.org/pubmed/15145930
+r_1171	(YPL189W OR YDR536W OR YGL084C)	http://identifiers.org/pubmed/15703210,http://identifiers.org/pubmed/21623372
+r_1172	YLL043W	NA
+r_1173	(YKR039W OR YPL265W OR YOR348C OR YOL020W OR YCL025C)	http://identifiers.org/pubmed/9573211
+r_1174		http://identifiers.org/pubmed/11486014
+r_1175	YDL198C	http://identifiers.org/pubmed/14998997
+r_1176	(YER056C OR YER060W OR YER060W-A OR YGL186C)	NA
+r_1177	(YDR497C OR YOL103W)	NA
+r_1178	YMR319C	http://identifiers.org/pubmed/9115232
+r_1179		http://identifiers.org/pubmed/9660806
+r_1180		http://identifiers.org/pubmed/10653746
+r_1181		http://identifiers.org/pubmed/10653746
+r_1182		http://identifiers.org/pubmed/11583838
+r_1183	(YKR039W OR YOR348C OR YBR068C OR YOL020W OR YPL265W OR YDR046C OR YCL025C)	http://identifiers.org/pubmed/7495881,http://identifiers.org/pubmed/9489675
+r_1184	(YKR039W OR YEL063C OR YNL270C)	NA
+r_1185	YBR293W	http://identifiers.org/pubmed/15572352
+r_1186	(YKR039W OR YDR508C OR YPL265W OR YCL025C)	http://identifiers.org/pubmed/8660458
+r_1187	YJR001W	http://identifiers.org/pubmed/11274162
+r_1188	(YKL146W OR YNL101W)	http://identifiers.org/pubmed/11274162
+r_1189	YER119C	http://identifiers.org/pubmed/11274162
+r_1190	(YKR039W OR YFL055W OR YPL265W)	NA
+r_1191	YBR132C	NA
+r_1192	(YKR039W OR YBR068C OR YOL020W OR YBR069C OR YDR046C OR YDR508C OR YCL025C)	http://identifiers.org/pubmed/9573211
+r_1193	YCR075C	http://identifiers.org/pubmed/11689434
+r_1194	YPR021C	http://identifiers.org/pubmed/14622413
+r_1195	YER119C	http://identifiers.org/pubmed/11274162
+r_1196	(YKR039W OR YFL055W OR YPL265W OR YCL025C)	NA
+r_1197	YJR001W	http://identifiers.org/pubmed/11274162
+r_1198	(YKL146W OR YNL101W)	http://identifiers.org/pubmed/11274162
+r_1199	(YKR039W OR YDR508C OR YPL265W OR YCL025C)	NA
+r_1200	(YBR293W OR YCL069W OR YMR088C)	http://identifiers.org/pubmed/15572352
+r_1201	(YKR039W OR YGR191W OR YBR069C)	NA
+r_1202	YCL038C	http://identifiers.org/pubmed/17021250
+r_1203	YJR001W	http://identifiers.org/pubmed/11274162
+r_1204	(YKL146W OR YNL101W)	http://identifiers.org/pubmed/11274162
+r_1205	(YDR046C OR YKR039W OR YBR068C OR YCL025C OR YBR069C)	NA
+r_1206	YKL217W	http://identifiers.org/pubmed/17761666
+r_1207	YKL217W	http://identifiers.org/pubmed/10198029
+r_1208	YCL038C	http://identifiers.org/pubmed/17021250
+r_1209	YJR001W	http://identifiers.org/pubmed/11274162
+r_1210	(YKL146W OR YNL101W)	http://identifiers.org/pubmed/11274162
+r_1211	(YKR039W OR YBR068C OR YBR069C OR YDR046C OR YDR508C OR YCL025C)	NA
+r_1212	(YBR293W OR YCL069W OR YMR088C)	http://identifiers.org/pubmed/15572352
+r_1213	(YNL268W OR YKR039W)	NA
+r_1214	(YKR039W OR YDR508C OR YHL036W OR YBR068C OR YDR046C OR YGR055W OR YCL025C)	NA
+r_1215	(YDR046C OR YKR039W OR YBR068C OR YOL020W OR YCL025C)	NA
+r_1216	(YKR039W OR YOR348C)	NA
+r_1217	(YKR039W OR YFL055W OR YDR508C OR YPL265W OR YCL025C)	NA
+r_1218	(YDR046C OR YKR039W OR YDR508C OR YCL025C OR YBR069C)	http://identifiers.org/pubmed/9489675
+r_1219	(YKR039W OR YBR068C OR YOL020W OR YDR046C OR YBR069C)	http://identifiers.org/pubmed/9573211
+r_1220	YCL038C	http://identifiers.org/pubmed/17021250
+r_1221	(YBR293W OR YJR001W)	http://identifiers.org/pubmed/15572352
+r_1222	(YKL146W OR YNL101W)	http://identifiers.org/pubmed/11274162
+r_1223	(YKR039W OR YBR068C OR YOL020W OR YBR069C OR YDR046C OR YCL025C)	NA
+r_1224	(YDR046C OR YKR039W OR YBR068C OR YCL025C OR YBR069C)	NA
+r_1225	(YOR011W OR YIL013C)	http://identifiers.org/pubmed/12077145
+r_1226	YLR348C	NA
+r_1227	(YGR289C OR YBR298C OR YDL247W OR YJR160C)	http://identifiers.org/pubmed/7483839
+r_1228	YBR180W	http://identifiers.org/pubmed/12455697
+r_1229	(YEL006W OR YIL006W)	http://identifiers.org/pubmed/16291748,http://identifiers.org/pubmed/9169870
+r_1230	YIL006W	http://identifiers.org/pubmed/16291748
+r_1231	YIL006W	http://identifiers.org/pubmed/16291748
+r_1232	YIL006W	http://identifiers.org/pubmed/16291748
+r_1235	YGR260W	http://identifiers.org/pubmed/10869563
+r_1236		http://identifiers.org/pubmed/8993619
+r_1237	YOR130C	http://identifiers.org/pubmed/10428783
+r_1238	(YKR039W OR YEL063C)	NA
+r_1239	YKL120W	NA
+r_1241	YCR028C	NA
+r_1242		http://identifiers.org/pubmed/11583838
+r_1243		http://identifiers.org/pubmed/10653746
+r_1244	(YJL198W OR YBR296C OR YML123C OR YNR013C OR YCR037C)	NA
+r_1245	(YJR077C OR YER053C)	NA
+r_1249	YJL129C	http://identifiers.org/pubmed/3043197
+r_1250	YKL174C	http://identifiers.org/pubmed/15668236
+r_1251	(YOR273C OR YLL028W)	http://identifiers.org/pubmed/9920864
+r_1252	(YOR273C OR YLL028W)	http://identifiers.org/pubmed/11171066
+r_1253	YGL186C	http://identifiers.org/pubmed/12649274
+r_1254	YKL217W	NA
+r_1255	YPL274W	NA
+r_1256	YNL003C	http://identifiers.org/pubmed/14609944
+r_1257	YLL061W	NA
+r_1258	YLR138W	NA
+r_1259	YKL174C	http://identifiers.org/pubmed/15668236
+r_1260	(YOR273C OR YBR132C OR YKR039W OR YHL016C OR YPL274W OR YLL028W)	http://identifiers.org/pubmed/17218313,http://identifiers.org/pubmed/9920864
+r_1261	(YOR273C OR YLL028W)	http://identifiers.org/pubmed/11171066
+r_1262	(YPR156C OR YGR138C OR YOR273C OR YLL028W)	http://identifiers.org/pubmed/9920864
+r_1263	(YPR156C OR YGR138C OR YOR273C OR YLL028W)	http://identifiers.org/pubmed/11171066
+r_1264	YLR348C	NA
+r_1265	YJR095W	http://identifiers.org/pubmed/9395087
+r_1266	(YBR294W OR YLR092W)	NA
+r_1267	YPL092W	http://identifiers.org/pubmed/10870099
+r_1268		http://identifiers.org/pubmed/8293962
+r_1269	YGR096W	http://identifiers.org/pubmed/12411483
+r_1270	(YLR237W OR YOR192C OR YOR071C)	NA
+r_1271	YPL244C	http://identifiers.org/pubmed/11284009
+r_1272	YBR021W	NA
+r_1273	YHL016C	NA
+r_1274	YBL042C	http://identifiers.org/pubmed/10827169
+r_1275	YBR192W	http://identifiers.org/pubmed/16844075
+r_1276	YBR192W	http://identifiers.org/pubmed/16194150
+r_1277	(YLL052C OR YPR192W)	http://identifiers.org/pubmed/9765289
+r_1278	(YOR011W OR YIL013C)	http://identifiers.org/pubmed/12077145
+r_1357		NA
+r_1358		NA
+r_1359		NA
+r_1360		NA
+r_1361		NA
+r_1362		NA
+r_1363		NA
+r_1364		NA
+r_1365		NA
+r_1366		NA
+r_1367		NA
+r_1368		NA
+r_1369		NA
+r_1370		NA
+r_1371		NA
+r_1449		NA
+r_1450		NA
+r_1451		NA
+r_1452		NA
+r_1453		NA
+r_1454		NA
+r_1455		NA
+r_1456		NA
+r_1457		NA
+r_1458		NA
+r_1459		NA
+r_1460		NA
+r_1461		NA
+r_1462		NA
+r_1463		NA
+r_1464		NA
+r_1465		NA
+r_1466		NA
+r_1467		NA
+r_1468		NA
+r_1469		NA
+r_1470		NA
+r_1471		NA
+r_1472		NA
+r_1473		NA
+r_1474		NA
+r_1475		NA
+r_1476		NA
+r_1477		NA
+r_1478		NA
+r_1479		NA
+r_1480		NA
+r_1481		NA
+r_1482		NA
+r_1483		NA
+r_1484		NA
+r_1485		NA
+r_1486		NA
+r_1487		NA
+r_1488		NA
+r_1489		NA
+r_1490		NA
+r_1491		NA
+r_1492		NA
+r_1493		NA
+r_1494		NA
+r_1495		NA
+r_1496		NA
+r_1497		NA
+r_1498		NA
+r_1499		NA
+r_1500		NA
+r_1501		NA
+r_1502		NA
+r_1503		NA
+r_1504		NA
+r_1505		NA
+r_1506		NA
+r_1507		NA
+r_1508		NA
+r_1509		NA
+r_1510		NA
+r_1511		NA
+r_1512		NA
+r_1513		NA
+r_1514		NA
+r_1515		NA
+r_1516		NA
+r_1517		NA
+r_1518		NA
+r_1519		NA
+r_1520		NA
+r_1521		NA
+r_1522		NA
+r_1523		NA
+r_1524		NA
+r_1525		NA
+r_1526		NA
+r_1527		NA
+r_1528		NA
+r_1529		NA
+r_1530		NA
+r_1531		NA
+r_1532		NA
+r_1533		NA
+r_1534		NA
+r_1535		NA
+r_1536		NA
+r_1537		NA
+r_1538		NA
+r_1542		NA
+r_1543		NA
+r_1545		NA
+r_1546		NA
+r_1547		NA
+r_1548		NA
+r_1549		NA
+r_1550		NA
+r_1551		NA
+r_1552		NA
+r_1553		NA
+r_1554		NA
+r_1560		NA
+r_1562		NA
+r_1563		NA
+r_1564		NA
+r_1565		NA
+r_1566		NA
+r_1567		NA
+r_1568		NA
+r_1572		NA
+r_1573		NA
+r_1574		NA
+r_1575		NA
+r_1576		NA
+r_1577		NA
+r_1578		NA
+r_1579		NA
+r_1580		NA
+r_1581		NA
+r_1582		NA
+r_1583		NA
+r_1585		NA
+r_1586		NA
+r_1587		NA
+r_1588		NA
+r_1589		NA
+r_1590		NA
+r_1591		NA
+r_1595		NA
+r_1596		NA
+r_1597		NA
+r_1598		NA
+r_1599		NA
+r_1600		NA
+r_1601		NA
+r_1603		NA
+r_1604		NA
+r_1605		NA
+r_1606		NA
+r_1607		NA
+r_1608		NA
+r_1609		NA
+r_1610		NA
+r_1611		NA
+r_1613		NA
+r_1614		NA
+r_1615		NA
+r_1616		NA
+r_1617		NA
+r_1618		NA
+r_1619		NA
+r_1620		NA
+r_1621		NA
+r_1622		NA
+r_1623		NA
+r_1624		NA
+r_1625		NA
+r_1627		NA
+r_1628		NA
+r_1629		NA
+r_1630		NA
+r_1631		NA
+r_1632		NA
+r_1633		NA
+r_1634		NA
+r_1635		NA
+r_1637		NA
+r_1638		NA
+r_1639		NA
+r_1640		NA
+r_1641		NA
+r_1642		NA
+r_1643		NA
+r_1644		NA
+r_1645		NA
+r_1647		NA
+r_1648		NA
+r_1649		NA
+r_1650		NA
+r_1651		NA
+r_1652		NA
+r_1654		NA
+r_1656		NA
+r_1657		http://identifiers.org/pubmed/9874237
+r_1658		NA
+r_1659		NA
+r_1660		NA
+r_1661		NA
+r_1663		NA
+r_1664		NA
+r_1665		NA
+r_1667		NA
+r_1668		NA
+r_1669		NA
+r_1671		NA
+r_1672		NA
+r_1673		NA
+r_1674		NA
+r_1675		NA
+r_1676		NA
+r_1677		NA
+r_1678		NA
+r_1679		NA
+r_1680		NA
+r_1681		NA
+r_1682		NA
+r_1683		NA
+r_1684		NA
+r_1685		NA
+r_1686		NA
+r_1687		NA
+r_1688		NA
+r_1689		NA
+r_1690		NA
+r_1691		NA
+r_1694		NA
+r_1695		NA
+r_1696		NA
+r_1697		NA
+r_1698		NA
+r_1699		NA
+r_1700		NA
+r_1701		NA
+r_1702		NA
+r_1703		NA
+r_1704		NA
+r_1705		NA
+r_1706		NA
+r_1707		NA
+r_1708		NA
+r_1709		NA
+r_1710		NA
+r_1711		NA
+r_1712		NA
+r_1713		NA
+r_1714		NA
+r_1715		NA
+r_1716		NA
+r_1717		NA
+r_1718		NA
+r_1719		NA
+r_1720		NA
+r_1721		NA
+r_1722		NA
+r_1723		NA
+r_1724		NA
+r_1725		NA
+r_1726		NA
+r_1727		NA
+r_1728		NA
+r_1729		NA
+r_1730		NA
+r_1731		NA
+r_1732		NA
+r_1733		NA
+r_1734		NA
+r_1735		NA
+r_1736		NA
+r_1737		NA
+r_1738		NA
+r_1739		NA
+r_1743		NA
+r_1744		NA
+r_1745		NA
+r_1746		http://identifiers.org/pubmed/22672422
+r_1747		NA
+r_1748		NA
+r_1749		NA
+r_1750		NA
+r_1751		NA
+r_1752		NA
+r_1753		NA
+r_1754		NA
+r_1757		NA
+r_1758		NA
+r_1759		NA
+r_1760		NA
+r_1761		NA
+r_1762		NA
+r_1763		NA
+r_1764		NA
+r_1765		NA
+r_1766		NA
+r_1770		NA
+r_1771		NA
+r_1772		NA
+r_1774		NA
+r_1775		NA
+r_1776		NA
+r_1777		NA
+r_1788		NA
+r_1790		NA
+r_1791		NA
+r_1792		NA
+r_1793		NA
+r_1794		NA
+r_1795		NA
+r_1796		NA
+r_1797		NA
+r_1798		NA
+r_1800		NA
+r_1801		NA
+r_1802		NA
+r_1803		NA
+r_1805		NA
+r_1806		NA
+r_1807		NA
+r_1808		NA
+r_1809		http://identifiers.org/pubmed/22672422
+r_1810		NA
+r_1811		NA
+r_1812		NA
+r_1813		NA
+r_1814		NA
+r_1815		NA
+r_1816		NA
+r_1817		NA
+r_1818		NA
+r_1819		NA
+r_1820		NA
+r_1821		NA
+r_1822		NA
+r_1823		NA
+r_1824		NA
+r_1825		NA
+r_1826		NA
+r_1827		NA
+r_1829		NA
+r_1830		NA
+r_1831		NA
+r_1832		NA
+r_1833		NA
+r_1834		NA
+r_1835		NA
+r_1836		NA
+r_1837		NA
+r_1838	(YDL131W OR YDL182W)	NA
+r_1839		NA
+r_1840		NA
+r_1841		NA
+r_1842		NA
+r_1843		NA
+r_1844		NA
+r_1845		NA
+r_1846		NA
+r_1847		NA
+r_1848		NA
+r_1849		NA
+r_1850		NA
+r_1851		NA
+r_1852		NA
+r_1853		NA
+r_1854		NA
+r_1855		NA
+r_1856		NA
+r_1857		NA
+r_1858		NA
+r_1859		NA
+r_1860		NA
+r_1861		NA
+r_1862		NA
+r_1863		NA
+r_1864		NA
+r_1865		NA
+r_1866		NA
+r_1867		NA
+r_1868		NA
+r_1869		NA
+r_1870		NA
+r_1871		NA
+r_1872		NA
+r_1873		NA
+r_1874		NA
+r_1875		NA
+r_1876		NA
+r_1877		NA
+r_1878		NA
+r_1879		NA
+r_1880		NA
+r_1881		NA
+r_1882		NA
+r_1883		NA
+r_1884		NA
+r_1885		NA
+r_1886		NA
+r_1887		NA
+r_1889		NA
+r_1890		NA
+r_1891		NA
+r_1892		NA
+r_1893		NA
+r_1895		NA
+r_1896		NA
+r_1897		NA
+r_1898		NA
+r_1899		NA
+r_1900		NA
+r_1901		NA
+r_1902		NA
+r_1903		NA
+r_1904		NA
+r_1905		NA
+r_1906		NA
+r_1907		NA
+r_1908		NA
+r_1909		NA
+r_1910		NA
+r_1911		NA
+r_1912		NA
+r_1913		NA
+r_1914		NA
+r_1915		NA
+r_1916		NA
+r_1919		NA
+r_1920		NA
+r_1921		NA
+r_1922		NA
+r_1923		NA
+r_1924		NA
+r_1925		NA
+r_1926		NA
+r_1927		NA
+r_1928		NA
+r_1929		NA
+r_1930		NA
+r_1931		NA
+r_1932		NA
+r_1935		NA
+r_1936		NA
+r_1937		NA
+r_1938		NA
+r_1939		NA
+r_1940		NA
+r_1941		NA
+r_1942		NA
+r_1943		NA
+r_1944		NA
+r_1945		NA
+r_1946		NA
+r_1947		NA
+r_1952		NA
+r_1963		NA
+r_1964		NA
+r_1965		NA
+r_1966		NA
+r_1967		NA
+r_1968		NA
+r_1970		NA
+r_1971		NA
+r_1972		NA
+r_1974		NA
+r_1975		NA
+r_1976		NA
+r_1977		NA
+r_1978		NA
+r_1979		NA
+r_1980		NA
+r_1981		NA
+r_1984		NA
+r_1987		NA
+r_1988		NA
+r_1989		NA
+r_1990		NA
+r_1991		NA
+r_1992		NA
+r_1993		NA
+r_1994		NA
+r_1995		NA
+r_1996		NA
+r_1997		NA
+r_1998		NA
+r_1999		NA
+r_2000		NA
+r_2001		NA
+r_2002		NA
+r_2003		NA
+r_2004		NA
+r_2005		NA
+r_2008		NA
+r_2020		NA
+r_2022		NA
+r_2023		NA
+r_2024		NA
+r_2025		NA
+r_2026		NA
+r_2027		NA
+r_2028		NA
+r_2029	YEL029C	NA
+r_2030		NA
+r_2031		NA
+r_2032		NA
+r_2033		NA
+r_2034	(YGL080W AND (YGR243W OR YHR162W))	http://identifiers.org/pubmed/22628558
+r_2036		NA
+r_2037		NA
+r_2038		NA
+r_2039		NA
+r_2040		NA
+r_2041		NA
+r_2042		NA
+r_2043		NA
+r_2044		NA
+r_2045		NA
+r_2046		NA
+r_2049		NA
+r_2050		NA
+r_2051		NA
+r_2052		NA
+r_2053		NA
+r_2054		NA
+r_2055		NA
+r_2056		NA
+r_2057		NA
+r_2058		NA
+r_2060		NA
+r_2061		NA
+r_2062		NA
+r_2063		NA
+r_2064		NA
+r_2065		NA
+r_2066		NA
+r_2067		NA
+r_2068		NA
+r_2069		NA
+r_2070		NA
+r_2071		NA
+r_2072		NA
+r_2073		NA
+r_2074		NA
+r_2075		NA
+r_2079	YGR289C	http://identifiers.org/pubmed/10957961
+r_2080		NA
+r_2082		NA
+r_2083		NA
+r_2084		NA
+r_2085		NA
+r_2086		NA
+r_2087		NA
+r_2089		NA
+r_2090		NA
+r_2091		NA
+r_2092		NA
+r_2093		NA
+r_2094		NA
+r_2095		NA
+r_2096		NA
+r_2097		NA
+r_2098		NA
+r_2099		NA
+r_2100		NA
+r_2101		NA
+r_2102		NA
+r_2103		NA
+r_2104		NA
+r_2105		NA
+r_2106		NA
+r_2107		NA
+r_2108		http://identifiers.org/pubmed/18687109
+r_2110		http://identifiers.org/pubmed/22663945
+r_2111		NA
+r_2112	YJL060W	http://identifiers.org/kegg.reaction/R01959,http://identifiers.org/pubmed/18205391
+r_2113		http://identifiers.org/pubmed/18205391
+r_2114		http://identifiers.org/pubmed/18205391
+r_2115	(YOL086C OR YBR145W)	http://identifiers.org/kegg.reaction/R00754,http://identifiers.org/pubmed/12499363
+r_2116	YMR170C	http://identifiers.org/kegg.reaction/R00711
+r_2117	YHR137W	http://identifiers.org/kegg.reaction/R00694,http://identifiers.org/pubmed/9491082,http://identifiers.org/pubmed/9491083
+r_2118	YHR137W	http://identifiers.org/kegg.reaction/R00684,http://identifiers.org/pubmed/9491082,http://identifiers.org/pubmed/9491083
+r_2119	YHR137W	http://identifiers.org/kegg.reaction/R00734,http://identifiers.org/pubmed/9491082,http://identifiers.org/pubmed/9491083
+r_2125		http://identifiers.org/kegg.reaction/R00197,http://identifiers.org/pubmed/22672422
+r_2126	YKR043C	http://identifiers.org/kegg.reaction/R01845,http://identifiers.org/pubmed/21663798,http://identifiers.org/pubmed/22672422
+r_2127	YKL216W	http://identifiers.org/kegg.reaction/R01869,http://identifiers.org/pubmed/11921093,http://identifiers.org/pubmed/22672422
+r_2129		http://identifiers.org/pubmed/22672422
+r_2131	YDL066W	http://identifiers.org/kegg.reaction/R00267,http://identifiers.org/pubmed/1989987,http://identifiers.org/pubmed/8099357
+r_2132	(YOR222W OR YPL134C)	http://identifiers.org/pubmed/16844075
+r_2133		NA
+r_2134		NA
+r_2136		NA
+r_2137		NA
+r_2139		NA
+r_2140	(YKL182W AND YPL231W)	http://identifiers.org/pubmed/22345606
+r_2141	(YKL182W AND YPL231W)	http://identifiers.org/pubmed/22345606
+r_2142	(YER061C AND YKL192C)	http://identifiers.org/pubmed/8412701
+r_2143	(YER061C AND YKL192C)	http://identifiers.org/pubmed/8412701
+r_2144	(YER061C AND YKL192C)	http://identifiers.org/pubmed/8412701
+r_2145	YKL055C	http://identifiers.org/pubmed/9388293
+r_2146	YKL055C	http://identifiers.org/pubmed/9388293
+r_2147	YKL055C	http://identifiers.org/pubmed/9388293
+r_2148	YHR067W	http://identifiers.org/pubmed/15387819
+r_2149	YHR067W	http://identifiers.org/pubmed/15387819
+r_2150	YHR067W	http://identifiers.org/pubmed/15387819
+r_2151	YBR026C	http://identifiers.org/pubmed/11509667
+r_2152	YBR026C	http://identifiers.org/pubmed/11509667
+r_2153	YBR026C	http://identifiers.org/pubmed/11509667
+r_2154	YJL196C	http://identifiers.org/pubmed/22345606
+r_2155	YJL196C	http://identifiers.org/pubmed/22345606
+r_2156	YCR034W	http://identifiers.org/pubmed/22345606
+r_2157	(YCR034W OR YLR372W)	http://identifiers.org/pubmed/22345606
+r_2158	(YCR034W OR YLR372W)	http://identifiers.org/pubmed/22345606
+r_2159	(YCR034W OR YLR372W)	http://identifiers.org/pubmed/22345606
+r_2160	YLR372W	http://identifiers.org/pubmed/22345606
+r_2161	YBR159W	http://identifiers.org/pubmed/22345606
+r_2162	YBR159W	http://identifiers.org/pubmed/22345606
+r_2163	YBR159W	http://identifiers.org/pubmed/22345606
+r_2164	YBR159W	http://identifiers.org/pubmed/22345606
+r_2165	YBR159W	http://identifiers.org/pubmed/22345606
+r_2166	YBR159W	http://identifiers.org/pubmed/22345606
+r_2167	YBR159W	http://identifiers.org/pubmed/22345606
+r_2168	YJL097W	http://identifiers.org/pubmed/22345606
+r_2169	YJL097W	http://identifiers.org/pubmed/22345606
+r_2170	YJL097W	http://identifiers.org/pubmed/22345606
+r_2171	YJL097W	http://identifiers.org/pubmed/22345606
+r_2172	YJL097W	http://identifiers.org/pubmed/22345606
+r_2173	YJL097W	http://identifiers.org/pubmed/22345606
+r_2174	YJL097W	http://identifiers.org/pubmed/22345606
+r_2175	YDL015C	http://identifiers.org/pubmed/22345606
+r_2176	YDL015C	http://identifiers.org/pubmed/22345606
+r_2177	YDL015C	http://identifiers.org/pubmed/22345606
+r_2178	YDL015C	http://identifiers.org/pubmed/22345606
+r_2179	YDL015C	http://identifiers.org/pubmed/22345606
+r_2180	YDL015C	http://identifiers.org/pubmed/22345606
+r_2181	YDL015C	http://identifiers.org/pubmed/22345606
+r_2182	YGL055W	http://identifiers.org/pubmed/22345606
+r_2183	YGL055W	http://identifiers.org/pubmed/22345606
+r_2184		NA
+r_2185		NA
+r_2186		NA
+r_2187		NA
+r_2188		NA
+r_2189		NA
+r_2190		NA
+r_2191		NA
+r_2192		NA
+r_2193		NA
+r_2194	YOR317W	http://identifiers.org/pubmed/22345606
+r_2195	(YOR317W OR YMR246W)	http://identifiers.org/pubmed/22345606
+r_2196	(YOR317W OR YMR246W)	http://identifiers.org/pubmed/22345606
+r_2197	(YOR317W OR YMR246W)	http://identifiers.org/pubmed/22345606
+r_2198	(YOR317W OR YMR246W)	http://identifiers.org/pubmed/22345606
+r_2199	(YOR317W OR YMR246W)	http://identifiers.org/pubmed/22345606
+r_2200	YOR317W	http://identifiers.org/pubmed/22345606
+r_2201	(YOR317W OR YMR246W)	http://identifiers.org/pubmed/22345606
+r_2202	(YOR317W OR YMR246W)	http://identifiers.org/pubmed/22345606
+r_2203	(YOR317W OR YMR246W)	http://identifiers.org/pubmed/22345606
+r_2204	(YOR317W OR YMR246W)	http://identifiers.org/pubmed/22345606
+r_2205	(YOR317W OR YMR246W)	http://identifiers.org/pubmed/22345606
+r_2206	YER015W	http://identifiers.org/pubmed/22345606
+r_2207	YER015W	http://identifiers.org/pubmed/22345606
+r_2208	YER015W	http://identifiers.org/pubmed/22345606
+r_2209	YIL009W	http://identifiers.org/pubmed/22345606
+r_2210	YIL009W	http://identifiers.org/pubmed/22345606
+r_2211	YIL009W	http://identifiers.org/pubmed/22345606
+r_2212	YIL009W	http://identifiers.org/pubmed/22345606
+r_2213	YBR041W	http://identifiers.org/pubmed/22345606
+r_2214	YBR041W	http://identifiers.org/pubmed/22345606
+r_2215	YBR041W	http://identifiers.org/pubmed/22345606
+r_2216	YBR041W	http://identifiers.org/pubmed/22345606
+r_2217	YBR041W	http://identifiers.org/pubmed/22345606
+r_2218	YBR041W	http://identifiers.org/pubmed/22345606
+r_2219	(YKL188C AND YPL147W)	http://identifiers.org/pubmed/17010456
+r_2220	(YKL188C AND YPL147W)	http://identifiers.org/pubmed/17010456
+r_2221	(YKL188C AND YPL147W)	http://identifiers.org/pubmed/17010456
+r_2222	(YKL188C AND YPL147W)	http://identifiers.org/pubmed/17010456
+r_2223	(YKL188C AND YPL147W)	http://identifiers.org/pubmed/17010456
+r_2224	(YKL188C AND YPL147W)	http://identifiers.org/pubmed/17010456
+r_2225	(YKL188C AND YPL147W)	http://identifiers.org/pubmed/17010456
+r_2226	(YKL188C AND YPL147W)	http://identifiers.org/pubmed/17010456
+r_2227	(YKL188C AND YPL147W)	http://identifiers.org/pubmed/17010456
+r_2228	(YKL188C AND YPL147W)	http://identifiers.org/pubmed/17010456
+r_2229		NA
+r_2230		NA
+r_2231		NA
+r_2232	YJR019C	http://identifiers.org/pubmed/16490786
+r_2233	YJR019C	http://identifiers.org/pubmed/16490786
+r_2234	YJR019C	http://identifiers.org/pubmed/16490786
+r_2235	YJR019C	http://identifiers.org/pubmed/16490786
+r_2236	YGL205W	http://identifiers.org/pubmed/12697341
+r_2237	YGL205W	http://identifiers.org/pubmed/12697341
+r_2238	YGL205W	http://identifiers.org/pubmed/12697341
+r_2239	YGL205W	http://identifiers.org/pubmed/12697341
+r_2240	YGL205W	http://identifiers.org/pubmed/12697341
+r_2241	YGL205W	http://identifiers.org/pubmed/12697341
+r_2242	YGL205W	http://identifiers.org/pubmed/12697341
+r_2243	YGL205W	http://identifiers.org/pubmed/12697341
+r_2244	YGL205W	http://identifiers.org/pubmed/12697341
+r_2245	YGL205W	http://identifiers.org/pubmed/12697341
+r_2246	YGL205W	http://identifiers.org/pubmed/12697341
+r_2247	YGL205W	http://identifiers.org/pubmed/12697341
+r_2248	YKR009C	http://identifiers.org/pubmed/12697341
+r_2249	YKR009C	http://identifiers.org/pubmed/12697341
+r_2250	YKR009C	http://identifiers.org/pubmed/12697341
+r_2251	YKR009C	http://identifiers.org/pubmed/12697341
+r_2252	YKR009C	http://identifiers.org/pubmed/12697341
+r_2253	YKR009C	http://identifiers.org/pubmed/12697341
+r_2254	YKR009C	http://identifiers.org/pubmed/12697341
+r_2255	YKR009C	http://identifiers.org/pubmed/12697341
+r_2256	YKR009C	http://identifiers.org/pubmed/12697341
+r_2257	YKR009C	http://identifiers.org/pubmed/12697341
+r_2258	YKR009C	http://identifiers.org/pubmed/12697341
+r_2259	YKR009C	http://identifiers.org/pubmed/12697341
+r_2260	YKR009C	http://identifiers.org/pubmed/12697341
+r_2261	YKR009C	http://identifiers.org/pubmed/12697341
+r_2262	YKR009C	http://identifiers.org/pubmed/12697341
+r_2263	YKR009C	http://identifiers.org/pubmed/12697341
+r_2264	YKR009C	http://identifiers.org/pubmed/12697341
+r_2265	YKR009C	http://identifiers.org/pubmed/12697341
+r_2266	YKR009C	http://identifiers.org/pubmed/12697341
+r_2267	YKR009C	http://identifiers.org/pubmed/12697341
+r_2268	YKR009C	http://identifiers.org/pubmed/12697341
+r_2269	YKR009C	http://identifiers.org/pubmed/12697341
+r_2270	YKR009C	http://identifiers.org/pubmed/12697341
+r_2271	YKR009C	http://identifiers.org/pubmed/12697341
+r_2272	YKR009C	http://identifiers.org/pubmed/12697341
+r_2273	YKR009C	http://identifiers.org/pubmed/12697341
+r_2274	YKR009C	http://identifiers.org/pubmed/12697341
+r_2275	YKR009C	http://identifiers.org/pubmed/12697341
+r_2276	YKR009C	http://identifiers.org/pubmed/12697341
+r_2277	YKR009C	http://identifiers.org/pubmed/12697341
+r_2278	YKR009C	http://identifiers.org/pubmed/12697341
+r_2279	YKR009C	http://identifiers.org/pubmed/12697341
+r_2280	YKR009C	http://identifiers.org/pubmed/12697341
+r_2281	YKR009C	http://identifiers.org/pubmed/12697341
+r_2282	YKR009C	http://identifiers.org/pubmed/12697341
+r_2283	YIL160C	http://identifiers.org/pubmed/12697341
+r_2284	YIL160C	http://identifiers.org/pubmed/12697341
+r_2285	YIL160C	http://identifiers.org/pubmed/12697341
+r_2286	YIL160C	http://identifiers.org/pubmed/12697341
+r_2287	YIL160C	http://identifiers.org/pubmed/12697341
+r_2288	YIL160C	http://identifiers.org/pubmed/12697341
+r_2289	YIL160C	http://identifiers.org/pubmed/12697341
+r_2290	YIL160C	http://identifiers.org/pubmed/12697341
+r_2291	YIL160C	http://identifiers.org/pubmed/12697341
+r_2292	YIL160C	http://identifiers.org/pubmed/12697341
+r_2293	YIL160C	http://identifiers.org/pubmed/12697341
+r_2294	YIL160C	http://identifiers.org/pubmed/12697341
+r_2295	YLR284C	http://identifiers.org/pubmed/12697341
+r_2296	YLR284C	http://identifiers.org/pubmed/12697341
+r_2297	YLR284C	http://identifiers.org/pubmed/12697341
+r_2298	YLR284C	http://identifiers.org/pubmed/12697341
+r_2299	YLR284C	http://identifiers.org/pubmed/12697341
+r_2300	YLR284C	http://identifiers.org/pubmed/12697341
+r_2301	YOR180C	http://identifiers.org/pubmed/12697341
+r_2302	YOR180C	http://identifiers.org/pubmed/12697341
+r_2303	YNL202W	http://identifiers.org/pubmed/12697341
+r_2304	YNL202W	http://identifiers.org/pubmed/12697341
+r_2305	YLR304C	http://identifiers.org/pubmed/15975908
+r_2308	(YBL011W OR YKR067W)	http://identifiers.org/pubmed/22345606
+r_2309	(YBL011W OR YKR067W)	http://identifiers.org/pubmed/22345606
+r_2310	YKR067W	http://identifiers.org/pubmed/22345606
+r_2311	YKR067W	http://identifiers.org/pubmed/22345606
+r_2312	(YBL011W OR YKR067W)	http://identifiers.org/pubmed/22345606
+r_2313	(YBL011W OR YKR067W)	http://identifiers.org/pubmed/22345606
+r_2314	YKR067W	http://identifiers.org/pubmed/22345606
+r_2315	YKR067W	http://identifiers.org/pubmed/22345606
+r_2316	YKR067W	http://identifiers.org/pubmed/22345606
+r_2317	YKR067W	http://identifiers.org/pubmed/22345606
+r_2318	YKR067W	http://identifiers.org/pubmed/22345606
+r_2319	YKR067W	http://identifiers.org/pubmed/22345606
+r_2320	YKR067W	http://identifiers.org/pubmed/22345606
+r_2321	YKR067W	http://identifiers.org/pubmed/22345606
+r_2322	YKR067W	http://identifiers.org/pubmed/22345606
+r_2323	YKR067W	http://identifiers.org/pubmed/22345606
+r_2324	YIL124W	http://identifiers.org/pubmed/22345606
+r_2325	YIL124W	http://identifiers.org/pubmed/22345606
+r_2326	YIL124W	http://identifiers.org/pubmed/22345606
+r_2327	YIL124W	http://identifiers.org/pubmed/22345606
+r_2328	YIL124W	http://identifiers.org/pubmed/22345606
+r_2329	YIL124W	http://identifiers.org/pubmed/22345606
+r_2330	YIL124W	http://identifiers.org/pubmed/22345606
+r_2331	YIL124W	http://identifiers.org/pubmed/22345606
+r_2332	YOR175C	http://identifiers.org/pubmed/22345606
+r_2333	(YDL052C OR YOR175C)	http://identifiers.org/pubmed/22345606
+r_2334	YOR175C	http://identifiers.org/pubmed/22345606
+r_2335	(YDL052C OR YOR175C)	http://identifiers.org/pubmed/22345606
+r_2336	YOR175C	http://identifiers.org/pubmed/22345606
+r_2337	(YDL052C OR YOR175C)	http://identifiers.org/pubmed/22345606
+r_2338	YOR175C	http://identifiers.org/pubmed/22345606
+r_2339	(YDL052C OR YOR175C)	http://identifiers.org/pubmed/22345606
+r_2340	(YDL052C OR YKR089C OR YOR081C)	http://identifiers.org/pubmed/22345606
+r_2341	(YDL052C OR YKR089C OR YOR081C)	http://identifiers.org/pubmed/22345606
+r_2342	(YDL052C OR YKR089C OR YOR081C)	http://identifiers.org/pubmed/22345606
+r_2343	(YDL052C OR YKR089C OR YOR081C)	http://identifiers.org/pubmed/22345606
+r_2344	YMR165C	http://identifiers.org/pubmed/22345606
+r_2345	YMR165C	http://identifiers.org/pubmed/22345606
+r_2346	YMR165C	http://identifiers.org/pubmed/22345606
+r_2347	YMR165C	http://identifiers.org/pubmed/22345606
+r_2348	YMR165C	http://identifiers.org/pubmed/22345606
+r_2349	YMR165C	http://identifiers.org/pubmed/22345606
+r_2350	YMR165C	http://identifiers.org/pubmed/22345606
+r_2351	YMR165C	http://identifiers.org/pubmed/22345606
+r_2352	YDR284C	http://identifiers.org/pubmed/22345606
+r_2353	YDR284C	http://identifiers.org/pubmed/22345606
+r_2354	YDR284C	http://identifiers.org/pubmed/22345606
+r_2355	YDR284C	http://identifiers.org/pubmed/22345606
+r_2356	YDR284C	http://identifiers.org/pubmed/22345606
+r_2357	YDR284C	http://identifiers.org/pubmed/22345606
+r_2358	YDR284C	http://identifiers.org/pubmed/22345606
+r_2359	YDR284C	http://identifiers.org/pubmed/22345606
+r_2360	YDR503C	http://identifiers.org/pubmed/22345606
+r_2361	YDR503C	http://identifiers.org/pubmed/22345606
+r_2362	YDR503C	http://identifiers.org/pubmed/22345606
+r_2363	YDR503C	http://identifiers.org/pubmed/22345606
+r_2364	YDR503C	http://identifiers.org/pubmed/22345606
+r_2365	YDR503C	http://identifiers.org/pubmed/22345606
+r_2366	YDR503C	http://identifiers.org/pubmed/22345606
+r_2367	YDR503C	http://identifiers.org/pubmed/22345606
+r_2368	(YOR245C OR YCR048W OR YNR019W)	http://identifiers.org/pubmed/22345606
+r_2369	(YOR245C OR YCR048W OR YNR019W)	http://identifiers.org/pubmed/22345606
+r_2370	(YOR245C OR YCR048W OR YNR019W)	http://identifiers.org/pubmed/22345606
+r_2371	(YOR245C OR YCR048W OR YNR019W)	http://identifiers.org/pubmed/22345606
+r_2372	(YOR245C OR YCR048W OR YNR019W)	http://identifiers.org/pubmed/22345606
+r_2373	(YOR245C OR YCR048W OR YNR019W)	http://identifiers.org/pubmed/22345606
+r_2374	(YOR245C OR YCR048W OR YNR019W)	http://identifiers.org/pubmed/22345606
+r_2375	(YOR245C OR YCR048W OR YNR019W)	http://identifiers.org/pubmed/22345606
+r_2376	(YOR245C OR YCR048W OR YNR019W)	http://identifiers.org/pubmed/22345606
+r_2377	(YOR245C OR YCR048W OR YNR019W)	http://identifiers.org/pubmed/22345606
+r_2378	(YOR245C OR YCR048W OR YNR019W)	http://identifiers.org/pubmed/22345606
+r_2379	(YOR245C OR YCR048W OR YNR019W)	http://identifiers.org/pubmed/22345606
+r_2380	(YOR245C OR YCR048W OR YNR019W)	http://identifiers.org/pubmed/22345606
+r_2381	(YOR245C OR YCR048W OR YNR019W)	http://identifiers.org/pubmed/22345606
+r_2382	(YOR245C OR YCR048W OR YNR019W)	http://identifiers.org/pubmed/22345606
+r_2383	(YOR245C OR YCR048W OR YNR019W)	http://identifiers.org/pubmed/22345606
+r_2384	(YOR245C OR YCR048W OR YNR019W)	http://identifiers.org/pubmed/22345606
+r_2385	(YOR245C OR YCR048W OR YNR019W)	http://identifiers.org/pubmed/22345606
+r_2386	(YOR245C OR YCR048W OR YNR019W)	http://identifiers.org/pubmed/22345606
+r_2387	(YOR245C OR YCR048W OR YNR019W)	http://identifiers.org/pubmed/22345606
+r_2388	(YOR245C OR YCR048W OR YNR019W)	http://identifiers.org/pubmed/22345606
+r_2389	(YOR245C OR YCR048W OR YNR019W)	http://identifiers.org/pubmed/22345606
+r_2390	(YOR245C OR YCR048W OR YNR019W)	http://identifiers.org/pubmed/22345606
+r_2391	(YOR245C OR YCR048W OR YNR019W)	http://identifiers.org/pubmed/22345606
+r_2392	(YOR245C OR YCR048W OR YNR019W)	http://identifiers.org/pubmed/22345606
+r_2393	(YOR245C OR YCR048W OR YNR019W)	http://identifiers.org/pubmed/22345606
+r_2394	(YOR245C OR YCR048W OR YNR019W)	http://identifiers.org/pubmed/22345606
+r_2395	(YOR245C OR YCR048W OR YNR019W)	http://identifiers.org/pubmed/22345606
+r_2396	(YOR245C OR YCR048W OR YNR019W)	http://identifiers.org/pubmed/22345606
+r_2397	(YOR245C OR YCR048W OR YNR019W)	http://identifiers.org/pubmed/22345606
+r_2398	(YOR245C OR YCR048W OR YNR019W)	http://identifiers.org/pubmed/22345606
+r_2399	(YOR245C OR YCR048W OR YNR019W)	http://identifiers.org/pubmed/22345606
+r_2400	YOR245C	http://identifiers.org/pubmed/22345606
+r_2401	YOR245C	http://identifiers.org/pubmed/22345606
+r_2402	YOR245C	http://identifiers.org/pubmed/22345606
+r_2403	YOR245C	http://identifiers.org/pubmed/22345606
+r_2404	YOR245C	http://identifiers.org/pubmed/22345606
+r_2405	YOR245C	http://identifiers.org/pubmed/22345606
+r_2406	YOR245C	http://identifiers.org/pubmed/22345606
+r_2407	YOR245C	http://identifiers.org/pubmed/22345606
+r_2408	YOR245C	http://identifiers.org/pubmed/22345606
+r_2409	YOR245C	http://identifiers.org/pubmed/22345606
+r_2410	YOR245C	http://identifiers.org/pubmed/22345606
+r_2411	YOR245C	http://identifiers.org/pubmed/22345606
+r_2412	YOR245C	http://identifiers.org/pubmed/22345606
+r_2413	YOR245C	http://identifiers.org/pubmed/22345606
+r_2414	YOR245C	http://identifiers.org/pubmed/22345606
+r_2415	YOR245C	http://identifiers.org/pubmed/22345606
+r_2416	YOR245C	http://identifiers.org/pubmed/22345606
+r_2417	YOR245C	http://identifiers.org/pubmed/22345606
+r_2418	YOR245C	http://identifiers.org/pubmed/22345606
+r_2419	YOR245C	http://identifiers.org/pubmed/22345606
+r_2420	YOR245C	http://identifiers.org/pubmed/22345606
+r_2421	YOR245C	http://identifiers.org/pubmed/22345606
+r_2422	YOR245C	http://identifiers.org/pubmed/22345606
+r_2423	YOR245C	http://identifiers.org/pubmed/22345606
+r_2424	YOR245C	http://identifiers.org/pubmed/22345606
+r_2425	YOR245C	http://identifiers.org/pubmed/22345606
+r_2426	YOR245C	http://identifiers.org/pubmed/22345606
+r_2427	YOR245C	http://identifiers.org/pubmed/22345606
+r_2428	YOR245C	http://identifiers.org/pubmed/22345606
+r_2429	YOR245C	http://identifiers.org/pubmed/22345606
+r_2430	YOR245C	http://identifiers.org/pubmed/22345606
+r_2431	YOR245C	http://identifiers.org/pubmed/22345606
+r_2432	YBR029C	http://identifiers.org/pubmed/22345606
+r_2433	YBR029C	http://identifiers.org/pubmed/22345606
+r_2434	YBR029C	http://identifiers.org/pubmed/22345606
+r_2435	YBR029C	http://identifiers.org/pubmed/22345606
+r_2436	YBR029C	http://identifiers.org/pubmed/22345606
+r_2437	YBR029C	http://identifiers.org/pubmed/22345606
+r_2438	YBR029C	http://identifiers.org/pubmed/22345606
+r_2439	YBR029C	http://identifiers.org/pubmed/22345606
+r_2440	YBR029C	http://identifiers.org/pubmed/22345606
+r_2441	YBR029C	http://identifiers.org/pubmed/22345606
+r_2442	YBR029C	http://identifiers.org/pubmed/22345606
+r_2443	YBR029C	http://identifiers.org/pubmed/22345606
+r_2444	YBR029C	http://identifiers.org/pubmed/22345606
+r_2445	YBR029C	http://identifiers.org/pubmed/22345606
+r_2446	YER026C	http://identifiers.org/pubmed/22345606
+r_2447	YER026C	http://identifiers.org/pubmed/22345606
+r_2448	YER026C	http://identifiers.org/pubmed/22345606
+r_2449	YER026C	http://identifiers.org/pubmed/22345606
+r_2450	YER026C	http://identifiers.org/pubmed/22345606
+r_2451	YER026C	http://identifiers.org/pubmed/22345606
+r_2452	YER026C	http://identifiers.org/pubmed/22345606
+r_2453	YER026C	http://identifiers.org/pubmed/22345606
+r_2454	YPR113W	http://identifiers.org/pubmed/22345606
+r_2455	YPR113W	http://identifiers.org/pubmed/22345606
+r_2456	YPR113W	http://identifiers.org/pubmed/22345606
+r_2457	YPR113W	http://identifiers.org/pubmed/22345606
+r_2458	YPR113W	http://identifiers.org/pubmed/22345606
+r_2459	YPR113W	http://identifiers.org/pubmed/22345606
+r_2460	YPR113W	http://identifiers.org/pubmed/22345606
+r_2461	YPR113W	http://identifiers.org/pubmed/22345606
+r_2462	YBR042C	http://identifiers.org/pubmed/22345606
+r_2463	YBR042C	http://identifiers.org/pubmed/22345606
+r_2464	YNL169C	http://identifiers.org/pubmed/22345606
+r_2465	YNL169C	http://identifiers.org/pubmed/22345606
+r_2466	YNL169C	http://identifiers.org/pubmed/22345606
+r_2467	YNL169C	http://identifiers.org/pubmed/22345606
+r_2468	YNL169C	http://identifiers.org/pubmed/22345606
+r_2469	YNL169C	http://identifiers.org/pubmed/22345606
+r_2470	YNL169C	http://identifiers.org/pubmed/22345606
+r_2471	YNL169C	http://identifiers.org/pubmed/22345606
+r_2472	YGR170W	http://identifiers.org/pubmed/22345606
+r_2473	YGR170W	http://identifiers.org/pubmed/22345606
+r_2474	YGR170W	http://identifiers.org/pubmed/22345606
+r_2475	YGR170W	http://identifiers.org/pubmed/22345606
+r_2476	YGR170W	http://identifiers.org/pubmed/22345606
+r_2477	YGR170W	http://identifiers.org/pubmed/22345606
+r_2478	YGR170W	http://identifiers.org/pubmed/22345606
+r_2479	YGR170W	http://identifiers.org/pubmed/22345606
+r_2480	YGR170W	http://identifiers.org/pubmed/22345606
+r_2481	YGR170W	http://identifiers.org/pubmed/22345606
+r_2482	YGR170W	http://identifiers.org/pubmed/22345606
+r_2483	YGR170W	http://identifiers.org/pubmed/22345606
+r_2484	YGR170W	http://identifiers.org/pubmed/22345606
+r_2485	YGR170W	http://identifiers.org/pubmed/22345606
+r_2486	YGR170W	http://identifiers.org/pubmed/22345606
+r_2487	YGR170W	http://identifiers.org/pubmed/22345606
+r_2488	(YGR157W OR YJR073C)	http://identifiers.org/pubmed/22345606
+r_2489	(YGR157W OR YJR073C)	http://identifiers.org/pubmed/22345606
+r_2490	(YGR157W OR YJR073C)	http://identifiers.org/pubmed/22345606
+r_2491	(YGR157W OR YJR073C)	http://identifiers.org/pubmed/22345606
+r_2492	(YGR157W OR YJR073C)	http://identifiers.org/pubmed/22345606
+r_2493	(YGR157W OR YJR073C)	http://identifiers.org/pubmed/22345606
+r_2494	(YGR157W OR YJR073C)	http://identifiers.org/pubmed/22345606
+r_2495	(YGR157W OR YJR073C)	http://identifiers.org/pubmed/22345606
+r_2496	YJR073C	http://identifiers.org/pubmed/22345606
+r_2497	YJR073C	http://identifiers.org/pubmed/22345606
+r_2498	YJR073C	http://identifiers.org/pubmed/22345606
+r_2499	YJR073C	http://identifiers.org/pubmed/22345606
+r_2500	YJR073C	http://identifiers.org/pubmed/22345606
+r_2501	YJR073C	http://identifiers.org/pubmed/22345606
+r_2502	YJR073C	http://identifiers.org/pubmed/22345606
+r_2503	YJR073C	http://identifiers.org/pubmed/22345606
+r_2504	YJR073C	http://identifiers.org/pubmed/22345606
+r_2505	YJR073C	http://identifiers.org/pubmed/22345606
+r_2506	YJR073C	http://identifiers.org/pubmed/22345606
+r_2507	YJR073C	http://identifiers.org/pubmed/22345606
+r_2508	YJR073C	http://identifiers.org/pubmed/22345606
+r_2509	YJR073C	http://identifiers.org/pubmed/22345606
+r_2510	YJR073C	http://identifiers.org/pubmed/22345606
+r_2511	YJR073C	http://identifiers.org/pubmed/22345606
+r_2512	YOR311C	http://identifiers.org/pubmed/22345606
+r_2513	YOR311C	http://identifiers.org/pubmed/22345606
+r_2514	YOR311C	http://identifiers.org/pubmed/22345606
+r_2515	YOR311C	http://identifiers.org/pubmed/22345606
+r_2516	YOR311C	http://identifiers.org/pubmed/22345606
+r_2517	YOR311C	http://identifiers.org/pubmed/22345606
+r_2518	YOR311C	http://identifiers.org/pubmed/22345606
+r_2519	YOR311C	http://identifiers.org/pubmed/22345606
+r_2520	YHR123W	http://identifiers.org/pubmed/22345606
+r_2521	YHR123W	http://identifiers.org/pubmed/22345606
+r_2522	YHR123W	http://identifiers.org/pubmed/22345606
+r_2523	YHR123W	http://identifiers.org/pubmed/22345606
+r_2524	YHR123W	http://identifiers.org/pubmed/22345606
+r_2525	YHR123W	http://identifiers.org/pubmed/22345606
+r_2526	YHR123W	http://identifiers.org/pubmed/22345606
+r_2527	YHR123W	http://identifiers.org/pubmed/22345606
+r_2528	(YHR123W OR YNL130C)	http://identifiers.org/pubmed/22345606
+r_2529	(YHR123W OR YNL130C)	http://identifiers.org/pubmed/22345606
+r_2530	(YHR123W OR YNL130C)	http://identifiers.org/pubmed/22345606
+r_2531	(YHR123W OR YNL130C)	http://identifiers.org/pubmed/22345606
+r_2532	(YHR123W OR YNL130C)	http://identifiers.org/pubmed/22345606
+r_2533	(YHR123W OR YNL130C)	http://identifiers.org/pubmed/22345606
+r_2534	(YHR123W OR YNL130C)	http://identifiers.org/pubmed/22345606
+r_2535	(YHR123W OR YNL130C)	http://identifiers.org/pubmed/22345606
+r_2536	YCL004W	http://identifiers.org/pubmed/22345606
+r_2537	YCL004W	http://identifiers.org/pubmed/22345606
+r_2538	YCL004W	http://identifiers.org/pubmed/22345606
+r_2539	YCL004W	http://identifiers.org/pubmed/22345606
+r_2540	YCL004W	http://identifiers.org/pubmed/22345606
+r_2541	YCL004W	http://identifiers.org/pubmed/22345606
+r_2542	YHR100C	http://identifiers.org/pubmed/22345606
+r_2543	YHR100C	http://identifiers.org/pubmed/22345606
+r_2544	YHR100C	http://identifiers.org/pubmed/22345606
+r_2545	YHR100C	http://identifiers.org/pubmed/22345606
+r_2546	YHR100C	http://identifiers.org/pubmed/22345606
+r_2547	YHR100C	http://identifiers.org/pubmed/22345606
+r_2548	YDL142C	http://identifiers.org/pubmed/22345606
+r_2549	YDL142C	http://identifiers.org/pubmed/22345606
+r_2550	YDL142C	http://identifiers.org/pubmed/22345606
+r_2551	YDL142C	http://identifiers.org/pubmed/22345606
+r_2552	YDL142C	http://identifiers.org/pubmed/22345606
+r_2553	YDL142C	http://identifiers.org/pubmed/22345606
+r_2554	YDL142C	http://identifiers.org/pubmed/22345606
+r_2555	YDL142C	http://identifiers.org/pubmed/22345606
+r_2556	YDL142C	http://identifiers.org/pubmed/22345606
+r_2557	YDL142C	http://identifiers.org/pubmed/22345606
+r_2558	YDL142C	http://identifiers.org/pubmed/22345606
+r_2559	YDL142C	http://identifiers.org/pubmed/22345606
+r_2560	YDL142C	http://identifiers.org/pubmed/22345606
+r_2561	YDL142C	http://identifiers.org/pubmed/22345606
+r_2562	YDL142C	http://identifiers.org/pubmed/22345606
+r_2563	YDL142C	http://identifiers.org/pubmed/22345606
+r_2564	YDL142C	http://identifiers.org/pubmed/22345606
+r_2565	YDL142C	http://identifiers.org/pubmed/22345606
+r_2566	YDL142C	http://identifiers.org/pubmed/22345606
+r_2567	YDL142C	http://identifiers.org/pubmed/22345606
+r_2568	YDL142C	http://identifiers.org/pubmed/22345606
+r_2569	YDL142C	http://identifiers.org/pubmed/22345606
+r_2570	YDL142C	http://identifiers.org/pubmed/22345606
+r_2571	YDL142C	http://identifiers.org/pubmed/22345606
+r_2572	YDL142C	http://identifiers.org/pubmed/22345606
+r_2573	YDL142C	http://identifiers.org/pubmed/22345606
+r_2574	YDL142C	http://identifiers.org/pubmed/22345606
+r_2575	YDL142C	http://identifiers.org/pubmed/22345606
+r_2576	YDL142C	http://identifiers.org/pubmed/22345606
+r_2577	YDL142C	http://identifiers.org/pubmed/22345606
+r_2578	YDL142C	http://identifiers.org/pubmed/22345606
+r_2579	YDL142C	http://identifiers.org/pubmed/22345606
+r_2580	YDL142C	http://identifiers.org/pubmed/22345606
+r_2581	YDL142C	http://identifiers.org/pubmed/22345606
+r_2582	YDL142C	http://identifiers.org/pubmed/22345606
+r_2583	YDL142C	http://identifiers.org/pubmed/22345606
+r_2584	YGR110W	http://identifiers.org/pubmed/22345606
+r_2585	YGR110W	http://identifiers.org/pubmed/22345606
+r_2586	YGR110W	http://identifiers.org/pubmed/22345606
+r_2587	YGR110W	http://identifiers.org/pubmed/22345606
+r_2588	YGR110W	http://identifiers.org/pubmed/22345606
+r_2589	YGR110W	http://identifiers.org/pubmed/22345606
+r_2590	YGR110W	http://identifiers.org/pubmed/22345606
+r_2591	YGR110W	http://identifiers.org/pubmed/22345606
+r_2592	YGR110W	http://identifiers.org/pubmed/22345606
+r_2593	YGR110W	http://identifiers.org/pubmed/22345606
+r_2594	YGR110W	http://identifiers.org/pubmed/22345606
+r_2595	YGR110W	http://identifiers.org/pubmed/22345606
+r_2596	YGR110W	http://identifiers.org/pubmed/22345606
+r_2597	YGR110W	http://identifiers.org/pubmed/22345606
+r_2598	YGR110W	http://identifiers.org/pubmed/22345606
+r_2599	YGR110W	http://identifiers.org/pubmed/22345606
+r_2600	YGR110W	http://identifiers.org/pubmed/22345606
+r_2601	YGR110W	http://identifiers.org/pubmed/22345606
+r_2602	YGR110W	http://identifiers.org/pubmed/22345606
+r_2603	YGR110W	http://identifiers.org/pubmed/22345606
+r_2604	YGR110W	http://identifiers.org/pubmed/22345606
+r_2605	YGR110W	http://identifiers.org/pubmed/22345606
+r_2606	YGR110W	http://identifiers.org/pubmed/22345606
+r_2607	YGR110W	http://identifiers.org/pubmed/22345606
+r_2608	YGR110W	http://identifiers.org/pubmed/22345606
+r_2609	YGR110W	http://identifiers.org/pubmed/22345606
+r_2610	YGR110W	http://identifiers.org/pubmed/22345606
+r_2611	YGR110W	http://identifiers.org/pubmed/22345606
+r_2612	YGR110W	http://identifiers.org/pubmed/22345606
+r_2613	YGR110W	http://identifiers.org/pubmed/22345606
+r_2614	YGR110W	http://identifiers.org/pubmed/22345606
+r_2615	YGR110W	http://identifiers.org/pubmed/22345606
+r_2616	YGR110W	http://identifiers.org/pubmed/22345606
+r_2617	YGR110W	http://identifiers.org/pubmed/22345606
+r_2618	YGR110W	http://identifiers.org/pubmed/22345606
+r_2619	YGR110W	http://identifiers.org/pubmed/22345606
+r_2620	YPR140W	http://identifiers.org/pubmed/22345606
+r_2621	YPR140W	http://identifiers.org/pubmed/22345606
+r_2622	YPR140W	http://identifiers.org/pubmed/22345606
+r_2623	YPR140W	http://identifiers.org/pubmed/22345606
+r_2624	YPR140W	http://identifiers.org/pubmed/22345606
+r_2625	YPR140W	http://identifiers.org/pubmed/22345606
+r_2626	YPR140W	http://identifiers.org/pubmed/22345606
+r_2627	YPR140W	http://identifiers.org/pubmed/22345606
+r_2628	YPR140W	http://identifiers.org/pubmed/22345606
+r_2629	YPR140W	http://identifiers.org/pubmed/22345606
+r_2630	YPR140W	http://identifiers.org/pubmed/22345606
+r_2631	YPR140W	http://identifiers.org/pubmed/22345606
+r_2632	YPR140W	http://identifiers.org/pubmed/22345606
+r_2633	YPR140W	http://identifiers.org/pubmed/22345606
+r_2634	YPR140W	http://identifiers.org/pubmed/22345606
+r_2635	YPR140W	http://identifiers.org/pubmed/22345606
+r_2636	YPR140W	http://identifiers.org/pubmed/22345606
+r_2637	YPR140W	http://identifiers.org/pubmed/22345606
+r_2638	YPR140W	http://identifiers.org/pubmed/22345606
+r_2639	YPR140W	http://identifiers.org/pubmed/22345606
+r_2640	YPR140W	http://identifiers.org/pubmed/22345606
+r_2641	YPR140W	http://identifiers.org/pubmed/22345606
+r_2642	YPR140W	http://identifiers.org/pubmed/22345606
+r_2643	YPR140W	http://identifiers.org/pubmed/22345606
+r_2644	YPR140W	http://identifiers.org/pubmed/22345606
+r_2645	YPR140W	http://identifiers.org/pubmed/22345606
+r_2646	YPR140W	http://identifiers.org/pubmed/22345606
+r_2647	YPR140W	http://identifiers.org/pubmed/22345606
+r_2648	YPR140W	http://identifiers.org/pubmed/22345606
+r_2649	YPR140W	http://identifiers.org/pubmed/22345606
+r_2650	YPR140W	http://identifiers.org/pubmed/22345606
+r_2651	YPR140W	http://identifiers.org/pubmed/22345606
+r_2652	YPR140W	http://identifiers.org/pubmed/22345606
+r_2653	YPR140W	http://identifiers.org/pubmed/22345606
+r_2654	YPR140W	http://identifiers.org/pubmed/22345606
+r_2655	YPR140W	http://identifiers.org/pubmed/22345606
+r_2656	YPR140W	http://identifiers.org/pubmed/22345606
+r_2657	YPR140W	http://identifiers.org/pubmed/22345606
+r_2658	YPR140W	http://identifiers.org/pubmed/22345606
+r_2659	YPR140W	http://identifiers.org/pubmed/22345606
+r_2660	YPR140W	http://identifiers.org/pubmed/22345606
+r_2661	YPR140W	http://identifiers.org/pubmed/22345606
+r_2662	YPR140W	http://identifiers.org/pubmed/22345606
+r_2663	YPR140W	http://identifiers.org/pubmed/22345606
+r_2664	YPR140W	http://identifiers.org/pubmed/22345606
+r_2665	YPR140W	http://identifiers.org/pubmed/22345606
+r_2666	YPR140W	http://identifiers.org/pubmed/22345606
+r_2667	YPR140W	http://identifiers.org/pubmed/22345606
+r_2668	YPR140W	http://identifiers.org/pubmed/22345606
+r_2669	YPR140W	http://identifiers.org/pubmed/22345606
+r_2670	YPR140W	http://identifiers.org/pubmed/22345606
+r_2671	YPR140W	http://identifiers.org/pubmed/22345606
+r_2672	YPR140W	http://identifiers.org/pubmed/22345606
+r_2673	YPR140W	http://identifiers.org/pubmed/22345606
+r_2674	YPR140W	http://identifiers.org/pubmed/22345606
+r_2675	YPR140W	http://identifiers.org/pubmed/22345606
+r_2676	YPR140W	http://identifiers.org/pubmed/22345606
+r_2677	YPR140W	http://identifiers.org/pubmed/22345606
+r_2678	YPR140W	http://identifiers.org/pubmed/22345606
+r_2679	YPR140W	http://identifiers.org/pubmed/22345606
+r_2680	YPR140W	http://identifiers.org/pubmed/22345606
+r_2681	YPR140W	http://identifiers.org/pubmed/22345606
+r_2682	YPR140W	http://identifiers.org/pubmed/22345606
+r_2683	YPR140W	http://identifiers.org/pubmed/22345606
+r_2684	YPR140W	http://identifiers.org/pubmed/22345606
+r_2685	YPR140W	http://identifiers.org/pubmed/22345606
+r_2686	YPR140W	http://identifiers.org/pubmed/22345606
+r_2687	YPR140W	http://identifiers.org/pubmed/22345606
+r_2688	YPR140W	http://identifiers.org/pubmed/22345606
+r_2689	YPR140W	http://identifiers.org/pubmed/22345606
+r_2690	YPR140W	http://identifiers.org/pubmed/22345606
+r_2691	YPR140W	http://identifiers.org/pubmed/22345606
+r_2692	YPR140W	http://identifiers.org/pubmed/22345606
+r_2693	YPR140W	http://identifiers.org/pubmed/22345606
+r_2694	YPR140W	http://identifiers.org/pubmed/22345606
+r_2695	YPR140W	http://identifiers.org/pubmed/22345606
+r_2696	YPR140W	http://identifiers.org/pubmed/22345606
+r_2697	YPR140W	http://identifiers.org/pubmed/22345606
+r_2698	YPR140W	http://identifiers.org/pubmed/22345606
+r_2699	YPR140W	http://identifiers.org/pubmed/22345606
+r_2700	YPR140W	http://identifiers.org/pubmed/22345606
+r_2701	YPR140W	http://identifiers.org/pubmed/22345606
+r_2702	YPR140W	http://identifiers.org/pubmed/22345606
+r_2703	YPR140W	http://identifiers.org/pubmed/22345606
+r_2704	YPR140W	http://identifiers.org/pubmed/22345606
+r_2705	YPR140W	http://identifiers.org/pubmed/22345606
+r_2706	YPR140W	http://identifiers.org/pubmed/22345606
+r_2707	YPR140W	http://identifiers.org/pubmed/22345606
+r_2708	YPR140W	http://identifiers.org/pubmed/22345606
+r_2709	YPR140W	http://identifiers.org/pubmed/22345606
+r_2710	YPR140W	http://identifiers.org/pubmed/22345606
+r_2711	YPR140W	http://identifiers.org/pubmed/22345606
+r_2712	YPR140W	http://identifiers.org/pubmed/22345606
+r_2713	YPR140W	http://identifiers.org/pubmed/22345606
+r_2714	YPR140W	http://identifiers.org/pubmed/22345606
+r_2715	YPR140W	http://identifiers.org/pubmed/22345606
+r_2716	YPR140W	http://identifiers.org/pubmed/22345606
+r_2717	YPR140W	http://identifiers.org/pubmed/22345606
+r_2718	YPR140W	http://identifiers.org/pubmed/22345606
+r_2719	YPR140W	http://identifiers.org/pubmed/22345606
+r_2720	YPR140W	http://identifiers.org/pubmed/22345606
+r_2721	YPR140W	http://identifiers.org/pubmed/22345606
+r_2722	YPR140W	http://identifiers.org/pubmed/22345606
+r_2723	YPR140W	http://identifiers.org/pubmed/22345606
+r_2724	YPR140W	http://identifiers.org/pubmed/22345606
+r_2725	YPR140W	http://identifiers.org/pubmed/22345606
+r_2726	YPR140W	http://identifiers.org/pubmed/22345606
+r_2727	YPR140W	http://identifiers.org/pubmed/22345606
+r_2728	YPR140W	http://identifiers.org/pubmed/22345606
+r_2729	YPR140W	http://identifiers.org/pubmed/22345606
+r_2730	YPR140W	http://identifiers.org/pubmed/22345606
+r_2731	YPR140W	http://identifiers.org/pubmed/22345606
+r_2732	YPR140W	http://identifiers.org/pubmed/22345606
+r_2733	YPR140W	http://identifiers.org/pubmed/22345606
+r_2734	YPR140W	http://identifiers.org/pubmed/22345606
+r_2735	YPR140W	http://identifiers.org/pubmed/22345606
+r_2736	YPR140W	http://identifiers.org/pubmed/22345606
+r_2737	YPR140W	http://identifiers.org/pubmed/22345606
+r_2738	YPR140W	http://identifiers.org/pubmed/22345606
+r_2739	YPR140W	http://identifiers.org/pubmed/22345606
+r_2740	YPR140W	http://identifiers.org/pubmed/22345606
+r_2741	YPR140W	http://identifiers.org/pubmed/22345606
+r_2742	YPR140W	http://identifiers.org/pubmed/22345606
+r_2743	YPR140W	http://identifiers.org/pubmed/22345606
+r_2744	YPR140W	http://identifiers.org/pubmed/22345606
+r_2745	YPR140W	http://identifiers.org/pubmed/22345606
+r_2746	YPR140W	http://identifiers.org/pubmed/22345606
+r_2747	YPR140W	http://identifiers.org/pubmed/22345606
+r_2748	YPR140W	http://identifiers.org/pubmed/22345606
+r_2749	YPR140W	http://identifiers.org/pubmed/22345606
+r_2750	YPR140W	http://identifiers.org/pubmed/22345606
+r_2751	YPR140W	http://identifiers.org/pubmed/22345606
+r_2752	YPR140W	http://identifiers.org/pubmed/22345606
+r_2753	YPR140W	http://identifiers.org/pubmed/22345606
+r_2754	YPR140W	http://identifiers.org/pubmed/22345606
+r_2755	YPR140W	http://identifiers.org/pubmed/22345606
+r_2756	YPR140W	http://identifiers.org/pubmed/22345606
+r_2757	YPR140W	http://identifiers.org/pubmed/22345606
+r_2758	YPR140W	http://identifiers.org/pubmed/22345606
+r_2759	YPR140W	http://identifiers.org/pubmed/22345606
+r_2760	YPR140W	http://identifiers.org/pubmed/22345606
+r_2761	YPR140W	http://identifiers.org/pubmed/22345606
+r_2762	YPR140W	http://identifiers.org/pubmed/22345606
+r_2763	YPR140W	http://identifiers.org/pubmed/22345606
+r_2764	YPR140W	http://identifiers.org/pubmed/22345606
+r_2765	YPR140W	http://identifiers.org/pubmed/22345606
+r_2766	YPR140W	http://identifiers.org/pubmed/22345606
+r_2767	YPR140W	http://identifiers.org/pubmed/22345606
+r_2768	YPR140W	http://identifiers.org/pubmed/22345606
+r_2769	YPR140W	http://identifiers.org/pubmed/22345606
+r_2770	YPR140W	http://identifiers.org/pubmed/22345606
+r_2771	YPR140W	http://identifiers.org/pubmed/22345606
+r_2772	YPR140W	http://identifiers.org/pubmed/22345606
+r_2773	YPR140W	http://identifiers.org/pubmed/22345606
+r_2774	YPR140W	http://identifiers.org/pubmed/22345606
+r_2775	YPR140W	http://identifiers.org/pubmed/22345606
+r_2776	YPR140W	http://identifiers.org/pubmed/22345606
+r_2777	YPR140W	http://identifiers.org/pubmed/22345606
+r_2778	YPR140W	http://identifiers.org/pubmed/22345606
+r_2779	YPR140W	http://identifiers.org/pubmed/22345606
+r_2780	YPR140W	http://identifiers.org/pubmed/22345606
+r_2781	YPR140W	http://identifiers.org/pubmed/22345606
+r_2782	YPR140W	http://identifiers.org/pubmed/22345606
+r_2783	YPR140W	http://identifiers.org/pubmed/22345606
+r_2784	YPR140W	http://identifiers.org/pubmed/22345606
+r_2785	YPR140W	http://identifiers.org/pubmed/22345606
+r_2786	YPR140W	http://identifiers.org/pubmed/22345606
+r_2787	YPR140W	http://identifiers.org/pubmed/22345606
+r_2788	YPR140W	http://identifiers.org/pubmed/22345606
+r_2789	YPR140W	http://identifiers.org/pubmed/22345606
+r_2790	YPR140W	http://identifiers.org/pubmed/22345606
+r_2791	YPR140W	http://identifiers.org/pubmed/22345606
+r_2792	YPR140W	http://identifiers.org/pubmed/22345606
+r_2793	YPR140W	http://identifiers.org/pubmed/22345606
+r_2794	YPR140W	http://identifiers.org/pubmed/22345606
+r_2795	YPR140W	http://identifiers.org/pubmed/22345606
+r_2796	YPR140W	http://identifiers.org/pubmed/22345606
+r_2797	YPR140W	http://identifiers.org/pubmed/22345606
+r_2798	YPR140W	http://identifiers.org/pubmed/22345606
+r_2799	YPR140W	http://identifiers.org/pubmed/22345606
+r_2800	YPR140W	http://identifiers.org/pubmed/22345606
+r_2801	YPR140W	http://identifiers.org/pubmed/22345606
+r_2802	YPR140W	http://identifiers.org/pubmed/22345606
+r_2803	YPR140W	http://identifiers.org/pubmed/22345606
+r_2804	YPR140W	http://identifiers.org/pubmed/22345606
+r_2805	YPR140W	http://identifiers.org/pubmed/22345606
+r_2806	YPR140W	http://identifiers.org/pubmed/22345606
+r_2807	YPR140W	http://identifiers.org/pubmed/22345606
+r_2808	YPR140W	http://identifiers.org/pubmed/22345606
+r_2809	YPR140W	http://identifiers.org/pubmed/22345606
+r_2810	YPR140W	http://identifiers.org/pubmed/22345606
+r_2811	YPR140W	http://identifiers.org/pubmed/22345606
+r_2812		NA
+r_2813		NA
+r_2814		NA
+r_2815		NA
+r_2816		NA
+r_2817		NA
+r_2818		NA
+r_2819		NA
+r_2820	(YJL100W OR YLR305C)	http://identifiers.org/pubmed/22345606
+r_2821	(YJL100W OR YLR305C)	http://identifiers.org/pubmed/22345606
+r_2822	(YJL100W OR YLR305C)	http://identifiers.org/pubmed/22345606
+r_2823	(YJL100W OR YLR305C)	http://identifiers.org/pubmed/22345606
+r_2824	(YJL100W OR YLR305C)	http://identifiers.org/pubmed/22345606
+r_2825	(YJL100W OR YLR305C)	http://identifiers.org/pubmed/22345606
+r_2826	(YJL100W OR YLR305C)	http://identifiers.org/pubmed/22345606
+r_2827	(YJL100W OR YLR305C)	http://identifiers.org/pubmed/22345606
+r_2828	YJL100W	http://identifiers.org/pubmed/22345606
+r_2829	YJL100W	http://identifiers.org/pubmed/22345606
+r_2830	YJL100W	http://identifiers.org/pubmed/22345606
+r_2831	YJL100W	http://identifiers.org/pubmed/22345606
+r_2832	YJL100W	http://identifiers.org/pubmed/22345606
+r_2833	YJL100W	http://identifiers.org/pubmed/22345606
+r_2834	YJL100W	http://identifiers.org/pubmed/22345606
+r_2835	YJL100W	http://identifiers.org/pubmed/22345606
+r_2836	(YNL267W AND YDR373W)	http://identifiers.org/pubmed/22345606
+r_2837	(YNL267W AND YDR373W)	http://identifiers.org/pubmed/22345606
+r_2838	(YNL267W AND YDR373W)	http://identifiers.org/pubmed/22345606
+r_2839	(YNL267W AND YDR373W)	http://identifiers.org/pubmed/22345606
+r_2840	(YNL267W AND YDR373W)	http://identifiers.org/pubmed/22345606
+r_2841	(YNL267W AND YDR373W)	http://identifiers.org/pubmed/22345606
+r_2842	(YNL267W AND YDR373W)	http://identifiers.org/pubmed/22345606
+r_2843	(YNL267W AND YDR373W)	http://identifiers.org/pubmed/22345606
+r_2844	YNL267W	http://identifiers.org/pubmed/22345606
+r_2845	YNL267W	http://identifiers.org/pubmed/22345606
+r_2846	YNL267W	http://identifiers.org/pubmed/22345606
+r_2847	YNL267W	http://identifiers.org/pubmed/22345606
+r_2848	YNL267W	http://identifiers.org/pubmed/22345606
+r_2849	YNL267W	http://identifiers.org/pubmed/22345606
+r_2850	YNL267W	http://identifiers.org/pubmed/22345606
+r_2851	YNL267W	http://identifiers.org/pubmed/22345606
+r_2852	(YLR240W AND YBR097W)	http://identifiers.org/pubmed/22345606
+r_2853	(YLR240W AND YBR097W)	http://identifiers.org/pubmed/22345606
+r_2854	(YLR240W AND YBR097W)	http://identifiers.org/pubmed/22345606
+r_2855	(YLR240W AND YBR097W)	http://identifiers.org/pubmed/22345606
+r_2856	(YLR240W AND YBR097W)	http://identifiers.org/pubmed/22345606
+r_2857	(YLR240W AND YBR097W)	http://identifiers.org/pubmed/22345606
+r_2858	(YLR240W AND YBR097W)	http://identifiers.org/pubmed/22345606
+r_2859	(YLR240W AND YBR097W)	http://identifiers.org/pubmed/22345606
+r_2860	YDR208W	http://identifiers.org/pubmed/22345606
+r_2861	YDR208W	http://identifiers.org/pubmed/22345606
+r_2862	YDR208W	http://identifiers.org/pubmed/22345606
+r_2863	YDR208W	http://identifiers.org/pubmed/22345606
+r_2864	YDR208W	http://identifiers.org/pubmed/22345606
+r_2865	YDR208W	http://identifiers.org/pubmed/22345606
+r_2866	YDR208W	http://identifiers.org/pubmed/22345606
+r_2867	YDR208W	http://identifiers.org/pubmed/22345606
+r_2868	YDR208W	http://identifiers.org/pubmed/22345606
+r_2869	YDR208W	http://identifiers.org/pubmed/22345606
+r_2870	YDR208W	http://identifiers.org/pubmed/22345606
+r_2871	YDR208W	http://identifiers.org/pubmed/22345606
+r_2872	YDR208W	http://identifiers.org/pubmed/22345606
+r_2873	YDR208W	http://identifiers.org/pubmed/22345606
+r_2874	YDR208W	http://identifiers.org/pubmed/22345606
+r_2875	YDR208W	http://identifiers.org/pubmed/22345606
+r_2876	YFR019W	http://identifiers.org/pubmed/22345606
+r_2877	YFR019W	http://identifiers.org/pubmed/22345606
+r_2878	YFR019W	http://identifiers.org/pubmed/22345606
+r_2879	YFR019W	http://identifiers.org/pubmed/22345606
+r_2880	YFR019W	http://identifiers.org/pubmed/22345606
+r_2881	YFR019W	http://identifiers.org/pubmed/22345606
+r_2882	YFR019W	http://identifiers.org/pubmed/22345606
+r_2883	YFR019W	http://identifiers.org/pubmed/22345606
+r_2884	YNR008W	http://identifiers.org/pubmed/22345606
+r_2885	YNR008W	http://identifiers.org/pubmed/22345606
+r_2886	YNR008W	http://identifiers.org/pubmed/22345606
+r_2887	YNR008W	http://identifiers.org/pubmed/22345606
+r_2888	YNR008W	http://identifiers.org/pubmed/22345606
+r_2889	YNR008W	http://identifiers.org/pubmed/22345606
+r_2890	YNR008W	http://identifiers.org/pubmed/22345606
+r_2891	YNR008W	http://identifiers.org/pubmed/22345606
+r_2892	YNR008W	http://identifiers.org/pubmed/22345606
+r_2893	YNR008W	http://identifiers.org/pubmed/22345606
+r_2894	YNR008W	http://identifiers.org/pubmed/22345606
+r_2895	YNR008W	http://identifiers.org/pubmed/22345606
+r_2896	YNR008W	http://identifiers.org/pubmed/22345606
+r_2897	YNR008W	http://identifiers.org/pubmed/22345606
+r_2898	YNR008W	http://identifiers.org/pubmed/22345606
+r_2899	YNR008W	http://identifiers.org/pubmed/22345606
+r_2900	YNR008W	http://identifiers.org/pubmed/22345606
+r_2901	YNR008W	http://identifiers.org/pubmed/22345606
+r_2902	YNR008W	http://identifiers.org/pubmed/22345606
+r_2903	YNR008W	http://identifiers.org/pubmed/22345606
+r_2904	YNR008W	http://identifiers.org/pubmed/22345606
+r_2905	YNR008W	http://identifiers.org/pubmed/22345606
+r_2906	YNR008W	http://identifiers.org/pubmed/22345606
+r_2907	YNR008W	http://identifiers.org/pubmed/22345606
+r_2908	YNR008W	http://identifiers.org/pubmed/22345606
+r_2909	YNR008W	http://identifiers.org/pubmed/22345606
+r_2910	YNR008W	http://identifiers.org/pubmed/22345606
+r_2911	YNR008W	http://identifiers.org/pubmed/22345606
+r_2912	YNR008W	http://identifiers.org/pubmed/22345606
+r_2913	YNR008W	http://identifiers.org/pubmed/22345606
+r_2914	YNR008W	http://identifiers.org/pubmed/22345606
+r_2915	YNR008W	http://identifiers.org/pubmed/22345606
+r_2916	YNR008W	http://identifiers.org/pubmed/22345606
+r_2917	YNR008W	http://identifiers.org/pubmed/22345606
+r_2918	YNR008W	http://identifiers.org/pubmed/22345606
+r_2919	YNR008W	http://identifiers.org/pubmed/22345606
+r_2920	YNR008W	http://identifiers.org/pubmed/22345606
+r_2921	YNR008W	http://identifiers.org/pubmed/22345606
+r_2922	YNR008W	http://identifiers.org/pubmed/22345606
+r_2923	YNR008W	http://identifiers.org/pubmed/22345606
+r_2924	YNR008W	http://identifiers.org/pubmed/22345606
+r_2925	YNR008W	http://identifiers.org/pubmed/22345606
+r_2926	YNR008W	http://identifiers.org/pubmed/22345606
+r_2927	YNR008W	http://identifiers.org/pubmed/22345606
+r_2928	YNR008W	http://identifiers.org/pubmed/22345606
+r_2929	YNR008W	http://identifiers.org/pubmed/22345606
+r_2930	YNR008W	http://identifiers.org/pubmed/22345606
+r_2931	YNR008W	http://identifiers.org/pubmed/22345606
+r_2932	YNR008W	http://identifiers.org/pubmed/22345606
+r_2933	YNR008W	http://identifiers.org/pubmed/22345606
+r_2934	YNR008W	http://identifiers.org/pubmed/22345606
+r_2935	YNR008W	http://identifiers.org/pubmed/22345606
+r_2936	YNR008W	http://identifiers.org/pubmed/22345606
+r_2937	YNR008W	http://identifiers.org/pubmed/22345606
+r_2938	YNR008W	http://identifiers.org/pubmed/22345606
+r_2939	YNR008W	http://identifiers.org/pubmed/22345606
+r_2940	YNR008W	http://identifiers.org/pubmed/22345606
+r_2941	YNR008W	http://identifiers.org/pubmed/22345606
+r_2942	YNR008W	http://identifiers.org/pubmed/22345606
+r_2943	YNR008W	http://identifiers.org/pubmed/22345606
+r_2944	YNR008W	http://identifiers.org/pubmed/22345606
+r_2945	YNR008W	http://identifiers.org/pubmed/22345606
+r_2946	YNR008W	http://identifiers.org/pubmed/22345606
+r_2947	YNR008W	http://identifiers.org/pubmed/22345606
+r_2948	YNR008W	http://identifiers.org/pubmed/22345606
+r_2949	YNR008W	http://identifiers.org/pubmed/22345606
+r_2950	YNR008W	http://identifiers.org/pubmed/22345606
+r_2951	YNR008W	http://identifiers.org/pubmed/22345606
+r_2952	YNR008W	http://identifiers.org/pubmed/22345606
+r_2953	YNR008W	http://identifiers.org/pubmed/22345606
+r_2954	YNR008W	http://identifiers.org/pubmed/22345606
+r_2955	YNR008W	http://identifiers.org/pubmed/22345606
+r_2956	YNR008W	http://identifiers.org/pubmed/22345606
+r_2957	YNR008W	http://identifiers.org/pubmed/22345606
+r_2958	YNR008W	http://identifiers.org/pubmed/22345606
+r_2959	YNR008W	http://identifiers.org/pubmed/22345606
+r_2960	YNR008W	http://identifiers.org/pubmed/22345606
+r_2961	YNR008W	http://identifiers.org/pubmed/22345606
+r_2962	YNR008W	http://identifiers.org/pubmed/22345606
+r_2963	YNR008W	http://identifiers.org/pubmed/22345606
+r_2964	YNR008W	http://identifiers.org/pubmed/22345606
+r_2965	YNR008W	http://identifiers.org/pubmed/22345606
+r_2966	YNR008W	http://identifiers.org/pubmed/22345606
+r_2967	YNR008W	http://identifiers.org/pubmed/22345606
+r_2968	YNR008W	http://identifiers.org/pubmed/22345606
+r_2969	YNR008W	http://identifiers.org/pubmed/22345606
+r_2970	YNR008W	http://identifiers.org/pubmed/22345606
+r_2971	YNR008W	http://identifiers.org/pubmed/22345606
+r_2972	YNR008W	http://identifiers.org/pubmed/22345606
+r_2973	YNR008W	http://identifiers.org/pubmed/22345606
+r_2974	YNR008W	http://identifiers.org/pubmed/22345606
+r_2975	YNR008W	http://identifiers.org/pubmed/22345606
+r_2976	YNR008W	http://identifiers.org/pubmed/22345606
+r_2977	YNR008W	http://identifiers.org/pubmed/22345606
+r_2978	YNR008W	http://identifiers.org/pubmed/22345606
+r_2979	YNR008W	http://identifiers.org/pubmed/22345606
+r_2980	YNR008W	http://identifiers.org/pubmed/22345606
+r_2981	YNR008W	http://identifiers.org/pubmed/22345606
+r_2982	YNR008W	http://identifiers.org/pubmed/22345606
+r_2983	YNR008W	http://identifiers.org/pubmed/22345606
+r_2984	YNR008W	http://identifiers.org/pubmed/22345606
+r_2985	YNR008W	http://identifiers.org/pubmed/22345606
+r_2986	YNR008W	http://identifiers.org/pubmed/22345606
+r_2987	YNR008W	http://identifiers.org/pubmed/22345606
+r_2988	YNR008W	http://identifiers.org/pubmed/22345606
+r_2989	YNR008W	http://identifiers.org/pubmed/22345606
+r_2990	YNR008W	http://identifiers.org/pubmed/22345606
+r_2991	YNR008W	http://identifiers.org/pubmed/22345606
+r_2992	YNR008W	http://identifiers.org/pubmed/22345606
+r_2993	YNR008W	http://identifiers.org/pubmed/22345606
+r_2994	YNR008W	http://identifiers.org/pubmed/22345606
+r_2995	YNR008W	http://identifiers.org/pubmed/22345606
+r_2996	YNR008W	http://identifiers.org/pubmed/22345606
+r_2997	YNR008W	http://identifiers.org/pubmed/22345606
+r_2998	YNR008W	http://identifiers.org/pubmed/22345606
+r_2999	YNR008W	http://identifiers.org/pubmed/22345606
+r_3000	YNR008W	http://identifiers.org/pubmed/22345606
+r_3001	YNR008W	http://identifiers.org/pubmed/22345606
+r_3002	YNR008W	http://identifiers.org/pubmed/22345606
+r_3003	YNR008W	http://identifiers.org/pubmed/22345606
+r_3004	YNR008W	http://identifiers.org/pubmed/22345606
+r_3005	YNR008W	http://identifiers.org/pubmed/22345606
+r_3006	YNR008W	http://identifiers.org/pubmed/22345606
+r_3007	YNR008W	http://identifiers.org/pubmed/22345606
+r_3008	YNR008W	http://identifiers.org/pubmed/22345606
+r_3009	YNR008W	http://identifiers.org/pubmed/22345606
+r_3010	YNR008W	http://identifiers.org/pubmed/22345606
+r_3011	YNR008W	http://identifiers.org/pubmed/22345606
+r_3022	YML059C	http://identifiers.org/pubmed/22345606
+r_3023	YML059C	http://identifiers.org/pubmed/22345606
+r_3024	YML059C	http://identifiers.org/pubmed/22345606
+r_3025	YML059C	http://identifiers.org/pubmed/22345606
+r_3026	YML059C	http://identifiers.org/pubmed/22345606
+r_3027	YML059C	http://identifiers.org/pubmed/22345606
+r_3028	YML059C	http://identifiers.org/pubmed/22345606
+r_3029	YML059C	http://identifiers.org/pubmed/22345606
+r_3030	YML059C	http://identifiers.org/pubmed/22345606
+r_3031	YML059C	http://identifiers.org/pubmed/22345606
+r_3032	YML059C	http://identifiers.org/pubmed/22345606
+r_3033	YML059C	http://identifiers.org/pubmed/22345606
+r_3034	YMR008C	http://identifiers.org/pubmed/22345606
+r_3035	YMR008C	http://identifiers.org/pubmed/22345606
+r_3036	YMR008C	http://identifiers.org/pubmed/22345606
+r_3037	YMR008C	http://identifiers.org/pubmed/22345606
+r_3038	YMR008C	http://identifiers.org/pubmed/22345606
+r_3039	YMR008C	http://identifiers.org/pubmed/22345606
+r_3040	YMR008C	http://identifiers.org/pubmed/22345606
+r_3041	YMR008C	http://identifiers.org/pubmed/22345606
+r_3042	YMR008C	http://identifiers.org/pubmed/22345606
+r_3043	YMR008C	http://identifiers.org/pubmed/22345606
+r_3044	YMR008C	http://identifiers.org/pubmed/22345606
+r_3045	YMR008C	http://identifiers.org/pubmed/22345606
+r_3046	(YMR008C OR YMR006C)	http://identifiers.org/pubmed/22345606
+r_3047	(YMR008C OR YMR006C)	http://identifiers.org/pubmed/22345606
+r_3048	(YMR008C OR YMR006C)	http://identifiers.org/pubmed/22345606
+r_3049	(YMR008C OR YMR006C)	http://identifiers.org/pubmed/22345606
+r_3050	(YMR008C OR YMR006C)	http://identifiers.org/pubmed/22345606
+r_3051	(YMR008C OR YMR006C)	http://identifiers.org/pubmed/22345606
+r_3052	(YMR008C OR YMR006C)	http://identifiers.org/pubmed/22345606
+r_3053	(YMR008C OR YMR006C)	http://identifiers.org/pubmed/22345606
+r_3054	(YMR008C OR YMR006C)	http://identifiers.org/pubmed/22345606
+r_3055	(YMR008C OR YMR006C)	http://identifiers.org/pubmed/22345606
+r_3056	(YMR008C OR YMR006C)	http://identifiers.org/pubmed/22345606
+r_3057	(YMR008C OR YMR006C)	http://identifiers.org/pubmed/22345606
+r_3058	(YMR006C OR YOL011W)	http://identifiers.org/pubmed/22345606
+r_3059	(YMR006C OR YOL011W)	http://identifiers.org/pubmed/22345606
+r_3060	(YMR006C OR YOL011W)	http://identifiers.org/pubmed/22345606
+r_3061	(YMR006C OR YOL011W)	http://identifiers.org/pubmed/22345606
+r_3062	(YMR006C OR YOL011W)	http://identifiers.org/pubmed/22345606
+r_3063	(YMR006C OR YOL011W)	http://identifiers.org/pubmed/22345606
+r_3064	(YMR006C OR YOL011W)	http://identifiers.org/pubmed/22345606
+r_3065	(YMR006C OR YOL011W)	http://identifiers.org/pubmed/22345606
+r_3066	(YMR006C OR YOL011W)	http://identifiers.org/pubmed/22345606
+r_3067	(YMR006C OR YOL011W)	http://identifiers.org/pubmed/22345606
+r_3068	(YMR006C OR YOL011W)	http://identifiers.org/pubmed/22345606
+r_3069	(YMR006C OR YOL011W)	http://identifiers.org/pubmed/22345606
+r_3070	YOL011W	http://identifiers.org/pubmed/22345606
+r_3071	YOL011W	http://identifiers.org/pubmed/22345606
+r_3072	YOL011W	http://identifiers.org/pubmed/22345606
+r_3073	YOL011W	http://identifiers.org/pubmed/22345606
+r_3074	YOL011W	http://identifiers.org/pubmed/22345606
+r_3075	YOL011W	http://identifiers.org/pubmed/22345606
+r_3076	YOL011W	http://identifiers.org/pubmed/22345606
+r_3077	YOL011W	http://identifiers.org/pubmed/22345606
+r_3078	YOL011W	http://identifiers.org/pubmed/22345606
+r_3079	YOL011W	http://identifiers.org/pubmed/22345606
+r_3080	YOL011W	http://identifiers.org/pubmed/22345606
+r_3081	YOL011W	http://identifiers.org/pubmed/22345606
+r_3082	YPL268W	http://identifiers.org/pubmed/17382260
+r_3083	YPL268W	http://identifiers.org/pubmed/17382260
+r_3084	YPL268W	http://identifiers.org/pubmed/17382260
+r_3085	YPL268W	http://identifiers.org/pubmed/17382260
+r_3086	YPL268W	http://identifiers.org/pubmed/17382260
+r_3087	YPL268W	http://identifiers.org/pubmed/17382260
+r_3088	YPL268W	http://identifiers.org/pubmed/17382260
+r_3089	YPL268W	http://identifiers.org/pubmed/17382260
+r_3090	YPL268W	http://identifiers.org/pubmed/17382260
+r_3091	YPL268W	http://identifiers.org/pubmed/17382260
+r_3092	YPL268W	http://identifiers.org/pubmed/17382260
+r_3093	YPL268W	http://identifiers.org/pubmed/17382260
+r_3094	YPL268W	http://identifiers.org/pubmed/17382260
+r_3095	YPL268W	http://identifiers.org/pubmed/17382260
+r_3096	YPL268W	http://identifiers.org/pubmed/17382260
+r_3097	YPL268W	http://identifiers.org/pubmed/17382260
+r_3098	YPL206C	http://identifiers.org/pubmed/22345606
+r_3099	YPL206C	http://identifiers.org/pubmed/22345606
+r_3100	YPL206C	http://identifiers.org/pubmed/22345606
+r_3101	YPL206C	http://identifiers.org/pubmed/22345606
+r_3102	YPL206C	http://identifiers.org/pubmed/22345606
+r_3103	YPL206C	http://identifiers.org/pubmed/22345606
+r_3104	YKR031C	http://identifiers.org/pubmed/22345606
+r_3105	YKR031C	http://identifiers.org/pubmed/22345606
+r_3106	YKR031C	http://identifiers.org/pubmed/22345606
+r_3107	YKR031C	http://identifiers.org/pubmed/22345606
+r_3108	YKR031C	http://identifiers.org/pubmed/22345606
+r_3109	YKR031C	http://identifiers.org/pubmed/22345606
+r_3110	YKR031C	http://identifiers.org/pubmed/22345606
+r_3111	YKR031C	http://identifiers.org/pubmed/22345606
+r_3112	(YNL106C OR YOR109W )	http://identifiers.org/pubmed/22345606
+r_3113	(YNL106C OR YOR109W )	http://identifiers.org/pubmed/22345606
+r_3114	(YNL106C OR YOR109W )	http://identifiers.org/pubmed/22345606
+r_3115	(YNL106C OR YOR109W )	http://identifiers.org/pubmed/22345606
+r_3116	(YNL106C OR YOR109W )	http://identifiers.org/pubmed/22345606
+r_3117	(YNL106C OR YOR109W )	http://identifiers.org/pubmed/22345606
+r_3118	(YNL106C OR YOR109W )	http://identifiers.org/pubmed/22345606
+r_3119	(YNL106C OR YOR109W )	http://identifiers.org/pubmed/22345606
+r_3120	(YNL106C OR YOR109W OR YJR110W)	http://identifiers.org/pubmed/22345606
+r_3121	(YNL106C OR YOR109W OR YJR110W)	http://identifiers.org/pubmed/22345606
+r_3122	(YNL106C OR YOR109W OR YJR110W)	http://identifiers.org/pubmed/22345606
+r_3123	(YNL106C OR YOR109W OR YJR110W)	http://identifiers.org/pubmed/22345606
+r_3124	(YNL106C OR YOR109W OR YJR110W)	http://identifiers.org/pubmed/22345606
+r_3125	(YNL106C OR YOR109W OR YJR110W)	http://identifiers.org/pubmed/22345606
+r_3126	(YNL106C OR YOR109W OR YJR110W)	http://identifiers.org/pubmed/22345606
+r_3127	(YNL106C OR YOR109W OR YJR110W)	http://identifiers.org/pubmed/22345606
+r_3128	YKL212W	http://identifiers.org/pubmed/22345606
+r_3129	YKL212W	http://identifiers.org/pubmed/22345606
+r_3130	YKL212W	http://identifiers.org/pubmed/22345606
+r_3131	YKL212W	http://identifiers.org/pubmed/22345606
+r_3132	YKL212W	http://identifiers.org/pubmed/22345606
+r_3133	YKL212W	http://identifiers.org/pubmed/22345606
+r_3134	YKL212W	http://identifiers.org/pubmed/22345606
+r_3135	YKL212W	http://identifiers.org/pubmed/22345606
+r_3136	YKL212W	http://identifiers.org/pubmed/22345606
+r_3137	YKL212W	http://identifiers.org/pubmed/22345606
+r_3138	YKL212W	http://identifiers.org/pubmed/22345606
+r_3139	YKL212W	http://identifiers.org/pubmed/22345606
+r_3140	YKL212W	http://identifiers.org/pubmed/22345606
+r_3141	YKL212W	http://identifiers.org/pubmed/22345606
+r_3142	YKL212W	http://identifiers.org/pubmed/22345606
+r_3143	YKL212W	http://identifiers.org/pubmed/22345606
+r_3144	(YNL106C OR YOR109W)	http://identifiers.org/pubmed/22345606
+r_3145	(YNL106C OR YOR109W)	http://identifiers.org/pubmed/22345606
+r_3146	(YNL106C OR YOR109W)	http://identifiers.org/pubmed/22345606
+r_3147	(YNL106C OR YOR109W)	http://identifiers.org/pubmed/22345606
+r_3148	(YNL106C OR YOR109W)	http://identifiers.org/pubmed/22345606
+r_3149	(YNL106C OR YOR109W)	http://identifiers.org/pubmed/22345606
+r_3150	(YNL106C OR YOR109W)	http://identifiers.org/pubmed/22345606
+r_3151	(YNL106C OR YOR109W)	http://identifiers.org/pubmed/22345606
+r_3152	(YNL106C OR YOR109W)	http://identifiers.org/pubmed/22345606
+r_3153	(YNL106C OR YOR109W)	http://identifiers.org/pubmed/22345606
+r_3154	(YNL106C OR YOR109W)	http://identifiers.org/pubmed/22345606
+r_3155	(YNL106C OR YOR109W)	http://identifiers.org/pubmed/22345606
+r_3156	(YNL106C OR YOR109W)	http://identifiers.org/pubmed/22345606
+r_3157	(YNL106C OR YOR109W)	http://identifiers.org/pubmed/22345606
+r_3158	(YNL106C OR YOR109W)	http://identifiers.org/pubmed/22345606
+r_3159	(YNL106C OR YOR109W)	http://identifiers.org/pubmed/22345606
+r_3160	YKL212W	http://identifiers.org/pubmed/22345606
+r_3161	YKL212W	http://identifiers.org/pubmed/22345606
+r_3162	YKL212W	http://identifiers.org/pubmed/22345606
+r_3163	YKL212W	http://identifiers.org/pubmed/22345606
+r_3164	YKL212W	http://identifiers.org/pubmed/22345606
+r_3165	YKL212W	http://identifiers.org/pubmed/22345606
+r_3166	YKL212W	http://identifiers.org/pubmed/22345606
+r_3167	YKL212W	http://identifiers.org/pubmed/22345606
+r_3168	YKL212W	http://identifiers.org/pubmed/22345606
+r_3169	YKL212W	http://identifiers.org/pubmed/22345606
+r_3170	YKL212W	http://identifiers.org/pubmed/22345606
+r_3171	YKL212W	http://identifiers.org/pubmed/22345606
+r_3172	YKL212W	http://identifiers.org/pubmed/22345606
+r_3173	YKL212W	http://identifiers.org/pubmed/22345606
+r_3174	YKL212W	http://identifiers.org/pubmed/22345606
+r_3175	YKL212W	http://identifiers.org/pubmed/22345606
+r_3176	(YNL106C OR YOR109W)	http://identifiers.org/pubmed/22345606
+r_3177	(YNL106C OR YOR109W)	http://identifiers.org/pubmed/22345606
+r_3178	(YNL106C OR YOR109W)	http://identifiers.org/pubmed/22345606
+r_3179	(YNL106C OR YOR109W)	http://identifiers.org/pubmed/22345606
+r_3180	(YNL106C OR YOR109W)	http://identifiers.org/pubmed/22345606
+r_3181	(YNL106C OR YOR109W)	http://identifiers.org/pubmed/22345606
+r_3182	(YNL106C OR YOR109W)	http://identifiers.org/pubmed/22345606
+r_3183	(YNL106C OR YOR109W)	http://identifiers.org/pubmed/22345606
+r_3184	(YNL106C OR YOR109W)	http://identifiers.org/pubmed/22345606
+r_3185	(YNL106C OR YOR109W)	http://identifiers.org/pubmed/22345606
+r_3186	(YNL106C OR YOR109W)	http://identifiers.org/pubmed/22345606
+r_3187	(YNL106C OR YOR109W)	http://identifiers.org/pubmed/22345606
+r_3188	(YNL106C OR YOR109W)	http://identifiers.org/pubmed/22345606
+r_3189	(YNL106C OR YOR109W)	http://identifiers.org/pubmed/22345606
+r_3190	(YNL106C OR YOR109W)	http://identifiers.org/pubmed/22345606
+r_3191	(YNL106C OR YOR109W)	http://identifiers.org/pubmed/22345606
+r_3192	(YNL106C OR YOR109W OR YIL002C)	http://identifiers.org/pubmed/22345606
+r_3193	(YNL106C OR YOR109W OR YIL002C)	http://identifiers.org/pubmed/22345606
+r_3194	(YNL106C OR YOR109W OR YIL002C)	http://identifiers.org/pubmed/22345606
+r_3195	(YNL106C OR YOR109W OR YIL002C)	http://identifiers.org/pubmed/22345606
+r_3196	(YNL106C OR YOR109W OR YIL002C)	http://identifiers.org/pubmed/22345606
+r_3197	(YNL106C OR YOR109W OR YIL002C)	http://identifiers.org/pubmed/22345606
+r_3198	(YNL106C OR YOR109W OR YIL002C)	http://identifiers.org/pubmed/22345606
+r_3199	(YNL106C OR YOR109W OR YIL002C)	http://identifiers.org/pubmed/22345606
+r_3200	(YNL106C OR YOR109W OR YIL002C)	http://identifiers.org/pubmed/22345606
+r_3201	(YNL106C OR YOR109W OR YIL002C)	http://identifiers.org/pubmed/22345606
+r_3202	(YNL106C OR YOR109W OR YIL002C)	http://identifiers.org/pubmed/22345606
+r_3203	(YNL106C OR YOR109W OR YIL002C)	http://identifiers.org/pubmed/22345606
+r_3204	(YNL106C OR YOR109W OR YIL002C)	http://identifiers.org/pubmed/22345606
+r_3205	(YNL106C OR YOR109W OR YIL002C)	http://identifiers.org/pubmed/22345606
+r_3206	(YNL106C OR YOR109W OR YIL002C)	http://identifiers.org/pubmed/22345606
+r_3207	(YNL106C OR YOR109W OR YIL002C)	http://identifiers.org/pubmed/22345606
+r_3208	YOL065C	http://identifiers.org/pubmed/22345606
+r_3209	YOL065C	http://identifiers.org/pubmed/22345606
+r_3210	YOL065C	http://identifiers.org/pubmed/22345606
+r_3211	YOL065C	http://identifiers.org/pubmed/22345606
+r_3212	YOL065C	http://identifiers.org/pubmed/22345606
+r_3213	YOL065C	http://identifiers.org/pubmed/22345606
+r_3214	YOL065C	http://identifiers.org/pubmed/22345606
+r_3215	YOL065C	http://identifiers.org/pubmed/22345606
+r_3216	(YNL325C AND YLR386W)	http://identifiers.org/pubmed/22345606
+r_3217	(YNL325C AND YLR386W)	http://identifiers.org/pubmed/22345606
+r_3218	(YNL325C AND YLR386W)	http://identifiers.org/pubmed/22345606
+r_3219	(YNL325C AND YLR386W)	http://identifiers.org/pubmed/22345606
+r_3220	(YNL325C AND YLR386W)	http://identifiers.org/pubmed/22345606
+r_3221	(YNL325C AND YLR386W)	http://identifiers.org/pubmed/22345606
+r_3222	(YNL325C AND YLR386W)	http://identifiers.org/pubmed/22345606
+r_3223	(YNL325C AND YLR386W)	http://identifiers.org/pubmed/22345606
+r_3224	YDR284C	http://identifiers.org/pubmed/22345606
+r_3225	YDR284C	http://identifiers.org/pubmed/22345606
+r_3226	YDR284C	http://identifiers.org/pubmed/22345606
+r_3227	YDR284C	http://identifiers.org/pubmed/22345606
+r_3228	YDR284C	http://identifiers.org/pubmed/22345606
+r_3229	YDR284C	http://identifiers.org/pubmed/22345606
+r_3230	YDR284C	http://identifiers.org/pubmed/22345606
+r_3231	YDR284C	http://identifiers.org/pubmed/22345606
+r_3232	YDR503C	http://identifiers.org/pubmed/22345606
+r_3233	YDR503C	http://identifiers.org/pubmed/22345606
+r_3234	YDR503C	http://identifiers.org/pubmed/22345606
+r_3235	YDR503C	http://identifiers.org/pubmed/22345606
+r_3236	YDR503C	http://identifiers.org/pubmed/22345606
+r_3237	YDR503C	http://identifiers.org/pubmed/22345606
+r_3238	YDR503C	http://identifiers.org/pubmed/22345606
+r_3239	YDR503C	http://identifiers.org/pubmed/22345606
+r_3240	YER037W	http://identifiers.org/pubmed/22345606
+r_3241	YER037W	http://identifiers.org/pubmed/22345606
+r_3242	YER037W	http://identifiers.org/pubmed/22345606
+r_3243	YER037W	http://identifiers.org/pubmed/22345606
+r_3244	YDR284C	http://identifiers.org/pubmed/22345606
+r_3245	YDR284C	http://identifiers.org/pubmed/22345606
+r_3246	YDR284C	http://identifiers.org/pubmed/22345606
+r_3247	YDR284C	http://identifiers.org/pubmed/22345606
+r_3248	YDR503C	http://identifiers.org/pubmed/22345606
+r_3249	YDR503C	http://identifiers.org/pubmed/22345606
+r_3250	YDR503C	http://identifiers.org/pubmed/22345606
+r_3251	YDR503C	http://identifiers.org/pubmed/22345606
+r_3252	(YKL140W OR YLL012W)	http://identifiers.org/pubmed/16835446,http://identifiers.org/pubmed/14640980
+r_3253	(YKL140W OR YLL012W)	http://identifiers.org/pubmed/16835446,http://identifiers.org/pubmed/14640980
+r_3254	YLL012W	http://identifiers.org/pubmed/16835446
+r_3255	YLL012W	http://identifiers.org/pubmed/16835446
+r_3256	YLL012W	http://identifiers.org/pubmed/16835446
+r_3257	YLL012W	http://identifiers.org/pubmed/16835446
+r_3258	YLL012W	http://identifiers.org/pubmed/16835446
+r_3259	YLL012W	http://identifiers.org/pubmed/16835446
+r_3260	YLL012W	http://identifiers.org/pubmed/16835446
+r_3261	YLL012W	http://identifiers.org/pubmed/16835446
+r_3262	YLR020C	http://identifiers.org/pubmed/15632184
+r_3263	YLR020C	http://identifiers.org/pubmed/15632184
+r_3264	(YMR313C OR YKR089C OR YOR081C OR YBR204C)	http://identifiers.org/pubmed/22345606
+r_3265	(YMR313C OR YKR089C OR YOR081C OR YBR204C)	http://identifiers.org/pubmed/22345606
+r_3266	(YMR313C OR YKR089C OR YOR081C OR YBR204C)	http://identifiers.org/pubmed/22345606
+r_3267	(YMR313C OR YKR089C OR YOR081C OR YBR204C)	http://identifiers.org/pubmed/22345606
+r_3268	(YMR313C OR YKR089C OR YOR081C OR YBR204C)	http://identifiers.org/pubmed/22345606
+r_3269	(YMR313C OR YKR089C OR YOR081C OR YBR204C)	http://identifiers.org/pubmed/22345606
+r_3270	(YMR313C OR YKR089C OR YOR081C OR YBR204C)	http://identifiers.org/pubmed/22345606
+r_3271	(YMR313C OR YKR089C OR YOR081C OR YBR204C)	http://identifiers.org/pubmed/22345606
+r_3272	(YMR313C OR YKR089C OR YOR081C OR YBR204C)	http://identifiers.org/pubmed/22345606
+r_3273	(YMR313C OR YKR089C OR YOR081C OR YBR204C)	http://identifiers.org/pubmed/22345606
+r_3274	(YMR313C OR YKR089C OR YOR081C OR YBR204C)	http://identifiers.org/pubmed/22345606
+r_3275	(YMR313C OR YKR089C OR YOR081C OR YBR204C)	http://identifiers.org/pubmed/22345606
+r_3276	(YMR313C OR YKR089C OR YOR081C OR YBR204C)	http://identifiers.org/pubmed/22345606
+r_3277	(YMR313C OR YKR089C OR YOR081C OR YBR204C)	http://identifiers.org/pubmed/22345606
+r_3278	(YMR313C OR YKR089C OR YOR081C OR YBR204C)	http://identifiers.org/pubmed/22345606
+r_3279	(YMR313C OR YKR089C OR YOR081C OR YBR204C)	http://identifiers.org/pubmed/22345606
+r_3280	(YMR313C OR YKR089C OR YOR081C OR YBR204C)	http://identifiers.org/pubmed/22345606
+r_3281	(YMR313C OR YKR089C OR YOR081C OR YBR204C)	http://identifiers.org/pubmed/22345606
+r_3282	(YMR313C OR YKR089C OR YOR081C OR YBR204C)	http://identifiers.org/pubmed/22345606
+r_3283	(YMR313C OR YKR089C OR YOR081C OR YBR204C)	http://identifiers.org/pubmed/22345606
+r_3284	(YMR313C OR YKR089C OR YOR081C OR YBR204C)	http://identifiers.org/pubmed/22345606
+r_3285	(YMR313C OR YKR089C OR YOR081C OR YBR204C)	http://identifiers.org/pubmed/22345606
+r_3286	(YMR313C OR YKR089C OR YOR081C OR YBR204C)	http://identifiers.org/pubmed/22345606
+r_3287	(YMR313C OR YKR089C OR YOR081C OR YBR204C)	http://identifiers.org/pubmed/22345606
+r_3288	(YMR313C OR YKR089C OR YOR081C OR YBR204C)	http://identifiers.org/pubmed/22345606
+r_3289	(YMR313C OR YKR089C OR YOR081C OR YBR204C)	http://identifiers.org/pubmed/22345606
+r_3290	(YMR313C OR YKR089C OR YOR081C OR YBR204C)	http://identifiers.org/pubmed/22345606
+r_3291	(YMR313C OR YKR089C OR YOR081C OR YBR204C)	http://identifiers.org/pubmed/22345606
+r_3292	(YMR313C OR YKR089C OR YOR081C OR YBR204C)	http://identifiers.org/pubmed/22345606
+r_3293	(YMR313C OR YKR089C OR YOR081C OR YBR204C)	http://identifiers.org/pubmed/22345606
+r_3294	(YMR313C OR YKR089C OR YOR081C OR YBR204C)	http://identifiers.org/pubmed/22345606
+r_3295	(YMR313C OR YKR089C OR YOR081C OR YBR204C)	http://identifiers.org/pubmed/22345606
+r_3296	YMR313C	http://identifiers.org/pubmed/22345606
+r_3297	YMR313C	http://identifiers.org/pubmed/22345606
+r_3298	YMR313C	http://identifiers.org/pubmed/22345606
+r_3299	YMR313C	http://identifiers.org/pubmed/22345606
+r_3300	YMR313C	http://identifiers.org/pubmed/22345606
+r_3301	YMR313C	http://identifiers.org/pubmed/22345606
+r_3302	YMR313C	http://identifiers.org/pubmed/22345606
+r_3303	YMR313C	http://identifiers.org/pubmed/22345606
+r_3304	YDR058C	http://identifiers.org/pubmed/22345606
+r_3305	YDR058C	http://identifiers.org/pubmed/22345606
+r_3306	YDR058C	http://identifiers.org/pubmed/22345606
+r_3307	YDR058C	http://identifiers.org/pubmed/22345606
+r_3308	YKL094W	http://identifiers.org/pubmed/22345606
+r_3309	YKL094W	http://identifiers.org/pubmed/22345606
+r_3310	YKL094W	http://identifiers.org/pubmed/22345606
+r_3311	YKL094W	http://identifiers.org/pubmed/22345606
+r_3312	YMR313C	http://identifiers.org/pubmed/20016004
+r_3313	YMR313C	http://identifiers.org/pubmed/20016004
+r_3314	YMR313C	http://identifiers.org/pubmed/20016004
+r_3315	YMR313C	http://identifiers.org/pubmed/20016004
+r_3316	YKR089C	http://identifiers.org/pubmed/22345606
+r_3317	YKR089C	http://identifiers.org/pubmed/22345606
+r_3318	YKR089C	http://identifiers.org/pubmed/22345606
+r_3319	YKR089C	http://identifiers.org/pubmed/22345606
+r_3320	YKR089C	http://identifiers.org/pubmed/22345606
+r_3321	YKR089C	http://identifiers.org/pubmed/22345606
+r_3322	YKR089C	http://identifiers.org/pubmed/22345606
+r_3323	YKR089C	http://identifiers.org/pubmed/22345606
+r_3324	YKR089C	http://identifiers.org/pubmed/22345606
+r_3325	YKR089C	http://identifiers.org/pubmed/22345606
+r_3326	YKR089C	http://identifiers.org/pubmed/22345606
+r_3327	YKR089C	http://identifiers.org/pubmed/22345606
+r_3328	YKR089C	http://identifiers.org/pubmed/22345606
+r_3329	YKR089C	http://identifiers.org/pubmed/22345606
+r_3330	YKR089C	http://identifiers.org/pubmed/22345606
+r_3331	YKR089C	http://identifiers.org/pubmed/22345606
+r_3332		NA
+r_3333		NA
+r_3334		NA
+r_3335		NA
+r_3336		NA
+r_3337		NA
+r_3338		NA
+r_3339		NA
+r_3340		NA
+r_3341		NA
+r_3342		NA
+r_3343		NA
+r_3344		NA
+r_3345		NA
+r_3346		NA
+r_3347		NA
+r_3348	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3349	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3350	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3351	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3352	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3353	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3354	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3355	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3356	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3357	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3358	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3359	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3360	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3361	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3362	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3363	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3364	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3365	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3366	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3367	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3368	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3369	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3370	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3371	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3372	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3373	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3374	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3375	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3376	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3377	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3378	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3379	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3380	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3381	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3382	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3383	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3384	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3385	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3386	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3387	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3388	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3389	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3390	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3391	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3392	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3393	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3394	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3395	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3396	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3397	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3398	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3399	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3400	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3401	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3402	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3403	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3404	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3405	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3406	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3407	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3408	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3409	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3410	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3411	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3412	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3413	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3414	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3415	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3416	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3417	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3418	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3419	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3420	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3421	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3422	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3423	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3424	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3425	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3426	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3427	YDR072C	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9368028
+r_3428	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3429	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3430	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3431	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3432	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3433	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3434	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3435	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3436	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3437	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3438	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3439	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3440	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3441	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3442	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3443	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3444	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3445	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3446	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3447	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3448	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3449	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3450	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3451	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3452	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3453	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3454	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3455	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3456	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3457	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3458	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3459	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3460	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3461	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3462	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3463	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3464	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3465	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3466	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3467	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3468	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3469	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3470	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3471	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3472	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3473	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3474	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3475	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3476	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3477	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3478	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3479	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3480	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3481	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3482	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3483	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3484	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3485	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3486	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3487	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3488	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3489	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3490	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3491	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3492	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3493	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3494	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3495	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3496	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3497	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3498	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3499	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3500	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3501	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3502	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3503	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3504	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3505	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3506	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3507	(YDR367W AND YKL004W)	http://identifiers.org/pubmed/18296751,http://identifiers.org/pubmed/9092515
+r_3508		NA
+r_3509		NA
+r_3510		NA
+r_3511		NA
+r_3512		NA
+r_3513		NA
+r_3514		NA
+r_3515		NA
+r_3516		NA
+r_3517		NA
+r_3518		NA
+r_3519		NA
+r_3520		NA
+r_3521		NA
+r_3522		NA
+r_3523		NA
+r_3524		NA
+r_3525		NA
+r_3526		NA
+r_3527		NA
+r_3528		NA
+r_3529		NA
+r_3530		NA
+r_3531		NA
+r_3532		NA
+r_3533		NA
+r_3534		NA
+r_3535		NA
+r_3536		NA
+r_3537		NA
+r_3538		NA
+r_3539		NA
+r_3540		NA
+r_3541		NA
+r_3542		NA
+r_3543		NA
+r_3544		NA
+r_3545		NA
+r_3546		NA
+r_3547		NA
+r_3548		NA
+r_3549		NA
+r_3550		NA
+r_3551		NA
+r_3552		NA
+r_3553		NA
+r_3554		NA
+r_3555		NA
+r_3556		NA
+r_3557		NA
+r_3558		NA
+r_3559		NA
+r_3560		NA
+r_3561		NA
+r_3562		NA
+r_3563		NA
+r_3564		NA
+r_3565		NA
+r_3566		NA
+r_3567		NA
+r_3568		NA
+r_3569		NA
+r_3570		NA
+r_3571		NA
+r_3572		NA
+r_3573		NA
+r_3574		NA
+r_3575		NA
+r_3576		NA
+r_3577		NA
+r_3578		NA
+r_3579		NA
+r_3580		NA
+r_3581		NA
+r_3582		NA
+r_3583		NA
+r_3584		NA
+r_3585		NA
+r_3586		NA
+r_3587		NA
+r_3588		NA
+r_3589		NA
+r_3590		NA
+r_3591		NA
+r_3592		NA
+r_3593		NA
+r_3594		NA
+r_3595		NA
+r_3596		NA
+r_3597		NA
+r_3598		NA
+r_3599		NA
+r_3600		NA
+r_3601		NA
+r_3602		NA
+r_3603		NA
+r_3604		NA
+r_3605		NA
+r_3606		NA
+r_3607		NA
+r_3608		NA
+r_3609		NA
+r_3610		NA
+r_3611		NA
+r_3612		NA
+r_3613		NA
+r_3614		NA
+r_3615		NA
+r_3616		NA
+r_3617		NA
+r_3618		NA
+r_3619		NA
+r_3620		NA
+r_3621		NA
+r_3622		NA
+r_3623		NA
+r_3624		NA
+r_3625		NA
+r_3626		NA
+r_3627		NA
+r_3628		NA
+r_3629		NA
+r_3630		NA
+r_3631		NA
+r_3632		NA
+r_3633		NA
+r_3634		NA
+r_3635		NA
+r_3636		NA
+r_3637		NA
+r_3638		NA
+r_3639		NA
+r_3640		NA
+r_3641		NA
+r_3642		NA
+r_3643		NA
+r_3644		NA
+r_3645		NA
+r_3646		NA
+r_3647		NA
+r_3648		NA
+r_3649		NA
+r_3650		NA
+r_3651		NA
+r_3652		NA
+r_3653		NA
+r_3654		NA
+r_3655		NA
+r_3656		NA
+r_3657		NA
+r_3658		NA
+r_3659		NA
+r_3660		NA
+r_3661		NA
+r_3662		NA
+r_3663		NA
+r_3664		NA
+r_3665		NA
+r_3666		NA
+r_3667		NA
+r_3668		NA
+r_3669		NA
+r_3670		NA
+r_3671		NA
+r_3672		NA
+r_3673		NA
+r_3674		NA
+r_3675		NA
+r_3676		NA
+r_3677		NA
+r_3678		NA
+r_3679		NA
+r_3680		NA
+r_3681		NA
+r_3682		NA
+r_3683		NA
+r_3684		NA
+r_3685		NA
+r_3686		NA
+r_3687		NA
+r_3688		NA
+r_3689		NA
+r_3690		NA
+r_3691		NA
+r_3692		NA
+r_3693		NA
+r_3694		NA
+r_3695		NA
+r_3696		NA
+r_3697		NA
+r_3698		NA
+r_3699		NA
+r_3700		NA
+r_3701		NA
+r_3702		NA
+r_3703		NA
+r_3704		NA
+r_3705		NA
+r_3706		NA
+r_3707		NA
+r_3708		NA
+r_3709		NA
+r_3710		NA
+r_3711		NA
+r_3712		NA
+r_3713		NA
+r_3714		NA
+r_3715		NA
+r_3716		NA
+r_3717		NA
+r_3718		NA
+r_3719		NA
+r_3720		NA
+r_3721		NA
+r_3722		NA
+r_3723		NA
+r_3724		NA
+r_3725		NA
+r_3726		NA
+r_3727		NA
+r_3728		NA
+r_3729		NA
+r_3730		NA
+r_3731		NA
+r_3732		NA
+r_3733		NA
+r_3734		NA
+r_3735		NA
+r_3736		NA
+r_3737		NA
+r_3738		NA
+r_3739		NA
+r_3740		NA
+r_3741		NA
+r_3742		NA
+r_3743		NA
+r_3744		NA
+r_3745		NA
+r_3746		NA
+r_3747		NA
+r_3748		NA
+r_3749		NA
+r_3750		NA
+r_3751		NA
+r_3752		NA
+r_3753		NA
+r_3754		NA
+r_3755		NA
+r_3756		NA
+r_3757		NA
+r_3758		NA
+r_3759		NA
+r_3760		NA
+r_3761		NA
+r_3762		NA
+r_3763		NA
+r_3764		NA
+r_3765		NA
+r_3766		NA
+r_3767		NA
+r_3768		NA
+r_3769		NA
+r_3770		NA
+r_3771		NA
+r_3772		NA
+r_3773		NA
+r_3774		NA
+r_3775		NA
+r_3776		NA
+r_3777		NA
+r_3778		NA
+r_3779		NA
+r_3780		NA
+r_3781		NA
+r_3782		NA
+r_3783		NA
+r_3784		NA
+r_3785		NA
+r_3786		NA
+r_3787		NA
+r_3788		NA
+r_3789		NA
+r_3790		NA
+r_3791		NA
+r_3792		NA
+r_3793		NA
+r_3794		NA
+r_3795		NA
+r_3796		NA
+r_3797		NA
+r_3798		NA
+r_3799		NA
+r_3800		NA
+r_3801		NA
+r_3802		NA
+r_3803		NA
+r_3804		NA
+r_3805		NA
+r_3806		NA
+r_3807		NA
+r_3808		NA
+r_3809		NA
+r_3810		NA
+r_3811		NA
+r_3812		NA
+r_3813		NA
+r_3814		NA
+r_3815		NA
+r_3816		NA
+r_3817		NA
+r_3818		NA
+r_3819		NA
+r_3820		NA
+r_3821		NA
+r_3822		NA
+r_3823		NA
+r_3824		NA
+r_3825		NA
+r_3826		NA
+r_3827		NA
+r_3828		NA
+r_3829		NA
+r_3830		NA
+r_3831		NA
+r_3832		NA
+r_3833		NA
+r_3834		NA
+r_3835		NA
+r_3836		NA
+r_3837		NA
+r_3838		NA
+r_3839		NA
+r_3840		NA
+r_3841		NA
+r_3842		NA
+r_3843		NA
+r_3844		NA
+r_3845		NA
+r_3846		NA
+r_3847		NA
+r_3848		NA
+r_3849		NA
+r_3850		NA
+r_3851		NA
+r_3852		NA
+r_3853		NA
+r_3854		NA
+r_3855		NA
+r_3856		NA
+r_3857		NA
+r_3858		NA
+r_3859		NA
+r_3860		NA
+r_3861		NA
+r_3862		NA
+r_3863		NA
+r_3864		NA
+r_3865		NA
+r_3866		NA
+r_3867		NA
+r_3868		NA
+r_3869		NA
+r_3870		NA
+r_3871		NA
+r_3872		NA
+r_3873		NA
+r_3874		NA
+r_3875		NA
+r_3876		NA
+r_3877		NA
+r_3878		NA
+r_3879		NA
+r_3880		NA
+r_3881		NA
+r_3882		NA
+r_3883		NA
+r_3884		NA
+r_3885		NA
+r_3886		NA
+r_3887		NA
+r_3888		NA
+r_3889		NA
+r_3890		NA
+r_3891		NA
+r_3892		NA
+r_3893		NA
+r_3894		NA
+r_3895		NA
+r_3896		NA
+r_3897		NA
+r_3898		NA
+r_3899		NA
+r_3900		NA
+r_3901		NA
+r_3902		NA
+r_3903		NA
+r_3904		NA
+r_3905		NA
+r_3906		NA
+r_3907		NA
+r_3908		NA
+r_3909		NA
+r_3910		NA
+r_3911		NA
+r_3912		NA
+r_3913		NA
+r_3914		NA
+r_3915		NA
+r_3916		NA
+r_3917		NA
+r_3918		NA
+r_3919		NA
+r_3920		NA
+r_3921		NA
+r_3922		NA
+r_3923		NA
+r_3924		NA
+r_3925		NA
+r_3926		NA
+r_3927		NA
+r_3928		NA
+r_3929		NA
+r_3930		NA
+r_3931		NA
+r_3932		NA
+r_3933		NA
+r_3934		NA
+r_3935		NA
+r_3936		NA
+r_3937		NA
+r_3938		NA
+r_3939		NA
+r_3940		NA
+r_3941		NA
+r_3942		NA
+r_3943		NA
+r_3944		NA
+r_3945		NA
+r_3946		NA
+r_3947		NA
+r_3948		NA
+r_3949		NA
+r_3950		NA
+r_3951		NA
+r_3952		NA
+r_3953		NA
+r_3954		NA
+r_3955		NA
+r_3956		NA
+r_3957		NA
+r_3958		NA
+r_3959		NA
+r_3960		NA
+r_3961		NA
+r_3962		NA
+r_3963		NA
+r_3964		NA
+r_3965		NA
+r_3966		NA
+r_3967		NA
+r_3968		NA
+r_3969		NA
+r_3970		NA
+r_3971		NA
+r_3972		NA
+r_3973		NA
+r_3974		NA
+r_3975		NA
+r_3976		NA
+r_3977		NA
+r_3978		NA
+r_3979		NA
+r_3980		NA
+r_3981		NA
+r_3982		NA
+r_3983		NA
+r_3984		NA
+r_3985		NA
+r_3986		NA
+r_3987		NA
+r_3988		NA
+r_3989		NA
+r_3990		NA
+r_3991		NA
+r_3992		NA
+r_3993		NA
+r_3994		NA
+r_3995		NA
+r_3996		NA
+r_3997		NA
+r_3998		NA
+r_3999		NA
+r_4000		NA
+r_4001		NA
+r_4002		NA
+r_4003		NA
+r_4004		NA
+r_4005		NA
+r_4006		NA
+r_4007		NA
+r_4008		NA
+r_4009		NA
+r_4010		NA
+r_4011		NA
+r_4012		NA
+r_4013		NA
+r_4014		NA
+r_4015		NA
+r_4016		NA
+r_4017		NA
+r_4018		NA
+r_4019		NA
+r_4020		NA
+r_4021		NA
+r_4022		NA
+r_4023		NA
+r_4024		NA
+r_4025		NA
+r_4026		NA
+r_4027		NA
+r_4028		NA
+r_4029		NA
+r_4030		NA
+r_4031		NA
+r_4032		NA
+r_4033		NA
+r_4034		NA
+r_4035		NA
+r_4036		NA
+r_4037		NA
+r_4038		NA
+r_4039	YBL015W	http://identifiers.org/pubmed/19298859
