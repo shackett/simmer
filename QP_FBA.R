@@ -224,34 +224,44 @@ load_metabolic_model <- function(){
   
   customList <- parse_custom("companionFiles/genome_scale_model/customRxns.txt")
   
-  rxnFile <<- rbind(rxnFile, customList$rxnFile)
-  rxnparFile <<- rbind(rxnparFile, customList$rxnparFile)
-  corrFile <<- rbind(corrFile, customList$corrFile)
-  specparFile <<- rbind(specparFile, customList$specparFile)
-  fluxDirFile <<- rbind(fluxDirFile, customList$fluxDirFile)
+  rxnFile <- rbind(rxnFile, customList$rxnFile)
+  rxnparFile <- rbind(rxnparFile, customList$rxnparFile)
+  corrFile <- rbind(corrFile, customList$corrFile)
+  specparFile <- rbind(specparFile, customList$specparFile)
+  fluxDirFile <- rbind(fluxDirFile, customList$fluxDirFile)
   
+  assign("rxnFile", rxnFile, envir=globalenv())
+  assign("rxnparFile", rxnparFile, envir=globalenv())
+  assign("corrFile", corrFile, envir=globalenv())
+  assign("specparFile", specparFile, envir=globalenv())
+  assign("fluxDirFile", fluxDirFile, envir=globalenv())
   
   ### Determine unique metabolites and reactions ###
   
-  reactions <<- sort(unique(rxnFile$ReactionID))
+  reactions <- sort(unique(rxnFile$ReactionID))
   rxnStoi <- rxnFile[is.na(rxnFile$StoiCoef) == FALSE,]
-  metabolites <<- sort(unique(rxnStoi$Metabolite))
+  metabolites <- sort(unique(rxnStoi$Metabolite))
+  
+  assign("reactions", reactions, envir=globalenv())
+  assign("metabolites", metabolites, envir=globalenv())
   
   # generate the stoichiometric matrix from reactions
   
-  stoiMat <<- build_stoiMat(metabolites, reactions, corrFile, rxnFile, internal_names = TRUE)
+  stoiMat <- build_stoiMat(metabolites, reactions, corrFile, rxnFile, internal_names = TRUE)
+  assign("stoiMat", stoiMat, envir=globalenv())
   
-  # Determine the compartmentation of each reaction
-
-  compartment <<- sapply(reactions, function(x){rxnFile$Compartment[rxnFile$ReactionID == x][1]})
-
   # generated a named version of the stoichiometric matrix (this is used to search for some reactions)
   
   named_stoi <- stoiMat
   met_dict <- metIDtoSpec(rownames(named_stoi)); met_dict <- sapply(c(1:length(named_stoi[,1])), function(x){met_dict[x][[1]]})
   rxn_dict <- rxnIDtoEnz(colnames(named_stoi)); rxn_dict <- sapply(c(1:length(named_stoi[1,])), function(x){rxn_dict[x][[1]]})
   rownames(named_stoi) <- met_dict; colnames(named_stoi) <- rxn_dict
-  named_stoi <<- named_stoi
+  assign("named_stoi", named_stoi, envir=globalenv())
+  
+  # Determine the compartmentation of each reaction
+
+  compartment <- sapply(reactions, function(x){rxnFile$Compartment[rxnFile$ReactionID == x][1]})
+  assign("compartment", compartment, envir=globalenv())
   
   ### update reaction directionalities
   
@@ -262,6 +272,7 @@ load_metabolic_model <- function(){
   reversibleRx$reversible = ifelse(reversibleRx$modelBound == "greaterEqual", 1, 0) # directionality is coded as -1: irreversibly backward, 0: reversible, 1: irreversibly forward
 
   # append directionality with manual annotation in several cases
+  
   manualDirectionality <- read.delim("companionFiles/genome_scale_model/thermoAnnotate.txt")
   reversibleRx$manual[data.table::chmatch(manualDirectionality$Reaction, reversibleRx$rx)] <- manualDirectionality$Direction
   reversibleRx$reversible[!is.na(reversibleRx$manual)] <- reversibleRx$manual[!is.na(reversibleRx$manual)]
@@ -345,8 +356,7 @@ load_metabolic_model <- function(){
   freeTransportRxns = c("r_1277", "r_2096", "r_1978", "r_1979", "r_1696", "r_1697") # transport of water, carbon dioxide and oxygen
   prot_penalty[reactions %in% freeTransportRxns] <- 0
   
-  # save L1 penalty for all reactions
-  prot_penalty <<- prot_penalty
+  assign("prot_penalty", prot_penalty, envir=globalenv())
   
 }
 
@@ -523,34 +533,36 @@ format_boundary_conditions <- function(){
     treatment_par[[chemostatInfo$ChemostatCond[i]]][["boundaryFlux"]] = biomass_list
   }
   
-  # save boundary flux summaries
-  treatment_par <<- treatment_par
+  assign("treatment_par", treatment_par, envir=globalenv())
   
-  possibleAuxotrophies <<- c(as.character(unique(rxnFile[grep("isopropylmalate dehydrogenase", rxnFile$Reaction),]$ReactionID)), as.character(unique(rxnFile[grep("orotidine", rxnFile$Reaction),]$ReactionID)))
-  
+  possibleAuxotrophies <- c(as.character(unique(rxnFile[grep("isopropylmalate dehydrogenase", rxnFile$Reaction),]$ReactionID)), as.character(unique(rxnFile[grep("orotidine", rxnFile$Reaction),]$ReactionID)))
+  assign("possibleAuxotrophies", possibleAuxotrophies, envir=globalenv())
   
   ### Define species involved in boundary-conditions
   
   # extract the metabolite ID corresponding to the extracellular introduction of nutrients
-  boundary_met <<- treatment_par[[1]]$nutrients %>% filter(type == "uptake") %>% 
+  boundary_met <- treatment_par[[1]]$nutrients %>% filter(type == "uptake") %>% 
     select(SpeciesName = specie) %>% tbl_df() %>% left_join(corrFile, by = "SpeciesName")
   if(nrow(boundary_met) != nrow(treatment_par[[1]]$nutrients %>% filter(type == "uptake"))){stop("A valid match was not found for all absorbed metabolites")}
-
+  assign("boundary_met", boundary_met, envir=globalenv())
 
   # extract the IDs of excreted metabolites
-  excreted_met <<- treatment_par[[1]]$nutrients %>% filter(type == "excretion") %>% 
+  excreted_met <- treatment_par[[1]]$nutrients %>% filter(type == "excretion") %>% 
     select(SpeciesName = specie) %>% tbl_df() %>% left_join(corrFile, by = "SpeciesName")
   if(nrow(excreted_met) != nrow(treatment_par[[1]]$nutrients %>% filter(type == "excretion"))){stop("A valid match was not found for all excreted metabolites")}
+  assign("excreted_met", excreted_met, envir=globalenv())
   
   # extract the metabolite ID corresponding to cytosolic metabolites being assimilated into biomass
   sinks <- unique(c(comp_by_cond$compositionFile$AltName[comp_by_cond$compositionFile$FluxType == "Boundary"], colnames(comp_by_cond$biomassExtensionE)[-1]))
-  comp_met <<- data.frame(SpeciesName = sinks) %>% tbl_df() %>% left_join(corrFile, by = "SpeciesName")
+  comp_met <- data.frame(SpeciesName = sinks) %>% tbl_df() %>% left_join(corrFile, by = "SpeciesName")
   if(nrow(comp_met) != length(sinks)){stop("A valid match was not found for all sinks")}
+  assign("comp_met", comp_met, envir=globalenv())
   
   # freely exchanging metabolites through extracellular compartment ##
   free_flux <- c("carbon dioxide [extracellular]", "H2O [extracellular]", "H+ [extracellular]")
-  freeExchange_met <<- data.frame(SpeciesName = free_flux) %>% tbl_df() %>% left_join(corrFile, by = "SpeciesName")
-
+  freeExchange_met <- data.frame(SpeciesName = free_flux) %>% tbl_df() %>% left_join(corrFile, by = "SpeciesName")
+  assign("freeExchange_met", freeExchange_met, envir=globalenv())
+  
 }
 
 
