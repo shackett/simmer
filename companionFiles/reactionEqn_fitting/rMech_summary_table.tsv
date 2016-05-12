@@ -91,5 +91,3 @@ r_0466	r_0466-rm-pairwise-t_0234-inh-noncomp+t_0617-inh-uncomp	2+ regulators
 r_0962	r_0962-rm-pairwise-t_0452-inh-noncomp+t_0234-inh-noncomp	2+ regulators
 r_1051	r_1051-rm-pairwise-t_0292-act-mm+t_0700-act-mm	2+ regulators
 r_1838	r_1838-rm-pairwise-t_0644-inh-noncomp+t_0492-inh-uncomp	2+ regulators
-r_0042	r_0042_Y_F_inhibition_isoenzymeSpecific	example: testing isoenzyme-specific regulation
-r_0042	r_0042_E4P_enzyme_specific_affinity_test2	example: testing isoenzyme-specific substrate affinities

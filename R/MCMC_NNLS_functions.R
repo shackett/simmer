@@ -369,6 +369,8 @@ par_draw <- function(updates, current_pars, kineticParPrior){
  
 lik_calc_fittedSD <- function(proposed_params, kineticPars, all_species, rxnEquations, omic_data, kinetically_differing_isoenzymes){
 
+  require(nnls)
+  
   #### determine the likelihood of predicted flux as a function of metabolite abundance and kinetics parameters relative to actual flux ####
   
   n_c <- nrow(omic_data$met_abund)
@@ -415,14 +417,8 @@ populate_reactionEqns <- function(){
 # Setup a subset of reaction forms for package
 # including rMM reaction forms, significant complex regulation (2 regulators or cooperativity) and
 # either significant single regulors (or best regulators for complex regulation)
-# also a couple of examples showing that the method can be used to test isoenzyme-specific kinetics (regulator or metabolite affinities)
 
 rxn_forms <- all_rxn_fits %>% arrange(desc(modelType))
-
-rxn_forms <- rbind(rxn_forms,
-  data.frame(reaction = "r_0042",
-                        rMech = c("r_0042_Y_F_inhibition_isoenzymeSpecific", "r_0042_E4P_enzyme_specific_affinity_test2"),
-                        modelType = c("example: testing isoenzyme-specific regulation", "example: testing isoenzyme-specific substrate affinities")))
 
 write.table(rxn_forms, file = "companionFiles/reactionEqn_fitting/rMech_summary_table.tsv", sep = "\t", row.names = F, quote = F)
 
