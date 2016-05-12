@@ -1,7 +1,57 @@
+fit_reaction_equations <- function(rxnSummary){
+  
+  # This function takes one reaction equation and associated multi-omic data and evaluate how well the
+  # reaction equation can predict provided flux based on the MCMC-NNLS algorithm.
+  
+  # this method allows for isoenzymes with different kinetics (none of the published work used this feature due to the extra
+  # degrees of freedom it uses
+  kinetically_differing_isoenzymes <- any(names(rxnSummary$rxnForm) %in% rownames(rxnSummary$enzymeComplexes))
+  # if isoenzymes differ w.r.t. kinetics or regulation then their occupancy equation are stored as different elements of a list
+  # and enzyme concentrations need to be paired with these seperate equations
+  
+  # format reaction equations to work with log-concentrations of metabolites and enzymes
+  rxnEquations <- format_raw_equations(rxnSummary, kinetically_differing_isoenzymes)
+
+  # Describe the relevent kinetic parameters
+  
+  summarize_kinetic_parameters(rxnSummary, rxnEquations, kinetically_differing_isoenzymes)
+  
+  # Format fluxes, metabolites and enzymes
+  
+  omic_data <- format_omic_data(kineticPars, all_species, rxnSummary, kinetically_differing_isoenzymes)
+  
+  # Combine enzyme(s) with non-linear portion of the kinetic form to generate final kinetic form
+  
+  finalize_reaction_equations(rxnEquations, all_species, kinetically_differing_isoenzymes)
+  
+  # Formulate priors on non-linear kinetic parameters (not kcat)
+  
+  kineticParPrior <- build_kinetic_parameter_priors(rxnSummary, kineticPars, omic_data)
+  
+  #### Sampling l(par|X) using MCMC-NNLS ####
+  
+  fit_reaction_equation_MCMC_NNLS(markov_pars, kineticPars, kineticParPrior, rxnEquations, all_species, omic_data, kinetically_differing_isoenzymes)
+  
+  run_summary <- list()
+  ## Save MC information
+  run_summary[[rxnSummary$listEntry]]$kineticPars <- kineticPars
+  run_summary[[rxnSummary$listEntry]]$all_species <- all_species
+  run_summary[[rxnSummary$listEntry]]$kineticParPrior <- data.frame(kineticPars, kineticParPrior)
+  run_summary[[rxnSummary$listEntry]]$markovChain <- markov_par_vals
+  run_summary[[rxnSummary$listEntry]]$logLikelihood <- lik_track
+  ##  Save flux and rxn information
+  run_summary[[rxnSummary$listEntry]]$occupancyEq <- rxnEquations
+  run_summary[[rxnSummary$listEntry]]$metabolites <- omic_data$met_abund
+  run_summary[[rxnSummary$listEntry]]$enzymes <- omic_data$enzyme_abund
+  run_summary[[rxnSummary$listEntry]]$flux <- omic_data$flux
+  run_summary[[rxnSummary$listEntry]]$specSD <- omic_data$species_SD
+  run_summary[[rxnSummary$listEntry]]$specCorr <- omic_data$species_corr
+  return(run_summary)
+}
 
 #### Setting up reaction equations and omic data
  
-format_raw_equations <- function(rxnSummary, format_raw_equations){
+format_raw_equations <- function(rxnSummary, kinetically_differing_isoenzymes){
   
   # reformat reactionEquations to work with log-space data
   
@@ -37,7 +87,7 @@ format_raw_equations <- function(rxnSummary, format_raw_equations){
   
   }
 
-summarize_kinetic_parameters <- function(rxnSummary, kinetically_differing_isoenzymes){
+summarize_kinetic_parameters <- function(rxnSummary, rxnEquations, kinetically_differing_isoenzymes){
   
   # based on metabolites and enzyme data provided, determine the kinetic constants that are present in the reaction equations
   
@@ -69,7 +119,7 @@ summarize_kinetic_parameters <- function(rxnSummary, kinetically_differing_isoen
   
 }
 
-format_omic_data <- function(kineticPars, all_species, kinetically_differing_isoenzymes){
+format_omic_data <- function(kineticPars, all_species, rxnSummary, kinetically_differing_isoenzymes){
   
   ### Create a matrix containing the metabolites and enzymes
   if(kinetically_differing_isoenzymes & length(grep('.[0-9]$', names(rxnSummary$rxnForm))) != 0){
@@ -225,7 +275,7 @@ finalize_reaction_equations <- function(rxnEquations, all_species, kinetically_d
   
 }  
   
-build_kinetic_parameter_priors <- function(kineticPars){
+build_kinetic_parameter_priors <- function(rxnSummary, kineticPars, omic_data){
   
   kineticParPrior <- data.frame(distribution = rep(NA, times = nrow(kineticPars)), par_1 = NA, par_2 = NA, par_3 = NA) 
   
@@ -243,6 +293,7 @@ build_kinetic_parameter_priors <- function(kineticPars){
   }#priors for measured metabolites (either in absolute or relative space) are drawn about the median
   
   # Prior for keq is centered around sum log(sub) - sum log(prod) - this deals with some species being in absolute space and others being absolute measurements
+  n_c <- nrow(omic_data$flux)
   kineticParPrior[kineticPars$SpeciesType == "keq", c(2:3)] <- median(rowSums(omic_data$met_abund * c(rep(1,n_c)) %*% t(rxnSummary$rxnStoi[data.table::chmatch(colnames(omic_data$met_abund), names(rxnSummary$rxnStoi))]))) + c(-20,20)
   
   # Specify prior for hill constants
@@ -257,8 +308,8 @@ build_kinetic_parameter_priors <- function(kineticPars){
 
 #### Fitting reaction equations
 
-fit_reaction_equation_MCMC_NNLS <- function(markov_pars, omic_data, kineticParPrior){
-    
+fit_reaction_equation_MCMC_NNLS <- function(markov_pars, kineticPars, kineticParPrior, rxnEquations, all_species, omic_data, kinetically_differing_isoenzymes){
+  
   ### Initialize parameters & setup tracking of likelihood and parameters ###
   
   lik_track <- NULL
@@ -266,18 +317,16 @@ fit_reaction_equation_MCMC_NNLS <- function(markov_pars, omic_data, kineticParPr
   colnames(markov_par_vals) <- kineticPars$formulaName
   
   current_pars <- rep(NA, times = nrow(kineticParPrior))
-  current_pars <- par_draw(1:nrow(kineticParPrior))
+  current_pars <- par_draw(1:nrow(kineticParPrior), current_pars, kineticParPrior)
   
-  current_lik <- lik_calc_fittedSD(current_pars)
-  
-  proposed_params <- current_pars
+  current_lik <- lik_calc_fittedSD(current_pars, kineticPars, all_species, rxnEquations, omic_data, kinetically_differing_isoenzymes)
   
   ### Generate markov chain ###
   
   for(i in 1:(markov_pars$burn_in + markov_pars$n_samples*markov_pars$sample_freq)){
     for(j in 1:nrow(kineticPars)){#loop over parameters values
-      proposed_par <- par_draw(j)
-      proposed_lik <- lik_calc_fittedSD(proposed_par)
+      proposed_par <- par_draw(j, current_pars, kineticParPrior)
+      proposed_lik <- lik_calc_fittedSD(proposed_par, kineticPars, all_species, rxnEquations, omic_data, kinetically_differing_isoenzymes)
       if(runif(1, 0, 1) < exp(proposed_lik - current_lik) | (proposed_lik == current_lik & proposed_lik == -Inf)){
         current_pars <- proposed_par
         current_lik <- proposed_lik
@@ -299,7 +348,7 @@ fit_reaction_equation_MCMC_NNLS <- function(markov_pars, omic_data, kineticParPr
   
   }
 
-par_draw <- function(updates){
+par_draw <- function(updates, current_pars, kineticParPrior){
   ### Update parameters using their prior (given by kineticParPrior) - update those those parameters whose index is in "updates" ###
   ### Parameters are all returned in log-space (base e) ###
   
@@ -318,10 +367,11 @@ par_draw <- function(updates){
   draw
 }
  
-lik_calc_fittedSD <- function(proposed_params){
+lik_calc_fittedSD <- function(proposed_params, kineticPars, all_species, rxnEquations, omic_data, kinetically_differing_isoenzymes){
 
   #### determine the likelihood of predicted flux as a function of metabolite abundance and kinetics parameters relative to actual flux ####
   
+  n_c <- nrow(omic_data$met_abund)
   par_stack <- rep(1, n_c) %*% t(proposed_params); colnames(par_stack) <- kineticPars$formulaName
   
   par_stack <- 2^par_stack
@@ -345,7 +395,9 @@ lik_calc_fittedSD <- function(proposed_params){
   
   # setting the variance from residual mean-squared error
   
-  nparam <- nrow(kineticPars) + ncol(omic_data$enzyme_abund)
+  nparam <- sum(kineticPars$measured[kineticPars$SpeciesType == "Metabolite"]) + # number of measured metabolites
+    sum(all_species$SpeciesType == "Enzyme") + # number of measured enzyme groups
+    sum(kineticPars$SpeciesType == "keq") # plus 1 if keq is included
   fit_resid_error <- sqrt(mean((flux_fit$resid - mean(flux_fit$resid))^2))*sqrt(n_c/(n_c-nparam))
   
   # integrate over the cdf from FVA_min to FVA_max t
