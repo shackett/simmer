@@ -1,0 +1,28 @@
+options(stringsAsFactors = F)
+
+source("./R/QP_FBA_functions.R")
+
+###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@
+##### Load files describing valid reactions, species (their composition) both from the core SBML model and supplemented manual annotations #####
+###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@
+
+load_metabolic_model()
+
+###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@##
+##### Load files describing boundary conditions, reaction reversibility and auxotrophies #####
+###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@##
+
+format_boundary_conditions()
+
+###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@
+####### Setup matrices defining the stoichiometry of each reaction and how reactions will be constrained #######
+###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@###@
+
+# identify reaction that cannot carry flux based on inputs, outputs and directionality
+infRxMet <- setup_FBA_constraints(return_infeasible = T, infRxMet = NULL)
+
+setup_FBA_constraints(return_infeasible = F, infRxMet)
+
+inferred_fluxes <- calculate_QP_fluxes()
+
+read_write_python_FVA(status = "write", directory = "~/Desktop/")
