@@ -1,5 +1,4 @@
 options(stringsAsFactors = F)
-
 source("./R/MCMC_NNLS_functions.R")
 
 # Load reaction equations (with embedded omic data)

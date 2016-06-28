@@ -416,7 +416,7 @@ populate_reactionEqns <- function(){
 # Not meant for users
 # Setup a subset of reaction forms for package
 # including rMM reaction forms, significant complex regulation (2 regulators or cooperativity) and
-# either significant single regulors (or best regulators for complex regulation)
+# either significant single regulators (or best regulators for complex regulation)
 
 rxn_forms <- all_rxn_fits %>% arrange(desc(modelType))
 
