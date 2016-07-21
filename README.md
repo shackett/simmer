@@ -4,7 +4,7 @@ This repository contains scripts and data that can be used to reproduce the flux
 
 ## R/QP_FBA_example.R
 
-Integrating boundary fluxes with the yeast metabolic reconstruction in order to estimate metabolic fluxes. This script makes use of the [Gurobi optimizer](http://www.gurobi.com/).
+Integrating boundary fluxes with the yeast metabolic reconstruction in order to estimate metabolic fluxes. This script makes use of the [Gurobi optimizer](http://www.gurobi.com/) which is freely available for academic use.
 
 - Load files describing valid reactions, species (their composition) both from the core SBML model and supplemented manual annotations
 - Load files describing boundary conditions, reaction reversibility and auxotrophies
