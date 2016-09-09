@@ -439,7 +439,7 @@ par_draw <- function(updates, current_pars, kineticParPrior){
 #' @export
 lik_calc_fittedSD <- function(proposed_params, kineticPars, all_species, rxnEquations, omic_data, kinetically_differing_isoenzymes){
 
-  requireNamespace(nnls)
+  requireNamespace("nnls", quietly = T)
 
   n_c <- nrow(omic_data$met_abund)
   par_stack <- rep(1, n_c) %*% t(proposed_params); colnames(par_stack) <- kineticPars$formulaName
@@ -461,7 +461,7 @@ lik_calc_fittedSD <- function(proposed_params, kineticPars, all_species, rxnEqua
   # fit flux ~ enzyme*occupancy using non-negative least squares (all enzymes have activity > 0, though negative flux can occur through occupancy)
   # flux objective is set as the average of the minimal and maximal allowable flux flowing through the reaction at the optimal solution
 
-  flux_fit <- nnls(enzyme_activity, (omic_data$flux$FVAmax + omic_data$flux$FVAmin)/2)
+  flux_fit <- nnls::nnls(enzyme_activity, (omic_data$flux$FVAmax + omic_data$flux$FVAmin)/2)
 
   # setting the variance from residual mean-squared error
 

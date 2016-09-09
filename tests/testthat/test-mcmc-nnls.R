@@ -3,9 +3,11 @@ test_that("fit_reaction_equations applies the MCMC-NNLS algorithm to one reactio
 #rMech_summary_table <- read.delim("companionFiles/reactionEqn_fitting/rMech_summary_table.tsv")
 #reactionForms <- readRDS("companionFiles/reactionEqn_fitting/reactionForms.Rds")
 
+library(simmer)
+
 data(rMech_summary_table)
 data(reactionForms)
-expect_equal(all(c("rMech_summary_table", "reactionForms") %in% ls()), TRUE)
+expect_true(all(c("rMech_summary_table", "reactionForms") %in% ls()))
 expect_equal(colnames(rMech_summary_table), c("reaction", "rMech", "modelType"))
 expect_equal(rMech_summary_table$rMech, names(reactionForms))
 

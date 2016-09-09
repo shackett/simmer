@@ -7,6 +7,20 @@
 lik_calc_fittedSD(proposed_params, kineticPars, all_species, rxnEquations,
   omic_data, kinetically_differing_isoenzymes)
 }
+\arguments{
+\item{proposed_params}{non-linear kinetic parameters to be testing using the reaction equation}
+
+\item{kineticPars}{table summarizing which species all non-linear kinetic parameters correspond to}
+
+\item{all_species}{all_species table summarizing the types of all reaction species}
+
+\item{rxnEquations}{expressions for reaction equations}
+
+\item{omic_data}{abundances and uncertainties of reaction species and flux: setup in \code{\link{format_omic_data}}}
+
+\item{kinetically_differing_isoenzymes}{True-False: does only one equation exist for the reaction (false)
+or are are reaction equations isoenzyme specific (true)}
+}
 \value{
 a numeric log-likelihood
 }

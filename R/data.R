@@ -4,6 +4,7 @@
 #' \item{reaction}{Systematic ID of reaction}
 #' \item{rMech}{ID of reaction form}
 #' \itme{modelType}{Type of regulation}
+#' }
 "rMech_summary_table"
 
 #' Data needed to evaluate each reaction form
