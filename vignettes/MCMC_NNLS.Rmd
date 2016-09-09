@@ -1,11 +1,22 @@
+---
+title: "Fitting reaction equations using MCMC and non-negative least squares"
+author: "Sean Hackett"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Fitting reaction equations using MCMC and non-negative least squares}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r}
 options(stringsAsFactors = F)
-source("./R/MCMC_NNLS_functions.R")
 
 # Load reaction equations (with embedded omic data)
 rMech_summary_table <- read.delim("companionFiles/reactionEqn_fitting/rMech_summary_table.tsv")
 reactionForms <- readRDS("companionFiles/reactionEqn_fitting/reactionForms.Rds")
 
-# real run param
+# real run param (x10 runs)
 #markov_pars <- list()
 #markov_pars$sample_freq <- 300 #what fraction of markov samples are reported (this thinning of samples decreases sample autocorrelation)
 #markov_pars$n_samples <- 200 #how many total markov samples are desired
@@ -28,3 +39,4 @@ library(dplyr)
 rMech_summary_table %>%
   group_by(reaction) %>%
   arrange(desc(maxLogLik)) %>% View
+```
