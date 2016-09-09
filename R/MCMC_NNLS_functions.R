@@ -65,6 +65,7 @@ fit_reaction_equations <- function(rxnSummary){
 #' or are are reaction equations isoenzyme specific (true)
 #' @return list containing the occupancy (non-linear) equations expecting metabolomic data
 #' in either linear or log2 space
+#' @export
 format_raw_equations <- function(rxnSummary, kinetically_differing_isoenzymes){
 
   # reformat reactionEquations to work with log-space data
@@ -108,6 +109,7 @@ format_raw_equations <- function(rxnSummary, kinetically_differing_isoenzymes){
 #' @param rxnEquations expressions for reaction equations
 #' @return writes summary of kinetic parameter table (kineticPars) and types of all reaciton species (all_species)
 #' to global environment
+#' @export
 summarize_kinetic_parameters <- function(rxnSummary, rxnEquations, kinetically_differing_isoenzymes){
 
   if(kinetically_differing_isoenzymes & length(grep('.[0-9]$', names(rxnSummary$rxnForm))) != 0){
@@ -145,6 +147,7 @@ summarize_kinetic_parameters <- function(rxnSummary, rxnEquations, kinetically_d
 #' @param kineticPars table summarizing which species all non-linear kinetic parameters correspond to
 #' @param all_species all_species table summarizing the types of all reaction species
 #' @return a list summarizing the abundances and uncertainties in reaction metabolites, enzymes and flux
+#' @export
 format_omic_data <- function(kineticPars, all_species, rxnSummary, kinetically_differing_isoenzymes){
 
   ###
@@ -231,6 +234,7 @@ format_omic_data <- function(kineticPars, all_species, rxnSummary, kinetically_d
 #' @inheritParams summarize_kinetic_parameters
 #' @inheritParams format_omic_data
 #' @return expand rxnEquations to include kcat parameters and partial derivatives of rxnEquations w.r.t. each specie
+#' @export
 finalize_reaction_equations <- function(rxnEquations, all_species, kinetically_differing_isoenzymes){
 
   if(kinetically_differing_isoenzymes){
@@ -315,6 +319,7 @@ finalize_reaction_equations <- function(rxnEquations, all_species, kinetically_d
 #' @inheritParams fit_reaction_equations
 #' @param omic_data abundances and uncertainties of reaction species and flux: setup in \code{\link{format_omic_data}}
 #' @return data.frame containing the parameters for each kinetic parameter's proposal distribution
+#' @export
 build_kinetic_parameter_priors <- function(rxnSummary, kineticPars, omic_data){
 
   kineticParPrior <- data.frame(distribution = rep(NA, times = nrow(kineticPars)), par_1 = NA, par_2 = NA, par_3 = NA)
@@ -350,6 +355,7 @@ build_kinetic_parameter_priors <- function(rxnSummary, kineticPars, omic_data){
 #' @inheritParams finalize_reaction_equations
 #' @return write draws from the posterior distribution of non-linear kinetic parameters (markov_par_vals)
 #' and their log-likelihoods (lik_track) to the global environment
+#' @export
 fit_reaction_equation_MCMC_NNLS <- function(markov_pars, kineticPars, kineticParPrior, rxnEquations, all_species, omic_data, kinetically_differing_isoenzymes){
 
   ### Initialize parameters & setup tracking of likelihood and parameters ###
@@ -404,6 +410,7 @@ fit_reaction_equation_MCMC_NNLS <- function(markov_pars, kineticPars, kineticPar
 #' @param current_pars current kinetic parameters some which will be overwritten
 #' @inheritParams fit_reaction_equation_MCMC_NNLS
 #' @return updated kinetic parameters
+#' @export
 par_draw <- function(updates, current_pars, kineticParPrior){
 
   draw <- current_pars
@@ -426,7 +433,10 @@ par_draw <- function(updates, current_pars, kineticParPrior){
 #' Determine the likelihood of predicted flux as a function of metabolite abundance and
 #' kinetics parameters relative to actual flux
 #'
+#' @param proposed_params non-linear kinetic parameters to be testing using the reaction equation
+#' @inheritParams fit_reaction_equation_MCMC_NNLS
 #' @return a numeric log-likelihood
+#' @export
 lik_calc_fittedSD <- function(proposed_params, kineticPars, all_species, rxnEquations, omic_data, kinetically_differing_isoenzymes){
 
   requireNamespace(nnls)
@@ -484,6 +494,5 @@ load("~/Desktop/Rabinowitz/FBA_SRH/Yeast_genome_scale/paramOptim.Rdata")
 reactionForms <- rxnList_form[rxn_forms$rMech]
 
 saveRDS(reactionForms, file = "companionFiles/reactionEqn_fitting/reactionForms.Rds")
-
+devtools::use_data(rMech_summary_table, reactionForms)
 }
-

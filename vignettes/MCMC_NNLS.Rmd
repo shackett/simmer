@@ -10,17 +10,21 @@ vignette: >
 ---
 
 ```{r}
+library(simmer)
+
 options(stringsAsFactors = F)
 
 # Load reaction equations (with embedded omic data)
-rMech_summary_table <- read.delim("companionFiles/reactionEqn_fitting/rMech_summary_table.tsv")
-reactionForms <- readRDS("companionFiles/reactionEqn_fitting/reactionForms.Rds")
+data(rMech_summary_table)
+data(reactionForms)
 
-# real run param (x10 runs)
-#markov_pars <- list()
-#markov_pars$sample_freq <- 300 #what fraction of markov samples are reported (this thinning of samples decreases sample autocorrelation)
-#markov_pars$n_samples <- 200 #how many total markov samples are desired
-#markov_pars$burn_in <- 8000 #how many initial samples should be skipped
+knitr::kable(head(rMech_summary_table, 8))
+```
+
+```{r}
+
+#rMech_summary_table <- read.delim("companionFiles/reactionEqn_fitting/rMech_summary_table.tsv")
+#reactionForms <- readRDS("companionFiles/reactionEqn_fitting/reactionForms.Rds")
 
 # toy run parameters (so everything runs quick)
 markov_pars <- list()
