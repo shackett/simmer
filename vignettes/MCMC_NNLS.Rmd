@@ -20,8 +20,8 @@ library(dplyr)
 options(stringsAsFactors = F)
 
 # Load reaction equations (with embedded omic data)
-data(rMech_summary_table)
-data(reactionForms)
+rMech_summary_table <- suppressMessages(readr::read_tsv(system.file("extdata", "reactionEqn_fitting", "rMech_summary_table.tsv", package = "simmer")))
+reactionForms <- suppressMessages(readr::read_rds(system.file("extdata", "reactionEqn_fitting", "reactionForms.Rds", package = "simmer")))
 
 kable(head(rMech_summary_table, 8))
 ```

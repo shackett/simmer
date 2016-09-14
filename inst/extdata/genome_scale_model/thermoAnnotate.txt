@@ -1,0 +1,1 @@
+Reaction	Direction	Commentr_0470	1	prevent NADH <-> NADPH cycling - flows forward under conditions consideredr_0659	1	prevent NADH <-> NADPH cycling - flows forward under conditions considered

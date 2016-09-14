@@ -5,24 +5,25 @@
 #' Load core model derived from SBML reconstruction
 #'
 #' @return assign metabolic model files to global environment
+#' @export
 load_metabolic_model <- function(){
 
   # reaction stoichiometry, compartment, metabolite / rxn IDs
-  rxnFile = read.delim("companionFiles/genome_scale_model/rxn_yeast.tsv")
+  rxnFile <- read_simmer_tsv("genome_scale_model", "rxn_yeast.tsv")
   # reaction enzymes and annotations
-  rxnparFile = read.delim("companionFiles/genome_scale_model/rxn_par_yeast.tsv")
+  rxnparFile = read_simmer_tsv("genome_scale_model", "rxn_par_yeast.tsv")
   # mapping between unique metabolites and compartmentalized metabolites
-  corrFile = read.delim("companionFiles/genome_scale_model/spec_yeast.tsv")
+  corrFile = read_simmer_tsv("genome_scale_model", "spec_yeast.tsv")
   # metabolite annotations (ChEBI and KEGG)
-  specparFile = read.delim("companionFiles/genome_scale_model/species_par_yeast.tsv")
+  specparFile = read_simmer_tsv("genome_scale_model", "species_par_yeast.tsv")
   # comparment IDs to compartment names
-  compFile = read.delim("companionFiles/genome_scale_model/comp_yeast.tsv")
+  compFile = read_simmer_tsv("genome_scale_model", "comp_yeast.tsv")
   # model-specified reaction directionality
-  fluxDirFile = read.delim("companionFiles/genome_scale_model/flux_dir_yeast.tsv")
+  fluxDirFile = read_simmer_tsv("genome_scale_model", "flux_dir_yeast.tsv")
 
   ### Add additional reactions ###
 
-  customList <- parse_custom("companionFiles/genome_scale_model/customRxns.txt")
+  customList <- parse_custom(folder = "genome_scale_model", file = "customRxns.txt")
 
   rxnFile <- rbind(rxnFile, customList$rxnFile)
   rxnparFile <- rbind(rxnparFile, customList$rxnparFile)
@@ -73,7 +74,7 @@ load_metabolic_model <- function(){
 
   # append directionality with manual annotation in several cases
 
-  manualDirectionality <- read.delim("companionFiles/genome_scale_model/thermoAnnotate.txt")
+  manualDirectionality <- read_simmer_tsv("genome_scale_model", "thermoAnnotate.txt")
   reversibleRx$manual[data.table::chmatch(manualDirectionality$Reaction, reversibleRx$rx)] <- manualDirectionality$Direction
   reversibleRx$reversible[!is.na(reversibleRx$manual)] <- reversibleRx$manual[!is.na(reversibleRx$manual)]
 
@@ -102,7 +103,7 @@ load_metabolic_model <- function(){
     }
   }
 
-  enzyme_abund <- read.delim("companionFiles/flux_input_data/proteinAbundance.tsv")
+  enzyme_abund <- read_simmer_tsv("flux_input_data", "proteinAbundance.tsv")
   rownames(enzyme_abund) <- enzyme_abund$Gene; enzyme_abund <- enzyme_abund[,-1]
 
   prot_matches <- sapply(reactions, function(x){
@@ -167,11 +168,11 @@ load_metabolic_model <- function(){
 #'
 #' @param customRx directory of customRxns.txt
 #' @return list containing reactions and metabolites that were added to the base metabolic model
-parse_custom <- function(customRx){
+parse_custom <- function(folder, file){
 
   outputList <- list()
 
-  inputFile = read.table(customRx, header = F, sep = "\t", fill = T, blank.lines.skip = F)
+  inputFile = read.table(system.file("extdata", folder, file, package = "simmer"), header = F, sep = "\t", fill = T, blank.lines.skip = F)
 
   ### Species-level annotation ###
 
@@ -258,19 +259,22 @@ build_stoiMat <- function(metabolites, reactions, corrFile, rxnFile, internal_na
 #' flag the entries in the metabolic model that match boundary species
 #'
 #' @return write boundary flux inputs to global environment
+#'
 #' @import dplyr
+#'
+#' @export
 format_boundary_conditions <- function(){
 
   ### Experimental inputs (media formulation, uptake, excretion, incorporation rates)
 
-  nutrientFile <- read.delim("companionFiles/flux_input_data/Boer_nutrients.txt")[1:6,1:6]
+  nutrientFile <- read_simmer_tsv("flux_input_data", "Boer_nutrients.txt")[1:6,1:6]
   nutrientCode <- data.frame(nutrient = colnames(nutrientFile)[-1], shorthand = c("N", "P", "C", "L", "U"))
 
   rownames(nutrientFile) <- nutrientFile[,1]; nutrientFile <- nutrientFile[,-1]
   nutModelNames <- data.frame(commonName = rownames(nutrientFile), modelName = sapply(rownames(nutrientFile), function(x){paste(x, '[extracellular]')}))
   rownames(nutrientFile) <- nutModelNames$modelName
 
-  load("companionFiles/flux_input_data/boundaryFluxes.Rdata") #load condition specific boundary fluxes and chemostat info (actual culture DR)
+  load(system.file("extdata", "flux_input_data", "boundaryFluxes.Rdata", package = "simmer")) #load condition specific boundary fluxes and chemostat info (actual culture DR)
 
 
   ### Define the treatment in terms of nutrient availability and auxotrophies
@@ -388,10 +392,23 @@ format_boundary_conditions <- function(){
 
 #### Format optimization problem
 
+#' Setup FBA constraints
+#'
+#' either determine reactions that cannot carry flux given stoichiometry, boundary fluxes and directionality or write all
+#' equality and inequality constraints to the global environment.
+#'
+#' If return_infeasible is TRUE then a data.frame of reactions that cannot carry flux (and associated metabolites)
+#' will be returned providing this data.frame as infRxMet will exclude these reactions and species from subsequent steps.
+#'
+#' @param return_infeasible logical: if TRUE then only return metabolite and reaction IDs to be removed.
+#' If FALSE then determine all equality and inequality constraints.
+#' @param infRxMet a list of metabolites and reactions to remove
+#'
+#' @return write optimization constraints to global environment
+#'
+#' @export
 setup_FBA_constraints <- function(return_infeasible = F, infRxMet = NULL){
 
-  # if return_infeasible is TRUE then a data.frame of reactions that cannot carry flux (and associated metabolites) will be returned
-  # providing this data.frame as infRxMet will exclude these reactions and species from subsequent steps
 
   stopifnot(is.logical(return_infeasible),
             class(infRxMet) %in% c("NULL", "character"))
@@ -640,22 +657,27 @@ setup_inequality_constraints <- function(){
 
 #### Inferring fluxes
 
+#' Calculate QP fluxes
+#'
+#' Using boundary fluxes and reaction stoichiometry and directionality apply quadratic programming to
+#' find a flux distribution that optimally agrees with boundary fluxes for each experimental condition.
+#'
+#' @return a data.frame containing all fluxes that were non-zero in at least one condition
+#'
+#' @import gurobi
+#'
+#' @export
 calculate_QP_fluxes <- function(){
 
-  # Carryout quadratic programming to optimize fluxes s.t.
-  # minimizing deviations between experimental boundary fluxes and flux-balanced fluxes
-
-  require(Matrix) #for sparse matrix class
-  require(gurobi) #interface for gurobi solver (license required: free for academics)
   #install.packages('/Library/gurobi600/mac64/R/gurobi_6.0-0.tgz', repos=NULL)
 
   qpModel <- list()
-  qpparams <- list(OptimalityTol = 10^-9, FeasibilityTol = 10^-9, BarConvTol = 10^-16)
+  qpparams <- list(OptimalityTol = 10^-9, FeasibilityTol = 10^-9, BarConvTol = 10^-16,  OutputFlag = 0)
 
   flux_elevation_factor <- 10^6
   flux_penalty <- 500/(flux_elevation_factor)
 
-  qpModel$A <- Matrix(S)
+  qpModel$A <- Matrix::Matrix(S)
   qpModel$rhs <- Fzero #flux balance
   qpModel$sense <- rep("=", times = length(S[,1])) #global flux balance
   qpModel$lb <- rep(0, times = length(S[1,])) #all fluxes are greater than zero

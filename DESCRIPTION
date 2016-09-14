@@ -6,11 +6,12 @@ Description: This repository contains scripts and data that can be used to repro
 Imports:
     dplyr (>= 0.5.0)
 Suggests:
-    ggplot2 (>= 2.1.0),
     nnls (>= 1.4),
     gurobi (>= 5.6-0),
+    ggplot2 (>= 2.1.0),
     tidyr (>= 0.6.0),
     parallel,
+    Matrix,
     testthat,
     knitr,
     rmarkdown

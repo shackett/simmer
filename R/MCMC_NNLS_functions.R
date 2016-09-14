@@ -3,7 +3,9 @@
 #' This function takes one reaction equation and associated multi-omic data and evaluate how well the
 #' reaction equation can predict provided flux based on the MCMC-NNLS algorithm.
 #' @param rxnSummary a list containing a reaction equation to fit (several forms of it) and multi-omic data
+#'
 #' @return summary of MCMC run and input data
+#'
 #' @export
 fit_reaction_equations <- function(rxnSummary){
 
@@ -493,6 +495,4 @@ load("~/Desktop/Rabinowitz/FBA_SRH/Yeast_genome_scale/paramOptim.Rdata")
 
 reactionForms <- rxnList_form[rxn_forms$rMech]
 
-saveRDS(reactionForms, file = "companionFiles/reactionEqn_fitting/reactionForms.Rds")
-devtools::use_data(rMech_summary_table, reactionForms)
 }

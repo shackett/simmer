@@ -1,0 +1,3369 @@
+SpeciesID	SpeciesName	SpeciesType	Compartment
+s_0001	(1->3)-beta-D-glucan [cell envelope]	t_0001	c_02
+s_0002	(1->3)-beta-D-glucan [cytoplasm]	t_0001	c_03
+s_0003	(1->3)-beta-D-glucan [extracellular]	t_0001	c_06
+s_0004	(1->6)-beta-D-glucan [cell envelope]	t_0002	c_02
+s_0006	(2-amino-4-hydroxy-7,8-dihydropteridin-6-yl)methyl trihydrogen diphosphate [mitochondrion]	t_0003	c_11
+s_0007	(2E)-3-(methoxycarbonyl)pent-2-enedioic acid [cytoplasm]	t_0004	c_03
+s_0008	(2R,3R)-2,3-dihydroxy-3-methylpentanoate [mitochondrion]	t_0005	c_11
+s_0009	(2R,3S)-3-isopropylmalate [cytoplasm]	t_0006	c_03
+s_0010	(2S)-2-isopropyl-3-oxosuccinate [cytoplasm]	t_0007	c_03
+s_0011	(2S)-2-isopropyl-3-oxosuccinate [mitochondrion]	t_0007	c_11
+s_0012	(2S,3R)-3-hydroxybutane-1,2,3-tricarboxylic acid [mitochondrion]	t_0008	c_11
+s_0013	(5S,6S)-di-HETE [cytoplasm]	t_0009	c_03
+s_0014	(5S,6S)-di-HETE [nucleus]	t_0009	c_13
+s_0015	(N(omega)-L-arginino)succinic acid [cytoplasm]	t_0010	c_03
+s_0016	(R)-2,3-dihydroxy-3-methylbutanoate [mitochondrion]	t_0011	c_11
+s_0017	(R)-4'-phosphopantothenic acid [cytoplasm]	t_0012	c_03
+s_0018	(R)-5-diphosphomevalonic acid [cytoplasm]	t_0013	c_03
+s_0019	(R)-5-phosphomevalonic acid [cytoplasm]	t_0014	c_03
+s_0020	(R)-acetoin [cytoplasm]	t_0015	c_03
+s_0021	(R)-carnitine [cytoplasm]	t_0016	c_03
+s_0022	(R)-carnitine [extracellular]	t_0016	c_06
+s_0023	(R)-carnitine [mitochondrion]	t_0016	c_11
+s_0024	(R)-carnitine [peroxisome]	t_0016	c_15
+s_0025	(R)-lactate [cytoplasm]	t_0017	c_03
+s_0026	(R)-lactate [extracellular]	t_0017	c_06
+s_0027	(R)-lactate [mitochondrion]	t_0017	c_11
+s_0028	(R)-mevalonate [cytoplasm]	t_0018	c_03
+s_0029	(R)-mevalonate [extracellular]	t_0018	c_06
+s_0030	(R)-pantoate [cytoplasm]	t_0019	c_03
+s_0031	(R)-pantothenate [cytoplasm]	t_0020	c_03
+s_0032	(R)-pantothenate [extracellular]	t_0020	c_06
+s_0033	(R)-S-lactoylglutathione [cytoplasm]	t_0021	c_03
+s_0034	(R)-S-lactoylglutathione [mitochondrion]	t_0021	c_11
+s_0035	(R,R)-2,3-butanediol [cytoplasm]	t_0022	c_03
+s_0036	(R,R)-2,3-butanediol [extracellular]	t_0022	c_06
+s_0037	(S)-2,3-epoxysqualene [cytoplasm]	t_0023	c_03
+s_0038	(S)-2,3-epoxysqualene [endoplasmic reticulum]	t_0023	c_04
+s_0039	(S)-2-acetyl-2-hydroxybutanoate [mitochondrion]	t_0024	c_11
+s_0042	(R)-3-hydroxydecanoyl-CoA [peroxisome]	t_0025	c_15
+s_0045	(R)-3-hydroxyhexacosanoyl-CoA [peroxisome]	t_0026	c_15
+s_0048	(R)-3-hydroxylauroyl-CoA [peroxisome]	t_0027	c_15
+s_0051	(R)-3-hydroxypalmitoyl-CoA [peroxisome]	t_0028	c_15
+s_0054	(R)-3-hydroxytetradecanoyl-CoA [peroxisome]	t_0029	c_15
+s_0056	(S)-3-methyl-2-oxopentanoate [cytoplasm]	t_0030	c_03
+s_0058	(S)-3-methyl-2-oxopentanoate [extracellular]	t_0030	c_06
+s_0060	(S)-3-methyl-2-oxopentanoate [mitochondrion]	t_0030	c_11
+s_0061	(S)-dihydroorotate [cytoplasm]	t_0031	c_03
+s_0062	(S)-lactaldehyde [cytoplasm]	t_0032	c_03
+s_0063	(S)-lactate [cytoplasm]	t_0033	c_03
+s_0064	(S)-lactate [extracellular]	t_0033	c_06
+s_0065	(S)-lactate [mitochondrion]	t_0033	c_11
+s_0066	(S)-malate [cytoplasm]	t_0034	c_03
+s_0067	(S)-malate [extracellular]	t_0034	c_06
+s_0068	(S)-malate [mitochondrion]	t_0034	c_11
+s_0069	(S)-malate [peroxisome]	t_0034	c_15
+s_0075	1,3-bisphospho-D-glycerate [cytoplasm]	t_0039	c_03
+s_0076	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate [cytoplasm]	t_0040	c_03
+s_0077	1-(5-phospho-D-ribosyl)-5-[(5-phospho-D-ribosylamino)methylideneamino]imidazole-4-carboxamide [cytoplasm]	t_0041	c_03
+s_0078	1-(5-phosphoribosyl)-5'-AMP [cytoplasm]	t_0042	c_03
+s_0079	1-(sn-glycero-3-phospho)-1D-myo-inositol [cytoplasm]	t_0043	c_03
+s_0080	1-(sn-glycero-3-phospho)-1D-myo-inositol [extracellular]	t_0043	c_06
+s_0084	1-acylglycerophosphocholine [extracellular]	t_0045	c_06
+s_0086	1-C-(indol-3-yl)glycerol 3-phosphate [cytoplasm]	t_0046	c_03
+s_0087	1-methylnicotinamide [cytoplasm]	t_0047	c_03
+s_0089	1-phosphatidyl-1D-myo-inositol [cytoplasm]	t_0048	c_03
+s_0116	1-pyrroline-3-hydroxy-5-carboxylic acid [cytoplasm]	t_0053	c_03
+s_0117	1-pyrroline-3-hydroxy-5-carboxylic acid [mitochondrion]	t_0053	c_11
+s_0118	1-pyrroline-5-carboxylate [cytoplasm]	t_0054	c_03
+s_0119	1-pyrroline-5-carboxylate [mitochondrion]	t_0054	c_11
+s_0120	10-formyl-THF [cytoplasm]	t_0055	c_03
+s_0121	10-formyl-THF [mitochondrion]	t_0055	c_11
+s_0122	14-demethyllanosterol [cytoplasm]	t_0056	c_03
+s_0123	1D-myo-inositol 1,3,4,5-tetrakisphosphate [nucleus]	t_0057	c_13
+s_0124	1D-myo-inositol 1,4,5,6-tetrakisphosphate [nucleus]	t_0058	c_13
+s_0125	1D-myo-inositol 1,4,5-trisphosphate [nucleus]	t_0059	c_13
+s_0126	1D-myo-inositol 1-phosphate [cytoplasm]	t_0060	c_03
+s_0127	1D-myo-inositol 1-phosphate [endoplasmic reticulum]	t_0060	c_04
+s_0129	1D-myo-inositol 3-phosphate [mitochondrion]	t_0061	c_11
+s_0131	2',3'-cyclic AMP [cytoplasm]	t_0062	c_03
+s_0132	2'-deoxyadenosine [cytoplasm]	t_0063	c_03
+s_0133	2'-deoxyadenosine [extracellular]	t_0063	c_06
+s_0134	2'-deoxyguanosine [cytoplasm]	t_0064	c_03
+s_0135	2'-deoxyguanosine [extracellular]	t_0064	c_06
+s_0136	2'-deoxyinosine [cytoplasm]	t_0065	c_03
+s_0137	2'-deoxyinosine [extracellular]	t_0065	c_06
+s_0138	2'-deoxyuridine [cytoplasm]	t_0066	c_03
+s_0139	2'-deoxyuridine [extracellular]	t_0066	c_06
+s_0140	2,3-bisphospho-D-glyceric acid [cytoplasm]	t_0067	c_03
+s_0141	2,5-diamino-4-hydroxy-6-(5-phosphoribosylamino)pyrimidine [cytoplasm]	t_0068	c_03
+s_0142	2,5-diamino-6-(5-phosphono)ribitylamino-4(3H)-pyrimidinone [cytoplasm]	t_0069	c_03
+s_0143	2-(3-amino-3-carboxypropyl)-L-histidine [cytoplasm]	t_0070	c_03
+s_0144	2-[3-carboxy-3-(methylammonio)propyl]-L-histidine [cytoplasm]	t_0071	c_03
+s_0145	2-acetamido-5-oxopentanoate [mitochondrion]	t_0072	c_11
+s_0146	2-acetyllactic acid [mitochondrion]	t_0073	c_11
+s_0147	2-amino-3-carboxymuconate-6-semialdehyde [cytoplasm]	t_0074	c_03
+s_0148	2-amino-6-(hydroxymethyl)-7,8-dihydropteridin-4-ol [mitochondrion]	t_0075	c_11
+s_0149	2-dehydropantoate [cytoplasm]	t_0076	c_03
+s_0150	2-dehydropantoate [mitochondrion]	t_0076	c_11
+s_0151	2-deoxy-D-ribofuranose 1-phosphate [cytoplasm]	t_0077	c_03
+s_0152	2-deoxy-D-ribose [cytoplasm]	t_0078	c_03
+s_0153	2-deoxy-D-ribose 5-phosphate [cytoplasm]	t_0079	c_03
+s_0154	2-hexaprenyl-5-hydroxy-6-methoxy-3-methyl-1,4-benzoquinone [mitochondrion]	t_0080	c_11
+s_0155	2-hexaprenyl-6-methoxy-1,4-benzoquinone [mitochondrion]	t_0081	c_11
+s_0156	2-hexaprenyl-6-methoxy-3-methyl-1,4-benzoquinone [mitochondrion]	t_0082	c_11
+s_0157	2-hexaprenyl-6-methoxyphenol [mitochondrion]	t_0083	c_11
+s_0158	2-hydroxy-3-oxobutyl phosphate [cytoplasm]	t_0084	c_03
+s_0161	2-hydroxyhexadecanal [endoplasmic reticulum]	t_0085	c_04
+s_0162	2-isopropylmalate [cytoplasm]	t_0086	c_03
+s_0163	2-isopropylmalate [extracellular]	t_0086	c_06
+s_0164	2-isopropylmalate [mitochondrion]	t_0086	c_11
+s_0165	2-isopropylmaleic acid [cytoplasm]	t_0087	c_03
+s_0166	2-methylbutanal [cytoplasm]	t_0088	c_03
+s_0167	2-methylbutanal [extracellular]	t_0088	c_06
+s_0168	2-methylbutanal [mitochondrion]	t_0088	c_11
+s_0169	2-methylbutanol [cytoplasm]	t_0089	c_03
+s_0170	2-methylbutanol [extracellular]	t_0089	c_06
+s_0171	2-methylbutanol [mitochondrion]	t_0089	c_11
+s_0172	2-methylbutyl acetate [cytoplasm]	t_0090	c_03
+s_0173	2-methylbutyl acetate [extracellular]	t_0090	c_06
+s_0174	2-methylcitrate [mitochondrion]	t_0091	c_11
+s_0176	2-oxoadipic acid [cytoplasm]	t_0092	c_03
+s_0177	2-oxoadipic acid [mitochondrion]	t_0092	c_11
+s_0178	2-oxobutanoate [cytoplasm]	t_0093	c_03
+s_0179	2-oxobutanoate [mitochondrion]	t_0093	c_11
+s_0180	2-oxoglutarate [cytoplasm]	t_0094	c_03
+s_0181	2-oxoglutarate [extracellular]	t_0094	c_06
+s_0182	2-oxoglutarate [mitochondrion]	t_0094	c_11
+s_0183	2-oxoglutarate [nucleus]	t_0094	c_13
+s_0184	2-oxoglutarate [peroxisome]	t_0094	c_15
+s_0185	2-phenylethanol [cytoplasm]	t_0095	c_03
+s_0186	2-phenylethanol [extracellular]	t_0095	c_06
+s_0187	2-phenylethanol [mitochondrion]	t_0095	c_11
+s_0188	2-phospho-D-glyceric acid [cytoplasm]	t_0096	c_03
+s_0189	geranylgeranyl diphosphate [cytoplasm]	t_0097	c_03
+s_0190	farnesyl diphosphate [cytoplasm]	t_0098	c_03
+s_0191	farnesyl diphosphate [mitochondrion]	t_0098	c_11
+s_0192	3',5'-cyclic AMP [cytoplasm]	t_0099	c_03
+s_0193	3',5'-cyclic CMP [cytoplasm]	t_0100	c_03
+s_0194	3',5'-cyclic dAMP [cytoplasm]	t_0101	c_03
+s_0195	3',5'-cyclic GMP [cytoplasm]	t_0102	c_03
+s_0196	3',5'-cyclic IMP [cytoplasm]	t_0103	c_03
+s_0197	3'-dephospho-CoA [cytoplasm]	t_0104	c_03
+s_0200	3'-dephospho-CoA [mitochondrion]	t_0104	c_11
+s_0201	3'-phospho-5'-adenylyl sulfate [cytoplasm]	t_0105	c_03
+s_0204	3-(4-hydroxyphenyl)pyruvate [cytoplasm]	t_0107	c_03
+s_0206	3-(4-hydroxyphenyl)pyruvate [peroxisome]	t_0107	c_15
+s_0207	3-(imidazol-4-yl)-2-oxopropyl dihydrogen phosphate [cytoplasm]	t_0108	c_03
+s_0208	3-aminopropanal [cytoplasm]	t_0109	c_03
+s_0209	3-dehydro-4-methylzymosterol [cytoplasm]	t_0110	c_03
+s_0210	3-dehydroquinate [cytoplasm]	t_0111	c_03
+s_0211	3-dehydroshikimate [cytoplasm]	t_0112	c_03
+s_0212	3-hexaprenyl-4,5-dihydroxybenzoic acid [cytoplasm]	t_0113	c_03
+s_0213	3-hexaprenyl-4,5-dihydroxybenzoic acid [mitochondrion]	t_0113	c_11
+s_0214	3-hexaprenyl-4-hydroxy-5-methoxybenzoic acid [mitochondrion]	t_0114	c_11
+s_0215	3-hexaprenyl-4-hydroxybenzoic acid [cytoplasm]	t_0115	c_03
+s_0216	3-hexaprenyl-4-hydroxybenzoic acid [mitochondrion]	t_0115	c_11
+s_0217	3-hydroxy-2-isopropyl-4-methoxy-4-oxobutanoate [cytoplasm]	t_0116	c_03
+s_0218	3-hydroxy-3-methylglutaryl-CoA [cytoplasm]	t_0117	c_03
+s_0221	3-hydroxy-3-methylglutaryl-CoA [mitochondrion]	t_0117	c_11
+s_0222	3-hydroxy-L-kynurenine [cytoplasm]	t_0118	c_03
+s_0224	3-hydroxyanthranilate [cytoplasm]	t_0120	c_03
+s_0229	(R)-3-hydroxyoctadecanoyl-CoA [peroxisome]	t_0123	c_15
+s_0231	3-ketosphinganine [endoplasmic reticulum]	t_0125	c_04
+s_0232	3-methyl-2-oxobutanoate [cytoplasm]	t_0126	c_03
+s_0233	3-methyl-2-oxobutanoate [mitochondrion]	t_0126	c_11
+s_0234	3-methylbutanal [cytoplasm]	t_0127	c_03
+s_0235	3-methylbutanal [extracellular]	t_0127	c_06
+s_0236	3-methylbutanal [mitochondrion]	t_0127	c_11
+s_0239	3-oxodecanoyl-CoA [peroxisome]	t_0128	c_15
+s_0243	3-oxohexacosanoyl-CoA [peroxisome]	t_0130	c_15
+s_0247	3-oxolauroyl-CoA [peroxisome]	t_0132	c_15
+s_0250	3-oxooctadecanoyl-CoA [peroxisome]	t_0133	c_15
+s_0253	3-oxopalmitoyl-CoA [peroxisome]	t_0134	c_15
+s_0257	3-oxotetradecanoyl-CoA [peroxisome]	t_0136	c_15
+s_0258	3-phospho-hydroxypyruvate [cytoplasm]	t_0137	c_03
+s_0259	3-phospho-serine [cytoplasm]	t_0138	c_03
+s_0260	3-phosphoglycerate [cytoplasm]	t_0139	c_03
+s_0261	3-phosphoshikimic acid [cytoplasm]	t_0140	c_03
+s_0262	4,4-dimethyl-5alpha-cholesta-8,14,24-trien-3beta-ol [cytoplasm]	t_0141	c_03
+s_0263	4,5-bis(diphospho)-1D-myo-inositol tetrakisphosphate [cytoplasm]	t_0142	c_03
+s_0264	4-(phosphonooxy)-L-threonine [cytoplasm]	t_0143	c_03
+s_0267	4-amino-2-methyl-5-diphosphomethylpyrimidine [cytoplasm]	t_0144	c_03
+s_0268	4-amino-2-methyl-5-phosphomethylpyrimidine [cytoplasm]	t_0145	c_03
+s_0269	4-amino-4-deoxychorismate [cytoplasm]	t_0146	c_03
+s_0270	4-amino-5-hydroxymethyl-2-methylpyrimidine [cytoplasm]	t_0147	c_03
+s_0271	4-aminobenzoate [cytoplasm]	t_0148	c_03
+s_0272	4-aminobenzoate [extracellular]	t_0148	c_06
+s_0273	4-aminobenzoate [mitochondrion]	t_0148	c_11
+s_0274	4-aminobutanal [cytoplasm]	t_0149	c_03
+s_0275	4-aminobutanal [mitochondrion]	t_0149	c_11
+s_0279	4-diphospho-1D-myo-inositol pentakisphosphate [cytoplasm]	t_0150	c_03
+s_0280	4-guanidinobutanamide [cytoplasm]	t_0151	c_03
+s_0281	4-guanidinobutanoic acid [cytoplasm]	t_0152	c_03
+s_0282	4-hydroxy-2-oxoglutarate [cytoplasm]	t_0153	c_03
+s_0283	4-hydroxy-2-oxoglutarate [mitochondrion]	t_0153	c_11
+s_0284	4-hydroxy-2-oxoglutarate [peroxisome]	t_0153	c_15
+s_0285	4-hydroxy-L-threonine [cytoplasm]	t_0154	c_03
+s_0286	4-hydroxybenzoate [cytoplasm]	t_0155	c_03
+s_0287	4-hydroxybenzoate [mitochondrion]	t_0155	c_11
+s_0290	4-hydroxybenzoyl-CoA [mitochondrion]	t_0156	c_11
+s_0291	4-methyl-2-oxopentanoate [cytoplasm]	t_0157	c_03
+s_0292	4-methyl-2-oxopentanoate [mitochondrion]	t_0157	c_11
+s_0293	4-methyl-5-(2-phosphonooxyethyl)thiazole [cytoplasm]	t_0158	c_03
+s_0294	4-methylthio-2-oxobutanoate [cytoplasm]	t_0159	c_03
+s_0295	4-phospho-L-aspartate [cytoplasm]	t_0160	c_03
+s_0296	4alpha-methylzymosterol [cytoplasm]	t_0161	c_03
+s_0297	4beta-methylzymosterol-4alpha-carboxylic acid [cytoplasm]	t_0162	c_03
+s_0298	5'-adenylyl sulfate [cytoplasm]	t_0163	c_03
+s_0299	5'-phosphoribosyl-4-(N-succinocarboxamide)-5-aminoimidazole [cytoplasm]	t_0164	c_03
+s_0300	5'-phosphoribosyl-5-aminoimidazole [cytoplasm]	t_0165	c_03
+s_0301	5'-phosphoribosyl-N-formylglycineamide [cytoplasm]	t_0166	c_03
+s_0302	5'-phosphoribosyl-N-formylglycineamidine [cytoplasm]	t_0167	c_03
+s_0303	5'-S-methyl-5'-thioadenosine [cytoplasm]	t_0168	c_03
+s_0304	5,10-methenyl-THF [cytoplasm]	t_0169	c_03
+s_0305	5,10-methenyl-THF [mitochondrion]	t_0169	c_11
+s_0306	5,10-methylenetetrahydrofolate [cytoplasm]	t_0170	c_03
+s_0307	5,10-methylenetetrahydrofolate [mitochondrion]	t_0170	c_11
+s_0308	5,6,7,8-tetrahydrofolyl-L-glutamic acid [cytoplasm]	t_0171	c_03
+s_0309	5,6-bis(diphospho)-1D-myo-inositol tetrakisphosphate [cytoplasm]	t_0172	c_03
+s_0310	5-(2-hydroxyethyl)-4-methylthiazole [cytoplasm]	t_0173	c_03
+s_0311	5-(methylsulfanyl)-2,3-dioxopentyl phosphate [cytoplasm]	t_0174	c_03
+s_0312	5-[(5-phospho-1-deoxy-D-ribulos-1-ylamino)methylideneamino]-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide [cytoplasm]	t_0175	c_03
+s_0313	5-amino-6-(5-phosphoribitylamino)uracil [cytoplasm]	t_0176	c_03
+s_0314	5-amino-6-(D-ribitylamino)uracil [cytoplasm]	t_0177	c_03
+s_0315	5-aminolevulinate [cytoplasm]	t_0178	c_03
+s_0316	5-aminolevulinate [extracellular]	t_0178	c_06
+s_0317	5-aminolevulinate [mitochondrion]	t_0178	c_11
+s_0318	5-diphospho-1D-myo-inositol pentakisphosphate [cytoplasm]	t_0179	c_03
+s_0319	5-formyltetrahydrofolic acid [cytoplasm]	t_0180	c_03
+s_0320	5-formyltetrahydrofolic acid [extracellular]	t_0180	c_06
+s_0321	5-formyltetrahydrofolic acid [mitochondrion]	t_0180	c_11
+s_0322	5-methyltetrahydrofolate [cytoplasm]	t_0181	c_03
+s_0323	5-methyltetrahydropteroyltri-L-glutamic acid [cytoplasm]	t_0182	c_03
+s_0324	5-O-(1-carboxyvinyl)-3-phosphoshikimic acid [cytoplasm]	t_0183	c_03
+s_0325	5-phospho-ribosyl-glycineamide [cytoplasm]	t_0184	c_03
+s_0326	5-phosphoribosyl-ATP [cytoplasm]	t_0185	c_03
+s_0327	5-phosphoribosylamine [cytoplasm]	t_0186	c_03
+s_0328	6,7-dimethyl-8-(1-D-ribityl)lumazine [cytoplasm]	t_0187	c_03
+s_0329	6-(alpha-D-glucosaminyl)-1-phosphatidyl-1D-myo-inositol [endoplasmic reticulum]	t_0188	c_04
+s_0330	6-(alpha-D-glucosaminyl)-O-acyl-1-phosphatidyl-1D-myo-inositol [endoplasmic reticulum]	t_0189	c_04
+s_0331	6-(N-acetyl-alpha-D-glucosaminyl)-1-phosphatidyl-1D-myo-inositol [endoplasmic reticulum]	t_0190	c_04
+s_0332	6-[6-(2-aminoethylphosphoryl)-alpha-mannosyl-(1->6)-2-(2-aminoethylphosphoryl)-alpha-mannosyl-(1->6)-alpha-2-(2-aminoethylphosphoryl)mannosyl-(1->4)-alpha-glucosaminyl]-O-acyl-1-phosphatidyl-1D-myo-inositol [endoplasmic reticulum]	t_0191	c_04
+s_0333	6-diphospho-1D-myo-inositol pentakisphosphate [cytoplasm]	t_0192	c_03
+s_0334	6-O-[alpha-D-mannosyl-(1->4)-alpha-D-glucosaminyl]-O-acyl-1-phosphatidyl-1D-myo-inositol [endoplasmic reticulum]	t_0193	c_04
+s_0335	6-O-phosphono-D-glucono-1,5-lactone [cytoplasm]	t_0194	c_03
+s_0337	6-O-{2-O-[(2-aminoethyl)phosphoryl]-alpha-D-mannosyl-(1->4)-alpha-D-glucosaminyl}-O-acyl-1-phosphatidyl-1D-myo-inositol [endoplasmic reticulum]	t_0195	c_04
+s_0338	6-O-{alpha-D-mannosyl-(1->2)-alpha-D-mannosyl-(1->6)-2-O-[(2-aminoethyl)phosphoryl]-alpha-D-mannosyl-(1->4)-alpha-D-glucosaminyl}-O-acyl-1-phosphatidyl-1D-myo-inositol [endoplasmic reticulum]	t_0196	c_04
+s_0339	6-O-{alpha-D-mannosyl-(1->6)-2-O-[(2-aminoethyl)phosphoryl]-alpha-D-mannosyl-(1->4)-alpha-D-glucosaminyl}-O-acyl-1-phosphatidyl-1D-myo-inositol [endoplasmic reticulum]	t_0197	c_04
+s_0340	6-phospho-D-gluconate [cytoplasm]	t_0198	c_03
+s_0341	7,8-diaminononanoate [cytoplasm]	t_0199	c_03
+s_0342	7,8-diaminononanoate [extracellular]	t_0199	c_06
+s_0343	7,8-dihydroneopterin [cytoplasm]	t_0200	c_03
+s_0344	7,8-dihydroneopterin [mitochondrion]	t_0200	c_11
+s_0345	7,8-dihydroneopterin 3'-phosphate [cytoplasm]	t_0201	c_03
+s_0346	7,8-dihydroneopterin 3'-triphosphate [cytoplasm]	t_0202	c_03
+s_0347	7,8-dihydropteroate [cytoplasm]	t_0203	c_03
+s_0348	7,8-dihydropteroate [mitochondrion]	t_0203	c_11
+s_0349	7-phospho-2-dehydro-3-deoxy-D-arabino-heptonic acid [cytoplasm]	t_0204	c_03
+s_0350	7-phospho-2-dehydro-3-deoxy-D-arabino-heptonic acid [mitochondrion]	t_0204	c_11
+s_0352	8-amino-7-oxononanoate [cytoplasm]	t_0205	c_03
+s_0354	8-amino-7-oxononanoate [extracellular]	t_0205	c_06
+s_0357	9H-xanthine [cytoplasm]	t_0206	c_03
+s_0358	9H-xanthine [extracellular]	t_0206	c_06
+s_0359	acetaldehyde [cytoplasm]	t_0207	c_03
+s_0360	acetaldehyde [extracellular]	t_0207	c_06
+s_0361	acetaldehyde [mitochondrion]	t_0207	c_11
+s_0362	acetate [cytoplasm]	t_0208	c_03
+s_0363	acetate [endoplasmic reticulum]	t_0208	c_04
+s_0364	acetate [extracellular]	t_0208	c_06
+s_0365	acetate [mitochondrion]	t_0208	c_11
+s_0366	acetate [nucleus]	t_0208	c_13
+s_0367	acetoacetyl-CoA [cytoplasm]	t_0209	c_03
+s_0370	acetoacetyl-CoA [mitochondrion]	t_0209	c_11
+s_0372	acetyl-ACP [mitochondrion]	t_0210	c_11
+s_0373	acetyl-CoA [cytoplasm]	t_0211	c_03
+s_0376	acetyl-CoA [mitochondrion]	t_0211	c_11
+s_0377	acetyl-CoA [nucleus]	t_0211	c_13
+s_0378	acetyl-CoA [peroxisome]	t_0211	c_15
+s_0383	adenine [cytoplasm]	t_0214	c_03
+s_0384	adenine [extracellular]	t_0214	c_06
+s_0385	adenine [mitochondrion]	t_0214	c_11
+s_0386	adenosine [cytoplasm]	t_0215	c_03
+s_0387	adenosine [extracellular]	t_0215	c_06
+s_0388	adenosine [mitochondrion]	t_0215	c_11
+s_0389	adenosine 2'-phosphate [cytoplasm]	t_0216	c_03
+s_0390	adenosine 3',5'-bismonophosphate [cytoplasm]	t_0217	c_03
+s_0391	adenosine 3',5'-bismonophosphate [extracellular]	t_0217	c_06
+s_0392	adenosine 3',5'-bismonophosphate [mitochondrion]	t_0217	c_11
+s_0393	adenylo-succinate [cytoplasm]	t_0218	c_03
+s_0394	ADP [cytoplasm]	t_0219	c_03
+s_0395	ADP [endoplasmic reticulum]	t_0219	c_04
+s_0397	ADP [mitochondrion]	t_0219	c_11
+s_0398	ADP [nucleus]	t_0219	c_13
+s_0399	ADP [peroxisome]	t_0219	c_15
+s_0402	ADP-ribose [nucleus]	t_0220	c_13
+s_0403	AICAR [cytoplasm]	t_0221	c_03
+s_0404	Ala-tRNA(Ala) [cytoplasm]	t_0222	c_03
+s_0405	allantoate [cytoplasm]	t_0223	c_03
+s_0406	allantoate [extracellular]	t_0223	c_06
+s_0407	allantoin [cytoplasm]	t_0224	c_03
+s_0408	allantoin [extracellular]	t_0224	c_06
+s_0409	alpha,alpha-trehalose 6-phosphate [cytoplasm]	t_0225	c_03
+s_0410	alpha-D-galactose 1-phosphate [cytoplasm]	t_0226	c_03
+s_0411	alpha-D-glucosamine 1-phosphate [cytoplasm]	t_0227	c_03
+s_0412	alpha-D-glucosamine 6-phosphate [cytoplasm]	t_0228	c_03
+s_0413	alpha-D-glucosamine 6-phosphate [extracellular]	t_0228	c_06
+s_0414	alpha-D-mannosyl-beta-D-mannosyldiacetylchitobiosyldiphosphodolichol [Golgi]	t_0229	c_07
+s_0415	alpha-D-ribose 1-phosphate [cytoplasm]	t_0230	c_03
+s_0416	alpha-D-ribose 1-phosphate [mitochondrion]	t_0230	c_11
+s_0417	aminoacetaldehyde [cytoplasm]	t_0231	c_03
+s_0418	aminoacetone [cytoplasm]	t_0232	c_03
+s_0419	ammonium [cytoplasm]	t_0233	c_03
+s_0420	ammonium [extracellular]	t_0233	c_06
+s_0421	ammonium [mitochondrion]	t_0233	c_11
+s_0423	AMP [cytoplasm]	t_0234	c_03
+s_0424	AMP [mitochondrion]	t_0234	c_11
+s_0425	AMP [nucleus]	t_0234	c_13
+s_0426	AMP [peroxisome]	t_0234	c_15
+s_0427	anthranilate [cytoplasm]	t_0235	c_03
+s_0428	Arg-tRNA(Arg) [cytoplasm]	t_0236	c_03
+s_0429	Arg-tRNA(Arg) [mitochondrion]	t_0236	c_11
+s_0430	Asn-tRNA(Asn) [cytoplasm]	t_0237	c_03
+s_0431	Asn-tRNA(Asn) [mitochondrion]	t_0237	c_11
+s_0432	Asp-tRNA(Asp) [cytoplasm]	t_0238	c_03
+s_0433	Asp-tRNA(Asp) [mitochondrion]	t_0238	c_11
+s_0434	ATP [cytoplasm]	t_0239	c_03
+s_0435	ATP [endoplasmic reticulum]	t_0239	c_04
+s_0437	ATP [mitochondrion]	t_0239	c_11
+s_0438	ATP [nucleus]	t_0239	c_13
+s_0439	ATP [peroxisome]	t_0239	c_15
+s_0441	beta-alanine [cytoplasm]	t_0240	c_03
+s_0442	beta-D-fructose 2,6-bisphosphate [cytoplasm]	t_0241	c_03
+s_0443	beta-D-mannosyldiacetylchitobiosyldiphosphodolichol [cytoplasm]	t_0242	c_03
+s_0444	beta-D-mannosyldiacetylchitobiosyldiphosphodolichol [Golgi]	t_0242	c_07
+s_0445	bicarbonate [cytoplasm]	t_0243	c_03
+s_0446	bicarbonate [extracellular]	t_0243	c_06
+s_0447	bicarbonate [mitochondrion]	t_0243	c_11
+s_0448	bicarbonate [nucleus]	t_0243	c_13
+s_0450	biomass [cytoplasm]	t_0244	c_03
+s_0451	biotin [cytoplasm]	t_0245	c_03
+s_0452	biotin [extracellular]	t_0245	c_06
+s_0453	biotinyl-5'-AMP [cytoplasm]	t_0246	c_03
+s_0454	but-1-ene-1,2,4-tricarboxylic acid [mitochondrion]	t_0247	c_11
+s_0455	carbamoyl phosphate [cytoplasm]	t_0248	c_03
+s_0456	carbon dioxide [cytoplasm]	t_0249	c_03
+s_0457	carbon dioxide [endoplasmic reticulum]	t_0249	c_04
+s_0458	carbon dioxide [extracellular]	t_0249	c_06
+s_0460	carbon dioxide [mitochondrion]	t_0249	c_11
+s_0461	carbon dioxide [nucleus]	t_0249	c_13
+s_0462	carbon dioxide [peroxisome]	t_0249	c_15
+s_0465	carboxyacetyl-ACP [mitochondrion]	t_0250	c_11
+s_0467	CDP [cytoplasm]	t_0252	c_03
+s_0468	CDP [nucleus]	t_0252	c_13
+s_0469	CDP-choline [cytoplasm]	t_0253	c_03
+s_0474	CDP-ethanolamine [cytoplasm]	t_0255	c_03
+s_0475	ceramide-1 (C24) [endoplasmic reticulum]	t_0256	c_04
+s_0476	ceramide-1 (C24) [Golgi]	t_0256	c_07
+s_0477	ceramide-1 (C24) [mitochondrion]	t_0256	c_11
+s_0478	ceramide-1 (C26) [endoplasmic reticulum]	t_0257	c_04
+s_0479	ceramide-1 (C26) [Golgi]	t_0257	c_07
+s_0480	ceramide-1 (C26) [mitochondrion]	t_0257	c_11
+s_0481	ceramide-2 (C24) [endoplasmic reticulum]	t_0258	c_04
+s_0482	ceramide-2 (C24) [Golgi]	t_0258	c_07
+s_0483	ceramide-2 (C24) [mitochondrion]	t_0258	c_11
+s_0484	ceramide-2 (C26) [endoplasmic reticulum]	t_0259	c_04
+s_0485	ceramide-2 (C26) [Golgi]	t_0259	c_07
+s_0486	ceramide-2 (C26) [mitochondrion]	t_0259	c_11
+s_0487	ceramide-2' (C24) [endoplasmic reticulum]	t_0260	c_04
+s_0488	ceramide-2' (C24) [Golgi]	t_0260	c_07
+s_0489	ceramide-2' (C24) [mitochondrion]	t_0260	c_11
+s_0490	ceramide-2' (C26) [endoplasmic reticulum]	t_0261	c_04
+s_0491	ceramide-2' (C26) [Golgi]	t_0261	c_07
+s_0492	ceramide-2' (C26) [mitochondrion]	t_0261	c_11
+s_0493	ceramide-3 (C24) [endoplasmic reticulum]	t_0262	c_04
+s_0494	ceramide-3 (C24) [Golgi]	t_0262	c_07
+s_0495	ceramide-3 (C24) [mitochondrion]	t_0262	c_11
+s_0496	ceramide-3 (C26) [endoplasmic reticulum]	t_0263	c_04
+s_0497	ceramide-3 (C26) [Golgi]	t_0263	c_07
+s_0498	ceramide-3 (C26) [mitochondrion]	t_0263	c_11
+s_0499	ceramide-4 (C24) [endoplasmic reticulum]	t_0264	c_04
+s_0500	ceramide-4 (C24) [Golgi]	t_0264	c_07
+s_0501	ceramide-4 (C24) [mitochondrion]	t_0264	c_11
+s_0502	ceramide-4 (C26) [endoplasmic reticulum]	t_0265	c_04
+s_0503	ceramide-4 (C26) [Golgi]	t_0265	c_07
+s_0504	ceramide-4 (C26) [mitochondrion]	t_0265	c_11
+s_0507	cerotic acid [endoplasmic reticulum]	t_0267	c_04
+s_0509	chitin [cytoplasm]	t_0268	c_03
+s_0510	chitosan [cell envelope]	t_0269	c_02
+s_0511	choline [cell envelope]	t_0270	c_02
+s_0512	choline [cytoplasm]	t_0270	c_03
+s_0513	choline [extracellular]	t_0270	c_06
+s_0514	choline phosphate [cytoplasm]	t_0271	c_03
+s_0515	chorismate [cytoplasm]	t_0272	c_03
+s_0516	cis-aconitate [cytoplasm]	t_0273	c_03
+s_0517	cis-aconitate [mitochondrion]	t_0273	c_11
+s_0522	citrate [cytoplasm]	t_0276	c_03
+s_0523	citrate [extracellular]	t_0276	c_06
+s_0524	citrate [mitochondrion]	t_0276	c_11
+s_0525	citrate [peroxisome]	t_0276	c_15
+s_0526	CMP [cytoplasm]	t_0277	c_03
+s_0528	CMP [mitochondrion]	t_0277	c_11
+s_0529	coenzyme A [cytoplasm]	t_0278	c_03
+s_0530	coenzyme A [endoplasmic reticulum]	t_0278	c_04
+s_0531	coenzyme A [lipid particle]	t_0278	c_09
+s_0532	coenzyme A [mitochondrion]	t_0278	c_11
+s_0533	coenzyme A [nucleus]	t_0278	c_13
+s_0534	coenzyme A [peroxisome]	t_0278	c_15
+s_0535	complex sphingolipid [cytoplasm]	t_0279	c_03
+s_0536	complex sphingolipid [Golgi]	t_0279	c_07
+s_0537	complex sphingolipid [mitochondrion]	t_0279	c_11
+s_0538	coproporphyrinogen III [cytoplasm]	t_0280	c_03
+s_0539	CTP [cytoplasm]	t_0281	c_03
+s_0541	CTP [mitochondrion]	t_0281	c_11
+s_0542	Cys-tRNA(Cys) [cytoplasm]	t_0282	c_03
+s_0543	cytidine [cytoplasm]	t_0283	c_03
+s_0544	cytidine [extracellular]	t_0283	c_06
+s_0545	cytosine [cytoplasm]	t_0284	c_03
+s_0546	cytosine [extracellular]	t_0284	c_06
+s_0547	D-arabinono-1,4-lactone [cytoplasm]	t_0285	c_03
+s_0548	D-arabinose [cytoplasm]	t_0286	c_03
+s_0549	D-arabinose [extracellular]	t_0286	c_06
+s_0550	D-erythro-1-(imidazol-4-yl)glycerol 3-phosphate [cytoplasm]	t_0287	c_03
+s_0551	D-erythrose 4-phosphate [cytoplasm]	t_0288	c_03
+s_0552	D-erythrose 4-phosphate [mitochondrion]	t_0288	c_11
+s_0553	D-fructose [cytoplasm]	t_0289	c_03
+s_0554	D-fructose [extracellular]	t_0289	c_06
+s_0555	D-fructose 1,6-bisphosphate [cytoplasm]	t_0290	c_03
+s_0556	D-fructose 1-phosphate [cytoplasm]	t_0291	c_03
+s_0557	D-fructose 6-phosphate [cytoplasm]	t_0292	c_03
+s_0558	D-galactose [cytoplasm]	t_0293	c_03
+s_0559	D-galactose [extracellular]	t_0293	c_06
+s_0560	D-galacturonate [extracellular]	t_0294	c_06
+s_0561	D-glucitol [cytoplasm]	t_0295	c_03
+s_0562	D-glucitol [extracellular]	t_0295	c_06
+s_0563	D-glucose [cytoplasm]	t_0296	c_03
+s_0565	D-glucose [extracellular]	t_0296	c_06
+s_0566	D-glucose [vacuole]	t_0296	c_17
+s_0567	D-glucose 1-phosphate [cytoplasm]	t_0297	c_03
+s_0568	D-glucose 6-phosphate [cytoplasm]	t_0298	c_03
+s_0570	D-glyceraldehyde [cytoplasm]	t_0299	c_03
+s_0571	D-mannose [cytoplasm]	t_0300	c_03
+s_0572	D-mannose [extracellular]	t_0300	c_06
+s_0573	D-mannose 1-phosphate [cytoplasm]	t_0301	c_03
+s_0574	D-mannose 6-phosphate [cytoplasm]	t_0302	c_03
+s_0575	D-ribose [cytoplasm]	t_0303	c_03
+s_0576	D-ribose [extracellular]	t_0303	c_06
+s_0577	D-ribulose 5-phosphate [cytoplasm]	t_0304	c_03
+s_0578	D-xylose [cytoplasm]	t_0305	c_03
+s_0579	D-xylose [extracellular]	t_0305	c_06
+s_0580	D-xylulose [cytoplasm]	t_0306	c_03
+s_0581	D-xylulose 5-phosphate [cytoplasm]	t_0307	c_03
+s_0582	dADP [cytoplasm]	t_0308	c_03
+s_0583	dADP [nucleus]	t_0308	c_13
+s_0584	dAMP [cytoplasm]	t_0309	c_03
+s_0585	dAMP [mitochondrion]	t_0309	c_11
+s_0586	dATP [cytoplasm]	t_0310	c_03
+s_0587	dCDP [cytoplasm]	t_0311	c_03
+s_0588	dCDP [nucleus]	t_0311	c_13
+s_0589	dCMP [cytoplasm]	t_0312	c_03
+s_0590	dCTP [cytoplasm]	t_0313	c_03
+s_0591	deamido-NAD(+) [cytoplasm]	t_0314	c_03
+s_0593	deamido-NAD(+) [nucleus]	t_0314	c_13
+s_0595	decanoate [cytoplasm]	t_0315	c_03
+s_0597	decanoate [extracellular]	t_0315	c_06
+s_0600	decanoate [peroxisome]	t_0315	c_15
+s_0605	decanoyl-CoA [peroxisome]	t_0317	c_15
+s_0606	decaprenyl diphosphate [lipid particle]	t_0318	c_09
+s_0607	dehydro-D-arabinono-1,4-lactone [cytoplasm]	t_0319	c_03
+s_0608	Delta(6)-trans,Delta(8)-cis-leukotriene B4 [cytoplasm]	t_0320	c_03
+s_0609	Delta(6)-trans,Delta(8)-cis-leukotriene B4 [nucleus]	t_0320	c_13
+s_0610	deoxycytidine [cytoplasm]	t_0321	c_03
+s_0611	deoxycytidine [extracellular]	t_0321	c_06
+s_0612	dethiobiotin [cytoplasm]	t_0322	c_03
+s_0613	dGDP [cytoplasm]	t_0323	c_03
+s_0614	dGDP [nucleus]	t_0323	c_13
+s_0615	dGMP [cytoplasm]	t_0324	c_03
+s_0616	dGMP [mitochondrion]	t_0324	c_11
+s_0617	dGTP [cytoplasm]	t_0325	c_03
+s_0618	dIDP [cytoplasm]	t_0326	c_03
+s_0620	diglyceride [endoplasmic reticulum]	t_0327	c_04
+s_0625	dihydrofolic acid [cytoplasm]	t_0328	c_03
+s_0626	dihydrofolic acid [mitochondrion]	t_0328	c_11
+s_0627	dihydrolipoamide [mitochondrion]	t_0329	c_11
+s_0628	dihydrolipoylprotein [mitochondrion]	t_0330	c_11
+s_0629	dihydroxyacetone phosphate [cytoplasm]	t_0331	c_03
+s_0631	dihydroxyacetone phosphate [lipid particle]	t_0331	c_09
+s_0632	dihydroxyacetone phosphate [mitochondrion]	t_0331	c_11
+s_0633	diphosphate [cytoplasm]	t_0332	c_03
+s_0635	diphosphate [lipid particle]	t_0332	c_09
+s_0636	diphosphate [mitochondrion]	t_0332	c_11
+s_0637	diphosphate [nucleus]	t_0332	c_13
+s_0638	diphosphate [peroxisome]	t_0332	c_15
+s_0639	dITP [cytoplasm]	t_0333	c_03
+s_0640	docosaprenyl diphosphate [lipid particle]	t_0334	c_09
+s_0641	dodecaprenyl diphosphate [lipid particle]	t_0335	c_09
+s_0642	dolichol [cytoplasm]	t_0336	c_03
+s_0643	dolichol [lipid particle]	t_0336	c_09
+s_0644	dolichyl D-mannosyl phosphate [endoplasmic reticulum]	t_0337	c_04
+s_0645	dolichyl phosphate [cytoplasm]	t_0338	c_03
+s_0646	dolichyl phosphate [endoplasmic reticulum]	t_0338	c_04
+s_0647	dTDP [cytoplasm]	t_0339	c_03
+s_0649	dTMP [cytoplasm]	t_0340	c_03
+s_0650	dTTP [cytoplasm]	t_0341	c_03
+s_0651	dTTP [extracellular]	t_0341	c_06
+s_0652	dUDP [cytoplasm]	t_0342	c_03
+s_0653	dUDP [nucleus]	t_0342	c_13
+s_0654	dUMP [cytoplasm]	t_0343	c_03
+s_0655	dUMP [nucleus]	t_0343	c_13
+s_0656	dUTP [cytoplasm]	t_0344	c_03
+s_0657	episterol [cytoplasm]	t_0345	c_03
+s_0659	episterol [extracellular]	t_0345	c_06
+s_0662	ergosta-5,7,22,24(28)-tetraen-3beta-ol [cytoplasm]	t_0348	c_03
+s_0663	ergosta-5,7,22,24(28)-tetraen-3beta-ol [endoplasmic reticulum]	t_0348	c_04
+s_0664	ergosta-5,7,24(28)-trien-3beta-ol [cytoplasm]	t_0349	c_03
+s_0665	ergosterol [cell envelope]	t_0350	c_02
+s_0666	ergosterol [cytoplasm]	t_0350	c_03
+s_0667	ergosterol [endoplasmic reticulum]	t_0350	c_04
+s_0668	ergosterol [extracellular]	t_0350	c_06
+s_0669	ergosterol [lipid particle]	t_0350	c_09
+s_0670	ergosterol 3-beta-D-glucoside [cytoplasm]	t_0351	c_03
+s_0672	ergosterol ester [cytoplasm]	t_0352	c_03
+s_0677	erythro-4-hydroxy-L-glutamic acid [cytoplasm]	t_0355	c_03
+s_0678	erythro-4-hydroxy-L-glutamic acid [mitochondrion]	t_0355	c_11
+s_0679	erythro-4-hydroxy-L-glutamic acid [peroxisome]	t_0355	c_15
+s_0680	ethanol [cytoplasm]	t_0356	c_03
+s_0681	ethanol [extracellular]	t_0356	c_06
+s_0682	ethanol [mitochondrion]	t_0356	c_11
+s_0683	ethanolamine [cytoplasm]	t_0357	c_03
+s_0684	ethanolamine [extracellular]	t_0357	c_06
+s_0685	ethyl acetate [cytoplasm]	t_0358	c_03
+s_0686	ethyl acetate [extracellular]	t_0358	c_06
+s_0687	FAD [cytoplasm]	t_0359	c_03
+s_0688	FAD [mitochondrion]	t_0359	c_11
+s_0689	FADH2 [cytoplasm]	t_0360	c_03
+s_0690	FADH2 [mitochondrion]	t_0360	c_11
+s_0692	farnesyl diphosphate [lipid particle]	t_0098	c_09
+s_0694	fatty acid [cytoplasm]	t_0361	c_03
+s_0699	fecosterol [cell envelope]	t_0362	c_02
+s_0700	fecosterol [cytoplasm]	t_0362	c_03
+s_0702	fecosterol [extracellular]	t_0362	c_06
+s_0703	fecosterol [lipid particle]	t_0362	c_09
+s_0709	ferricytochrome c [mitochondrion]	t_0366	c_11
+s_0710	ferrocytochrome c [mitochondrion]	t_0367	c_11
+s_0712	ferroheme b [mitochondrion]	t_0368	c_11
+s_0713	fMet-tRNA(fMet) [mitochondrion]	t_0369	c_11
+s_0714	FMN [cytoplasm]	t_0370	c_03
+s_0715	FMN [extracellular]	t_0370	c_06
+s_0716	FMN [mitochondrion]	t_0370	c_11
+s_0717	FMNH2 [cytoplasm]	t_0371	c_03
+s_0719	folic acid [cytoplasm]	t_0372	c_03
+s_0720	folic acid [extracellular]	t_0372	c_06
+s_0721	formaldehyde [cytoplasm]	t_0373	c_03
+s_0722	formate [cytoplasm]	t_0374	c_03
+s_0723	formate [extracellular]	t_0374	c_06
+s_0724	formate [mitochondrion]	t_0374	c_11
+s_0725	fumarate [cytoplasm]	t_0375	c_03
+s_0726	fumarate [extracellular]	t_0375	c_06
+s_0727	fumarate [mitochondrion]	t_0375	c_11
+s_0734	gamma-aminobutyrate [cytoplasm]	t_0377	c_03
+s_0736	gamma-aminobutyrate [extracellular]	t_0377	c_06
+s_0738	gamma-aminobutyrate [mitochondrion]	t_0377	c_11
+s_0739	GDP [cytoplasm]	t_0378	c_03
+s_0740	GDP [Golgi]	t_0378	c_07
+s_0741	GDP [mitochondrion]	t_0378	c_11
+s_0742	GDP [nucleus]	t_0378	c_13
+s_0743	GDP-alpha-D-mannose [cytoplasm]	t_0379	c_03
+s_0744	GDP-alpha-D-mannose [Golgi]	t_0379	c_07
+s_0745	geranyl diphosphate [cytoplasm]	t_0380	c_03
+s_0746	geranylgeranyl diphosphate [lipid particle]	t_0097	c_09
+s_0747	Gln-tRNA(Gln) [cytoplasm]	t_0381	c_03
+s_0748	Glu-tRNA(Glu) [cytoplasm]	t_0382	c_03
+s_0749	Glu-tRNA(Glu) [mitochondrion]	t_0382	c_11
+s_0750	glutathione [cytoplasm]	t_0383	c_03
+s_0751	glutathione [extracellular]	t_0383	c_06
+s_0752	glutathione [mitochondrion]	t_0383	c_11
+s_0753	glutathione [vacuole]	t_0383	c_17
+s_0754	glutathione disulfide [cytoplasm]	t_0384	c_03
+s_0755	glutathione disulfide [extracellular]	t_0384	c_06
+s_0756	glutathione disulfide [mitochondrion]	t_0384	c_11
+s_0757	Gly-tRNA(Gly) [cytoplasm]	t_0385	c_03
+s_0764	glyceraldehyde 3-phosphate [cytoplasm]	t_0386	c_03
+s_0765	glycerol [cytoplasm]	t_0387	c_03
+s_0766	glycerol [extracellular]	t_0387	c_06
+s_0767	glycerol 3-phosphate [cytoplasm]	t_0388	c_03
+s_0769	glycerol 3-phosphate [lipid particle]	t_0388	c_09
+s_0770	glycerol 3-phosphate [mitochondrion]	t_0388	c_11
+s_0771	glycerone [cytoplasm]	t_0389	c_03
+s_0773	glycogen [cytoplasm]	t_0391	c_03
+s_0774	glycogen [vacuole]	t_0391	c_17
+s_0775	glycolaldehyde [cytoplasm]	t_0392	c_03
+s_0776	glycolaldehyde [extracellular]	t_0392	c_06
+s_0777	glycolaldehyde [mitochondrion]	t_0392	c_11
+s_0779	glyoxylate [cytoplasm]	t_0393	c_03
+s_0780	glyoxylate [extracellular]	t_0393	c_06
+s_0781	glyoxylate [peroxisome]	t_0393	c_15
+s_0782	GMP [cytoplasm]	t_0394	c_03
+s_0783	GMP [Golgi]	t_0394	c_07
+s_0785	GTP [cytoplasm]	t_0395	c_03
+s_0786	GTP [mitochondrion]	t_0395	c_11
+s_0787	guanine [cytoplasm]	t_0396	c_03
+s_0788	guanine [extracellular]	t_0396	c_06
+s_0789	guanine [mitochondrion]	t_0396	c_11
+s_0790	guanosine [cytoplasm]	t_0397	c_03
+s_0791	guanosine [extracellular]	t_0397	c_06
+s_0792	guanosine [mitochondrion]	t_0397	c_11
+s_0793	H+ [cell envelope]	t_0398	c_02
+s_0794	H+ [cytoplasm]	t_0398	c_03
+s_0795	H+ [endoplasmic reticulum]	t_0398	c_04
+s_0796	H+ [extracellular]	t_0398	c_06
+s_0797	H+ [Golgi]	t_0398	c_07
+s_0798	H+ [lipid particle]	t_0398	c_09
+s_0799	H+ [mitochondrion]	t_0398	c_11
+s_0800	H+ [nucleus]	t_0398	c_13
+s_0801	H+ [peroxisome]	t_0398	c_15
+s_0802	H+ [vacuole]	t_0398	c_17
+s_0803	H2O [cytoplasm]	t_0399	c_03
+s_0804	H2O [endoplasmic reticulum]	t_0399	c_04
+s_0805	H2O [extracellular]	t_0399	c_06
+s_0806	H2O [Golgi]	t_0399	c_07
+s_0807	H2O [mitochondrion]	t_0399	c_11
+s_0808	H2O [nucleus]	t_0399	c_13
+s_0809	H2O [peroxisome]	t_0399	c_15
+s_0810	H2O [vacuole]	t_0399	c_17
+s_0811	heme a [mitochondrion]	t_0400	c_11
+s_0812	heme o [mitochondrion]	t_0401	c_11
+s_0813	henicosaprenyl diphosphate [lipid particle]	t_0402	c_09
+s_0814	heptadecaprenyl diphosphate [lipid particle]	t_0403	c_09
+s_0815	heptaprenyl diphosphate [lipid particle]	t_0404	c_09
+s_0816	hexacosanoyl-CoA [cytoplasm]	t_0405	c_03
+s_0817	hexacosanoyl-CoA [endoplasmic reticulum]	t_0405	c_04
+s_0819	hexacosanoyl-CoA [peroxisome]	t_0405	c_15
+s_0823	hexadec-2-enoyl-CoA [peroxisome]	t_0406	c_15
+s_0825	hexadecanal [endoplasmic reticulum]	t_0407	c_04
+s_0826	hexadecanal [extracellular]	t_0407	c_06
+s_0829	hexadecaprenyl diphosphate [lipid particle]	t_0408	c_09
+s_0830	hexaprenyl diphosphate [lipid particle]	t_0409	c_09
+s_0831	hexaprenyl diphosphate [mitochondrion]	t_0409	c_11
+s_0832	His-tRNA(His) [cytoplasm]	t_0410	c_03
+s_0833	His-tRNA(His) [mitochondrion]	t_0410	c_11
+s_0834	homocitrate [mitochondrion]	t_0411	c_11
+s_0835	homocitrate [nucleus]	t_0411	c_13
+s_0836	homoisocitrate [mitochondrion]	t_0412	c_11
+s_0837	hydrogen peroxide [cytoplasm]	t_0413	c_03
+s_0838	hydrogen peroxide [mitochondrion]	t_0413	c_11
+s_0839	hydrogen peroxide [nucleus]	t_0413	c_13
+s_0840	hydrogen peroxide [peroxisome]	t_0413	c_15
+s_0841	hydrogen sulfide [cytoplasm]	t_0414	c_03
+s_0843	hypoxanthine [cytoplasm]	t_0415	c_03
+s_0844	hypoxanthine [extracellular]	t_0415	c_06
+s_0845	icosaprenyl diphosphate [lipid particle]	t_0416	c_09
+s_0846	IDP [cytoplasm]	t_0417	c_03
+s_0847	Ile-tRNA(Ile) [cytoplasm]	t_0418	c_03
+s_0848	Ile-tRNA(Ile) [mitochondrion]	t_0418	c_11
+s_0849	IMP [cytoplasm]	t_0419	c_03
+s_0850	indol-3-ylacetaldehyde [cytoplasm]	t_0420	c_03
+s_0851	indol-3-ylacetaldehyde [extracellular]	t_0420	c_06
+s_0852	indol-3-ylacetaldehyde [mitochondrion]	t_0420	c_11
+s_0853	indole-3-acetate [cytoplasm]	t_0421	c_03
+s_0854	indole-3-acetate [mitochondrion]	t_0421	c_11
+s_0855	indole-3-pyruvate [cytoplasm]	t_0422	c_03
+s_0856	inosine [cytoplasm]	t_0423	c_03
+s_0857	inosine [extracellular]	t_0423	c_06
+s_0858	inositol phosphomannosylinositol phosphoceramide [endoplasmic reticulum]	t_0424	c_04
+s_0859	inositol phosphomannosylinositol phosphoceramide [Golgi]	t_0424	c_07
+s_0860	inositol phosphomannosylinositol phosphoceramide [mitochondrion]	t_0424	c_11
+s_0861	inositol phosphomannosylinositol phosphoceramide A (C24) [endoplasmic reticulum]	t_0425	c_04
+s_0862	inositol phosphomannosylinositol phosphoceramide A (C24) [Golgi]	t_0425	c_07
+s_0863	inositol phosphomannosylinositol phosphoceramide A (C24) [mitochondrion]	t_0425	c_11
+s_0864	inositol phosphomannosylinositol phosphoceramide A (C26) [endoplasmic reticulum]	t_0426	c_04
+s_0865	inositol phosphomannosylinositol phosphoceramide A (C26) [Golgi]	t_0426	c_07
+s_0866	inositol phosphomannosylinositol phosphoceramide A (C26) [mitochondrion]	t_0426	c_11
+s_0867	inositol phosphomannosylinositol phosphoceramide B (C24) [endoplasmic reticulum]	t_0427	c_04
+s_0868	inositol phosphomannosylinositol phosphoceramide B (C24) [Golgi]	t_0427	c_07
+s_0869	inositol phosphomannosylinositol phosphoceramide B (C24) [mitochondrion]	t_0427	c_11
+s_0870	inositol phosphomannosylinositol phosphoceramide B (C26) [endoplasmic reticulum]	t_0428	c_04
+s_0871	inositol phosphomannosylinositol phosphoceramide B (C26) [Golgi]	t_0428	c_07
+s_0872	inositol phosphomannosylinositol phosphoceramide B (C26) [mitochondrion]	t_0428	c_11
+s_0873	inositol phosphomannosylinositol phosphoceramide B' (C24) [endoplasmic reticulum]	t_0429	c_04
+s_0874	inositol phosphomannosylinositol phosphoceramide B' (C24) [Golgi]	t_0429	c_07
+s_0875	inositol phosphomannosylinositol phosphoceramide B' (C24) [mitochondrion]	t_0429	c_11
+s_0876	inositol phosphomannosylinositol phosphoceramide B' (C26) [endoplasmic reticulum]	t_0430	c_04
+s_0877	inositol phosphomannosylinositol phosphoceramide B' (C26) [Golgi]	t_0430	c_07
+s_0878	inositol phosphomannosylinositol phosphoceramide B' (C26) [mitochondrion]	t_0430	c_11
+s_0879	inositol phosphomannosylinositol phosphoceramide C (C24) [endoplasmic reticulum]	t_0431	c_04
+s_0880	inositol phosphomannosylinositol phosphoceramide C (C24) [Golgi]	t_0431	c_07
+s_0881	inositol phosphomannosylinositol phosphoceramide C (C24) [mitochondrion]	t_0431	c_11
+s_0882	inositol phosphomannosylinositol phosphoceramide C (C26) [endoplasmic reticulum]	t_0432	c_04
+s_0883	inositol phosphomannosylinositol phosphoceramide C (C26) [Golgi]	t_0432	c_07
+s_0884	inositol phosphomannosylinositol phosphoceramide C (C26) [mitochondrion]	t_0432	c_11
+s_0885	inositol phosphomannosylinositol phosphoceramide D (C24) [endoplasmic reticulum]	t_0433	c_04
+s_0886	inositol phosphomannosylinositol phosphoceramide D (C24) [Golgi]	t_0433	c_07
+s_0887	inositol phosphomannosylinositol phosphoceramide D (C24) [mitochondrion]	t_0433	c_11
+s_0888	inositol phosphomannosylinositol phosphoceramide D (C26) [endoplasmic reticulum]	t_0434	c_04
+s_0889	inositol phosphomannosylinositol phosphoceramide D (C26) [Golgi]	t_0434	c_07
+s_0890	inositol phosphomannosylinositol phosphoceramide D (C26) [mitochondrion]	t_0434	c_11
+s_0891	inositol-P-ceramide [endoplasmic reticulum]	t_0435	c_04
+s_0892	inositol-P-ceramide [Golgi]	t_0435	c_07
+s_0893	inositol-P-ceramide [mitochondrion]	t_0435	c_11
+s_0894	inositol-P-ceramide A (C24) [endoplasmic reticulum]	t_0436	c_04
+s_0895	inositol-P-ceramide A (C24) [Golgi]	t_0436	c_07
+s_0896	inositol-P-ceramide A (C24) [mitochondrion]	t_0436	c_11
+s_0897	inositol-P-ceramide A (C26) [endoplasmic reticulum]	t_0437	c_04
+s_0898	inositol-P-ceramide A (C26) [Golgi]	t_0437	c_07
+s_0899	inositol-P-ceramide A (C26) [mitochondrion]	t_0437	c_11
+s_0900	inositol-P-ceramide B (C24) [endoplasmic reticulum]	t_0438	c_04
+s_0901	inositol-P-ceramide B (C24) [Golgi]	t_0438	c_07
+s_0902	inositol-P-ceramide B (C24) [mitochondrion]	t_0438	c_11
+s_0903	inositol-P-ceramide B (C26) [endoplasmic reticulum]	t_0439	c_04
+s_0904	inositol-P-ceramide B (C26) [Golgi]	t_0439	c_07
+s_0905	inositol-P-ceramide B (C26) [mitochondrion]	t_0439	c_11
+s_0906	inositol-P-ceramide B' (C24) [endoplasmic reticulum]	t_0440	c_04
+s_0907	inositol-P-ceramide B' (C24) [Golgi]	t_0440	c_07
+s_0908	inositol-P-ceramide B' (C24) [mitochondrion]	t_0440	c_11
+s_0909	inositol-P-ceramide B' (C26) [endoplasmic reticulum]	t_0441	c_04
+s_0910	inositol-P-ceramide B' (C26) [Golgi]	t_0441	c_07
+s_0911	inositol-P-ceramide B' (C26) [mitochondrion]	t_0441	c_11
+s_0912	inositol-P-ceramide C (C24) [endoplasmic reticulum]	t_0442	c_04
+s_0913	inositol-P-ceramide C (C24) [Golgi]	t_0442	c_07
+s_0914	inositol-P-ceramide C (C24) [mitochondrion]	t_0442	c_11
+s_0915	inositol-P-ceramide C (C26) [endoplasmic reticulum]	t_0443	c_04
+s_0916	inositol-P-ceramide C (C26) [Golgi]	t_0443	c_07
+s_0917	inositol-P-ceramide C (C26) [mitochondrion]	t_0443	c_11
+s_0918	inositol-P-ceramide D (C24) [endoplasmic reticulum]	t_0444	c_04
+s_0919	inositol-P-ceramide D (C24) [Golgi]	t_0444	c_07
+s_0920	inositol-P-ceramide D (C24) [mitochondrion]	t_0444	c_11
+s_0921	inositol-P-ceramide D (C26) [endoplasmic reticulum]	t_0445	c_04
+s_0922	inositol-P-ceramide D (C26) [Golgi]	t_0445	c_07
+s_0923	inositol-P-ceramide D (C26) [mitochondrion]	t_0445	c_11
+s_0924	iron [cytoplasm]	t_0446	c_03
+s_0925	iron [extracellular]	t_0446	c_06
+s_0926	iron [mitochondrion]	t_0446	c_11
+s_0927	isoamyl acetate [cytoplasm]	t_0447	c_03
+s_0928	isoamyl acetate [extracellular]	t_0447	c_06
+s_0929	isoamylol [cytoplasm]	t_0448	c_03
+s_0930	isoamylol [extracellular]	t_0448	c_06
+s_0931	isoamylol [mitochondrion]	t_0448	c_11
+s_0932	isobutanol [cytoplasm]	t_0449	c_03
+s_0933	isobutanol [extracellular]	t_0449	c_06
+s_0934	isobutanol [mitochondrion]	t_0449	c_11
+s_0935	isobutyl acetate [cytoplasm]	t_0450	c_03
+s_0936	isobutyl acetate [extracellular]	t_0450	c_06
+s_0937	isobutyraldehyde [cytoplasm]	t_0451	c_03
+s_0938	isobutyraldehyde [extracellular]	t_0451	c_06
+s_0939	isobutyraldehyde [mitochondrion]	t_0451	c_11
+s_0940	isocitrate [cytoplasm]	t_0452	c_03
+s_0941	isocitrate [mitochondrion]	t_0452	c_11
+s_0942	isocitrate [peroxisome]	t_0452	c_15
+s_0943	isopentenyl diphosphate [cytoplasm]	t_0453	c_03
+s_0944	isopentenyl diphosphate [lipid particle]	t_0453	c_09
+s_0945	isopentenyl diphosphate [mitochondrion]	t_0453	c_11
+s_0946	itaconate [mitochondrion]	t_0454	c_11
+s_0949	itaconyl-CoA [mitochondrion]	t_0455	c_11
+s_0950	ITP [cytoplasm]	t_0456	c_03
+s_0951	keto-phenylpyruvate [cytoplasm]	t_0457	c_03
+s_0952	L-2-amino-3-oxobutanoate [cytoplasm]	t_0458	c_03
+s_0953	L-2-aminoadipate [cytoplasm]	t_0459	c_03
+s_0954	L-4-hydroxyglutamic semialdehyde [mitochondrion]	t_0460	c_11
+s_0955	L-alanine [cytoplasm]	t_0461	c_03
+s_0956	L-alanine [extracellular]	t_0461	c_06
+s_0957	L-alanine [mitochondrion]	t_0461	c_11
+s_0958	L-allothreonine [cytoplasm]	t_0462	c_03
+s_0959	L-allysine [cytoplasm]	t_0463	c_03
+s_0960	L-alpha-formylglycine [cytoplasm]	t_0464	c_03
+s_0961	L-arabinitol [cytoplasm]	t_0465	c_03
+s_0962	L-arabinitol [extracellular]	t_0465	c_06
+s_0963	L-arabinose [cytoplasm]	t_0466	c_03
+s_0964	L-arabinose [extracellular]	t_0466	c_06
+s_0965	L-arginine [cytoplasm]	t_0467	c_03
+s_0966	L-arginine [extracellular]	t_0467	c_06
+s_0967	L-arginine [mitochondrion]	t_0467	c_11
+s_0968	L-arginine [vacuole]	t_0467	c_17
+s_0969	L-asparagine [cytoplasm]	t_0468	c_03
+s_0970	L-asparagine [extracellular]	t_0468	c_06
+s_0971	L-asparagine [mitochondrion]	t_0468	c_11
+s_0972	L-asparagine [vacuole]	t_0468	c_17
+s_0973	L-aspartate [cytoplasm]	t_0469	c_03
+s_0974	L-aspartate [extracellular]	t_0469	c_06
+s_0975	L-aspartate [mitochondrion]	t_0469	c_11
+s_0976	L-aspartate [peroxisome]	t_0469	c_15
+s_0977	L-aspartate [vacuole]	t_0469	c_17
+s_0978	L-aspartate 4-semialdehyde [cytoplasm]	t_0470	c_03
+s_0979	L-citrulline [cytoplasm]	t_0471	c_03
+s_0980	L-cystathionine [cytoplasm]	t_0472	c_03
+s_0981	L-cysteine [cytoplasm]	t_0473	c_03
+s_0982	L-cysteine [extracellular]	t_0473	c_06
+s_0983	L-cysteinylglycine [cytoplasm]	t_0474	c_03
+s_0984	L-cystine [cytoplasm]	t_0475	c_03
+s_0985	L-cystine [vacuole]	t_0475	c_17
+s_0986	L-gamma-glutamyl phosphate [cytoplasm]	t_0476	c_03
+s_0987	L-gamma-glutamyl-L-alanine [cytoplasm]	t_0477	c_03
+s_0988	L-gamma-glutamyl-L-cysteine [cytoplasm]	t_0478	c_03
+s_0989	L-glucitol [cytoplasm]	t_0479	c_03
+s_0990	L-glucitol [extracellular]	t_0479	c_06
+s_0991	L-glutamate [cytoplasm]	t_0480	c_03
+s_0992	L-glutamate [extracellular]	t_0480	c_06
+s_0993	L-glutamate [mitochondrion]	t_0480	c_11
+s_0994	L-glutamate [nucleus]	t_0480	c_13
+s_0995	L-glutamate [peroxisome]	t_0480	c_15
+s_0996	L-glutamate [vacuole]	t_0480	c_17
+s_0997	L-glutamic 5-semialdehyde [cytoplasm]	t_0481	c_03
+s_0999	L-glutamine [cytoplasm]	t_0482	c_03
+s_1000	L-glutamine [extracellular]	t_0482	c_06
+s_1001	L-glutamine [nucleus]	t_0482	c_13
+s_1002	L-glutamine [vacuole]	t_0482	c_17
+s_1003	L-glycine [cytoplasm]	t_0483	c_03
+s_1004	L-glycine [extracellular]	t_0483	c_06
+s_1005	L-glycine [mitochondrion]	t_0483	c_11
+s_1006	L-histidine [cytoplasm]	t_0484	c_03
+s_1007	L-histidine [extracellular]	t_0484	c_06
+s_1008	L-histidine [mitochondrion]	t_0484	c_11
+s_1009	L-histidine [vacuole]	t_0484	c_17
+s_1010	L-histidinol [cytoplasm]	t_0485	c_03
+s_1011	L-histidinol phosphate [cytoplasm]	t_0486	c_03
+s_1012	L-homocysteine [cytoplasm]	t_0487	c_03
+s_1014	L-homoserine [cytoplasm]	t_0488	c_03
+s_1015	L-homoserine [extracellular]	t_0488	c_06
+s_1016	L-isoleucine [cytoplasm]	t_0489	c_03
+s_1017	L-isoleucine [extracellular]	t_0489	c_06
+s_1018	L-isoleucine [mitochondrion]	t_0489	c_11
+s_1019	L-isoleucine [vacuole]	t_0489	c_17
+s_1020	L-kynurenine [cytoplasm]	t_0490	c_03
+s_1021	L-leucine [cytoplasm]	t_0491	c_03
+s_1022	L-leucine [extracellular]	t_0491	c_06
+s_1023	L-leucine [mitochondrion]	t_0491	c_11
+s_1024	L-leucine [vacuole]	t_0491	c_17
+s_1025	L-lysine [cytoplasm]	t_0492	c_03
+s_1026	L-lysine [extracellular]	t_0492	c_06
+s_1027	L-lysine [mitochondrion]	t_0492	c_11
+s_1028	L-lysine [vacuole]	t_0492	c_17
+s_1029	L-methionine [cytoplasm]	t_0493	c_03
+s_1030	L-methionine [extracellular]	t_0493	c_06
+s_1031	L-methionine [mitochondrion]	t_0493	c_11
+s_1032	L-phenylalanine [cytoplasm]	t_0494	c_03
+s_1033	L-phenylalanine [extracellular]	t_0494	c_06
+s_1034	L-phenylalanine [mitochondrion]	t_0494	c_11
+s_1035	L-proline [cytoplasm]	t_0495	c_03
+s_1036	L-proline [extracellular]	t_0495	c_06
+s_1037	L-proline [mitochondrion]	t_0495	c_11
+s_1038	L-saccharopine [cytoplasm]	t_0496	c_03
+s_1039	L-serine [cytoplasm]	t_0497	c_03
+s_1040	L-serine [endoplasmic reticulum]	t_0497	c_04
+s_1041	L-serine [extracellular]	t_0497	c_06
+s_1042	L-serine [mitochondrion]	t_0497	c_11
+s_1043	L-sorbose [cytoplasm]	t_0498	c_03
+s_1044	L-sorbose [extracellular]	t_0498	c_06
+s_1045	L-threonine [cytoplasm]	t_0499	c_03
+s_1046	L-threonine [extracellular]	t_0499	c_06
+s_1047	L-threonine [mitochondrion]	t_0499	c_11
+s_1048	L-tryptophan [cytoplasm]	t_0500	c_03
+s_1049	L-tryptophan [extracellular]	t_0500	c_06
+s_1050	L-tryptophan [mitochondrion]	t_0500	c_11
+s_1051	L-tyrosine [cytoplasm]	t_0501	c_03
+s_1052	L-tyrosine [extracellular]	t_0501	c_06
+s_1053	L-tyrosine [mitochondrion]	t_0501	c_11
+s_1054	L-tyrosine [peroxisome]	t_0501	c_15
+s_1055	L-tyrosine [vacuole]	t_0501	c_17
+s_1056	L-valine [cytoplasm]	t_0502	c_03
+s_1057	L-valine [extracellular]	t_0502	c_06
+s_1058	L-valine [mitochondrion]	t_0502	c_11
+s_1059	lanosterol [cytoplasm]	t_0503	c_03
+s_1061	lanosterol [extracellular]	t_0503	c_06
+s_1065	laurate [cytoplasm]	t_0506	c_03
+s_1067	laurate [extracellular]	t_0506	c_06
+s_1070	laurate [peroxisome]	t_0506	c_15
+s_1073	lauroyl-CoA [cytoplasm]	t_0508	c_03
+s_1076	lauroyl-CoA [peroxisome]	t_0508	c_15
+s_1077	Leu-tRNA(Leu) [cytoplasm]	t_0509	c_03
+s_1078	Leu-tRNA(Leu) [mitochondrion]	t_0509	c_11
+s_1079	leukotriene A4 [cytoplasm]	t_0510	c_03
+s_1080	leukotriene A4 [nucleus]	t_0510	c_13
+s_1081	leukotriene B4 [cytoplasm]	t_0511	c_03
+s_1082	leukotriene B4 [nucleus]	t_0511	c_13
+s_1085	lignoceric acid [endoplasmic reticulum]	t_0512	c_04
+s_1096	lipid [cytoplasm]	t_0514	c_03
+s_1097	lipoamide [mitochondrion]	t_0515	c_11
+s_1098	lipoylprotein [mitochondrion]	t_0516	c_11
+s_1099	Lys-tRNA(Lys) [cytoplasm]	t_0517	c_03
+s_1100	Lys-tRNA(Lys) [mitochondrion]	t_0517	c_11
+s_1101	malonyl-CoA [cytoplasm]	t_0518	c_03
+s_1104	malonyl-CoA [mitochondrion]	t_0518	c_11
+s_1105	maltose [cytoplasm]	t_0519	c_03
+s_1106	maltose [extracellular]	t_0519	c_06
+s_1107	mannan [cytoplasm]	t_0520	c_03
+s_1108	mannan [endoplasmic reticulum]	t_0520	c_04
+s_1109	mannose-(1D-myo-inositol 1-phosphate)2 [endoplasmic reticulum]	t_0521	c_04
+s_1110	mannose-(1D-myo-inositol 1-phosphate)2 [mitochondrion]	t_0521	c_11
+s_1111	mannose-1D-myo-inositol 1-phosphate [endoplasmic reticulum]	t_0522	c_04
+s_1112	mannose-1D-myo-inositol 1-phosphate [mitochondrion]	t_0522	c_11
+s_1113	mannosylinositol phosphorylceramide [endoplasmic reticulum]	t_0523	c_04
+s_1114	mannosylinositol phosphorylceramide [Golgi]	t_0523	c_07
+s_1115	mannosylinositol phosphorylceramide [mitochondrion]	t_0523	c_11
+s_1116	mannosylinositol phosphorylceramide A (C24) [endoplasmic reticulum]	t_0524	c_04
+s_1117	mannosylinositol phosphorylceramide A (C24) [Golgi]	t_0524	c_07
+s_1118	mannosylinositol phosphorylceramide A (C24) [mitochondrion]	t_0524	c_11
+s_1119	mannosylinositol phosphorylceramide A (C26) [endoplasmic reticulum]	t_0525	c_04
+s_1120	mannosylinositol phosphorylceramide A (C26) [Golgi]	t_0525	c_07
+s_1121	mannosylinositol phosphorylceramide A (C26) [mitochondrion]	t_0525	c_11
+s_1122	mannosylinositol phosphorylceramide B (C24) [endoplasmic reticulum]	t_0526	c_04
+s_1123	mannosylinositol phosphorylceramide B (C24) [Golgi]	t_0526	c_07
+s_1124	mannosylinositol phosphorylceramide B (C24) [mitochondrion]	t_0526	c_11
+s_1125	mannosylinositol phosphorylceramide B (C26) [endoplasmic reticulum]	t_0527	c_04
+s_1126	mannosylinositol phosphorylceramide B (C26) [Golgi]	t_0527	c_07
+s_1127	mannosylinositol phosphorylceramide B (C26) [mitochondrion]	t_0527	c_11
+s_1128	mannosylinositol phosphorylceramide B' (C24) [endoplasmic reticulum]	t_0528	c_04
+s_1129	mannosylinositol phosphorylceramide B' (C24) [Golgi]	t_0528	c_07
+s_1130	mannosylinositol phosphorylceramide B' (C24) [mitochondrion]	t_0528	c_11
+s_1131	mannosylinositol phosphorylceramide B' (C26) [endoplasmic reticulum]	t_0529	c_04
+s_1132	mannosylinositol phosphorylceramide B' (C26) [Golgi]	t_0529	c_07
+s_1133	mannosylinositol phosphorylceramide B' (C26) [mitochondrion]	t_0529	c_11
+s_1134	mannosylinositol phosphorylceramide C (C24) [endoplasmic reticulum]	t_0530	c_04
+s_1135	mannosylinositol phosphorylceramide C (C24) [Golgi]	t_0530	c_07
+s_1136	mannosylinositol phosphorylceramide C (C24) [mitochondrion]	t_0530	c_11
+s_1137	mannosylinositol phosphorylceramide C (C26) [endoplasmic reticulum]	t_0531	c_04
+s_1138	mannosylinositol phosphorylceramide C (C26) [Golgi]	t_0531	c_07
+s_1139	mannosylinositol phosphorylceramide C (C26) [mitochondrion]	t_0531	c_11
+s_1140	mannosylinositol phosphorylceramide D (C24) [endoplasmic reticulum]	t_0532	c_04
+s_1141	mannosylinositol phosphorylceramide D (C24) [Golgi]	t_0532	c_07
+s_1142	mannosylinositol phosphorylceramide D (C24) [mitochondrion]	t_0532	c_11
+s_1143	mannosylinositol phosphorylceramide D (C26) [endoplasmic reticulum]	t_0533	c_04
+s_1144	mannosylinositol phosphorylceramide D (C26) [Golgi]	t_0533	c_07
+s_1145	mannosylinositol phosphorylceramide D (C26) [mitochondrion]	t_0533	c_11
+s_1148	Met-tRNA(Met) [cytoplasm]	t_0534	c_03
+s_1149	Met-tRNA(Met) [mitochondrion]	t_0534	c_11
+s_1150	methanethiol [cytoplasm]	t_0535	c_03
+s_1151	methylglyoxal [cytoplasm]	t_0536	c_03
+s_1153	myo-inositol [cytoplasm]	t_0537	c_03
+s_1154	myo-inositol [extracellular]	t_0537	c_06
+s_1156	myo-inositol 1,3,4,5,6-pentakisphosphate [cytoplasm]	t_0538	c_03
+s_1157	myo-inositol 1,3,4,5,6-pentakisphosphate [nucleus]	t_0538	c_13
+s_1158	myo-inositol hexakisphosphate [cytoplasm]	t_0539	c_03
+s_1159	myo-inositol hexakisphosphate [nucleus]	t_0539	c_13
+s_1161	myristate [cytoplasm]	t_0540	c_03
+s_1163	myristate [extracellular]	t_0540	c_06
+s_1166	myristate [peroxisome]	t_0540	c_15
+s_1176	myristoyl-CoA [cytoplasm]	t_0543	c_03
+s_1179	myristoyl-CoA [peroxisome]	t_0543	c_15
+s_1180	N(1)-acetylspermidine [cytoplasm]	t_0544	c_03
+s_1181	N(1)-acetylspermine [cytoplasm]	t_0545	c_03
+s_1182	N(2)-acetyl-L-ornithine [mitochondrion]	t_0546	c_11
+s_1183	N(pros)-methyl-L-histidine [cytoplasm]	t_0547	c_03
+s_1184	N,N'-diacetylchitobiosyldiphosphodolichol [cytoplasm]	t_0548	c_03
+s_1185	N,N'-diformyldityrosine [cytoplasm]	t_0549	c_03
+s_1186	N,N'-diformyldityrosine [extracellular]	t_0549	c_06
+s_1187	N-(5-phospho-beta-D-ribosyl)anthranilate [cytoplasm]	t_0550	c_03
+s_1188	N-[(R)-4-phosphonopantothenoyl]-L-cysteine [cytoplasm]	t_0551	c_03
+s_1189	N-acetyl-alpha-D-glucosamine 1-phosphate [cytoplasm]	t_0552	c_03
+s_1190	N-acetyl-D-glucosamine 6-phosphate [cytoplasm]	t_0553	c_03
+s_1191	N-acetyl-L-gamma-glutamyl phosphate [mitochondrion]	t_0554	c_11
+s_1192	N-acetyl-L-glutamate [mitochondrion]	t_0555	c_11
+s_1193	N-acetylputrescine [cytoplasm]	t_0556	c_03
+s_1194	N-carbamoyl-L-aspartate [cytoplasm]	t_0557	c_03
+s_1195	N-formyl-L-kynurenine [cytoplasm]	t_0558	c_03
+s_1196	N-formyl-L-tyrosine [cytoplasm]	t_0559	c_03
+s_1198	NAD [cytoplasm]	t_0560	c_03
+s_1199	NAD [endoplasmic reticulum]	t_0560	c_04
+s_1200	NAD [mitochondrion]	t_0560	c_11
+s_1201	NAD [nucleus]	t_0560	c_13
+s_1202	NAD [peroxisome]	t_0560	c_15
+s_1203	NADH [cytoplasm]	t_0561	c_03
+s_1204	NADH [endoplasmic reticulum]	t_0561	c_04
+s_1205	NADH [mitochondrion]	t_0561	c_11
+s_1206	NADH [peroxisome]	t_0561	c_15
+s_1207	NADP(+) [cytoplasm]	t_0562	c_03
+s_1208	NADP(+) [endoplasmic reticulum]	t_0562	c_04
+s_1210	NADP(+) [mitochondrion]	t_0562	c_11
+s_1211	NADP(+) [peroxisome]	t_0562	c_15
+s_1212	NADPH [cytoplasm]	t_0563	c_03
+s_1213	NADPH [endoplasmic reticulum]	t_0563	c_04
+s_1214	NADPH [mitochondrion]	t_0563	c_11
+s_1215	NADPH [peroxisome]	t_0563	c_15
+s_1216	nicotinamide [cytoplasm]	t_0564	c_03
+s_1217	nicotinamide [nucleus]	t_0564	c_13
+s_1218	nicotinamide ribose [cytoplasm]	t_0565	c_03
+s_1219	nicotinate [cytoplasm]	t_0566	c_03
+s_1220	nicotinate [extracellular]	t_0566	c_06
+s_1221	nicotinate [mitochondrion]	t_0566	c_11
+s_1222	nicotinic acid D-ribonucleotide [cytoplasm]	t_0567	c_03
+s_1223	nicotinic acid D-ribonucleotide [mitochondrion]	t_0567	c_11
+s_1224	NMN [cytoplasm]	t_0568	c_03
+s_1225	NMN [extracellular]	t_0568	c_06
+s_1227	NMN [nucleus]	t_0568	c_13
+s_1228	NMN [peroxisome]	t_0568	c_15
+s_1229	nonadecaprenyl diphosphate [lipid particle]	t_0569	c_09
+s_1230	nonaprenyl 4-hydroxybenzoate [cytoplasm]	t_0570	c_03
+s_1231	nonaprenyl diphosphate [cytoplasm]	t_0571	c_03
+s_1232	nonaprenyl diphosphate [lipid particle]	t_0571	c_09
+s_1233	O-acetyl-L-homoserine [cytoplasm]	t_0572	c_03
+s_1234	O-acetyl-L-serine [cytoplasm]	t_0573	c_03
+s_1235	O-acetylcarnitine [cytoplasm]	t_0574	c_03
+s_1236	O-acetylcarnitine [mitochondrion]	t_0574	c_11
+s_1237	O-acetylcarnitine [peroxisome]	t_0574	c_15
+s_1238	O-phospho-L-homoserine [cytoplasm]	t_0575	c_03
+s_1239	O-phosphoethanolamine [cytoplasm]	t_0576	c_03
+s_1240	O-phosphoethanolamine [endoplasmic reticulum]	t_0576	c_04
+s_1241	O-succinyl-L-homoserine [cytoplasm]	t_0577	c_03
+s_1246	octadecaprenyl diphosphate [lipid particle]	t_0580	c_09
+s_1248	octanoate [cytoplasm]	t_0581	c_03
+s_1250	octanoate [extracellular]	t_0581	c_06
+s_1253	octanoate [peroxisome]	t_0581	c_15
+s_1254	octanoyl-ACP [mitochondrion]	t_0582	c_11
+s_1258	octanoyl-CoA [peroxisome]	t_0583	c_15
+s_1259	octaprenyl diphosphate [lipid particle]	t_0584	c_09
+s_1260	oleate [cytoplasm]	t_0585	c_03
+s_1262	oleoyl-CoA [cytoplasm]	t_0586	c_03
+s_1265	oleoyl-CoA [peroxisome]	t_0586	c_15
+s_1266	ornithine [cytoplasm]	t_0587	c_03
+s_1267	ornithine [extracellular]	t_0587	c_06
+s_1268	ornithine [mitochondrion]	t_0587	c_11
+s_1269	orotate [cytoplasm]	t_0588	c_03
+s_1270	orotidine 5'-(dihydrogen phosphate) [cytoplasm]	t_0589	c_03
+s_1271	oxaloacetate [cytoplasm]	t_0590	c_03
+s_1272	oxaloacetate [extracellular]	t_0590	c_06
+s_1273	oxaloacetate [mitochondrion]	t_0590	c_11
+s_1274	oxaloacetate [peroxisome]	t_0590	c_15
+s_1275	oxygen [cytoplasm]	t_0591	c_03
+s_1276	oxygen [endoplasmic reticulum]	t_0591	c_04
+s_1277	oxygen [extracellular]	t_0591	c_06
+s_1278	oxygen [mitochondrion]	t_0591	c_11
+s_1279	oxygen [peroxisome]	t_0591	c_15
+s_1282	P(1),P(4)-bis(5'-adenosyl) tetraphosphate [cytoplasm]	t_0592	c_03
+s_1283	P(1),P(4)-bis(5'-guanosyl) tetraphosphate [cytoplasm]	t_0593	c_03
+s_1284	P1-(5'-adenosyl),P4-(5'-guanosyl) tetraphosphate [cytoplasm]	t_0594	c_03
+s_1286	palmitate [cytoplasm]	t_0595	c_03
+s_1288	palmitate [extracellular]	t_0595	c_06
+s_1291	palmitate [peroxisome]	t_0595	c_15
+s_1293	palmitoleate [cytoplasm]	t_0596	c_03
+s_1295	palmitoleate [extracellular]	t_0596	c_06
+s_1298	palmitoleate [peroxisome]	t_0596	c_15
+s_1302	palmitoyl-CoA [cytoplasm]	t_0599	c_03
+s_1303	palmitoyl-CoA [endoplasmic reticulum]	t_0599	c_04
+s_1305	palmitoyl-CoA [peroxisome]	t_0599	c_15
+s_1307	pantetheine 4'-phosphate [cytoplasm]	t_0600	c_03
+s_1308	pantetheine 4'-phosphate [mitochondrion]	t_0600	c_11
+s_1309	pectin [extracellular]	t_0601	c_06
+s_1310	pentadecaprenyl diphosphate [lipid particle]	t_0602	c_09
+s_1311	pentaprenyl diphosphate [cytoplasm]	t_0603	c_03
+s_1312	pentaprenyl diphosphate [lipid particle]	t_0603	c_09
+s_1313	pentaprenyl diphosphate [mitochondrion]	t_0603	c_11
+s_1314	Phe-tRNA(Phe) [cytoplasm]	t_0604	c_03
+s_1315	Phe-tRNA(Phe) [mitochondrion]	t_0604	c_11
+s_1316	phenethyl acetate [cytoplasm]	t_0605	c_03
+s_1317	phenethyl acetate [extracellular]	t_0605	c_06
+s_1318	phenylacetaldehyde [cytoplasm]	t_0606	c_03
+s_1319	phenylacetaldehyde [extracellular]	t_0606	c_06
+s_1320	phenylacetaldehyde [mitochondrion]	t_0606	c_11
+s_1321	phenylacetic acid [cytoplasm]	t_0607	c_03
+s_1322	phosphate [cytoplasm]	t_0608	c_03
+s_1323	phosphate [endoplasmic reticulum]	t_0608	c_04
+s_1324	phosphate [extracellular]	t_0608	c_06
+s_1325	phosphate [Golgi]	t_0608	c_07
+s_1326	phosphate [mitochondrion]	t_0608	c_11
+s_1329	phosphate [vacuole]	t_0608	c_17
+s_1337	phosphatidyl-L-serine [cytoplasm]	t_0610	c_03
+s_1346	phosphatidylcholine [cytoplasm]	t_0613	c_03
+s_1351	phosphatidylethanolamine [cytoplasm]	t_0614	c_03
+s_1352	phosphatidylethanolamine [endoplasmic reticulum]	t_0614	c_04
+s_1360	phosphoenolpyruvate [cytoplasm]	t_0617	c_03
+s_1361	phosphoenolpyruvate [mitochondrion]	t_0617	c_11
+s_1364	phosphoribosyl-carboxy-aminoimidazole [cytoplasm]	t_0618	c_03
+s_1365	phosphoribosyl-formamido-carboxamide [cytoplasm]	t_0619	c_03
+s_1366	phytosphingosine [endoplasmic reticulum]	t_0620	c_04
+s_1367	phytosphingosine 1-phosphate [endoplasmic reticulum]	t_0621	c_04
+s_1368	pimeloyl-CoA [cytoplasm]	t_0622	c_03
+s_1371	polysulphur [cytoplasm]	t_0623	c_03
+s_1372	porphobilinogen [cytoplasm]	t_0624	c_03
+s_1373	potassium [cytoplasm]	t_0625	c_03
+s_1374	potassium [extracellular]	t_0625	c_06
+s_1375	precorrin-2 [cytoplasm]	t_0626	c_03
+s_1376	prenyl diphosphate [cytoplasm]	t_0627	c_03
+s_1377	prephenate [cytoplasm]	t_0628	c_03
+s_1378	preuroporphyrinogen [cytoplasm]	t_0629	c_03
+s_1379	Pro-tRNA(Pro) [cytoplasm]	t_0630	c_03
+s_1382	propionyl-CoA [mitochondrion]	t_0631	c_11
+s_1383	protoporphyrin [mitochondrion]	t_0632	c_11
+s_1384	protoporphyrinogen [cytoplasm]	t_0633	c_03
+s_1385	protoporphyrinogen [mitochondrion]	t_0633	c_11
+s_1386	PRPP [cytoplasm]	t_0634	c_03
+s_1387	PRPP [mitochondrion]	t_0634	c_11
+s_1388	pseudouridine 5'-phosphate [cytoplasm]	t_0635	c_03
+s_1389	putrescine [cytoplasm]	t_0636	c_03
+s_1390	putrescine [extracellular]	t_0636	c_06
+s_1391	putrescine [vacuole]	t_0636	c_17
+s_1392	pyridoxal [cytoplasm]	t_0637	c_03
+s_1393	pyridoxal 5'-phosphate [cytoplasm]	t_0638	c_03
+s_1394	pyridoxamine [cytoplasm]	t_0639	c_03
+s_1395	pyridoxamine 5'-phosphate [cytoplasm]	t_0640	c_03
+s_1396	pyridoxine [cytoplasm]	t_0641	c_03
+s_1397	pyridoxine [extracellular]	t_0641	c_06
+s_1398	pyridoxine 5'-phosphate [cytoplasm]	t_0642	c_03
+s_1399	pyruvate [cytoplasm]	t_0643	c_03
+s_1400	pyruvate [extracellular]	t_0643	c_06
+s_1401	pyruvate [mitochondrion]	t_0643	c_11
+s_1403	quinolinate [cytoplasm]	t_0644	c_03
+s_1404	quinolinate [mitochondrion]	t_0644	c_11
+s_1405	riboflavin [cytoplasm]	t_0645	c_03
+s_1406	riboflavin [extracellular]	t_0645	c_06
+s_1407	riboflavin [mitochondrion]	t_0645	c_11
+s_1408	ribose-5-phosphate [cytoplasm]	t_0646	c_03
+s_1409	S(8)-aminomethyldihydrolipoamide [mitochondrion]	t_0647	c_11
+s_1410	S(8)-aminomethyldihydrolipoylprotein [mitochondrion]	t_0648	c_11
+s_1411	S(8)-succinyldihydrolipoamide [mitochondrion]	t_0649	c_11
+s_1412	S-adenosyl-4-methylthio-2-oxobutanoate [cytoplasm]	t_0650	c_03
+s_1413	S-adenosyl-L-homocysteine [cytoplasm]	t_0651	c_03
+s_1415	S-adenosyl-L-homocysteine [mitochondrion]	t_0651	c_11
+s_1416	S-adenosyl-L-methionine [cytoplasm]	t_0652	c_03
+s_1418	S-adenosyl-L-methionine [extracellular]	t_0652	c_06
+s_1419	S-adenosyl-L-methionine [mitochondrion]	t_0652	c_11
+s_1420	S-adenosylmethioninamine [cytoplasm]	t_0653	c_03
+s_1421	S-formylglutathione [cytoplasm]	t_0654	c_03
+s_1422	S-methyl-5-thio-alpha-D-ribose 1-phosphate [cytoplasm]	t_0655	c_03
+s_1423	S-methyl-5-thio-D-ribulose 1-phosphate [cytoplasm]	t_0656	c_03
+s_1424	S-methyl-L-methionine [cytoplasm]	t_0657	c_03
+s_1425	S-methyl-L-methionine [extracellular]	t_0657	c_06
+s_1426	sedoheptulose 1,7-bisphosphate [cytoplasm]	t_0658	c_03
+s_1427	sedoheptulose 7-phosphate [cytoplasm]	t_0659	c_03
+s_1428	Ser-tRNA(Ser) [cytoplasm]	t_0660	c_03
+s_1429	shikimate [cytoplasm]	t_0661	c_03
+s_1430	siroheme [cytoplasm]	t_0662	c_03
+s_1431	sirohydrochlorin [cytoplasm]	t_0663	c_03
+s_1432	sn-glycero-3-phosphocholine [cell envelope]	t_0664	c_02
+s_1433	sn-glycero-3-phosphocholine [cytoplasm]	t_0664	c_03
+s_1435	sn-glycero-3-phosphocholine [extracellular]	t_0664	c_06
+s_1437	sodium [cytoplasm]	t_0665	c_03
+s_1438	sodium [extracellular]	t_0665	c_06
+s_1439	spermidine [cytoplasm]	t_0666	c_03
+s_1440	spermidine [extracellular]	t_0666	c_06
+s_1441	spermidine [vacuole]	t_0666	c_17
+s_1442	spermine [cytoplasm]	t_0667	c_03
+s_1443	spermine [extracellular]	t_0667	c_06
+s_1444	spermine [vacuole]	t_0667	c_17
+s_1445	sphinganine [endoplasmic reticulum]	t_0668	c_04
+s_1446	sphinganine 1-phosphate [endoplasmic reticulum]	t_0669	c_04
+s_1447	squalene [cytoplasm]	t_0670	c_03
+s_1448	squalene [endoplasmic reticulum]	t_0670	c_04
+s_1449	stearate [cytoplasm]	t_0671	c_03
+s_1450	stearate [extracellular]	t_0671	c_06
+s_1451	stearate [peroxisome]	t_0671	c_15
+s_1454	stearoyl-CoA [cytoplasm]	t_0673	c_03
+s_1457	stearoyl-CoA [peroxisome]	t_0673	c_15
+s_1458	succinate [cytoplasm]	t_0674	c_03
+s_1459	succinate [extracellular]	t_0674	c_06
+s_1460	succinate [mitochondrion]	t_0674	c_11
+s_1461	succinic semialdehyde [cytoplasm]	t_0675	c_03
+s_1464	succinyl-CoA [mitochondrion]	t_0676	c_11
+s_1466	sucrose [extracellular]	t_0677	c_06
+s_1467	sulphate [cytoplasm]	t_0678	c_03
+s_1468	sulphate [extracellular]	t_0678	c_06
+s_1469	sulphite [cytoplasm]	t_0679	c_03
+s_1470	sulphite [extracellular]	t_0679	c_06
+s_1471	taurine [cytoplasm]	t_0680	c_03
+s_1472	taurine [extracellular]	t_0680	c_06
+s_1473	taurocholic acid [cytoplasm]	t_0681	c_03
+s_1474	taurocholic acid [vacuole]	t_0681	c_17
+s_1475	TDP [cytoplasm]	t_0682	c_03
+s_1476	TDP [extracellular]	t_0682	c_06
+s_1477	TDP [mitochondrion]	t_0682	c_11
+s_1479	tetracosanoyl-CoA [cytoplasm]	t_0683	c_03
+s_1480	tetracosanoyl-CoA [endoplasmic reticulum]	t_0683	c_04
+s_1482	tetracosanoyl-CoA [peroxisome]	t_0683	c_15
+s_1483	tetradecaprenyl diphosphate [lipid particle]	t_0684	c_09
+s_1486	tetrahydropteroyltri-L-glutamic acid [cytoplasm]	t_0686	c_03
+s_1487	THF [cytoplasm]	t_0687	c_03
+s_1488	THF [mitochondrion]	t_0687	c_11
+s_1489	thiamine [cytoplasm]	t_0688	c_03
+s_1490	thiamine [extracellular]	t_0688	c_06
+s_1491	Thr-tRNA(Thr) [cytoplasm]	t_0689	c_03
+s_1492	Thr-tRNA(Thr) [mitochondrion]	t_0689	c_11
+s_1493	thymidine [cytoplasm]	t_0690	c_03
+s_1494	thymidine [extracellular]	t_0690	c_06
+s_1495	thymine [cytoplasm]	t_0691	c_03
+s_1497	TMP [cytoplasm]	t_0692	c_03
+s_1498	TMP [extracellular]	t_0692	c_06
+s_1503	trans-aconitate [cytoplasm]	t_0694	c_03
+s_1504	trans-aconitate [mitochondrion]	t_0694	c_11
+s_1507	trans-dec-2-enoyl-CoA [peroxisome]	t_0695	c_15
+s_1510	trans-dodec-2-enoyl-CoA [peroxisome]	t_0696	c_15
+s_1513	trans-hexacos-2-enoyl-CoA [peroxisome]	t_0697	c_15
+s_1516	trans-octadec-2-enoyl-CoA [peroxisome]	t_0698	c_15
+s_1519	trans-tetradec-2-enoyl-CoA [peroxisome]	t_0699	c_15
+s_1520	trehalose [cytoplasm]	t_0700	c_03
+s_1521	trehalose [extracellular]	t_0700	c_06
+s_1522	trehalose [vacuole]	t_0700	c_17
+s_1523	tridecaprenyl diphosphate [lipid particle]	t_0701	c_09
+s_1524	triglyceride [cytoplasm]	t_0702	c_03
+s_1526	trimethylenediamine [cytoplasm]	t_0703	c_03
+s_1527	Trp-tRNA(Trp) [cytoplasm]	t_0704	c_03
+s_1528	Trp-tRNA(Trp) [mitochondrion]	t_0704	c_11
+s_1529	tryptophol [cytoplasm]	t_0705	c_03
+s_1530	tryptophol [extracellular]	t_0705	c_06
+s_1531	tryptophol [mitochondrion]	t_0705	c_11
+s_1532	TTP [cytoplasm]	t_0706	c_03
+s_1533	Tyr-tRNA(Tyr) [cytoplasm]	t_0707	c_03
+s_1534	Tyr-tRNA(Tyr) [mitochondrion]	t_0707	c_11
+s_1535	ubiquinol-6 [mitochondrion]	t_0708	c_11
+s_1537	ubiquinone-6 [mitochondrion]	t_0709	c_11
+s_1538	UDP [cytoplasm]	t_0710	c_03
+s_1539	UDP [Golgi]	t_0710	c_07
+s_1540	UDP [nucleus]	t_0710	c_13
+s_1541	UDP-D-galactose [cytoplasm]	t_0711	c_03
+s_1542	UDP-D-galactose [Golgi]	t_0711	c_07
+s_1543	UDP-D-glucose [cytoplasm]	t_0712	c_03
+s_1544	UDP-N-acetyl-alpha-D-glucosamine [cytoplasm]	t_0713	c_03
+s_1545	UMP [cytoplasm]	t_0714	c_03
+s_1546	UMP [Golgi]	t_0714	c_07
+s_1547	UMP [mitochondrion]	t_0714	c_11
+s_1548	UMP [nucleus]	t_0714	c_13
+s_1549	undecaprenyl diphosphate [lipid particle]	t_0715	c_09
+s_1550	uracil [cytoplasm]	t_0716	c_03
+s_1551	uracil [extracellular]	t_0716	c_06
+s_1552	urea [cytoplasm]	t_0717	c_03
+s_1553	urea [extracellular]	t_0717	c_06
+s_1554	urea-1-carboxylic acid [cytoplasm]	t_0718	c_03
+s_1555	ureidoglycolic acid [cytoplasm]	t_0719	c_03
+s_1556	uridine [cytoplasm]	t_0720	c_03
+s_1557	uridine [extracellular]	t_0720	c_06
+s_1558	uroporphyrinogen III [cytoplasm]	t_0721	c_03
+s_1559	UTP [cytoplasm]	t_0722	c_03
+s_1560	UTP [mitochondrion]	t_0722	c_11
+s_1561	Val-tRNA(Val) [cytoplasm]	t_0723	c_03
+s_1562	Val-tRNA(Val) [mitochondrion]	t_0723	c_11
+s_1563	xanthosine [cytoplasm]	t_0724	c_03
+s_1564	xanthosine [extracellular]	t_0724	c_06
+s_1565	xanthosine-5-phosphate [cytoplasm]	t_0725	c_03
+s_1566	xylitol [cytoplasm]	t_0726	c_03
+s_1567	xylitol [extracellular]	t_0726	c_06
+s_1568	zymosterol [cell envelope]	t_0727	c_02
+s_1569	zymosterol [cytoplasm]	t_0727	c_03
+s_1571	zymosterol [extracellular]	t_0727	c_06
+s_1572	zymosterol [lipid particle]	t_0727	c_09
+s_1576	zymosterol intermediate 1a [cytoplasm]	t_0729	c_03
+s_1577	zymosterol intermediate 1b [cytoplasm]	t_0730	c_03
+s_1578	zymosterol intermediate 1c [cytoplasm]	t_0731	c_03
+s_1579	zymosterol intermediate 2 [cytoplasm]	t_0732	c_03
+s_1582	tRNA(Ala), cytoplasmic [cytoplasm]	t_0735	c_03
+s_1583	tRNA(Arg), cytoplasmic [cytoplasm]	t_0736	c_03
+s_1584	tRNA(Arg), mitchondrial [mitochondrion]	t_0737	c_11
+s_1585	tRNA(Asn), cytoplasmic [cytoplasm]	t_0738	c_03
+s_1586	tRNA(Asn), mitchondrial [mitochondrion]	t_0739	c_11
+s_1587	tRNA(Asp), cytoplasmic [cytoplasm]	t_0740	c_03
+s_1588	tRNA(Asp), mitchondrial [mitochondrion]	t_0741	c_11
+s_1589	tRNA(Cys), cytoplasmic [cytoplasm]	t_0742	c_03
+s_1590	tRNA(Gln), cytoplasmic [cytoplasm]	t_0743	c_03
+s_1591	tRNA(Glu), cytoplasmic [cytoplasm]	t_0744	c_03
+s_1592	tRNA(Glu), mitchondrial [mitochondrion]	t_0745	c_11
+s_1593	tRNA(Gly), cytoplasmic [cytoplasm]	t_0746	c_03
+s_1594	tRNA(His), cytoplasmic [cytoplasm]	t_0747	c_03
+s_1595	tRNA(His), mitchondrial [mitochondrion]	t_0748	c_11
+s_1596	tRNA(Ile), cytoplasmic [cytoplasm]	t_0749	c_03
+s_1597	tRNA(Ile), mitchondrial [mitochondrion]	t_0750	c_11
+s_1598	tRNA(Leu), cytoplasmic [cytoplasm]	t_0751	c_03
+s_1599	tRNA(Leu), mitchondrial [mitochondrion]	t_0752	c_11
+s_1600	tRNA(Lys), cytoplasmic [cytoplasm]	t_0753	c_03
+s_1601	tRNA(Lys), mitchondrial [mitochondrion]	t_0754	c_11
+s_1602	tRNA(Met), cytoplasmic [cytoplasm]	t_0755	c_03
+s_1603	tRNA(Met), mitchondrial [mitochondrion]	t_0756	c_11
+s_1604	tRNA(Phe), cytoplasmic [cytoplasm]	t_0757	c_03
+s_1605	tRNA(Phe), mitchondrial [mitochondrion]	t_0758	c_11
+s_1606	tRNA(Pro), cytoplasmic [cytoplasm]	t_0759	c_03
+s_1607	tRNA(Ser), cytoplasmic [cytoplasm]	t_0760	c_03
+s_1608	tRNA(Thr), cytoplasmic [cytoplasm]	t_0761	c_03
+s_1609	tRNA(Thr), mitchondrial [mitochondrion]	t_0762	c_11
+s_1610	tRNA(Trp), cytoplasmic [cytoplasm]	t_0763	c_03
+s_1611	tRNA(Trp), mitchondrial [mitochondrion]	t_0764	c_11
+s_1612	tRNA(Tyr), cytoplasmic [cytoplasm]	t_0765	c_03
+s_1613	tRNA(Tyr), mitchondrial [mitochondrion]	t_0766	c_11
+s_1614	tRNA(Val), cytoplasmic [cytoplasm]	t_0767	c_03
+s_1615	tRNA(Val), mitchondrial [mitochondrion]	t_0768	c_11
+s_1616	TRX1 [cytoplasm]	t_0769	c_03
+s_1617	TRX1 [mitochondrion]	t_0769	c_11
+s_1618	TRX1 [nucleus]	t_0769	c_13
+s_1619	TRX1 [peroxisome]	t_0769	c_15
+s_1620	TRX1 disulphide [cytoplasm]	t_0770	c_03
+s_1621	TRX1 disulphide [mitochondrion]	t_0770	c_11
+s_1622	TRX1 disulphide [nucleus]	t_0770	c_13
+s_1623	TRX1 disulphide [peroxisome]	t_0770	c_15
+s_2763	kynurenic acid [cytoplasm]	t_0771	c_03
+s_2764	quinaldic acid [cytoplasm]	t_0772	c_03
+s_1656	(1->3)-beta-D-glucan [boundary]	t_0001	c_01
+s_1657	(R)-carnitine [boundary]	t_0016	c_01
+s_1658	(R)-lactate [boundary]	t_0017	c_01
+s_1659	(R)-mevalonate [boundary]	t_0018	c_01
+s_1660	(R)-pantothenate [boundary]	t_0020	c_01
+s_1661	(R,R)-2,3-butanediol [boundary]	t_0022	c_01
+s_1662	(S)-3-methyl-2-oxopentanoate [boundary]	t_0030	c_01
+s_1663	(S)-lactate [boundary]	t_0033	c_01
+s_1664	(S)-malate [boundary]	t_0034	c_01
+s_1665	1-(sn-glycero-3-phospho)-1D-myo-inositol [boundary]	t_0043	c_01
+s_1666	1-acylglycerophosphocholine [boundary]	t_0045	c_01
+s_1667	2'-deoxyadenosine [boundary]	t_0063	c_01
+s_1668	2'-deoxyguanosine [boundary]	t_0064	c_01
+s_1669	2'-deoxyinosine [boundary]	t_0065	c_01
+s_1670	2'-deoxyuridine [boundary]	t_0066	c_01
+s_1672	2-isopropylmalate [boundary]	t_0086	c_01
+s_1673	2-methylbutanal [boundary]	t_0088	c_01
+s_1674	2-methylbutanol [boundary]	t_0089	c_01
+s_1675	2-methylbutyl acetate [boundary]	t_0090	c_01
+s_1676	2-oxoglutarate [boundary]	t_0094	c_01
+s_1677	2-phenylethanol [boundary]	t_0095	c_01
+s_1678	3-methylbutanal [boundary]	t_0127	c_01
+s_1679	4-aminobenzoate [boundary]	t_0148	c_01
+s_1680	5-aminolevulinate [boundary]	t_0178	c_01
+s_1681	5-formyltetrahydrofolic acid [boundary]	t_0180	c_01
+s_1682	7,8-diaminononanoate [boundary]	t_0199	c_01
+s_1683	8-amino-7-oxononanoate [boundary]	t_0205	c_01
+s_1684	9H-xanthine [boundary]	t_0206	c_01
+s_1685	acetaldehyde [boundary]	t_0207	c_01
+s_1686	acetate [boundary]	t_0208	c_01
+s_1687	adenine [boundary]	t_0214	c_01
+s_1688	adenosine [boundary]	t_0215	c_01
+s_1689	adenosine 3',5'-bismonophosphate [boundary]	t_0217	c_01
+s_1690	allantoate [boundary]	t_0223	c_01
+s_1691	allantoin [boundary]	t_0224	c_01
+s_1692	alpha-D-glucosamine 6-phosphate [boundary]	t_0228	c_01
+s_1693	ammonium [boundary]	t_0233	c_01
+s_1694	bicarbonate [boundary]	t_0243	c_01
+s_1695	biotin [boundary]	t_0245	c_01
+s_1696	carbon dioxide [boundary]	t_0249	c_01
+s_1697	choline [boundary]	t_0270	c_01
+s_1698	citrate [boundary]	t_0276	c_01
+s_1699	cytidine [boundary]	t_0283	c_01
+s_1700	cytosine [boundary]	t_0284	c_01
+s_1701	D-arabinose [boundary]	t_0286	c_01
+s_1702	D-fructose [boundary]	t_0289	c_01
+s_1703	D-galactose [boundary]	t_0293	c_01
+s_1704	D-galacturonate [boundary]	t_0294	c_01
+s_1705	D-glucitol [boundary]	t_0295	c_01
+s_1706	D-glucose [boundary]	t_0296	c_01
+s_1707	D-mannose [boundary]	t_0300	c_01
+s_1708	D-ribose [boundary]	t_0303	c_01
+s_1709	D-xylose [boundary]	t_0305	c_01
+s_1710	decanoate [boundary]	t_0315	c_01
+s_1711	deoxycytidine [boundary]	t_0321	c_01
+s_1712	dTTP [boundary]	t_0341	c_01
+s_1713	episterol [boundary]	t_0345	c_01
+s_1714	ergosterol [boundary]	t_0350	c_01
+s_1715	ethanol [boundary]	t_0356	c_01
+s_1716	ethanolamine [boundary]	t_0357	c_01
+s_1717	ethyl acetate [boundary]	t_0358	c_01
+s_1719	fecosterol [boundary]	t_0362	c_01
+s_1720	FMN [boundary]	t_0370	c_01
+s_1721	folic acid [boundary]	t_0372	c_01
+s_1722	formate [boundary]	t_0374	c_01
+s_1723	fumarate [boundary]	t_0375	c_01
+s_1725	gamma-aminobutyrate [boundary]	t_0377	c_01
+s_1726	glutathione [boundary]	t_0383	c_01
+s_1727	glutathione disulfide [boundary]	t_0384	c_01
+s_1728	glycerol [boundary]	t_0387	c_01
+s_1729	glycolaldehyde [boundary]	t_0392	c_01
+s_1730	glyoxylate [boundary]	t_0393	c_01
+s_1731	guanine [boundary]	t_0396	c_01
+s_1732	guanosine [boundary]	t_0397	c_01
+s_1733	H+ [boundary]	t_0398	c_01
+s_1734	H2O [boundary]	t_0399	c_01
+s_1735	hexadecanal [boundary]	t_0407	c_01
+s_1736	hypoxanthine [boundary]	t_0415	c_01
+s_1737	indol-3-ylacetaldehyde [boundary]	t_0420	c_01
+s_1738	inosine [boundary]	t_0423	c_01
+s_1739	iron [boundary]	t_0446	c_01
+s_1740	isoamyl acetate [boundary]	t_0447	c_01
+s_1741	isoamylol [boundary]	t_0448	c_01
+s_1742	isobutanol [boundary]	t_0449	c_01
+s_1743	isobutyl acetate [boundary]	t_0450	c_01
+s_1744	isobutyraldehyde [boundary]	t_0451	c_01
+s_1745	L-alanine [boundary]	t_0461	c_01
+s_1746	L-arabinitol [boundary]	t_0465	c_01
+s_1747	L-arabinose [boundary]	t_0466	c_01
+s_1748	L-arginine [boundary]	t_0467	c_01
+s_1749	L-asparagine [boundary]	t_0468	c_01
+s_1750	L-aspartate [boundary]	t_0469	c_01
+s_1751	L-cysteine [boundary]	t_0473	c_01
+s_1752	L-glucitol [boundary]	t_0479	c_01
+s_1753	L-glutamate [boundary]	t_0480	c_01
+s_1754	L-glutamine [boundary]	t_0482	c_01
+s_1755	L-glycine [boundary]	t_0483	c_01
+s_1756	L-histidine [boundary]	t_0484	c_01
+s_1757	L-homoserine [boundary]	t_0488	c_01
+s_1758	L-isoleucine [boundary]	t_0489	c_01
+s_1759	L-leucine [boundary]	t_0491	c_01
+s_1760	L-lysine [boundary]	t_0492	c_01
+s_1761	L-methionine [boundary]	t_0493	c_01
+s_1762	L-phenylalanine [boundary]	t_0494	c_01
+s_1763	L-proline [boundary]	t_0495	c_01
+s_1764	L-serine [boundary]	t_0497	c_01
+s_1765	L-sorbose [boundary]	t_0498	c_01
+s_1766	L-threonine [boundary]	t_0499	c_01
+s_1767	L-tryptophan [boundary]	t_0500	c_01
+s_1768	L-tyrosine [boundary]	t_0501	c_01
+s_1769	L-valine [boundary]	t_0502	c_01
+s_1770	lanosterol [boundary]	t_0503	c_01
+s_1771	laurate [boundary]	t_0506	c_01
+s_1774	maltose [boundary]	t_0519	c_01
+s_1776	myo-inositol [boundary]	t_0537	c_01
+s_1779	N,N'-diformyldityrosine [boundary]	t_0549	c_01
+s_1781	nicotinate [boundary]	t_0566	c_01
+s_1782	NMN [boundary]	t_0568	c_01
+s_1783	octanoate [boundary]	t_0581	c_01
+s_1785	ornithine [boundary]	t_0587	c_01
+s_1786	oxaloacetate [boundary]	t_0590	c_01
+s_1787	oxygen [boundary]	t_0591	c_01
+s_1788	palmitate [boundary]	t_0595	c_01
+s_1789	palmitoleate [boundary]	t_0596	c_01
+s_1790	pectin [boundary]	t_0601	c_01
+s_1791	phenethyl acetate [boundary]	t_0605	c_01
+s_1792	phenylacetaldehyde [boundary]	t_0606	c_01
+s_1793	phosphate [boundary]	t_0608	c_01
+s_1797	putrescine [boundary]	t_0636	c_01
+s_1798	pyridoxine [boundary]	t_0641	c_01
+s_1799	pyruvate [boundary]	t_0643	c_01
+s_1800	riboflavin [boundary]	t_0645	c_01
+s_1801	S-adenosyl-L-methionine [boundary]	t_0652	c_01
+s_1802	S-methyl-L-methionine [boundary]	t_0657	c_01
+s_1803	sn-glycero-3-phosphocholine [boundary]	t_0664	c_01
+s_1804	sodium [boundary]	t_0665	c_01
+s_1805	spermidine [boundary]	t_0666	c_01
+s_1806	spermine [boundary]	t_0667	c_01
+s_1807	stearate [boundary]	t_0671	c_01
+s_1808	succinate [boundary]	t_0674	c_01
+s_1809	sucrose [boundary]	t_0677	c_01
+s_1810	sulphate [boundary]	t_0678	c_01
+s_1811	sulphite [boundary]	t_0679	c_01
+s_1812	taurine [boundary]	t_0680	c_01
+s_1813	TDP [boundary]	t_0682	c_01
+s_1814	thiamine [boundary]	t_0688	c_01
+s_1815	thymidine [boundary]	t_0690	c_01
+s_1817	TMP [boundary]	t_0692	c_01
+s_1818	trehalose [boundary]	t_0700	c_01
+s_1819	tryptophol [boundary]	t_0705	c_01
+s_1820	uracil [boundary]	t_0716	c_01
+s_1821	urea [boundary]	t_0717	c_01
+s_1822	uridine [boundary]	t_0720	c_01
+s_1823	xanthosine [boundary]	t_0724	c_01
+s_1824	xylitol [boundary]	t_0726	c_01
+s_1825	zymosterol [boundary]	t_0727	c_01
+s_1845	ACP1 [mitochondrion]	t_0773	c_11
+s_2761	biomass [boundary]	t_0244	c_01
+e_0001	COX1 [mitochondrial membrane]	t_0774	c_10
+e_0002	ATP8 [mitochondrial membrane]	t_0775	c_10
+e_0003	ATP6 [mitochondrial membrane]	t_0776	c_10
+e_0004	COB [mitochondrial membrane]	t_0777	c_10
+e_0005	OLI1 [mitochondrial membrane]	t_0778	c_10
+e_0006	COX2 [mitochondrial membrane]	t_0779	c_10
+e_0007	COX3 [mitochondrial membrane]	t_0780	c_10
+e_0008	CYS3 [cytoplasm]	t_0781	c_03
+e_0009	FUN26 [cell envelope]	t_0782	c_02
+e_0010	PMT2 [endoplasmic reticulum]	t_0783	c_04
+e_0011	CDC19 [cytoplasm]	t_0784	c_03
+e_0012	GCV3 [mitochondrion]	t_0785	c_11
+e_0013	ACS1 [cytoplasm]	t_0786	c_03
+e_0014	ACS1 [mitochondrion]	t_0786	c_11
+e_0015	BDH1 [cytoplasm]	t_0787	c_03
+e_0016	GDH3 [cytoplasm]	t_0788	c_03
+e_0017	ADE1 [cytoplasm]	t_0789	c_03
+e_0018	YAT1 [cytoplasm]	t_0790	c_03
+e_0019	PHO11 [extracellular]	t_0791	c_06
+e_0021	FMT1 [mitochondrion]	t_0793	c_11
+e_0023	ACH1 [mitochondrion]	t_0794	c_11
+e_0024	PET9 [mitochondrial membrane]	t_0795	c_10
+e_0025	RIB1 [cytoplasm]	t_0796	c_03
+e_0026	URA7 [cytoplasm]	t_0797	c_03
+e_0027	FUI1 [cell envelope]	t_0798	c_02
+e_0028	COR1 [mitochondrial membrane]	t_0799	c_10
+e_0029	PRX1 [mitochondrion]	t_0800	c_11
+e_0030	PRS4 [cytoplasm]	t_0801	c_03
+e_0031	ILS1 [cytoplasm]	t_0802	c_03
+e_0032	BNA4 [cytoplasm]	t_0803	c_03
+e_0033	ATP1 [mitochondrial membrane]	t_0804	c_10
+e_0034	RER2 [lipid particle]	t_0805	c_09
+e_0035	COQ1 [mitochondrion]	t_0806	c_11
+e_0036	GPI18 [endoplasmic reticulum]	t_0807	c_04
+e_0037	UGA2 [cytoplasm]	t_0808	c_03
+e_0038	IPP1 [cytoplasm]	t_0809	c_03
+e_0039	GAL7 [cytoplasm]	t_0810	c_03
+e_0040	GAL10 [cytoplasm]	t_0811	c_03
+e_0041	GAL1 [cytoplasm]	t_0812	c_03
+e_0042	FUR4 [cell envelope]	t_0813	c_02
+e_0043	CHS3 [cytoplasm]	t_0814	c_03
+e_0044	ETR1 [mitochondrion]	t_0815	c_11
+e_0047	HMT1 [cytoplasm]	t_0817	c_03
+e_0048	PDX3 [cytoplasm]	t_0818	c_03
+e_0049	CSG2 [Golgi]	t_0819	c_07
+e_0050	CHS2 [cytoplasm]	t_0820	c_03
+e_0051	ATP3 [mitochondrial membrane]	t_0821	c_10
+e_0054	TSC3 [endoplasmic reticulum]	t_0823	c_04
+e_0055	BAP2 [cell envelope]	t_0824	c_02
+e_0056	TAT1 [cell envelope]	t_0825	c_02
+e_0057	MIS1 [mitochondrion]	t_0826	c_11
+e_0058	AAC3 [mitochondrial membrane]	t_0827	c_10
+e_0059	PHO3 [extracellular]	t_0828	c_06
+e_0060	PHO5 [extracellular]	t_0829	c_06
+e_0061	ALG1 [endoplasmic reticulum membrane]	t_0830	c_05
+e_0062	LYS2 [cytoplasm]	t_0831	c_03
+e_0063	TKL2 [cytoplasm]	t_0832	c_03
+e_0064	GRS1 [cytoplasm]	t_0833	c_03
+e_0065	TPS1 [cytoplasm]	t_0834	c_03
+e_0066	VMA2 [Golgi membrane]	t_0835	c_08
+e_0067	VMA2 [vacuolar membrane]	t_0835	c_16
+e_0068	AGP2 [cell envelope]	t_0836	c_02
+e_0069	ADH5 [cytoplasm]	t_0837	c_03
+e_0070	ARA1 [cytoplasm]	t_0838	c_03
+e_0071	RIB7 [cytoplasm]	t_0839	c_03
+e_0073	CSH1 [Golgi]	t_0841	c_07
+e_0074	TYR1 [cytoplasm]	t_0842	c_03
+e_0075	ECM31 [mitochondrion]	t_0843	c_11
+e_0076	DTR1 [cell envelope]	t_0844	c_02
+e_0077	YPC1 [endoplasmic reticulum]	t_0845	c_04
+e_0078	RIM2 [mitochondrial membrane]	t_0846	c_10
+e_0079	PGI1 [cytoplasm]	t_0847	c_03
+e_0080	KTR4 [Golgi]	t_0848	c_07
+e_0081	KTR3 [Golgi]	t_0849	c_07
+e_0082	DUR1,2 [cytoplasm]	t_0850	c_03
+e_0083	MET8 [cytoplasm]	t_0851	c_03
+e_0084	PYC2 [cytoplasm]	t_0852	c_03
+e_0085	PDB1 [mitochondrion]	t_0853	c_11
+e_0086	GPX2 [cytoplasm]	t_0854	c_03
+e_0087	HIS7 [cytoplasm]	t_0855	c_03
+e_0088	ARO4 [cytoplasm]	t_0856	c_03
+e_0089	DUT1 [cytoplasm]	t_0857	c_03
+e_0090	RIB5 [cytoplasm]	t_0858	c_03
+e_0091	SHM1 [mitochondrion]	t_0859	c_11
+e_0092	TSC10 [endoplasmic reticulum]	t_0860	c_04
+e_0093	CTP1 [mitochondrial membrane]	t_0861	c_10
+e_0094	VBA2 [vacuolar membrane]	t_0862	c_16
+e_0095	SUL1 [cell envelope]	t_0863	c_02
+e_0096	PHO89 [cell envelope]	t_0864	c_02
+e_0097	MAL31 [cell envelope]	t_0865	c_02
+e_0098	MAL32 [cytoplasm]	t_0866	c_03
+e_0100	ILV6 [mitochondrion]	t_0868	c_11
+e_0101	LEU2 [cytoplasm]	t_0869	c_03
+e_0102	AGP1 [cell envelope]	t_0870	c_02
+e_0103	HIS4 [cytoplasm]	t_0871	c_03
+e_0104	GRX1 [cytoplasm]	t_0872	c_03
+e_0105	ATG22 [vacuolar membrane]	t_0873	c_16
+e_0106	GLK1 [cytoplasm]	t_0874	c_03
+e_0107	APA1 [cytoplasm]	t_0875	c_03
+e_0108	PBN1 [endoplasmic reticulum membrane]	t_0876	c_05
+e_0109	CHA1 [cytoplasm]	t_0877	c_03
+e_0110	VBA3 [vacuolar membrane]	t_0878	c_16
+e_0111	CIT2 [peroxisome]	t_0879	c_15
+e_0112	ADY2 [cell envelope]	t_0880	c_02
+e_0113	PGK1 [cytoplasm]	t_0881	c_03
+e_0114	SLM5 [mitochondrion]	t_0882	c_11
+e_0115	PMP1 [cell envelope]	t_0883	c_02
+e_0116	FEN2 [cell envelope]	t_0884	c_02
+e_0119	RBK1 [cytoplasm]	t_0886	c_03
+e_0120	PHO87 [cell envelope]	t_0887	c_02
+e_0122	THR4 [cytoplasm]	t_0889	c_03
+e_0123	ERS1 [vacuolar membrane]	t_0890	c_16
+e_0124	TRX3 [mitochondrion]	t_0891	c_11
+e_0125	GIT1 [cell envelope]	t_0892	c_02
+e_0126	ADH7 [cytoplasm]	t_0893	c_03
+e_0127	ATP16 [mitochondrial membrane]	t_0894	c_10
+e_0129	GPD1 [cytoplasm]	t_0896	c_03
+e_0130	SIR2 [nucleus]	t_0897	c_13
+e_0131	FAD1 [cytoplasm]	t_0898	c_03
+e_0133	SLC1 [lipid particle]	t_0899	c_09
+e_0134	PSA1 [cytoplasm]	t_0900	c_03
+e_0135	IDP1 [mitochondrion]	t_0901	c_11
+e_0136	COX9 [mitochondrial membrane]	t_0902	c_10
+e_0137	MDH3 [peroxisome]	t_0903	c_15
+e_0138	THI3 [cytoplasm]	t_0904	c_03
+e_0139	NDE2 [mitochondrial membrane]	t_0905	c_10
+e_0140	RAM1 [cytoplasm]	t_0906	c_03
+e_0141	PMT5 [endoplasmic reticulum]	t_0907	c_04
+e_0142	PMT1 [endoplasmic reticulum]	t_0908	c_04
+e_0143	GET3 [cytoplasm]	t_0909	c_03
+e_0144	QRI1 [cytoplasm]	t_0910	c_03
+e_0145	LYS21 [mitochondrion]	t_0911	c_11
+e_0146	LYS21 [nucleus]	t_0911	c_13
+e_0147	BPL1 [cytoplasm]	t_0912	c_03
+e_0149	SFA1 [cytoplasm]	t_0914	c_03
+e_0150	GLT1 [cytoplasm]	t_0915	c_03
+e_0151	DLD1 [mitochondrial membrane]	t_0916	c_10
+e_0152	DLD2 [mitochondrion]	t_0917	c_11
+e_0153	LYS20 [mitochondrion]	t_0918	c_11
+e_0154	LYS20 [nucleus]	t_0918	c_13
+e_0155	VMA1 [Golgi membrane]	t_0919	c_08
+e_0156	VMA1 [vacuolar membrane]	t_0919	c_16
+e_0157	GGC1 [mitochondrial membrane]	t_0920	c_10
+e_0158	HEM3 [cytoplasm]	t_0921	c_03
+e_0159	UGA4 [cell envelope]	t_0922	c_02
+e_0160	GDH2 [cytoplasm]	t_0923	c_03
+e_0161	GUD1 [cytoplasm]	t_0924	c_03
+e_0162	HXT15 [cell envelope]	t_0925	c_02
+e_0163	MPH2 [cell envelope]	t_0926	c_02
+e_0164	NTH1 [cytoplasm]	t_0927	c_03
+e_0165	TRP1 [cytoplasm]	t_0928	c_03
+e_0166	KCS1 [cytoplasm]	t_0929	c_03
+e_0167	GCV1 [mitochondrion]	t_0930	c_11
+e_0168	SES1 [cytoplasm]	t_0931	c_03
+e_0169	ARO3 [cytoplasm]	t_0932	c_03
+e_0170	ARO3 [mitochondrion]	t_0932	c_11
+e_0171	KRS1 [cytoplasm]	t_0933	c_03
+e_0172	HEM13 [cytoplasm]	t_0934	c_03
+e_0173	BAP3 [cell envelope]	t_0935	c_02
+e_0174	HEM12 [cytoplasm]	t_0936	c_03
+e_0175	TPI1 [cytoplasm]	t_0937	c_03
+e_0177	LCB2 [endoplasmic reticulum]	t_0939	c_04
+e_0179	TPS2 [cytoplasm]	t_0941	c_03
+e_0181	GRX3 [cytoplasm]	t_0943	c_03
+e_0182	ARO1 [cytoplasm]	t_0944	c_03
+e_0183	YCF1 [vacuolar membrane]	t_0945	c_16
+e_0184	EKI1 [cytoplasm]	t_0946	c_03
+e_0185	KGD2 [mitochondrion]	t_0947	c_11
+e_0186	HOM2 [cytoplasm]	t_0948	c_03
+e_0187	ARG82 [nucleus]	t_0949	c_13
+e_0188	SDH4 [mitochondrion]	t_0950	c_11
+e_0189	HST4 [nucleus]	t_0951	c_13
+e_0190	CAB5 [mitochondrion]	t_0952	c_11
+e_0191	COQ4 [mitochondrion]	t_0953	c_11
+e_0192	MSS4 [cell envelope]	t_0954	c_02
+e_0193	MSS4 [nucleus]	t_0954	c_13
+e_0194	ADK1 [cytoplasm]	t_0955	c_03
+e_0195	HEM1 [mitochondrion]	t_0956	c_11
+e_0196	LYS4 [mitochondrion]	t_0957	c_11
+e_0197	FMN1 [cytoplasm]	t_0958	c_03
+e_0198	FMN1 [mitochondrion]	t_0958	c_11
+e_0199	CTA1 [peroxisome]	t_0959	c_15
+e_0200	EXG2 [extracellular]	t_0960	c_06
+e_0201	MSW1 [mitochondrion]	t_0961	c_11
+e_0202	GLO2 [cytoplasm]	t_0962	c_03
+e_0204	INM2 [cytoplasm]	t_0964	c_03
+e_0205	DPL1 [endoplasmic reticulum]	t_0965	c_04
+e_0206	SUR2 [endoplasmic reticulum]	t_0966	c_04
+e_0207	ATP5 [mitochondrial membrane]	t_0967	c_10
+e_0208	PRO1 [cytoplasm]	t_0968	c_03
+e_0209	GPI11 [endoplasmic reticulum membrane]	t_0969	c_05
+e_0210	HNT2 [cytoplasm]	t_0970	c_03
+e_0211	IPK1 [nucleus]	t_0971	c_13
+e_0212	ASP1 [cytoplasm]	t_0972	c_03
+e_0213	TIM11 [mitochondrial membrane]	t_0973	c_10
+e_0214	YDR341C [cytoplasm]	t_0974	c_03
+e_0215	HXT7 [cell envelope]	t_0975	c_02
+e_0216	HXT6 [cell envelope]	t_0976	c_02
+e_0217	HXT3 [cell envelope]	t_0977	c_02
+e_0218	TRR1 [cytoplasm]	t_0978	c_03
+e_0219	TRP4 [cytoplasm]	t_0979	c_03
+e_0221	YPR1 [cytoplasm]	t_0981	c_03
+e_0222	ARH1 [mitochondrion]	t_0982	c_11
+e_0223	ATP17 [mitochondrial membrane]	t_0983	c_10
+e_0224	ARO10 [cytoplasm]	t_0984	c_03
+e_0225	ATO3 [cell envelope]	t_0985	c_02
+e_0226	HPT1 [cytoplasm]	t_0986	c_03
+e_0227	URH1 [cytoplasm]	t_0987	c_03
+e_0228	DIT2 [cytoplasm]	t_0988	c_03
+e_0229	DIT2 [endoplasmic reticulum]	t_0988	c_04
+e_0230	DIT1 [cytoplasm]	t_0989	c_03
+e_0231	ADE8 [cytoplasm]	t_0990	c_03
+e_0232	BNA7 [cytoplasm]	t_0991	c_03
+e_0233	TSA2 [cytoplasm]	t_0992	c_03
+e_0234	GUK1 [cytoplasm]	t_0993	c_03
+e_0235	PHO8 [cytoplasm]	t_0994	c_03
+e_0236	KRE2 [Golgi]	t_0995	c_07
+e_0237	RIB3 [cytoplasm]	t_0996	c_03
+e_0238	ITR1 [cell envelope]	t_0997	c_02
+e_0239	SAM2 [cytoplasm]	t_0998	c_03
+e_0241	GNP1 [cell envelope]	t_1000	c_02
+e_0242	GRX2 [cytoplasm]	t_1001	c_03
+e_0243	QCR7 [mitochondrial membrane]	t_1002	c_10
+e_0244	APA2 [cytoplasm]	t_1003	c_03
+e_0245	CAB1 [cytoplasm]	t_1004	c_03
+e_0246	STL1 [cell envelope]	t_1005	c_02
+e_0247	YEA6 [mitochondrial membrane]	t_1006	c_10
+e_0248	PMP2 [cell envelope]	t_1007	c_02
+e_0249	URA3 [cytoplasm]	t_1008	c_03
+e_0250	RIP1 [mitochondrial membrane]	t_1009	c_10
+e_0251	VMA3 [Golgi membrane]	t_1010	c_08
+e_0252	VMA3 [vacuolar membrane]	t_1010	c_16
+e_0253	BUD16 [cytoplasm]	t_1011	c_03
+e_0254	UTR4 [cytoplasm]	t_1012	c_03
+e_0255	CYC7 [mitochondrial membrane]	t_1013	c_10
+e_0256	CYC7 [mitochondrion]	t_1013	c_11
+e_0257	YEF1 [cytoplasm]	t_1014	c_03
+e_0258	YEF1 [mitochondrion]	t_1014	c_11
+e_0259	GDA1 [Golgi]	t_1015	c_07
+e_0260	GLY1 [cytoplasm]	t_1016	c_03
+e_0261	FRD1 [cytoplasm]	t_1017	c_03
+e_0262	FRD1 [mitochondrion]	t_1017	c_11
+e_0263	VMA8 [Golgi membrane]	t_1018	c_08
+e_0264	VMA8 [vacuolar membrane]	t_1018	c_16
+e_0265	PCM1 [cytoplasm]	t_1019	c_03
+e_0266	CAN1 [cell envelope]	t_1020	c_02
+e_0267	HXT13 [cell envelope]	t_1021	c_02
+e_0268	DLD3 [mitochondrial membrane]	t_1022	c_10
+e_0269	PMI40 [cytoplasm]	t_1023	c_03
+e_0270	YND1 [cell envelope]	t_1024	c_02
+e_0271	YND1 [cytoplasm]	t_1024	c_03
+e_0272	HEM14 [mitochondrion]	t_1025	c_11
+e_0273	FAA2 [peroxisome]	t_1026	c_15
+e_0274	ISC1 [endoplasmic reticulum]	t_1027	c_04
+e_0275	ISC1 [mitochondrion]	t_1027	c_11
+e_0276	PRO3 [cytoplasm]	t_1028	c_03
+e_0277	YAT2 [cytoplasm]	t_1029	c_03
+e_0280	SAH1 [cytoplasm]	t_1031	c_03
+e_0281	HOM3 [cytoplasm]	t_1032	c_03
+e_0282	PIC2 [mitochondrial membrane]	t_1033	c_10
+e_0283	HIS1 [cytoplasm]	t_1034	c_03
+e_0284	FCY2 [cell envelope]	t_1035	c_02
+e_0285	FCY21 [cell envelope]	t_1036	c_02
+e_0286	FCY22 [cell envelope]	t_1037	c_02
+e_0287	CEM1 [mitochondrion]	t_1038	c_11
+e_0288	HOR2 [cytoplasm]	t_1039	c_03
+e_0289	ICL1 [cytoplasm]	t_1040	c_03
+e_0290	ARG5,6 [mitochondrion]	t_1041	c_11
+e_0291	RNR1 [cytoplasm]	t_1042	c_03
+e_0292	RNR1 [nucleus]	t_1042	c_13
+e_0293	ALD5 [mitochondrion]	t_1043	c_11
+e_0294	SER3 [cytoplasm]	t_1044	c_03
+e_0295	ILV1 [mitochondrion]	t_1045	c_11
+e_0297	TRP2 [cytoplasm]	t_1047	c_03
+e_0298	MET6 [cytoplasm]	t_1048	c_03
+e_0299	PRS2 [cytoplasm]	t_1049	c_03
+e_0300	AVT6 [vacuolar membrane]	t_1050	c_16
+e_0301	COX15 [mitochondrion]	t_1051	c_11
+e_0303	ADK2 [mitochondrion]	t_1053	c_11
+e_0304	GRX4 [cytoplasm]	t_1054	c_03
+e_0305	TMT1 [cytoplasm]	t_1055	c_03
+e_0306	PDA1 [mitochondrion]	t_1056	c_11
+e_0307	FAU1 [cytoplasm]	t_1057	c_03
+e_0308	DEG1 [cytoplasm]	t_1058	c_03
+e_0309	HXT10 [cell envelope]	t_1059	c_02
+e_0310	GNA1 [cytoplasm]	t_1060	c_03
+e_0311	LPD1 [mitochondrion]	t_1061	c_11
+e_0312	FRS2 [cytoplasm]	t_1062	c_03
+e_0313	AGX1 [cytoplasm]	t_1063	c_03
+e_0314	SEC53 [cytoplasm]	t_1064	c_03
+e_0315	DAK2 [cytoplasm]	t_1065	c_03
+e_0316	AGP3 [cell envelope]	t_1066	c_02
+e_0317	GSY1 [cytoplasm]	t_1067	c_03
+e_0320	HIS2 [cytoplasm]	t_1069	c_03
+e_0321	MET10 [cytoplasm]	t_1070	c_03
+e_0322	QCR6 [mitochondrial membrane]	t_1071	c_10
+e_0323	BNA6 [cytoplasm]	t_1072	c_03
+e_0324	BNA6 [mitochondrion]	t_1072	c_11
+e_0325	HXK1 [cytoplasm]	t_1073	c_03
+e_0326	ERG26 [cytoplasm]	t_1074	c_03
+e_0327	PMA1 [cell envelope]	t_1075	c_02
+e_0328	LEU1 [cytoplasm]	t_1076	c_03
+e_0329	ERG4 [endoplasmic reticulum]	t_1077	c_04
+e_0330	TRP5 [cytoplasm]	t_1078	c_03
+e_0331	PNC1 [cytoplasm]	t_1079	c_03
+e_0332	HEM2 [cytoplasm]	t_1080	c_03
+e_0334	PYC1 [cytoplasm]	t_1082	c_03
+e_0335	PUS2 [cytoplasm]	t_1083	c_03
+e_0336	NPY1 [peroxisome]	t_1084	c_15
+e_0337	HNM1 [cell envelope]	t_1085	c_02
+e_0338	GUP1 [cell envelope]	t_1086	c_02
+e_0339	COQ8 [mitochondrion]	t_1087	c_11
+e_0340	MET13 [cytoplasm]	t_1088	c_03
+e_0341	GPI10 [endoplasmic reticulum membrane]	t_1089	c_05
+e_0342	ARO2 [cytoplasm]	t_1090	c_03
+e_0343	LYS5 [cytoplasm]	t_1091	c_03
+e_0344	STR3 [cytoplasm]	t_1092	c_03
+e_0345	TPN1 [cell envelope]	t_1093	c_02
+e_0346	COX4 [mitochondrial membrane]	t_1094	c_10
+e_0347	COX13 [mitochondrial membrane]	t_1095	c_10
+e_0348	ARO8 [cytoplasm]	t_1096	c_03
+e_0349	POX1 [peroxisome]	t_1097	c_15
+e_0350	SDT1 [cytoplasm]	t_1098	c_03
+e_0351	VRG4 [Golgi membrane]	t_1099	c_08
+e_0352	ADE5,7 [cytoplasm]	t_1100	c_03
+e_0353	GUS1 [cytoplasm]	t_1101	c_03
+e_0354	PDE1 [cytoplasm]	t_1102	c_03
+e_0355	HXK2 [cytoplasm]	t_1103	c_03
+e_0356	ADH4 [mitochondrion]	t_1104	c_11
+e_0357	ECT1 [cytoplasm]	t_1105	c_03
+e_0358	NMA2 [cytoplasm]	t_1106	c_03
+e_0359	NMA2 [nucleus]	t_1106	c_13
+e_0361	UGA1 [cytoplasm]	t_1108	c_03
+e_0362	VMA7 [Golgi membrane]	t_1109	c_08
+e_0363	VMA7 [vacuolar membrane]	t_1109	c_16
+e_0364	GSC2 [cytoplasm]	t_1110	c_03
+e_0366	MUP1 [cell envelope]	t_1112	c_02
+e_0367	ERG25 [cytoplasm]	t_1113	c_03
+e_0368	ADE6 [cytoplasm]	t_1114	c_03
+e_0369	VHT1 [cell envelope]	t_1115	c_02
+e_0370	PDC6 [cytoplasm]	t_1116	c_03
+e_0371	CTT1 [cytoplasm]	t_1117	c_03
+e_0372	VAS1 [cytoplasm]	t_1118	c_03
+e_0373	VAS1 [mitochondrion]	t_1118	c_11
+e_0374	TPC1 [mitochondrial membrane]	t_1119	c_10
+e_0375	MEP1 [cell envelope]	t_1120	c_02
+e_0376	ASN2 [cytoplasm]	t_1121	c_03
+e_0377	TPO2 [cell envelope]	t_1122	c_02
+e_0378	TPO2 [vacuolar membrane]	t_1122	c_16
+e_0379	SKN1 [cytoplasm]	t_1123	c_03
+e_0380	CYS4 [cytoplasm]	t_1124	c_03
+e_0384	MSM1 [mitochondrion]	t_1127	c_11
+e_0385	ERG1 [endoplasmic reticulum]	t_1128	c_04
+e_0386	ATF2 [cytoplasm]	t_1129	c_03
+e_0387	RNR4 [cytoplasm]	t_1130	c_03
+e_0388	RNR4 [nucleus]	t_1130	c_13
+e_0389	QCR9 [mitochondrial membrane]	t_1131	c_10
+e_0390	TYS1 [cytoplasm]	t_1132	c_03
+e_0391	HIP1 [cell envelope]	t_1133	c_02
+e_0392	TDH3 [cytoplasm]	t_1134	c_03
+e_0393	PDX1 [mitochondrion]	t_1135	c_11
+e_0394	XKS1 [cytoplasm]	t_1136	c_03
+e_0395	PCT1 [cytoplasm]	t_1137	c_03
+e_0396	ADE3 [cytoplasm]	t_1138	c_03
+e_0397	SER2 [cytoplasm]	t_1139	c_03
+e_0398	TRX2 [cytoplasm]	t_1140	c_03
+e_0399	TRX2 [nucleus]	t_1140	c_13
+e_0400	TRX2 [peroxisome]	t_1140	c_15
+e_0401	PFK1 [cytoplasm]	t_1141	c_03
+e_0402	LSC2 [mitochondrion]	t_1142	c_11
+e_0403	CPD1 [cytoplasm]	t_1143	c_03
+e_0404	SOL4 [cytoplasm]	t_1144	c_03
+e_0405	ENO1 [cytoplasm]	t_1145	c_03
+e_0406	COQ6 [mitochondrion]	t_1146	c_11
+e_0407	GND2 [cytoplasm]	t_1147	c_03
+e_0408	TNA1 [cell envelope]	t_1148	c_02
+e_0409	MES1 [cytoplasm]	t_1149	c_03
+e_0410	FOL2 [cytoplasm]	t_1150	c_03
+e_0411	CAB4 [cytoplasm]	t_1151	c_03
+e_0412	BGL2 [extracellular]	t_1152	c_06
+e_0413	BIO2 [cytoplasm]	t_1153	c_03
+e_0414	IMA1 [cytoplasm]	t_1154	c_03
+e_0415	MAL11 [cell envelope]	t_1155	c_02
+e_0416	MAL12 [cytoplasm]	t_1156	c_03
+e_0417	LAG1 [endoplasmic reticulum]	t_1157	c_04
+e_0418	PRS3 [cytoplasm]	t_1158	c_03
+e_0419	DUR3 [cell envelope]	t_1159	c_02
+e_0420	GUT1 [cytoplasm]	t_1160	c_03
+e_0421	MUP3 [cell envelope]	t_1161	c_02
+e_0422	QCR10 [mitochondrial membrane]	t_1162	c_10
+e_0423	LEU5 [mitochondrial membrane]	t_1163	c_10
+e_0424	ERG11 [cytoplasm]	t_1164	c_03
+e_0425	DIA4 [cytoplasm]	t_1165	c_03
+e_0426	ARG4 [cytoplasm]	t_1166	c_03
+e_0427	DED81 [cytoplasm]	t_1167	c_03
+e_0428	THR1 [cytoplasm]	t_1168	c_03
+e_0429	VMA16 [Golgi membrane]	t_1169	c_08
+e_0430	VMA16 [vacuolar membrane]	t_1169	c_16
+e_0431	PUT2 [mitochondrion]	t_1170	c_11
+e_0432	VMA10 [Golgi membrane]	t_1171	c_08
+e_0433	VMA10 [vacuolar membrane]	t_1171	c_16
+e_0434	NCP1 [cytoplasm]	t_1172	c_03
+e_0435	INM1 [cytoplasm]	t_1173	c_03
+e_0436	COX6 [mitochondrial membrane]	t_1174	c_10
+e_0437	PAN5 [cytoplasm]	t_1175	c_03
+e_0438	HTD2 [mitochondrion]	t_1176	c_11
+e_0439	DYS1 [mitochondrial membrane]	t_1177	c_10
+e_0440	ERG7 [cytoplasm]	t_1178	c_03
+e_0441	QNS1 [cytoplasm]	t_1179	c_03
+e_0442	QNS1 [nucleus]	t_1179	c_13
+e_0443	MSR1 [mitochondrion]	t_1180	c_11
+e_0444	HXT4 [cell envelope]	t_1181	c_02
+e_0445	HXT1 [cell envelope]	t_1182	c_02
+e_0446	HXT5 [cell envelope]	t_1183	c_02
+e_0447	GRE3 [cytoplasm]	t_1184	c_03
+e_0448	TRR2 [mitochondrion]	t_1185	c_11
+e_0450	FUR1 [cytoplasm]	t_1187	c_03
+e_0451	ARO9 [cytoplasm]	t_1188	c_03
+e_0452	DCD1 [cytoplasm]	t_1189	c_03
+e_0453	SOL3 [cytoplasm]	t_1190	c_03
+e_0454	ENO2 [cytoplasm]	t_1191	c_03
+e_0455	GND1 [cytoplasm]	t_1192	c_03
+e_0456	ERG9 [cytoplasm]	t_1193	c_03
+e_0457	BAT1 [mitochondrion]	t_1194	c_11
+e_0458	IMD2 [cytoplasm]	t_1195	c_03
+e_0459	INP51 [cell envelope]	t_1196	c_02
+e_0460	INP51 [cytoplasm]	t_1196	c_03
+e_0461	YIA6 [mitochondrial membrane]	t_1197	c_10
+e_0463	DOT5 [nucleus]	t_1199	c_13
+e_0464	PDR11 [cell envelope]	t_1200	c_02
+e_0465	HIS6 [cytoplasm]	t_1201	c_03
+e_0466	RHR2 [cytoplasm]	t_1202	c_03
+e_0467	RNR3 [cytoplasm]	t_1203	c_03
+e_0468	RNR3 [nucleus]	t_1203	c_13
+e_0469	SER33 [cytoplasm]	t_1204	c_03
+e_0470	THS1 [cytoplasm]	t_1205	c_03
+e_0471	CAB2 [cytoplasm]	t_1206	c_03
+e_0472	LYS12 [mitochondrion]	t_1207	c_11
+e_0473	SGA1 [vacuole]	t_1208	c_17
+e_0474	PFK26 [cytoplasm]	t_1209	c_03
+e_0475	COX5B [mitochondrial membrane]	t_1210	c_10
+e_0476	HIS5 [cytoplasm]	t_1211	c_03
+e_0477	KGD1 [mitochondrion]	t_1212	c_11
+e_0478	FLX1 [mitochondrial membrane]	t_1213	c_10
+e_0479	PAN6 [cytoplasm]	t_1214	c_03
+e_0480	GUT2 [mitochondrion]	t_1215	c_11
+e_0481	POT1 [peroxisome]	t_1216	c_15
+e_0482	SUC2 [extracellular]	t_1217	c_06
+e_0483	IMA3 [cytoplasm]	t_1218	c_03
+e_0484	DAL1 [cytoplasm]	t_1219	c_03
+e_0485	DAL4 [cell envelope]	t_1220	c_02
+e_0486	DAL2 [cytoplasm]	t_1221	c_03
+e_0487	DAL7 [cytoplasm]	t_1222	c_03
+e_0488	DAL3 [cytoplasm]	t_1223	c_03
+e_0489	LYS1 [cytoplasm]	t_1224	c_03
+e_0490	HYR1 [cytoplasm]	t_1225	c_03
+e_0491	CYR1 [cytoplasm]	t_1226	c_03
+e_0492	RNR2 [cytoplasm]	t_1227	c_03
+e_0493	RNR2 [nucleus]	t_1227	c_13
+e_0494	YJL045W [mitochondrion]	t_1228	c_11
+e_0495	TDH1 [cytoplasm]	t_1229	c_03
+e_0496	BNA3 [cytoplasm]	t_1230	c_03
+e_0497	YJL068C [cytoplasm]	t_1231	c_03
+e_0498	ARG2 [mitochondrion]	t_1232	c_11
+e_0499	ARG3 [cytoplasm]	t_1233	c_03
+e_0500	GWT1 [endoplasmic reticulum membrane]	t_1234	c_05
+e_0502	LSB6 [cell envelope]	t_1236	c_02
+e_0505	GSH1 [cytoplasm]	t_1237	c_03
+e_0506	RPE1 [cytoplasm]	t_1238	c_03
+e_0507	TRK1 [cell envelope]	t_1239	c_02
+e_0508	URA2 [cytoplasm]	t_1240	c_03
+e_0509	LCB3 [endoplasmic reticulum]	t_1241	c_04
+e_0510	GLG2 [cytoplasm]	t_1242	c_03
+e_0511	YUR1 [Golgi]	t_1243	c_07
+e_0512	INO1 [cytoplasm]	t_1244	c_03
+e_0513	FBP26 [cytoplasm]	t_1245	c_03
+e_0514	QCR8 [mitochondrial membrane]	t_1246	c_10
+e_0515	ERG20 [cytoplasm]	t_1247	c_03
+e_0517	PHO90 [cell envelope]	t_1249	c_02
+e_0519	OPT1 [cell envelope]	t_1251	c_02
+e_0520	HXT8 [cell envelope]	t_1252	c_02
+e_0521	IMA5 [cytoplasm]	t_1253	c_03
+e_0522	HXT9 [cell envelope]	t_1254	c_02
+e_0523	IMA4 [cytoplasm]	t_1255	c_03
+e_0524	AVT1 [vacuolar membrane]	t_1256	c_16
+e_0525	TDH2 [cytoplasm]	t_1257	c_03
+e_0526	MET3 [cytoplasm]	t_1258	c_03
+e_0527	GPI14 [endoplasmic reticulum membrane]	t_1259	c_05
+e_0528	ILV3 [mitochondrion]	t_1260	c_11
+e_0529	TES1 [peroxisome]	t_1261	c_15
+e_0530	BNA1 [cytoplasm]	t_1262	c_03
+e_0531	CYC1 [mitochondrial membrane]	t_1263	c_10
+e_0532	CYC1 [mitochondrion]	t_1263	c_11
+e_0533	UTR1 [cytoplasm]	t_1264	c_03
+e_0534	UTR1 [mitochondrion]	t_1264	c_11
+e_0535	CDC8 [cytoplasm]	t_1265	c_03
+e_0537	MIR1 [mitochondrial membrane]	t_1267	c_10
+e_0538	BNA2 [cytoplasm]	t_1268	c_03
+e_0539	SFC1 [mitochondrial membrane]	t_1269	c_10
+e_0540	URA8 [cytoplasm]	t_1270	c_03
+e_0541	ADO1 [cytoplasm]	t_1271	c_03
+e_0542	CPA2 [cytoplasm]	t_1272	c_03
+e_0543	YMR1 [cytoplasm]	t_1273	c_03
+e_0544	ATP2 [mitochondrial membrane]	t_1274	c_10
+e_0545	STR2 [cytoplasm]	t_1275	c_03
+e_0546	XPT1 [cytoplasm]	t_1276	c_03
+e_0547	MET5 [cytoplasm]	t_1277	c_03
+e_0548	HOM6 [cytoplasm]	t_1278	c_03
+e_0549	PMT4 [endoplasmic reticulum]	t_1279	c_04
+e_0550	BAT2 [cytoplasm]	t_1280	c_03
+e_0551	DAL5 [cell envelope]	t_1281	c_02
+e_0552	PGU1 [extracellular]	t_1282	c_06
+e_0553	HXT16 [cell envelope]	t_1283	c_02
+e_0554	SOR1 [cytoplasm]	t_1284	c_03
+e_0555	MPH3 [cell envelope]	t_1285	c_02
+e_0556	MET14 [cytoplasm]	t_1286	c_03
+e_0558	LAC1 [endoplasmic reticulum]	t_1288	c_04
+e_0559	ATP7 [mitochondrial membrane]	t_1289	c_10
+e_0560	RAM2 [cytoplasm]	t_1290	c_03
+e_0561	URA6 [cytoplasm]	t_1291	c_03
+e_0562	URA6 [nucleus]	t_1291	c_13
+e_0563	GPX1 [cytoplasm]	t_1292	c_03
+e_0564	MAE1 [mitochondrion]	t_1293	c_11
+e_0565	UGP1 [cytoplasm]	t_1294	c_03
+e_0566	OAR1 [mitochondrion]	t_1295	c_11
+e_0567	FBA1 [cytoplasm]	t_1296	c_03
+e_0568	YNK1 [cytoplasm]	t_1297	c_03
+e_0569	VMA5 [Golgi membrane]	t_1298	c_08
+e_0570	VMA5 [vacuolar membrane]	t_1298	c_16
+e_0571	MDH1 [mitochondrion]	t_1299	c_11
+e_0572	CAB3 [cytoplasm]	t_1300	c_03
+e_0573	GFA1 [cytoplasm]	t_1301	c_03
+e_0574	AAT1 [mitochondrion]	t_1302	c_11
+e_0575	OAC1 [mitochondrial membrane]	t_1303	c_10
+e_0576	PGM1 [cytoplasm]	t_1304	c_03
+e_0577	RMA1 [cytoplasm]	t_1305	c_03
+e_0578	TGL1 [lipid particle]	t_1306	c_09
+e_0579	SDH3 [mitochondrion]	t_1307	c_11
+e_0580	AVT3 [vacuolar membrane]	t_1308	c_16
+e_0581	SDH1 [mitochondrion]	t_1309	c_11
+e_0582	GPM1 [cytoplasm]	t_1310	c_03
+e_0583	MCD4 [endoplasmic reticulum]	t_1311	c_04
+e_0584	TPO5 [cell envelope]	t_1312	c_02
+e_0585	PRS1 [cytoplasm]	t_1313	c_03
+e_0586	FAS1 [cytoplasm]	t_1314	c_03
+e_0587	SPE1 [cytoplasm]	t_1315	c_03
+e_0588	PXA2 [peroxisomal membrane]	t_1316	c_14
+e_0590	MST1 [mitochondrion]	t_1318	c_11
+e_0591	TRP3 [cytoplasm]	t_1319	c_03
+e_0594	URA1 [cytoplasm]	t_1321	c_03
+e_0595	URA1 [mitochondrial membrane]	t_1321	c_10
+e_0596	JEN1 [cell envelope]	t_1322	c_02
+e_0597	JEN1 [mitochondrial membrane]	t_1322	c_10
+e_0598	FOX2 [peroxisome]	t_1323	c_15
+e_0599	SPO14 [cell envelope]	t_1324	c_02
+e_0600	GAP1 [cell envelope]	t_1325	c_02
+e_0601	SHB17 [cytoplasm]	t_1326	c_03
+e_0602	YSR3 [endoplasmic reticulum]	t_1327	c_04
+e_0603	GLG1 [cytoplasm]	t_1328	c_03
+e_0604	KTR2 [Golgi]	t_1329	c_07
+e_0605	CCP1 [mitochondrion]	t_1330	c_11
+e_0607	GPT2 [lipid particle]	t_1331	c_09
+e_0608	MET1 [cytoplasm]	t_1332	c_03
+e_0609	SIS2 [cytoplasm]	t_1333	c_03
+e_0610	MTD1 [cytoplasm]	t_1334	c_03
+e_0611	TGL4 [lipid particle]	t_1335	c_09
+e_0612	PCK1 [cytoplasm]	t_1336	c_03
+e_0613	YEH1 [lipid particle]	t_1337	c_09
+e_0614	BPT1 [vacuolar membrane]	t_1338	c_16
+e_0615	DPS1 [cytoplasm]	t_1339	c_03
+e_0616	TPO1 [cell envelope]	t_1340	c_02
+e_0617	TPO1 [vacuolar membrane]	t_1340	c_16
+e_0618	GPI13 [endoplasmic reticulum membrane]	t_1341	c_05
+e_0619	SDH2 [mitochondrion]	t_1342	c_11
+e_0620	FPS1 [cell envelope]	t_1343	c_02
+e_0621	YBT1 [vacuolar membrane]	t_1344	c_16
+e_0622	AQY2 [cell envelope]	t_1345	c_02
+e_0623	JLP1 [cytoplasm]	t_1346	c_03
+e_0624	MMP1 [cell envelope]	t_1347	c_02
+e_0625	MHT1 [cytoplasm]	t_1348	c_03
+e_0626	LOT6 [cytoplasm]	t_1349	c_03
+e_0627	MEU1 [cytoplasm]	t_1350	c_03
+e_0628	YEH2 [cell envelope]	t_1351	c_02
+e_0629	AAT2 [cytoplasm]	t_1352	c_03
+e_0630	AAT2 [peroxisome]	t_1352	c_15
+e_0631	ADE16 [cytoplasm]	t_1353	c_03
+e_0632	COX12 [mitochondrial membrane]	t_1354	c_10
+e_0636	PDC1 [cytoplasm]	t_1355	c_03
+e_0637	ERG3 [cytoplasm]	t_1356	c_03
+e_0638	SHM2 [cytoplasm]	t_1357	c_03
+e_0639	FRS1 [cytoplasm]	t_1358	c_03
+e_0640	XYL2 [cytoplasm]	t_1359	c_03
+e_0641	GAL2 [cell envelope]	t_1360	c_02
+e_0642	ALT1 [mitochondrion]	t_1361	c_11
+e_0643	SUL2 [cell envelope]	t_1362	c_02
+e_0644	ERG27 [cytoplasm]	t_1363	c_03
+e_0645	AHP1 [peroxisome]	t_1364	c_15
+e_0646	CKI1 [cytoplasm]	t_1365	c_03
+e_0647	PDC5 [cytoplasm]	t_1366	c_03
+e_0648	NHA1 [cell envelope]	t_1367	c_02
+e_0649	PUT1 [mitochondrion]	t_1368	c_11
+e_0650	SPE4 [cytoplasm]	t_1369	c_03
+e_0651	ACS2 [cytoplasm]	t_1370	c_03
+e_0652	ACS2 [nucleus]	t_1370	c_13
+e_0653	ASP3-1 [extracellular]	t_1371	c_06
+e_0654	ASP3-2 [extracellular]	t_1372	c_06
+e_0655	ASP3-3 [extracellular]	t_1373	c_06
+e_0656	ASP3-4 [extracellular]	t_1374	c_06
+e_0657	DPH5 [cytoplasm]	t_1375	c_03
+e_0658	SAM1 [cytoplasm]	t_1376	c_03
+e_0659	ATG26 [cytoplasm]	t_1377	c_03
+e_0660	COQ9 [mitochondrion]	t_1378	c_11
+e_0661	PNP1 [cytoplasm]	t_1379	c_03
+e_0662	PNP1 [mitochondrion]	t_1379	c_11
+e_0663	BNA5 [cytoplasm]	t_1380	c_03
+e_0664	THI7 [cell envelope]	t_1381	c_02
+e_0665	VPS34 [vacuolar membrane]	t_1382	c_16
+e_0666	CDD1 [cytoplasm]	t_1383	c_03
+e_0667	GSY2 [cytoplasm]	t_1384	c_03
+e_0668	LCB5 [endoplasmic reticulum]	t_1385	c_04
+e_0669	ECI1 [peroxisome]	t_1386	c_15
+e_0670	NNT1 [cytoplasm]	t_1387	c_03
+e_0671	ATP14 [mitochondrial membrane]	t_1388	c_10
+e_0672	ECM38 [cytoplasm]	t_1389	c_03
+e_0673	EXG1 [extracellular]	t_1390	c_06
+e_0674	MET17 [cytoplasm]	t_1391	c_03
+e_0675	ACO1 [cytoplasm]	t_1392	c_03
+e_0676	ACO1 [mitochondrion]	t_1392	c_11
+e_0677	STT4 [cell envelope]	t_1393	c_02
+e_0678	CDA1 [cytoplasm]	t_1394	c_03
+e_0679	CDA2 [cytoplasm]	t_1395	c_03
+e_0680	NMA1 [cytoplasm]	t_1396	c_03
+e_0681	NMA1 [nucleus]	t_1396	c_13
+e_0682	FKS1 [cytoplasm]	t_1397	c_03
+e_0683	DIC1 [mitochondrial membrane]	t_1398	c_10
+e_0684	TAL1 [cytoplasm]	t_1399	c_03
+e_0685	ILV5 [mitochondrion]	t_1400	c_11
+e_0686	ADE13 [cytoplasm]	t_1401	c_03
+e_0688	FBP1 [cytoplasm]	t_1403	c_03
+e_0689	NAM2 [mitochondrion]	t_1404	c_11
+e_0690	COX8 [mitochondrial membrane]	t_1405	c_10
+e_0691	VIP1 [cytoplasm]	t_1406	c_03
+e_0692	URA4 [cytoplasm]	t_1407	c_03
+e_0693	IMD3 [cytoplasm]	t_1408	c_03
+e_0694	CAR2 [cytoplasm]	t_1409	c_03
+e_0695	VMA6 [Golgi membrane]	t_1410	c_08
+e_0696	VMA6 [vacuolar membrane]	t_1410	c_16
+e_0697	HMG2 [cytoplasm]	t_1411	c_03
+e_0698	GLO1 [cytoplasm]	t_1412	c_03
+e_0699	ERG6 [cytoplasm]	t_1413	c_03
+e_0700	APT1 [cytoplasm]	t_1414	c_03
+e_0701	AMD1 [cytoplasm]	t_1415	c_03
+e_0702	CAT2 [mitochondrion]	t_1416	c_11
+e_0703	CAT2 [peroxisome]	t_1416	c_15
+e_0704	CYB2 [mitochondrial membrane]	t_1417	c_10
+e_0705	IMD4 [cytoplasm]	t_1418	c_03
+e_0707	DAK1 [cytoplasm]	t_1420	c_03
+e_0708	HMG1 [cytoplasm]	t_1421	c_03
+e_0709	ATP18 [mitochondrial membrane]	t_1422	c_10
+e_0710	ALO1 [cytoplasm]	t_1423	c_03
+e_0711	TSL1 [cytoplasm]	t_1424	c_03
+e_0712	URA5 [cytoplasm]	t_1425	c_03
+e_0713	COQ5 [mitochondrion]	t_1426	c_11
+e_0714	NDI1 [mitochondrial membrane]	t_1427	c_10
+e_0715	PHO84 [cell envelope]	t_1428	c_02
+e_0716	ERG13 [cytoplasm]	t_1429	c_03
+e_0717	ERG13 [mitochondrion]	t_1429	c_11
+e_0718	PLB2 [cell envelope]	t_1430	c_02
+e_0720	PLB1 [cell envelope]	t_1431	c_02
+e_0721	ADI1 [cytoplasm]	t_1432	c_03
+e_0722	HXT2 [cell envelope]	t_1433	c_02
+e_0723	SEC59 [cytoplasm]	t_1434	c_03
+e_0724	ERG5 [cytoplasm]	t_1435	c_03
+e_0725	FMS1 [cytoplasm]	t_1436	c_03
+e_0726	ARA2 [cytoplasm]	t_1437	c_03
+e_0727	STV1 [Golgi membrane]	t_1438	c_08
+e_0728	AAC1 [mitochondrial membrane]	t_1439	c_10
+e_0729	ARG7 [mitochondrion]	t_1440	c_11
+e_0730	ADH3 [mitochondrion]	t_1441	c_11
+e_0731	VBA1 [vacuolar membrane]	t_1442	c_16
+e_0732	SRT1 [lipid particle]	t_1443	c_09
+e_0733	PGM2 [cytoplasm]	t_1444	c_03
+e_0734	ILV2 [mitochondrion]	t_1445	c_11
+e_0735	FOL3 [cytoplasm]	t_1446	c_03
+e_0736	ADE17 [cytoplasm]	t_1447	c_03
+e_0737	NDE1 [mitochondrial membrane]	t_1448	c_10
+e_0739	ALD3 [cytoplasm]	t_1450	c_03
+e_0740	ALD2 [cytoplasm]	t_1451	c_03
+e_0741	GCV2 [mitochondrion]	t_1452	c_11
+e_0742	ERG2 [cytoplasm]	t_1453	c_03
+e_0743	PFK2 [cytoplasm]	t_1454	c_03
+e_0744	HFA1 [mitochondrion]	t_1455	c_11
+e_0745	ERG12 [cytoplasm]	t_1456	c_03
+e_0746	GUA1 [cytoplasm]	t_1457	c_03
+e_0747	ERG8 [cytoplasm]	t_1458	c_03
+e_0748	YMR226C [cytoplasm]	t_1459	c_03
+e_0749	YHM2 [mitochondrial membrane]	t_1460	c_10
+e_0751	GAD1 [cytoplasm]	t_1462	c_03
+e_0752	COX7 [mitochondrial membrane]	t_1463	c_10
+e_0753	TPS3 [cytoplasm]	t_1464	c_03
+e_0754	PPA2 [mitochondrion]	t_1465	c_11
+e_0755	URA10 [cytoplasm]	t_1466	c_03
+e_0756	SCS7 [endoplasmic reticulum]	t_1467	c_04
+e_0757	PGM3 [cytoplasm]	t_1468	c_03
+e_0758	GPI12 [endoplasmic reticulum membrane]	t_1469	c_05
+e_0759	ABZ2 [cytoplasm]	t_1470	c_03
+e_0760	HER2 [cytoplasm]	t_1471	c_03
+e_0761	LCB1 [endoplasmic reticulum]	t_1472	c_04
+e_0762	LIP1 [endoplasmic reticulum]	t_1473	c_04
+e_0763	ADE4 [cytoplasm]	t_1474	c_03
+e_0764	ADH2 [cytoplasm]	t_1475	c_03
+e_0765	TGL3 [lipid particle]	t_1476	c_09
+e_0766	ADH6 [cytoplasm]	t_1477	c_03
+e_0767	FET4 [cell envelope]	t_1478	c_02
+e_0768	PET8 [mitochondrial membrane]	t_1479	c_10
+e_0769	IDP3 [peroxisome]	t_1480	c_15
+e_0770	KTR5 [Golgi]	t_1481	c_07
+e_0771	IDH1 [mitochondrion]	t_1482	c_11
+e_0772	LAP2 [cytoplasm]	t_1483	c_03
+e_0773	LAP2 [nucleus]	t_1483	c_13
+e_0774	COX5A [mitochondrial membrane]	t_1484	c_10
+e_0775	LAT1 [mitochondrion]	t_1485	c_11
+e_0776	MSK1 [mitochondrion]	t_1486	c_11
+e_0777	AVT4 [vacuolar membrane]	t_1487	c_16
+e_0778	LEU4 [cytoplasm]	t_1488	c_03
+e_0779	LEU4 [mitochondrion]	t_1488	c_11
+e_0780	INP52 [cell envelope]	t_1489	c_02
+e_0781	INP52 [cytoplasm]	t_1489	c_03
+e_0782	MLS1 [cytoplasm]	t_1490	c_03
+e_0783	MLS1 [peroxisome]	t_1490	c_15
+e_0784	NRK1 [cytoplasm]	t_1491	c_03
+e_0786	AAH1 [cytoplasm]	t_1493	c_03
+e_0787	MEP2 [cell envelope]	t_1494	c_02
+e_0789	CHS1 [cytoplasm]	t_1496	c_03
+e_0790	SPS19 [peroxisome]	t_1497	c_15
+e_0791	ADE12 [cytoplasm]	t_1498	c_03
+e_0792	ZWF1 [cytoplasm]	t_1499	c_03
+e_0793	YNL247W [cytoplasm]	t_1500	c_03
+e_0794	FOL1 [mitochondrion]	t_1501	c_11
+e_0796	PIK1 [nucleus]	t_1502	c_13
+e_0797	LYP1 [cell envelope]	t_1503	c_02
+e_0798	ALP1 [cell envelope]	t_1504	c_02
+e_0799	MET2 [cytoplasm]	t_1505	c_03
+e_0800	ERG24 [cytoplasm]	t_1506	c_03
+e_0801	PUS4 [cytoplasm]	t_1507	c_03
+e_0802	PHA2 [cytoplasm]	t_1508	c_03
+e_0803	HXT14 [cell envelope]	t_1509	c_02
+e_0805	CIT1 [mitochondrion]	t_1511	c_11
+e_0806	URK1 [cytoplasm]	t_1512	c_03
+e_0807	PHO91 [cell envelope]	t_1513	c_02
+e_0808	ACC1 [cytoplasm]	t_1514	c_03
+e_0810	ABZ1 [cytoplasm]	t_1516	c_03
+e_0811	COQ2 [mitochondrion]	t_1517	c_11
+e_0812	MVD1 [cytoplasm]	t_1518	c_03
+e_0813	LYS9 [cytoplasm]	t_1519	c_03
+e_0814	BIO5 [cell envelope]	t_1520	c_02
+e_0815	BIO4 [cytoplasm]	t_1521	c_03
+e_0816	BIO3 [cytoplasm]	t_1522	c_03
+e_0817	DSE4 [extracellular]	t_1523	c_06
+e_0818	HXT17 [cell envelope]	t_1524	c_02
+e_0819	PLB3 [cell envelope]	t_1525	c_02
+e_0821	TAT2 [cell envelope]	t_1526	c_02
+e_0822	MSE1 [mitochondrion]	t_1527	c_11
+e_0823	GSH2 [cytoplasm]	t_1528	c_03
+e_0824	SPE2 [cytoplasm]	t_1529	c_03
+e_0825	THI20 [cytoplasm]	t_1530	c_03
+e_0826	ARG1 [cytoplasm]	t_1531	c_03
+e_0827	GPD2 [cytoplasm]	t_1532	c_03
+e_0828	GPD2 [mitochondrion]	t_1532	c_11
+e_0829	PRS5 [cytoplasm]	t_1533	c_03
+e_0830	MET22 [cytoplasm]	t_1534	c_03
+e_0832	RIB2 [cytoplasm]	t_1536	c_03
+e_0833	HST1 [nucleus]	t_1537	c_13
+e_0834	ADH1 [cytoplasm]	t_1538	c_03
+e_0835	COQ3 [mitochondrion]	t_1539	c_11
+e_0836	WRS1 [cytoplasm]	t_1540	c_03
+e_0837	ITR2 [cell envelope]	t_1541	c_02
+e_0838	MDH2 [cytoplasm]	t_1542	c_03
+e_0839	PFK27 [cytoplasm]	t_1543	c_03
+e_0840	ARG8 [mitochondrion]	t_1544	c_11
+e_0841	RIB4 [cytoplasm]	t_1545	c_03
+e_0842	GRE2 [cytoplasm]	t_1546	c_03
+e_0843	HXT11 [cell envelope]	t_1547	c_02
+e_0844	AUS1 [cell envelope]	t_1548	c_02
+e_0845	HST3 [nucleus]	t_1549	c_13
+e_0846	GLO4 [mitochondrion]	t_1550	c_11
+e_0847	VHS3 [cytoplasm]	t_1551	c_03
+e_0848	CYT1 [mitochondrial membrane]	t_1552	c_10
+e_0849	NRT1 [cell envelope]	t_1553	c_02
+e_0850	CDC21 [cytoplasm]	t_1554	c_03
+e_0851	TGL5 [lipid particle]	t_1555	c_09
+e_0852	RKI1 [cytoplasm]	t_1556	c_03
+e_0853	KTR1 [Golgi]	t_1557	c_07
+e_0854	CRC1 [mitochondrial membrane]	t_1558	c_10
+e_0855	LEU9 [cytoplasm]	t_1559	c_03
+e_0856	INP53 [cell envelope]	t_1560	c_02
+e_0857	INP53 [cytoplasm]	t_1560	c_03
+e_0858	CAT5 [mitochondrion]	t_1561	c_11
+e_0859	IAH1 [cytoplasm]	t_1562	c_03
+e_0860	ADE2 [cytoplasm]	t_1563	c_03
+e_0861	ORT1 [mitochondrial membrane]	t_1564	c_10
+e_0862	IDH2 [mitochondrion]	t_1565	c_11
+e_0863	LSC1 [mitochondrion]	t_1566	c_11
+e_0864	THI80 [cytoplasm]	t_1567	c_03
+e_0865	ISN1 [cytoplasm]	t_1568	c_03
+e_0866	DDP1 [cytoplasm]	t_1569	c_03
+e_0867	GLN4 [cytoplasm]	t_1570	c_03
+e_0868	LCB4 [endoplasmic reticulum]	t_1571	c_04
+e_0870	HEM15 [mitochondrion]	t_1573	c_11
+e_0871	DCI1 [peroxisome]	t_1574	c_15
+e_0872	SER1 [cytoplasm]	t_1575	c_03
+e_0873	SPR1 [extracellular]	t_1576	c_06
+e_0874	THI72 [cell envelope]	t_1577	c_02
+e_0875	HIS3 [cytoplasm]	t_1578	c_03
+e_0876	NPT1 [cytoplasm]	t_1579	c_03
+e_0877	NPT1 [mitochondrion]	t_1579	c_11
+e_0878	MCT1 [mitochondrion]	t_1580	c_11
+e_0879	ODC2 [mitochondrial membrane]	t_1581	c_10
+e_0880	DFR1 [cytoplasm]	t_1582	c_03
+e_0881	DFR1 [mitochondrion]	t_1582	c_11
+e_0882	MET7 [cytoplasm]	t_1583	c_03
+e_0883	DGA1 [lipid particle]	t_1584	c_09
+e_0884	VPH1 [vacuolar membrane]	t_1585	c_16
+e_0885	TPO4 [cell envelope]	t_1586	c_02
+e_0886	TPO4 [vacuolar membrane]	t_1586	c_16
+e_0887	HEM4 [cytoplasm]	t_1587	c_03
+e_0888	CPA1 [cytoplasm]	t_1588	c_03
+e_0890	PMT3 [endoplasmic reticulum]	t_1590	c_04
+e_0891	PRO2 [cytoplasm]	t_1591	c_03
+e_0892	VMA4 [Golgi membrane]	t_1592	c_08
+e_0893	VMA4 [vacuolar membrane]	t_1592	c_16
+e_0894	ALA1 [cytoplasm]	t_1593	c_03
+e_0895	PYK2 [cytoplasm]	t_1594	c_03
+e_0896	PUT4 [cell envelope]	t_1595	c_02
+e_0897	PDE2 [cytoplasm]	t_1596	c_03
+e_0898	ALD4 [mitochondrion]	t_1597	c_11
+e_0899	GDH1 [cytoplasm]	t_1598	c_03
+e_0900	ATF1 [cytoplasm]	t_1599	c_03
+e_0901	FDH1 [cytoplasm]	t_1600	c_03
+e_0902	HST2 [nucleus]	t_1601	c_13
+e_0903	MET12 [cytoplasm]	t_1602	c_03
+e_0904	ERG10 [cytoplasm]	t_1603	c_03
+e_0905	ERG10 [mitochondrion]	t_1603	c_11
+e_0906	PMA2 [cell envelope]	t_1604	c_02
+e_0907	ISM1 [mitochondrion]	t_1605	c_11
+e_0908	KTR6 [Golgi]	t_1606	c_07
+e_0909	SUR1 [Golgi]	t_1607	c_07
+e_0910	GRX5 [mitochondrion]	t_1608	c_11
+e_0911	ALD6 [cytoplasm]	t_1609	c_03
+e_0912	BTS1 [cytoplasm]	t_1610	c_03
+e_0913	ATP4 [mitochondrial membrane]	t_1611	c_10
+e_0914	YDC1 [endoplasmic reticulum]	t_1612	c_04
+e_0915	GLR1 [cytoplasm]	t_1613	c_03
+e_0916	GLR1 [mitochondrion]	t_1613	c_11
+e_0917	SSU1 [cell envelope]	t_1614	c_02
+e_0918	MSY1 [mitochondrion]	t_1615	c_11
+e_0919	MSD1 [mitochondrion]	t_1616	c_11
+e_0920	GDE1 [cytoplasm]	t_1617	c_03
+e_0921	CAR1 [cytoplasm]	t_1618	c_03
+e_0922	IDI1 [cytoplasm]	t_1619	c_03
+e_0923	ODC1 [mitochondrial membrane]	t_1620	c_10
+e_0924	PXA1 [peroxisomal membrane]	t_1621	c_14
+e_0925	PPT2 [mitochondrion]	t_1622	c_11
+e_0926	CDC60 [cytoplasm]	t_1623	c_03
+e_0927	COX10 [mitochondrion]	t_1624	c_11
+e_0928	POS5 [mitochondrion]	t_1625	c_11
+e_0929	GUP2 [cell envelope]	t_1626	c_02
+e_0932	PUS1 [cytoplasm]	t_1628	c_03
+e_0933	THI6 [cytoplasm]	t_1629	c_03
+e_0934	FAS2 [cytoplasm]	t_1630	c_03
+e_0935	VMA11 [Golgi membrane]	t_1631	c_08
+e_0936	VMA11 [vacuolar membrane]	t_1631	c_16
+e_0937	HUT1 [Golgi membrane]	t_1632	c_08
+e_0938	YAH1 [mitochondrion]	t_1633	c_11
+e_0939	THI21 [cytoplasm]	t_1634	c_03
+e_0940	FUM1 [cytoplasm]	t_1635	c_03
+e_0941	FUM1 [mitochondrion]	t_1635	c_11
+e_0942	DIP5 [cell envelope]	t_1636	c_02
+e_0943	PLC1 [nucleus]	t_1637	c_13
+e_0944	ATP15 [mitochondrial membrane]	t_1638	c_10
+e_0945	SAM4 [cytoplasm]	t_1639	c_03
+e_0946	SAM3 [cell envelope]	t_1640	c_02
+e_0947	CIT3 [mitochondrion]	t_1641	c_11
+e_0948	PDH1 [mitochondrion]	t_1642	c_11
+e_0949	ICL2 [mitochondrion]	t_1643	c_11
+e_0950	ATP20 [mitochondrial membrane]	t_1644	c_10
+e_0951	AGC1 [mitochondrial membrane]	t_1645	c_10
+e_0952	ATH1 [vacuole]	t_1646	c_17
+e_0953	HTS1 [cytoplasm]	t_1647	c_03
+e_0954	HTS1 [mitochondrion]	t_1647	c_11
+e_0955	GLN1 [cytoplasm]	t_1648	c_03
+e_0956	VMA13 [Golgi membrane]	t_1649	c_08
+e_0957	VMA13 [vacuolar membrane]	t_1649	c_16
+e_0958	MSF1 [mitochondrion]	t_1650	c_11
+e_0959	ARO7 [cytoplasm]	t_1651	c_03
+e_0960	FCY1 [cytoplasm]	t_1652	c_03
+e_0961	SPE3 [cytoplasm]	t_1653	c_03
+e_0962	TKL1 [cytoplasm]	t_1654	c_03
+e_0963	GRS2 [cytoplasm]	t_1655	c_03
+e_0966	THI22 [cytoplasm]	t_1657	c_03
+e_0967	ANT1 [peroxisomal membrane]	t_1658	c_14
+e_0968	MEP3 [cell envelope]	t_1659	c_02
+e_0970	ASN1 [cytoplasm]	t_1661	c_03
+e_0971	TPO3 [cell envelope]	t_1662	c_02
+e_0972	TPO3 [vacuolar membrane]	t_1662	c_16
+e_0973	KRE6 [cytoplasm]	t_1663	c_03
+e_0974	GPH1 [cytoplasm]	t_1664	c_03
+e_0975	MET16 [cytoplasm]	t_1665	c_03
+e_0976	DPM1 [endoplasmic reticulum membrane]	t_1666	c_05
+e_0977	GDB1 [cytoplasm]	t_1667	c_03
+e_0978	QCR2 [mitochondrial membrane]	t_1668	c_10
+e_0979	AQY1 [cell envelope]	t_1669	c_02
+e_0980	YER152C [cytoplasm]	t_1670	c_03
+e_0981	FMP37 [mitochondrial membrane]	t_1671	c_10
+e_0982	FMP43 [mitochondrial membrane]	t_1672	c_10
+e_0983	MPC2 [mitochondrial membrane]	t_1673	c_10
+s_2765	14-demethyllanosterol [boundary]	t_0056	c_01
+s_2766	14-demethyllanosterol [extracellular]	t_0056	c_06
+s_2767	ergosta-5,7,22,24(28)-tetraen-3beta-ol [boundary]	t_0348	c_01
+s_2768	ergosta-5,7,22,24(28)-tetraen-3beta-ol [extracellular]	t_0348	c_06
+e_0984	IDP2 [cytoplasm]	t_1676	c_03
+e_0985	YHR020W [cytoplasm]	t_1675	c_03
+s_2770	acetoacetyl-ACP [mitochondrion]	t_1678	c_11
+s_2771	butanoyl-ACP [mitochondrion]	t_1679	c_11
+s_2772	3-oxo-hexanoyl-ACP [mitochondrion]	t_1680	c_11
+s_2773	hexanoyl-ACP [mitochondrion]	t_1681	c_11
+s_2774	3-oxo-octanoyl-ACP [mitochondrion]	t_1682	c_11
+s_2775	3-hydroxybutanoyl-ACP [mitochondrion]	t_1683	c_11
+s_2776	3-hydroxyhexanoyl-ACP [mitochondrion]	t_1684	c_11
+s_2777	3-hydroxyoctanoyl-ACP [mitochondrion]	t_1685	c_11
+s_2778	trans-but-2-enoyl-ACP [mitochondrion]	t_1686	c_11
+s_2779	trans-hex-2-enoyl-ACP [mitochondrion]	t_1687	c_11
+s_2780	trans-oct-2-enoyl-ACP [mitochondrion]	t_1688	c_11
+s_2781	lauroyl-CoA [endoplasmic reticulum membrane]	t_0508	c_05
+s_2782	malonyl-CoA [endoplasmic reticulum membrane]	t_0518	c_05
+s_2783	H+ [endoplasmic reticulum membrane]	t_0398	c_05
+s_2784	carbon dioxide [endoplasmic reticulum membrane]	t_0249	c_05
+s_2785	coenzyme A [endoplasmic reticulum membrane]	t_0278	c_05
+s_2786	3-oxotetradecanoyl-CoA [endoplasmic reticulum membrane]	t_0136	c_05
+e_0986	ELO1 [endoplasmic reticulum membrane]	t_1248	c_05
+s_2787	myristoyl-CoA [endoplasmic reticulum membrane]	t_0543	c_05
+s_2788	3-oxopalmitoyl-CoA [endoplasmic reticulum membrane]	t_0134	c_05
+s_2789	palmitoyl-CoA [endoplasmic reticulum membrane]	t_0599	c_05
+s_2790	3-oxooctadecanoyl-CoA [endoplasmic reticulum membrane]	t_0133	c_05
+e_0987	FEN1 [endoplasmic reticulum membrane]	t_0885	c_05
+s_2791	stearoyl-CoA [endoplasmic reticulum membrane]	t_0673	c_05
+s_2792	3-oxoicosanoyl-CoA [endoplasmic reticulum membrane]	t_0131	c_05
+e_0988	SUR4 [endoplasmic reticulum membrane]	t_1402	c_05
+s_2793	icosanoyl-CoA [endoplasmic reticulum membrane]	t_1689	c_05
+s_2794	3-oxodocosanoyl-CoA [endoplasmic reticulum membrane]	t_0129	c_05
+s_2795	docosanoyl-CoA [endoplasmic reticulum membrane]	t_1690	c_05
+s_2796	3-oxotetracosanoyl-CoA [endoplasmic reticulum membrane]	t_0135	c_05
+s_2797	tetracosanoyl-CoA [endoplasmic reticulum membrane]	t_0683	c_05
+s_2798	3-oxohexacosanoyl-CoA [endoplasmic reticulum membrane]	t_0130	c_05
+s_2799	NADPH [endoplasmic reticulum membrane]	t_0563	c_05
+s_2800	NADP(+) [endoplasmic reticulum membrane]	t_0562	c_05
+s_2801	(S)-3-hydroxytetradecanoyl-CoA [endoplasmic reticulum membrane]	t_0029	c_05
+e_0989	IFA38 [endoplasmic reticulum membrane]	t_0840	c_05
+s_2802	(S)-3-hydroxypalmitoyl-CoA [endoplasmic reticulum membrane]	t_0028	c_05
+s_2803	3-hydroxyoctadecanoyl-CoA [endoplasmic reticulum membrane]	t_0123	c_05
+s_2804	3-hydroxyicosanoyl-CoA [endoplasmic reticulum membrane]	t_0122	c_05
+s_2805	3-hydroxydocosanoyl-CoA [endoplasmic reticulum membrane]	t_0121	c_05
+s_2806	3-hydroxytetracosanoyl-CoA [endoplasmic reticulum membrane]	t_0124	c_05
+s_2807	(S)-3-hydroxyhexacosanoyl-CoA [endoplasmic reticulum membrane]	t_0026	c_05
+s_2808	H2O [endoplasmic reticulum membrane]	t_0399	c_05
+s_2809	trans-tetradec-2-enoyl-CoA [endoplasmic reticulum membrane]	t_0699	c_05
+e_0990	PHS1 [endoplasmic reticulum membrane]	t_1235	c_05
+s_2810	trans-hexadec-2-enoyl-CoA [endoplasmic reticulum membrane]	t_1691	c_05
+s_2811	trans-octadec-2-enoyl-CoA [endoplasmic reticulum membrane]	t_0698	c_05
+s_2812	trans-icos-2-enoyl-CoA [endoplasmic reticulum membrane]	t_1692	c_05
+s_2813	trans-docos-2-enoyl-CoA [endoplasmic reticulum membrane]	t_1693	c_05
+s_2814	trans-tetracos-2-enoyl-CoA [endoplasmic reticulum membrane]	t_1694	c_05
+s_2815	trans-hexacos-2-enoyl-CoA [endoplasmic reticulum membrane]	t_0697	c_05
+e_0991	TSC13 [endoplasmic reticulum membrane]	t_0895	c_05
+s_2816	hexacosanoyl-CoA [endoplasmic reticulum membrane]	t_0405	c_05
+s_2817	oxygen [endoplasmic reticulum membrane]	t_0591	c_05
+s_2818	NADH [endoplasmic reticulum membrane]	t_0561	c_05
+s_2819	palmitoleoyl-CoA [endoplasmic reticulum membrane]	t_0597	c_05
+s_2820	NAD [endoplasmic reticulum membrane]	t_0560	c_05
+e_0992	OLE1 [endoplasmic reticulum membrane]	t_1081	c_05
+s_2821	oleoyl-CoA [endoplasmic reticulum membrane]	t_0586	c_05
+s_2822	butyrate [extracellular]	t_1695	c_06
+s_2823	butyrate [boundary]	t_1695	c_01
+s_2824	hexanoate [extracellular]	t_1696	c_06
+s_2825	hexanoate [boundary]	t_1696	c_01
+s_2826	oleate [extracellular]	t_0585	c_06
+s_2827	oleate [boundary]	t_0585	c_01
+s_2828	butyrate [cytoplasm]	t_1695	c_03
+s_2829	hexanoate [cytoplasm]	t_1696	c_03
+s_2830	myristate [boundary]	t_0540	c_01
+s_2831	ATP [endoplasmic reticulum membrane]	t_0239	c_05
+s_2832	laurate [endoplasmic reticulum membrane]	t_0506	c_05
+s_2833	AMP [endoplasmic reticulum membrane]	t_0234	c_05
+s_2834	diphosphate [endoplasmic reticulum membrane]	t_0332	c_05
+e_0993	FAA1 [endoplasmic reticulum membrane]	t_1589	c_05
+s_2835	myristate [endoplasmic reticulum membrane]	t_0540	c_05
+e_0994	FAA4 [endoplasmic reticulum membrane]	t_1461	c_05
+s_2836	palmitate [endoplasmic reticulum membrane]	t_0595	c_05
+s_2837	palmitoleate [endoplasmic reticulum membrane]	t_0596	c_05
+s_2838	stearate [endoplasmic reticulum membrane]	t_0671	c_05
+s_2839	oleate [endoplasmic reticulum membrane]	t_0585	c_05
+s_2840	ATP [lipid particle]	t_0239	c_09
+s_2841	laurate [lipid particle]	t_0506	c_09
+s_2842	AMP [lipid particle]	t_0234	c_09
+s_2843	lauroyl-CoA [lipid particle]	t_0508	c_09
+e_0995	FAA1 [lipid particle]	t_1589	c_09
+s_2844	myristate [lipid particle]	t_0540	c_09
+s_2845	myristoyl-CoA [lipid particle]	t_0543	c_09
+e_0996	FAA4 [lipid particle]	t_1461	c_09
+s_2846	palmitate [lipid particle]	t_0595	c_09
+s_2847	palmitoyl-CoA [lipid particle]	t_0599	c_09
+s_2848	palmitoleate [lipid particle]	t_0596	c_09
+s_2849	palmitoleoyl-CoA [lipid particle]	t_0597	c_09
+s_2850	stearate [lipid particle]	t_0671	c_09
+s_2851	stearoyl-CoA [lipid particle]	t_0673	c_09
+s_2852	oleate [lipid particle]	t_0585	c_09
+s_2853	oleoyl-CoA [lipid particle]	t_0586	c_09
+s_2854	palmitoleoyl-CoA [peroxisome]	t_0597	c_15
+s_2855	oleate [peroxisome]	t_0585	c_15
+s_2856	ATP [cell envelope]	t_0239	c_02
+s_2857	coenzyme A [cell envelope]	t_0278	c_02
+s_2858	arachidate [cell envelope]	t_1697	c_02
+s_2859	AMP [cell envelope]	t_0234	c_02
+s_2860	diphosphate [cell envelope]	t_0332	c_02
+s_2861	icosanoyl-CoA [cell envelope]	t_1689	c_02
+e_0997	FAA3 [cell envelope]	t_1198	c_02
+s_2862	behenate [cell envelope]	t_1698	c_02
+s_2863	docosanoyl-CoA [cell envelope]	t_1690	c_02
+s_2864	lignoceric acid [cell envelope]	t_0512	c_02
+s_2865	tetracosanoyl-CoA [cell envelope]	t_0683	c_02
+s_2866	cerotic acid [cell envelope]	t_0267	c_02
+s_2867	hexacosanoyl-CoA [cell envelope]	t_0405	c_02
+s_2868	behenate [endoplasmic reticulum membrane]	t_1698	c_05
+e_0998	FAT1 [endoplasmic reticulum membrane]	t_0822	c_05
+s_2869	lignoceric acid [endoplasmic reticulum membrane]	t_0512	c_05
+s_2870	cerotic acid [endoplasmic reticulum membrane]	t_0267	c_05
+s_2871	behenate [lipid particle]	t_1698	c_09
+s_2872	docosanoyl-CoA [lipid particle]	t_1690	c_09
+e_0999	FAT1 [lipid particle]	t_0822	c_09
+s_2873	lignoceric acid [lipid particle]	t_0512	c_09
+s_2874	tetracosanoyl-CoA [lipid particle]	t_0683	c_09
+s_2875	cerotic acid [lipid particle]	t_0267	c_09
+s_2876	hexacosanoyl-CoA [lipid particle]	t_0405	c_09
+s_2877	palmitoleoyl-CoA [cytoplasm]	t_0597	c_03
+s_2878	icosanoyl-CoA [cytoplasm]	t_1689	c_03
+s_2879	icosanoyl-CoA [peroxisome]	t_1689	c_15
+s_2880	docosanoyl-CoA [cytoplasm]	t_1690	c_03
+s_2881	docosanoyl-CoA [peroxisome]	t_1690	c_15
+s_2882	butyrate [peroxisome]	t_1695	c_15
+s_2883	hexanoate [peroxisome]	t_1696	c_15
+s_2884	butanoyl-CoA [peroxisome]	t_1699	c_15
+s_2885	hexanoyl-CoA [peroxisome]	t_1700	c_15
+s_2886	trans-but-2-enoyl-CoA [peroxisome]	t_1701	c_15
+s_2887	trans-hex-2-enoyl-CoA [peroxisome]	t_1702	c_15
+s_2888	trans-oct-2-enoyl-CoA [peroxisome]	t_1703	c_15
+s_2889	trans-icos-2-enoyl-CoA [peroxisome]	t_1692	c_15
+s_2890	trans-docos-2-enoyl-CoA [peroxisome]	t_1693	c_15
+s_2891	trans-tetracos-2-enoyl-CoA [peroxisome]	t_1694	c_15
+s_2892	trans-2,cis-9-hexadecadienoyl-CoA [peroxisome]	t_1704	c_15
+s_2893	cis-tetradec-7-enoyl-CoA [peroxisome]	t_1705	c_15
+s_2894	trans-2,cis-7-tetradecadienoyl-CoA [peroxisome]	t_1706	c_15
+s_2895	cis-dodec-5-enoyl-CoA [peroxisome]	t_1707	c_15
+s_2896	trans-2,cis-5-dodecadienoyl-CoA [peroxisome]	t_1708	c_15
+s_2897	trans-2,cis-9-octadecadienoyl-CoA [peroxisome]	t_1709	c_15
+s_2898	cis-hexadec-7-enoyl-CoA [peroxisome]	t_1710	c_15
+s_2899	trans-2,cis-7-hexadecadienoyl-CoA [peroxisome]	t_1711	c_15
+s_2900	cis-tetradec-5-enoyl-CoA [peroxisome]	t_1712	c_15
+s_2901	trans-2,cis-5-tetradecadienoyl-CoA [peroxisome]	t_1713	c_15
+s_2902	(R)-3-hydroxybutanoyl-CoA [peroxisome]	t_1714	c_15
+s_2903	(R)-3-hydroxyhexanoyl-CoA [peroxisome]	t_1715	c_15
+s_2904	(R)-3-hydroxyoctanoyl-CoA [peroxisome]	t_1716	c_15
+s_2905	(R)-3-hydroxyicosanoyl-CoA [peroxisome]	t_1717	c_15
+s_2906	(R)-3-hydroxydocosanoyl-CoA [peroxisome]	t_1718	c_15
+s_2907	(R)-3-hydroxytetracosanoyl-CoA [peroxisome]	t_1719	c_15
+s_2908	(R)-3-hydroxy-cis-hexadec-9-enoyl-CoA [peroxisome]	t_1720	c_15
+s_2909	(R)-3-hydroxy-cis-tetradec-7-enoyl-CoA [peroxisome]	t_1721	c_15
+s_2910	(R)-3-hydroxy-cis-dodec-5-enoyl-CoA [peroxisome]	t_1722	c_15
+s_2911	(R)-3-hydroxy-cis-octadec-9-enoyl-CoA [peroxisome]	t_1723	c_15
+s_2912	(R)-3-hydroxy-cis-hexadec-7-enoyl-CoA [peroxisome]	t_1724	c_15
+s_2913	(R)-3-hydroxy-cis-tetradec-5-enoyl-CoA [peroxisome]	t_1725	c_15
+s_2914	acetoacetyl-CoA [peroxisome]	t_0209	c_15
+s_2915	3-oxohexanoyl-CoA [peroxisome]	t_1726	c_15
+s_2916	3-oxooctanoyl-CoA [peroxisome]	t_1727	c_15
+s_2917	3-oxoicosanoyl-CoA [peroxisome]	t_0131	c_15
+s_2918	3-oxodocosanoyl-CoA [peroxisome]	t_0129	c_15
+s_2919	3-oxotetracosanoyl-CoA [peroxisome]	t_0135	c_15
+s_2920	3-oxo-cis-hexadec-9-enoyl-CoA [peroxisome]	t_1728	c_15
+s_2921	3-oxo-cis-tetradec-7-enoyl-CoA [peroxisome]	t_1729	c_15
+s_2922	3-oxo-cis-dodec-5-enoyl-CoA [peroxisome]	t_1730	c_15
+s_2923	3-oxo-cis-octadec-9-enoyl-CoA [peroxisome]	t_1731	c_15
+s_2924	3-oxo-cis-hexadec-7-enoyl-CoA [peroxisome]	t_1732	c_15
+s_2925	3-oxo-cis-tetradec-5-enoyl-CoA [peroxisome]	t_1733	c_15
+s_2926	cis-dec-3-enoyl-CoA [peroxisome]	t_1734	c_15
+s_2927	cis-dodec-3-enoyl-CoA [peroxisome]	t_1735	c_15
+s_2928	trans-3,cis-5-dodecadienoyl-CoA [peroxisome]	t_1736	c_15
+s_2929	trans-dodec-3-enoyl-CoA [peroxisome]	t_1737	c_15
+s_2930	trans-3,cis-5-tetradecadienoyl-CoA [peroxisome]	t_1738	c_15
+s_2931	trans-tetradec-3-enoyl-CoA [peroxisome]	t_1739	c_15
+s_2932	trans-2,trans-4-dodecadienoyl-CoA [peroxisome]	t_1740	c_15
+s_2933	trans-2,trans-4-tetradecadienoyl-CoA [peroxisome]	t_1741	c_15
+s_2934	glycerol 3-phosphate [endoplasmic reticulum membrane]	t_0388	c_05
+s_2935	1-acyl-sn-glycerol 3-phosphate (16:0) [endoplasmic reticulum membrane]	t_1742	c_05
+e_1000	GPT2 [endoplasmic reticulum membrane]	t_1331	c_05
+e_1001	SCT1 [endoplasmic reticulum membrane]	t_0792	c_05
+s_2936	1-acyl-sn-glycerol 3-phosphate (16:1) [endoplasmic reticulum membrane]	t_1743	c_05
+s_2937	1-acyl-sn-glycerol 3-phosphate (18:0) [endoplasmic reticulum membrane]	t_1744	c_05
+s_2938	1-acyl-sn-glycerol 3-phosphate (18:1) [endoplasmic reticulum membrane]	t_1745	c_05
+s_2939	dihydroxyacetone phosphate [endoplasmic reticulum membrane]	t_0331	c_05
+s_2940	acylglycerone phosphate (16:0) [endoplasmic reticulum membrane]	t_1746	c_05
+s_2941	acylglycerone phosphate (16:1) [endoplasmic reticulum membrane]	t_1747	c_05
+s_2942	acylglycerone phosphate (18:0) [endoplasmic reticulum membrane]	t_1748	c_05
+s_2943	acylglycerone phosphate (18:1) [endoplasmic reticulum membrane]	t_1749	c_05
+s_2944	1-acyl-sn-glycerol 3-phosphate (16:0) [lipid particle]	t_1742	c_09
+s_2945	1-acyl-sn-glycerol 3-phosphate (16:1) [lipid particle]	t_1743	c_09
+s_2946	1-acyl-sn-glycerol 3-phosphate (18:0) [lipid particle]	t_1744	c_09
+s_2947	1-acyl-sn-glycerol 3-phosphate (18:1) [lipid particle]	t_1745	c_09
+s_2948	acylglycerone phosphate (16:0) [lipid particle]	t_1746	c_09
+s_2949	acylglycerone phosphate (16:1) [lipid particle]	t_1747	c_09
+s_2950	acylglycerone phosphate (18:0) [lipid particle]	t_1748	c_09
+s_2951	acylglycerone phosphate (18:1) [lipid particle]	t_1749	c_09
+e_1002	AYR1 [endoplasmic reticulum membrane]	t_1750	c_05
+s_2952	NADPH [lipid particle]	t_0563	c_09
+s_2953	NADP(+) [lipid particle]	t_0562	c_09
+e_1003	AYR1 [lipid particle]	t_1750	c_09
+s_2954	phosphatidate (1-16:0, 2-16:1) [endoplasmic reticulum membrane]	t_1751	c_05
+e_1004	ALE1 [endoplasmic reticulum membrane]	t_1572	c_05
+s_2955	phosphatidate (1-16:0, 2-18:1) [endoplasmic reticulum membrane]	t_1752	c_05
+e_1005	SLC1 [endoplasmic reticulum membrane]	t_0899	c_05
+s_2956	phosphatidate (1-16:1, 2-16:1) [endoplasmic reticulum membrane]	t_1753	c_05
+s_2957	phosphatidate (1-16:1, 2-18:1) [endoplasmic reticulum membrane]	t_1754	c_05
+s_2958	phosphatidate (1-18:0, 2-16:1) [endoplasmic reticulum membrane]	t_1755	c_05
+s_2959	phosphatidate (1-18:0, 2-18:1) [endoplasmic reticulum membrane]	t_1756	c_05
+s_2960	phosphatidate (1-18:1, 2-16:1) [endoplasmic reticulum membrane]	t_1757	c_05
+s_2961	phosphatidate (1-18:1, 2-18:1) [endoplasmic reticulum membrane]	t_1758	c_05
+s_2962	phosphatidate (1-16:0, 2-18:1) [lipid particle]	t_1752	c_09
+s_2963	phosphatidate (1-16:1, 2-18:1) [lipid particle]	t_1754	c_09
+s_2964	phosphatidate (1-18:0, 2-18:1) [lipid particle]	t_1756	c_09
+s_2965	phosphatidate (1-18:1, 2-18:1) [lipid particle]	t_1758	c_09
+s_2966	phosphate [endoplasmic reticulum membrane]	t_0608	c_05
+s_2967	diglyceride (1-16:0, 2-16:1) [endoplasmic reticulum membrane]	t_1759	c_05
+e_1006	PAH1 [endoplasmic reticulum membrane]	t_1760	c_05
+s_2968	diglyceride (1-16:0, 2-18:1) [endoplasmic reticulum membrane]	t_1761	c_05
+s_2969	diglyceride (1-16:1, 2-16:1) [endoplasmic reticulum membrane]	t_1762	c_05
+s_2970	diglyceride (1-16:1, 2-18:1) [endoplasmic reticulum membrane]	t_1763	c_05
+s_2971	diglyceride (1-18:0, 2-16:1) [endoplasmic reticulum membrane]	t_1764	c_05
+s_2972	diglyceride (1-18:0, 2-18:1) [endoplasmic reticulum membrane]	t_1765	c_05
+s_2973	diglyceride (1-18:1, 2-16:1) [endoplasmic reticulum membrane]	t_1766	c_05
+s_2974	diglyceride (1-18:1, 2-18:1) [endoplasmic reticulum membrane]	t_1767	c_05
+s_2975	phosphatidate (1-16:0, 2-16:1) [vacuolar membrane]	t_1751	c_16
+s_2976	H2O [vacuolar membrane]	t_0399	c_16
+s_2977	phosphate [vacuolar membrane]	t_0608	c_16
+s_2978	diglyceride (1-16:0, 2-16:1) [vacuolar membrane]	t_1759	c_16
+e_1007	DPP1 [vacuolar membrane]	t_0963	c_16
+s_2979	phosphatidate (1-16:0, 2-18:1) [vacuolar membrane]	t_1752	c_16
+s_2980	diglyceride (1-16:0, 2-18:1) [vacuolar membrane]	t_1761	c_16
+s_2981	phosphatidate (1-16:1, 2-16:1) [vacuolar membrane]	t_1753	c_16
+s_2982	diglyceride (1-16:1, 2-16:1) [vacuolar membrane]	t_1762	c_16
+s_2983	phosphatidate (1-16:1, 2-18:1) [vacuolar membrane]	t_1754	c_16
+s_2984	diglyceride (1-16:1, 2-18:1) [vacuolar membrane]	t_1763	c_16
+s_2985	phosphatidate (1-18:0, 2-16:1) [vacuolar membrane]	t_1755	c_16
+s_2986	diglyceride (1-18:0, 2-16:1) [vacuolar membrane]	t_1764	c_16
+s_2987	phosphatidate (1-18:0, 2-18:1) [vacuolar membrane]	t_1756	c_16
+s_2988	diglyceride (1-18:0, 2-18:1) [vacuolar membrane]	t_1765	c_16
+s_2989	phosphatidate (1-18:1, 2-16:1) [vacuolar membrane]	t_1757	c_16
+s_2990	diglyceride (1-18:1, 2-16:1) [vacuolar membrane]	t_1766	c_16
+s_2991	phosphatidate (1-18:1, 2-18:1) [vacuolar membrane]	t_1758	c_16
+s_2992	diglyceride (1-18:1, 2-18:1) [vacuolar membrane]	t_1767	c_16
+s_2993	phosphatidate (1-16:0, 2-16:1) [Golgi membrane]	t_1751	c_08
+s_2994	H2O [Golgi membrane]	t_0399	c_08
+s_2995	phosphate [Golgi membrane]	t_0608	c_08
+s_2996	diglyceride (1-16:0, 2-16:1) [Golgi membrane]	t_1759	c_08
+e_1008	LPP1 [Golgi membrane]	t_0999	c_08
+s_2997	phosphatidate (1-16:0, 2-18:1) [Golgi membrane]	t_1752	c_08
+s_2998	diglyceride (1-16:0, 2-18:1) [Golgi membrane]	t_1761	c_08
+s_2999	phosphatidate (1-16:1, 2-16:1) [Golgi membrane]	t_1753	c_08
+s_3000	diglyceride (1-16:1, 2-16:1) [Golgi membrane]	t_1762	c_08
+s_3001	phosphatidate (1-16:1, 2-18:1) [Golgi membrane]	t_1754	c_08
+s_3002	diglyceride (1-16:1, 2-18:1) [Golgi membrane]	t_1763	c_08
+s_3003	phosphatidate (1-18:0, 2-16:1) [Golgi membrane]	t_1755	c_08
+s_3004	diglyceride (1-18:0, 2-16:1) [Golgi membrane]	t_1764	c_08
+s_3005	phosphatidate (1-18:0, 2-18:1) [Golgi membrane]	t_1756	c_08
+s_3006	diglyceride (1-18:0, 2-18:1) [Golgi membrane]	t_1765	c_08
+s_3007	phosphatidate (1-18:1, 2-16:1) [Golgi membrane]	t_1757	c_08
+s_3008	diglyceride (1-18:1, 2-16:1) [Golgi membrane]	t_1766	c_08
+s_3009	phosphatidate (1-18:1, 2-18:1) [Golgi membrane]	t_1758	c_08
+s_3010	diglyceride (1-18:1, 2-18:1) [Golgi membrane]	t_1767	c_08
+s_3011	triglyceride (1-16:0, 2-16:1, 3-16:0) [endoplasmic reticulum membrane]	t_1768	c_05
+e_1009	ARE2 [endoplasmic reticulum membrane]	t_1515	c_05
+e_1010	ARE1 [endoplasmic reticulum membrane]	t_0888	c_05
+e_1011	DGA1 [endoplasmic reticulum membrane]	t_1584	c_05
+s_3012	triglyceride (1-16:0, 2-18:1, 3-16:0) [endoplasmic reticulum membrane]	t_1769	c_05
+s_3013	triglyceride (1-16:1, 2-16:1, 3-16:0) [endoplasmic reticulum membrane]	t_1770	c_05
+s_3014	triglyceride (1-16:1, 2-18:1, 3-16:0) [endoplasmic reticulum membrane]	t_1771	c_05
+s_3015	triglyceride (1-18:0, 2-16:1, 3-16:0) [endoplasmic reticulum membrane]	t_1772	c_05
+s_3016	triglyceride (1-18:0, 2-18:1, 3-16:0) [endoplasmic reticulum membrane]	t_1773	c_05
+s_3017	triglyceride (1-18:1, 2-16:1, 3-16:0) [endoplasmic reticulum membrane]	t_1774	c_05
+s_3018	triglyceride (1-18:1, 2-18:1, 3-16:0) [endoplasmic reticulum membrane]	t_1775	c_05
+s_3019	triglyceride (1-16:0, 2-16:1, 3-16:1) [endoplasmic reticulum membrane]	t_1776	c_05
+s_3020	triglyceride (1-16:0, 2-18:1, 3-16:1) [endoplasmic reticulum membrane]	t_1777	c_05
+s_3021	triglyceride (1-16:1, 2-16:1, 3-16:1) [endoplasmic reticulum membrane]	t_1778	c_05
+s_3022	triglyceride (1-16:1, 2-18:1, 3-16:1) [endoplasmic reticulum membrane]	t_1779	c_05
+s_3023	triglyceride (1-18:0, 2-16:1, 3-16:1) [endoplasmic reticulum membrane]	t_1780	c_05
+s_3024	triglyceride (1-18:0, 2-18:1, 3-16:1) [endoplasmic reticulum membrane]	t_1781	c_05
+s_3025	triglyceride (1-18:1, 2-16:1, 3-16:1) [endoplasmic reticulum membrane]	t_1782	c_05
+s_3026	triglyceride (1-18:1, 2-18:1, 3-16:1) [endoplasmic reticulum membrane]	t_1783	c_05
+s_3027	triglyceride (1-16:0, 2-16:1, 3-18:0) [endoplasmic reticulum membrane]	t_1784	c_05
+s_3028	triglyceride (1-16:0, 2-18:1, 3-18:0) [endoplasmic reticulum membrane]	t_1785	c_05
+s_3029	triglyceride (1-16:1, 2-16:1, 3-18:0) [endoplasmic reticulum membrane]	t_1786	c_05
+s_3030	triglyceride (1-16:1, 2-18:1, 3-18:0) [endoplasmic reticulum membrane]	t_1787	c_05
+s_3031	triglyceride (1-18:0, 2-16:1, 3-18:0) [endoplasmic reticulum membrane]	t_1788	c_05
+s_3032	triglyceride (1-18:0, 2-18:1, 3-18:0) [endoplasmic reticulum membrane]	t_1789	c_05
+s_3033	triglyceride (1-18:1, 2-16:1, 3-18:0) [endoplasmic reticulum membrane]	t_1790	c_05
+s_3034	triglyceride (1-18:1, 2-18:1, 3-18:0) [endoplasmic reticulum membrane]	t_1791	c_05
+s_3035	triglyceride (1-16:0, 2-16:1, 3-18:1) [endoplasmic reticulum membrane]	t_1792	c_05
+s_3036	triglyceride (1-16:0, 2-18:1, 3-18:1) [endoplasmic reticulum membrane]	t_1793	c_05
+s_3037	triglyceride (1-16:1, 2-16:1, 3-18:1) [endoplasmic reticulum membrane]	t_1794	c_05
+s_3038	triglyceride (1-16:1, 2-18:1, 3-18:1) [endoplasmic reticulum membrane]	t_1795	c_05
+s_3039	triglyceride (1-18:0, 2-16:1, 3-18:1) [endoplasmic reticulum membrane]	t_1796	c_05
+s_3040	triglyceride (1-18:0, 2-18:1, 3-18:1) [endoplasmic reticulum membrane]	t_1797	c_05
+s_3041	triglyceride (1-18:1, 2-16:1, 3-18:1) [endoplasmic reticulum membrane]	t_1798	c_05
+s_3042	triglyceride (1-18:1, 2-18:1, 3-18:1) [endoplasmic reticulum membrane]	t_1799	c_05
+s_3043	diglyceride (1-16:0, 2-16:1) [lipid particle]	t_1759	c_09
+s_3044	triglyceride (1-16:0, 2-16:1, 3-16:0) [lipid particle]	t_1768	c_09
+s_3045	diglyceride (1-16:0, 2-18:1) [lipid particle]	t_1761	c_09
+s_3046	triglyceride (1-16:0, 2-18:1, 3-16:0) [lipid particle]	t_1769	c_09
+s_3047	diglyceride (1-16:1, 2-16:1) [lipid particle]	t_1762	c_09
+s_3048	triglyceride (1-16:1, 2-16:1, 3-16:0) [lipid particle]	t_1770	c_09
+s_3049	diglyceride (1-16:1, 2-18:1) [lipid particle]	t_1763	c_09
+s_3050	triglyceride (1-16:1, 2-18:1, 3-16:0) [lipid particle]	t_1771	c_09
+s_3051	diglyceride (1-18:0, 2-16:1) [lipid particle]	t_1764	c_09
+s_3052	triglyceride (1-18:0, 2-16:1, 3-16:0) [lipid particle]	t_1772	c_09
+s_3053	diglyceride (1-18:0, 2-18:1) [lipid particle]	t_1765	c_09
+s_3054	triglyceride (1-18:0, 2-18:1, 3-16:0) [lipid particle]	t_1773	c_09
+s_3055	diglyceride (1-18:1, 2-16:1) [lipid particle]	t_1766	c_09
+s_3056	triglyceride (1-18:1, 2-16:1, 3-16:0) [lipid particle]	t_1774	c_09
+s_3057	diglyceride (1-18:1, 2-18:1) [lipid particle]	t_1767	c_09
+s_3058	triglyceride (1-18:1, 2-18:1, 3-16:0) [lipid particle]	t_1775	c_09
+s_3059	triglyceride (1-16:0, 2-16:1, 3-16:1) [lipid particle]	t_1776	c_09
+s_3060	triglyceride (1-16:0, 2-18:1, 3-16:1) [lipid particle]	t_1777	c_09
+s_3061	triglyceride (1-16:1, 2-16:1, 3-16:1) [lipid particle]	t_1778	c_09
+s_3062	triglyceride (1-16:1, 2-18:1, 3-16:1) [lipid particle]	t_1779	c_09
+s_3063	triglyceride (1-18:0, 2-16:1, 3-16:1) [lipid particle]	t_1780	c_09
+s_3064	triglyceride (1-18:0, 2-18:1, 3-16:1) [lipid particle]	t_1781	c_09
+s_3065	triglyceride (1-18:1, 2-16:1, 3-16:1) [lipid particle]	t_1782	c_09
+s_3066	triglyceride (1-18:1, 2-18:1, 3-16:1) [lipid particle]	t_1783	c_09
+s_3067	triglyceride (1-16:0, 2-16:1, 3-18:0) [lipid particle]	t_1784	c_09
+s_3068	triglyceride (1-16:0, 2-18:1, 3-18:0) [lipid particle]	t_1785	c_09
+s_3069	triglyceride (1-16:1, 2-16:1, 3-18:0) [lipid particle]	t_1786	c_09
+s_3070	triglyceride (1-16:1, 2-18:1, 3-18:0) [lipid particle]	t_1787	c_09
+s_3071	triglyceride (1-18:0, 2-16:1, 3-18:0) [lipid particle]	t_1788	c_09
+s_3072	triglyceride (1-18:0, 2-18:1, 3-18:0) [lipid particle]	t_1789	c_09
+s_3073	triglyceride (1-18:1, 2-16:1, 3-18:0) [lipid particle]	t_1790	c_09
+s_3074	triglyceride (1-18:1, 2-18:1, 3-18:0) [lipid particle]	t_1791	c_09
+s_3075	triglyceride (1-16:0, 2-16:1, 3-18:1) [lipid particle]	t_1792	c_09
+s_3076	triglyceride (1-16:0, 2-18:1, 3-18:1) [lipid particle]	t_1793	c_09
+s_3077	triglyceride (1-16:1, 2-16:1, 3-18:1) [lipid particle]	t_1794	c_09
+s_3078	triglyceride (1-16:1, 2-18:1, 3-18:1) [lipid particle]	t_1795	c_09
+s_3079	triglyceride (1-18:0, 2-16:1, 3-18:1) [lipid particle]	t_1796	c_09
+s_3080	triglyceride (1-18:0, 2-18:1, 3-18:1) [lipid particle]	t_1797	c_09
+s_3081	triglyceride (1-18:1, 2-16:1, 3-18:1) [lipid particle]	t_1798	c_09
+s_3082	triglyceride (1-18:1, 2-18:1, 3-18:1) [lipid particle]	t_1799	c_09
+s_3083	CTP [endoplasmic reticulum membrane]	t_0281	c_05
+s_3084	CDP-diacylglycerol (1-16:0, 2-16:1) [endoplasmic reticulum membrane]	t_1800	c_05
+e_1012	CDS1 [endoplasmic reticulum membrane]	t_0816	c_05
+s_3085	CDP-diacylglycerol (1-16:1, 2-16:1) [endoplasmic reticulum membrane]	t_1801	c_05
+s_3086	CDP-diacylglycerol (1-18:0, 2-16:1) [endoplasmic reticulum membrane]	t_1802	c_05
+s_3087	CDP-diacylglycerol (1-18:1, 2-16:1) [endoplasmic reticulum membrane]	t_1803	c_05
+s_3088	CDP-diacylglycerol (1-16:0, 2-18:1) [endoplasmic reticulum membrane]	t_1804	c_05
+s_3089	CDP-diacylglycerol (1-16:1, 2-18:1) [endoplasmic reticulum membrane]	t_1805	c_05
+s_3090	CDP-diacylglycerol (1-18:0, 2-18:1) [endoplasmic reticulum membrane]	t_1806	c_05
+s_3091	CDP-diacylglycerol (1-18:1, 2-18:1) [endoplasmic reticulum membrane]	t_1807	c_05
+s_3092	phosphatidate (1-16:0, 2-16:1) [mitochondrial membrane]	t_1751	c_10
+s_3093	CTP [mitochondrial membrane]	t_0281	c_10
+s_3094	H+ [mitochondrial membrane]	t_0398	c_10
+s_3095	diphosphate [mitochondrial membrane]	t_0332	c_10
+s_3096	CDP-diacylglycerol (1-16:0, 2-16:1) [mitochondrial membrane]	t_1800	c_10
+e_1013	CDS1 [mitochondrial membrane]	t_0816	c_10
+s_3097	phosphatidate (1-16:1, 2-16:1) [mitochondrial membrane]	t_1753	c_10
+s_3098	CDP-diacylglycerol (1-16:1, 2-16:1) [mitochondrial membrane]	t_1801	c_10
+s_3099	phosphatidate (1-18:0, 2-16:1) [mitochondrial membrane]	t_1755	c_10
+s_3100	CDP-diacylglycerol (1-18:0, 2-16:1) [mitochondrial membrane]	t_1802	c_10
+s_3101	phosphatidate (1-18:1, 2-16:1) [mitochondrial membrane]	t_1757	c_10
+s_3102	CDP-diacylglycerol (1-18:1, 2-16:1) [mitochondrial membrane]	t_1803	c_10
+s_3103	phosphatidate (1-16:0, 2-18:1) [mitochondrial membrane]	t_1752	c_10
+s_3104	CDP-diacylglycerol (1-16:0, 2-18:1) [mitochondrial membrane]	t_1804	c_10
+s_3105	phosphatidate (1-16:1, 2-18:1) [mitochondrial membrane]	t_1754	c_10
+s_3106	CDP-diacylglycerol (1-16:1, 2-18:1) [mitochondrial membrane]	t_1805	c_10
+s_3107	L-serine [endoplasmic reticulum membrane]	t_0497	c_05
+s_3108	CMP [endoplasmic reticulum membrane]	t_0277	c_05
+s_3109	phosphatidyl-L-serine (1-16:0, 2-16:1) [endoplasmic reticulum membrane]	t_1808	c_05
+e_1014	CHO1 [endoplasmic reticulum membrane]	t_1030	c_05
+s_3110	phosphatidyl-L-serine (1-16:1, 2-16:1) [endoplasmic reticulum membrane]	t_1809	c_05
+s_3111	phosphatidyl-L-serine (1-18:0, 2-16:1) [endoplasmic reticulum membrane]	t_1810	c_05
+s_3112	phosphatidyl-L-serine (1-18:1, 2-16:1) [endoplasmic reticulum membrane]	t_1811	c_05
+s_3113	phosphatidyl-L-serine (1-16:0, 2-18:1) [endoplasmic reticulum membrane]	t_1812	c_05
+s_3114	phosphatidyl-L-serine (1-16:1, 2-18:1) [endoplasmic reticulum membrane]	t_1813	c_05
+s_3115	phosphatidyl-L-serine (1-18:0, 2-18:1) [endoplasmic reticulum membrane]	t_1814	c_05
+s_3116	phosphatidyl-L-serine (1-18:1, 2-18:1) [endoplasmic reticulum membrane]	t_1815	c_05
+s_3117	myo-inositol [endoplasmic reticulum membrane]	t_0537	c_05
+s_3118	1-phosphatidyl-1D-myo-inositol (1-16:0, 2-16:1) [endoplasmic reticulum membrane]	t_1816	c_05
+e_1015	PIS1 [endoplasmic reticulum membrane]	t_1656	c_05
+s_3119	1-phosphatidyl-1D-myo-inositol (1-16:1, 2-16:1) [endoplasmic reticulum membrane]	t_1817	c_05
+s_3120	1-phosphatidyl-1D-myo-inositol (1-18:0, 2-16:1) [endoplasmic reticulum membrane]	t_1818	c_05
+s_3121	1-phosphatidyl-1D-myo-inositol (1-18:1, 2-16:1) [endoplasmic reticulum membrane]	t_1819	c_05
+s_3122	1-phosphatidyl-1D-myo-inositol (1-16:0, 2-18:1) [endoplasmic reticulum membrane]	t_1820	c_05
+s_3123	1-phosphatidyl-1D-myo-inositol (1-16:1, 2-18:1) [endoplasmic reticulum membrane]	t_1821	c_05
+s_3124	1-phosphatidyl-1D-myo-inositol (1-18:0, 2-18:1) [endoplasmic reticulum membrane]	t_1822	c_05
+s_3125	1-phosphatidyl-1D-myo-inositol (1-18:1, 2-18:1) [endoplasmic reticulum membrane]	t_1823	c_05
+s_3126	sn-2-acyl-1-lysophosphatidylinositol (16:1) [endoplasmic reticulum membrane]	t_1824	c_05
+e_1016	CST26 [endoplasmic reticulum membrane]	t_1825	c_05
+s_3127	sn-2-acyl-1-lysophosphatidylinositol (18:1) [endoplasmic reticulum membrane]	t_1826	c_05
+s_3128	phosphatidyl-L-serine (1-16:0, 2-16:1) [mitochondrial membrane]	t_1808	c_10
+s_3129	carbon dioxide [mitochondrial membrane]	t_0249	c_10
+s_3130	phosphatidylethanolamine (1-16:0, 2-16:1) [mitochondrial membrane]	t_1827	c_10
+e_1017	PSD1 [mitochondrial membrane]	t_1495	c_10
+s_3131	phosphatidyl-L-serine (1-16:1, 2-16:1) [mitochondrial membrane]	t_1809	c_10
+s_3132	phosphatidylethanolamine (1-16:1, 2-16:1) [mitochondrial membrane]	t_1828	c_10
+s_3133	phosphatidyl-L-serine (1-18:0, 2-16:1) [mitochondrial membrane]	t_1810	c_10
+s_3134	phosphatidylethanolamine (1-18:0, 2-16:1) [mitochondrial membrane]	t_1829	c_10
+s_3135	phosphatidyl-L-serine (1-18:1, 2-16:1) [mitochondrial membrane]	t_1811	c_10
+s_3136	phosphatidylethanolamine (1-18:1, 2-16:1) [mitochondrial membrane]	t_1830	c_10
+s_3137	phosphatidyl-L-serine (1-16:0, 2-18:1) [mitochondrial membrane]	t_1812	c_10
+s_3138	phosphatidylethanolamine (1-16:0, 2-18:1) [mitochondrial membrane]	t_1831	c_10
+s_3139	phosphatidyl-L-serine (1-16:1, 2-18:1) [mitochondrial membrane]	t_1813	c_10
+s_3140	phosphatidylethanolamine (1-16:1, 2-18:1) [mitochondrial membrane]	t_1832	c_10
+s_3141	phosphatidyl-L-serine (1-18:0, 2-18:1) [mitochondrial membrane]	t_1814	c_10
+s_3142	phosphatidylethanolamine (1-18:0, 2-18:1) [mitochondrial membrane]	t_1833	c_10
+s_3143	phosphatidyl-L-serine (1-18:1, 2-18:1) [mitochondrial membrane]	t_1815	c_10
+s_3144	phosphatidylethanolamine (1-18:1, 2-18:1) [mitochondrial membrane]	t_1834	c_10
+s_3145	phosphatidyl-L-serine (1-16:0, 2-16:1) [Golgi membrane]	t_1808	c_08
+s_3146	H+ [Golgi membrane]	t_0398	c_08
+s_3147	carbon dioxide [Golgi membrane]	t_0249	c_08
+s_3148	phosphatidylethanolamine (1-16:0, 2-16:1) [Golgi membrane]	t_1827	c_08
+e_1018	PSD2 [Golgi membrane]	t_1126	c_08
+s_3149	phosphatidyl-L-serine (1-16:1, 2-16:1) [Golgi membrane]	t_1809	c_08
+s_3150	phosphatidylethanolamine (1-16:1, 2-16:1) [Golgi membrane]	t_1828	c_08
+s_3151	phosphatidyl-L-serine (1-18:0, 2-16:1) [Golgi membrane]	t_1810	c_08
+s_3152	phosphatidylethanolamine (1-18:0, 2-16:1) [Golgi membrane]	t_1829	c_08
+s_3153	phosphatidyl-L-serine (1-18:1, 2-16:1) [Golgi membrane]	t_1811	c_08
+s_3154	phosphatidylethanolamine (1-18:1, 2-16:1) [Golgi membrane]	t_1830	c_08
+s_3155	phosphatidyl-L-serine (1-16:0, 2-18:1) [Golgi membrane]	t_1812	c_08
+s_3156	phosphatidylethanolamine (1-16:0, 2-18:1) [Golgi membrane]	t_1831	c_08
+s_3157	phosphatidyl-L-serine (1-16:1, 2-18:1) [Golgi membrane]	t_1813	c_08
+s_3158	phosphatidylethanolamine (1-16:1, 2-18:1) [Golgi membrane]	t_1832	c_08
+s_3159	phosphatidyl-L-serine (1-18:0, 2-18:1) [Golgi membrane]	t_1814	c_08
+s_3160	phosphatidylethanolamine (1-18:0, 2-18:1) [Golgi membrane]	t_1833	c_08
+s_3161	phosphatidyl-L-serine (1-18:1, 2-18:1) [Golgi membrane]	t_1815	c_08
+s_3162	phosphatidylethanolamine (1-18:1, 2-18:1) [Golgi membrane]	t_1834	c_08
+s_3163	phosphatidyl-L-serine (1-16:0, 2-16:1) [vacuolar membrane]	t_1808	c_16
+s_3164	H+ [vacuolar membrane]	t_0398	c_16
+s_3165	carbon dioxide [vacuolar membrane]	t_0249	c_16
+s_3166	phosphatidylethanolamine (1-16:0, 2-16:1) [vacuolar membrane]	t_1827	c_16
+e_1019	PSD2 [vacuolar membrane]	t_1126	c_16
+s_3167	phosphatidyl-L-serine (1-16:1, 2-16:1) [vacuolar membrane]	t_1809	c_16
+s_3168	phosphatidylethanolamine (1-16:1, 2-16:1) [vacuolar membrane]	t_1828	c_16
+s_3169	phosphatidyl-L-serine (1-18:0, 2-16:1) [vacuolar membrane]	t_1810	c_16
+s_3170	phosphatidylethanolamine (1-18:0, 2-16:1) [vacuolar membrane]	t_1829	c_16
+s_3171	phosphatidyl-L-serine (1-18:1, 2-16:1) [vacuolar membrane]	t_1811	c_16
+s_3172	phosphatidylethanolamine (1-18:1, 2-16:1) [vacuolar membrane]	t_1830	c_16
+s_3173	phosphatidyl-L-serine (1-16:0, 2-18:1) [vacuolar membrane]	t_1812	c_16
+s_3174	phosphatidylethanolamine (1-16:0, 2-18:1) [vacuolar membrane]	t_1831	c_16
+s_3175	phosphatidyl-L-serine (1-16:1, 2-18:1) [vacuolar membrane]	t_1813	c_16
+s_3176	phosphatidylethanolamine (1-16:1, 2-18:1) [vacuolar membrane]	t_1832	c_16
+s_3177	phosphatidyl-L-serine (1-18:0, 2-18:1) [vacuolar membrane]	t_1814	c_16
+s_3178	phosphatidylethanolamine (1-18:0, 2-18:1) [vacuolar membrane]	t_1833	c_16
+s_3179	phosphatidyl-L-serine (1-18:1, 2-18:1) [vacuolar membrane]	t_1815	c_16
+s_3180	phosphatidylethanolamine (1-18:1, 2-18:1) [vacuolar membrane]	t_1834	c_16
+s_3181	phosphatidylethanolamine (1-16:0, 2-16:1) [endoplasmic reticulum membrane]	t_1827	c_05
+s_3182	S-adenosyl-L-methionine [endoplasmic reticulum membrane]	t_0652	c_05
+s_3183	S-adenosyl-L-homocysteine [endoplasmic reticulum membrane]	t_0651	c_05
+s_3184	phosphatidyl-N-methylethanolamine (1-16:0, 2-16:1) [endoplasmic reticulum membrane]	t_1835	c_05
+e_1020	CHO2 [endoplasmic reticulum membrane]	t_1125	c_05
+e_1021	OPI3 [endoplasmic reticulum membrane]	t_1266	c_05
+s_3185	phosphatidylethanolamine (1-16:1, 2-16:1) [endoplasmic reticulum membrane]	t_1828	c_05
+s_3186	phosphatidyl-N-methylethanolamine (1-16:1, 2-16:1) [endoplasmic reticulum membrane]	t_1836	c_05
+s_3187	phosphatidylethanolamine (1-18:0, 2-16:1) [endoplasmic reticulum membrane]	t_1829	c_05
+s_3188	phosphatidyl-N-methylethanolamine (1-18:0, 2-16:1) [endoplasmic reticulum membrane]	t_1837	c_05
+s_3189	phosphatidylethanolamine (1-18:1, 2-16:1) [endoplasmic reticulum membrane]	t_1830	c_05
+s_3190	phosphatidyl-N-methylethanolamine (1-18:1, 2-16:1) [endoplasmic reticulum membrane]	t_1838	c_05
+s_3191	phosphatidylethanolamine (1-16:0, 2-18:1) [endoplasmic reticulum membrane]	t_1831	c_05
+s_3192	phosphatidyl-N-methylethanolamine (1-16:0, 2-18:1) [endoplasmic reticulum membrane]	t_1839	c_05
+s_3193	phosphatidylethanolamine (1-16:1, 2-18:1) [endoplasmic reticulum membrane]	t_1832	c_05
+s_3194	phosphatidyl-N-methylethanolamine (1-16:1, 2-18:1) [endoplasmic reticulum membrane]	t_1840	c_05
+s_3195	phosphatidylethanolamine (1-18:0, 2-18:1) [endoplasmic reticulum membrane]	t_1833	c_05
+s_3196	phosphatidyl-N-methylethanolamine (1-18:0, 2-18:1) [endoplasmic reticulum membrane]	t_1841	c_05
+s_3197	phosphatidylethanolamine (1-18:1, 2-18:1) [endoplasmic reticulum membrane]	t_1834	c_05
+s_3198	phosphatidyl-N-methylethanolamine (1-18:1, 2-18:1) [endoplasmic reticulum membrane]	t_1842	c_05
+s_3199	phosphatidyl-N,N-dimethylethanolamine (1-16:0, 2-16:1) [endoplasmic reticulum membrane]	t_1843	c_05
+s_3200	phosphatidyl-N,N-dimethylethanolamine (1-16:1, 2-16:1) [endoplasmic reticulum membrane]	t_1844	c_05
+s_3201	phosphatidyl-N,N-dimethylethanolamine (1-18:0, 2-16:1) [endoplasmic reticulum membrane]	t_1845	c_05
+s_3202	phosphatidyl-N,N-dimethylethanolamine (1-18:1, 2-16:1) [endoplasmic reticulum membrane]	t_1846	c_05
+s_3203	phosphatidyl-N,N-dimethylethanolamine (1-16:0, 2-18:1) [endoplasmic reticulum membrane]	t_1847	c_05
+s_3204	phosphatidyl-N,N-dimethylethanolamine (1-16:1, 2-18:1) [endoplasmic reticulum membrane]	t_1848	c_05
+s_3205	phosphatidyl-N,N-dimethylethanolamine (1-18:0, 2-18:1) [endoplasmic reticulum membrane]	t_1849	c_05
+s_3206	phosphatidyl-N,N-dimethylethanolamine (1-18:1, 2-18:1) [endoplasmic reticulum membrane]	t_1850	c_05
+s_3207	phosphatidylcholine (1-16:0, 2-16:1) [endoplasmic reticulum membrane]	t_1851	c_05
+s_3208	phosphatidylcholine (1-16:1, 2-16:1) [endoplasmic reticulum membrane]	t_1852	c_05
+s_3209	phosphatidylcholine (1-18:0, 2-16:1) [endoplasmic reticulum membrane]	t_1853	c_05
+s_3210	phosphatidylcholine (1-18:1, 2-16:1) [endoplasmic reticulum membrane]	t_1854	c_05
+s_3211	phosphatidylcholine (1-16:0, 2-18:1) [endoplasmic reticulum membrane]	t_1855	c_05
+s_3212	phosphatidylcholine (1-16:1, 2-18:1) [endoplasmic reticulum membrane]	t_1856	c_05
+s_3213	phosphatidylcholine (1-18:0, 2-18:1) [endoplasmic reticulum membrane]	t_1857	c_05
+s_3214	phosphatidylcholine (1-18:1, 2-18:1) [endoplasmic reticulum membrane]	t_1858	c_05
+s_3215	CDP [endoplasmic reticulum membrane]	t_0252	c_05
+e_1022	DGK1 [endoplasmic reticulum membrane]	t_1859	c_05
+s_3216	CDP-ethanolamine [endoplasmic reticulum membrane]	t_0255	c_05
+e_1023	EPT1 [endoplasmic reticulum membrane]	t_1186	c_05
+s_3217	CDP-choline [endoplasmic reticulum membrane]	t_0253	c_05
+e_1024	CPT1 [endoplasmic reticulum membrane]	t_1492	c_05
+s_3218	glycerol 3-phosphate [mitochondrial membrane]	t_0388	c_10
+s_3219	CMP [mitochondrial membrane]	t_0277	c_10
+s_3220	3-(3-sn-phosphatidyl)-sn-glycerol 1-phosphate (1-16:0, 2-16:1) [mitochondrial membrane]	t_1860	c_10
+e_1025	PGS1 [mitochondrial membrane]	t_0867	c_10
+s_3221	3-(3-sn-phosphatidyl)-sn-glycerol 1-phosphate (1-16:1, 2-16:1) [mitochondrial membrane]	t_1861	c_10
+s_3222	3-(3-sn-phosphatidyl)-sn-glycerol 1-phosphate (1-18:0, 2-16:1) [mitochondrial membrane]	t_1862	c_10
+s_3223	3-(3-sn-phosphatidyl)-sn-glycerol 1-phosphate (1-18:1, 2-16:1) [mitochondrial membrane]	t_1863	c_10
+s_3224	3-(3-sn-phosphatidyl)-sn-glycerol 1-phosphate (1-16:0, 2-18:1) [mitochondrial membrane]	t_1864	c_10
+s_3225	3-(3-sn-phosphatidyl)-sn-glycerol 1-phosphate (1-16:1, 2-18:1) [mitochondrial membrane]	t_1865	c_10
+s_3226	H2O [mitochondrial membrane]	t_0399	c_10
+s_3227	phosphatidylglycerol (1-16:0, 2-16:1) [mitochondrial membrane]	t_1866	c_10
+s_3228	phosphate [mitochondrial membrane]	t_0608	c_10
+e_1026	GEP4 [mitochondrial membrane]	t_1867	c_10
+s_3229	phosphatidylglycerol (1-16:1, 2-16:1) [mitochondrial membrane]	t_1868	c_10
+s_3230	phosphatidylglycerol (1-18:0, 2-16:1) [mitochondrial membrane]	t_1869	c_10
+s_3231	phosphatidylglycerol (1-18:1, 2-16:1) [mitochondrial membrane]	t_1870	c_10
+s_3232	phosphatidylglycerol (1-16:0, 2-18:1) [mitochondrial membrane]	t_1871	c_10
+s_3233	phosphatidylglycerol (1-16:1, 2-18:1) [mitochondrial membrane]	t_1872	c_10
+s_3234	cardiolipin (1-16:0, 2-16:1, 3-16:0, 4-16:1) [mitochondrial membrane]	t_1873	c_10
+e_1027	CRD1 [mitochondrial membrane]	t_0913	c_10
+s_3235	cardiolipin (1-16:0, 2-16:1, 3-16:1, 4-16:1) [mitochondrial membrane]	t_1874	c_10
+s_3236	cardiolipin (1-16:0, 2-16:1, 3-18:0, 4-16:1) [mitochondrial membrane]	t_1875	c_10
+s_3237	cardiolipin (1-16:0, 2-16:1, 3-18:1, 4-16:1) [mitochondrial membrane]	t_1876	c_10
+s_3238	cardiolipin (1-16:0, 2-16:1, 3-16:0, 4-18:1) [mitochondrial membrane]	t_1877	c_10
+s_3239	cardiolipin (1-16:0, 2-16:1, 3-16:1, 4-18:1) [mitochondrial membrane]	t_1878	c_10
+s_3240	cardiolipin (1-16:1, 2-16:1, 3-16:0, 4-16:1) [mitochondrial membrane]	t_1879	c_10
+s_3241	cardiolipin (1-16:1, 2-16:1, 3-16:1, 4-16:1) [mitochondrial membrane]	t_1880	c_10
+s_3242	cardiolipin (1-16:1, 2-16:1, 3-18:0, 4-16:1) [mitochondrial membrane]	t_1881	c_10
+s_3243	cardiolipin (1-16:1, 2-16:1, 3-18:1, 4-16:1) [mitochondrial membrane]	t_1882	c_10
+s_3244	cardiolipin (1-16:1, 2-16:1, 3-16:0, 4-18:1) [mitochondrial membrane]	t_1883	c_10
+s_3245	cardiolipin (1-16:1, 2-16:1, 3-16:1, 4-18:1) [mitochondrial membrane]	t_1884	c_10
+s_3246	cardiolipin (1-18:0, 2-16:1, 3-16:0, 4-16:1) [mitochondrial membrane]	t_1885	c_10
+s_3247	cardiolipin (1-18:0, 2-16:1, 3-16:1, 4-16:1) [mitochondrial membrane]	t_1886	c_10
+s_3248	cardiolipin (1-18:0, 2-16:1, 3-18:0, 4-16:1) [mitochondrial membrane]	t_1887	c_10
+s_3249	cardiolipin (1-18:0, 2-16:1, 3-18:1, 4-16:1) [mitochondrial membrane]	t_1888	c_10
+s_3250	cardiolipin (1-18:0, 2-16:1, 3-16:0, 4-18:1) [mitochondrial membrane]	t_1889	c_10
+s_3251	cardiolipin (1-18:0, 2-16:1, 3-16:1, 4-18:1) [mitochondrial membrane]	t_1890	c_10
+s_3252	cardiolipin (1-18:1, 2-16:1, 3-16:0, 4-16:1) [mitochondrial membrane]	t_1891	c_10
+s_3253	cardiolipin (1-18:1, 2-16:1, 3-16:1, 4-16:1) [mitochondrial membrane]	t_1892	c_10
+s_3254	cardiolipin (1-18:1, 2-16:1, 3-18:0, 4-16:1) [mitochondrial membrane]	t_1893	c_10
+s_3255	cardiolipin (1-18:1, 2-16:1, 3-18:1, 4-16:1) [mitochondrial membrane]	t_1894	c_10
+s_3256	cardiolipin (1-18:1, 2-16:1, 3-16:0, 4-18:1) [mitochondrial membrane]	t_1895	c_10
+s_3257	cardiolipin (1-18:1, 2-16:1, 3-16:1, 4-18:1) [mitochondrial membrane]	t_1896	c_10
+s_3258	cardiolipin (1-16:0, 2-18:1, 3-16:0, 4-16:1) [mitochondrial membrane]	t_1897	c_10
+s_3259	cardiolipin (1-16:0, 2-18:1, 3-16:1, 4-16:1) [mitochondrial membrane]	t_1898	c_10
+s_3260	cardiolipin (1-16:0, 2-18:1, 3-18:0, 4-16:1) [mitochondrial membrane]	t_1899	c_10
+s_3261	cardiolipin (1-16:0, 2-18:1, 3-18:1, 4-16:1) [mitochondrial membrane]	t_1900	c_10
+s_3262	cardiolipin (1-16:0, 2-18:1, 3-16:0, 4-18:1) [mitochondrial membrane]	t_1901	c_10
+s_3263	cardiolipin (1-16:0, 2-18:1, 3-16:1, 4-18:1) [mitochondrial membrane]	t_1902	c_10
+s_3264	cardiolipin (1-16:1, 2-18:1, 3-16:0, 4-16:1) [mitochondrial membrane]	t_1903	c_10
+s_3265	cardiolipin (1-16:1, 2-18:1, 3-16:1, 4-16:1) [mitochondrial membrane]	t_1904	c_10
+s_3266	cardiolipin (1-16:1, 2-18:1, 3-18:0, 4-16:1) [mitochondrial membrane]	t_1905	c_10
+s_3267	cardiolipin (1-16:1, 2-18:1, 3-18:1, 4-16:1) [mitochondrial membrane]	t_1906	c_10
+s_3268	cardiolipin (1-16:1, 2-18:1, 3-16:0, 4-18:1) [mitochondrial membrane]	t_1907	c_10
+s_3269	cardiolipin (1-16:1, 2-18:1, 3-16:1, 4-18:1) [mitochondrial membrane]	t_1908	c_10
+s_3270	monolysocardiolipin (2-16:1, 3-16:0, 4-16:1) [mitochondrial membrane]	t_1909	c_10
+s_3271	palmitate [mitochondrial membrane]	t_0595	c_10
+e_1028	CLD1 [mitochondrial membrane]	t_1910	c_10
+s_3272	monolysocardiolipin (2-16:1, 3-16:1, 4-16:1) [mitochondrial membrane]	t_1911	c_10
+s_3273	monolysocardiolipin (2-16:1, 3-18:0, 4-16:1) [mitochondrial membrane]	t_1912	c_10
+s_3274	monolysocardiolipin (2-16:1, 3-18:1, 4-16:1) [mitochondrial membrane]	t_1913	c_10
+s_3275	monolysocardiolipin (2-16:1, 3-16:0, 4-18:1) [mitochondrial membrane]	t_1914	c_10
+s_3276	monolysocardiolipin (2-16:1, 3-16:1, 4-18:1) [mitochondrial membrane]	t_1915	c_10
+s_3277	stearate [mitochondrial membrane]	t_0671	c_10
+s_3278	monolysocardiolipin (2-18:1, 3-16:0, 4-16:1) [mitochondrial membrane]	t_1916	c_10
+s_3279	monolysocardiolipin (2-18:1, 3-16:1, 4-16:1) [mitochondrial membrane]	t_1917	c_10
+s_3280	monolysocardiolipin (2-18:1, 3-18:0, 4-16:1) [mitochondrial membrane]	t_1918	c_10
+s_3281	monolysocardiolipin (2-18:1, 3-18:1, 4-16:1) [mitochondrial membrane]	t_1919	c_10
+s_3282	monolysocardiolipin (2-18:1, 3-16:0, 4-18:1) [mitochondrial membrane]	t_1920	c_10
+s_3283	monolysocardiolipin (2-18:1, 3-16:1, 4-18:1) [mitochondrial membrane]	t_1921	c_10
+s_3284	monolysocardiolipin (1-16:0, 2-16:1, 4-16:1) [mitochondrial membrane]	t_1922	c_10
+s_3285	monolysocardiolipin (1-16:0, 2-16:1, 4-18:1) [mitochondrial membrane]	t_1923	c_10
+s_3286	monolysocardiolipin (1-16:1, 2-16:1, 4-16:1) [mitochondrial membrane]	t_1924	c_10
+s_3287	monolysocardiolipin (1-16:1, 2-16:1, 4-18:1) [mitochondrial membrane]	t_1925	c_10
+s_3288	monolysocardiolipin (1-18:0, 2-16:1, 4-16:1) [mitochondrial membrane]	t_1926	c_10
+s_3289	monolysocardiolipin (1-18:0, 2-16:1, 4-18:1) [mitochondrial membrane]	t_1927	c_10
+s_3290	monolysocardiolipin (1-18:1, 2-16:1, 4-16:1) [mitochondrial membrane]	t_1928	c_10
+s_3291	monolysocardiolipin (1-18:1, 2-16:1, 4-18:1) [mitochondrial membrane]	t_1929	c_10
+s_3292	monolysocardiolipin (1-16:0, 2-18:1, 4-16:1) [mitochondrial membrane]	t_1930	c_10
+s_3293	monolysocardiolipin (1-16:0, 2-18:1, 4-18:1) [mitochondrial membrane]	t_1931	c_10
+s_3294	monolysocardiolipin (1-16:1, 2-18:1, 4-16:1) [mitochondrial membrane]	t_1932	c_10
+s_3295	monolysocardiolipin (1-16:1, 2-18:1, 4-18:1) [mitochondrial membrane]	t_1933	c_10
+s_3296	phosphatidylcholine (1-16:0, 2-16:1) [mitochondrial membrane]	t_1851	c_10
+s_3297	1-acylglycerophosphocholine (16:0) [mitochondrial membrane]	t_1934	c_10
+e_1029	TAZ1 [mitochondrial membrane]	t_1660	c_10
+s_3298	phosphatidylcholine (1-16:1, 2-16:1) [mitochondrial membrane]	t_1852	c_10
+s_3299	1-acylglycerophosphocholine (16:1) [mitochondrial membrane]	t_1935	c_10
+s_3300	phosphatidylcholine (1-18:0, 2-16:1) [mitochondrial membrane]	t_1853	c_10
+s_3301	1-acylglycerophosphocholine (18:0) [mitochondrial membrane]	t_1936	c_10
+s_3302	phosphatidylcholine (1-18:1, 2-16:1) [mitochondrial membrane]	t_1854	c_10
+s_3303	1-acylglycerophosphocholine (18:1) [mitochondrial membrane]	t_1937	c_10
+s_3304	phosphatidylcholine (1-16:0, 2-18:1) [mitochondrial membrane]	t_1855	c_10
+s_3305	phosphatidylcholine (1-16:1, 2-18:1) [mitochondrial membrane]	t_1856	c_10
+s_3306	phosphatidylcholine (1-18:0, 2-18:1) [mitochondrial membrane]	t_1857	c_10
+s_3307	phosphatidylcholine (1-18:1, 2-18:1) [mitochondrial membrane]	t_1858	c_10
+s_3308	cardiolipin (1-18:1, 2-18:1, 3-16:0, 4-16:1) [mitochondrial membrane]	t_1938	c_10
+s_3309	cardiolipin (1-18:1, 2-18:1, 3-16:1, 4-16:1) [mitochondrial membrane]	t_1939	c_10
+s_3310	cardiolipin (1-18:1, 2-18:1, 3-18:0, 4-16:1) [mitochondrial membrane]	t_1940	c_10
+s_3311	cardiolipin (1-18:1, 2-18:1, 3-18:1, 4-16:1) [mitochondrial membrane]	t_1941	c_10
+s_3312	cardiolipin (1-18:1, 2-18:1, 3-16:0, 4-18:1) [mitochondrial membrane]	t_1942	c_10
+s_3313	cardiolipin (1-18:1, 2-18:1, 3-16:1, 4-18:1) [mitochondrial membrane]	t_1943	c_10
+s_3314	cardiolipin (1-16:0, 2-16:1, 3-18:1, 4-18:1) [mitochondrial membrane]	t_1944	c_10
+s_3315	cardiolipin (1-16:1, 2-16:1, 3-18:1, 4-18:1) [mitochondrial membrane]	t_1945	c_10
+s_3316	cardiolipin (1-18:0, 2-16:1, 3-18:1, 4-18:1) [mitochondrial membrane]	t_1946	c_10
+s_3317	cardiolipin (1-18:1, 2-16:1, 3-18:1, 4-18:1) [mitochondrial membrane]	t_1947	c_10
+s_3318	cardiolipin (1-16:0, 2-18:1, 3-18:1, 4-18:1) [mitochondrial membrane]	t_1948	c_10
+s_3319	cardiolipin (1-16:1, 2-18:1, 3-18:1, 4-18:1) [mitochondrial membrane]	t_1949	c_10
+s_3320	palmitoleoyl-CoA [mitochondrial membrane]	t_0597	c_10
+s_3321	coenzyme A [mitochondrial membrane]	t_0278	c_10
+s_3322	oleoyl-CoA [mitochondrial membrane]	t_0586	c_10
+s_3323	1-phosphatidyl-1D-myo-inositol (1-16:0, 2-16:1) [cell envelope]	t_1816	c_02
+s_3324	ADP [cell envelope]	t_0219	c_02
+s_3325	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-16:0, 2-16:1) [cell envelope]	t_1950	c_02
+s_3326	1-phosphatidyl-1D-myo-inositol (1-16:1, 2-16:1) [cell envelope]	t_1817	c_02
+s_3327	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-16:1, 2-16:1) [cell envelope]	t_1951	c_02
+s_3328	1-phosphatidyl-1D-myo-inositol (1-18:0, 2-16:1) [cell envelope]	t_1818	c_02
+s_3329	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-18:0, 2-16:1) [cell envelope]	t_1952	c_02
+s_3330	1-phosphatidyl-1D-myo-inositol (1-18:1, 2-16:1) [cell envelope]	t_1819	c_02
+s_3331	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-18:1, 2-16:1) [cell envelope]	t_1953	c_02
+s_3332	1-phosphatidyl-1D-myo-inositol (1-16:0, 2-18:1) [cell envelope]	t_1820	c_02
+s_3333	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-16:0, 2-18:1) [cell envelope]	t_1954	c_02
+s_3334	1-phosphatidyl-1D-myo-inositol (1-16:1, 2-18:1) [cell envelope]	t_1821	c_02
+s_3335	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-16:1, 2-18:1) [cell envelope]	t_1955	c_02
+s_3336	1-phosphatidyl-1D-myo-inositol (1-18:0, 2-18:1) [cell envelope]	t_1822	c_02
+s_3337	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-18:0, 2-18:1) [cell envelope]	t_1956	c_02
+s_3338	1-phosphatidyl-1D-myo-inositol (1-18:1, 2-18:1) [cell envelope]	t_1823	c_02
+s_3339	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-18:1, 2-18:1) [cell envelope]	t_1957	c_02
+s_3340	1-phosphatidyl-1D-myo-inositol (1-16:0, 2-16:1) [vacuolar membrane]	t_1816	c_16
+s_3341	ATP [vacuolar membrane]	t_0239	c_16
+s_3342	ADP [vacuolar membrane]	t_0219	c_16
+s_3343	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-16:0, 2-16:1) [vacuolar membrane]	t_1950	c_16
+e_1030	LSB6 [vacuolar membrane]	t_1236	c_16
+s_3344	1-phosphatidyl-1D-myo-inositol (1-16:1, 2-16:1) [vacuolar membrane]	t_1817	c_16
+s_3345	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-16:1, 2-16:1) [vacuolar membrane]	t_1951	c_16
+s_3346	1-phosphatidyl-1D-myo-inositol (1-18:0, 2-16:1) [vacuolar membrane]	t_1818	c_16
+s_3347	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-18:0, 2-16:1) [vacuolar membrane]	t_1952	c_16
+s_3348	1-phosphatidyl-1D-myo-inositol (1-18:1, 2-16:1) [vacuolar membrane]	t_1819	c_16
+s_3349	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-18:1, 2-16:1) [vacuolar membrane]	t_1953	c_16
+s_3350	1-phosphatidyl-1D-myo-inositol (1-16:0, 2-18:1) [vacuolar membrane]	t_1820	c_16
+s_3351	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-16:0, 2-18:1) [vacuolar membrane]	t_1954	c_16
+s_3352	1-phosphatidyl-1D-myo-inositol (1-16:1, 2-18:1) [vacuolar membrane]	t_1821	c_16
+s_3353	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-16:1, 2-18:1) [vacuolar membrane]	t_1955	c_16
+s_3354	1-phosphatidyl-1D-myo-inositol (1-18:0, 2-18:1) [vacuolar membrane]	t_1822	c_16
+s_3355	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-18:0, 2-18:1) [vacuolar membrane]	t_1956	c_16
+s_3356	1-phosphatidyl-1D-myo-inositol (1-18:1, 2-18:1) [vacuolar membrane]	t_1823	c_16
+s_3357	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-18:1, 2-18:1) [vacuolar membrane]	t_1957	c_16
+s_3358	1-phosphatidyl-1D-myo-inositol (1-16:0, 2-16:1) [Golgi membrane]	t_1816	c_08
+s_3359	ATP [Golgi membrane]	t_0239	c_08
+s_3360	ADP [Golgi membrane]	t_0219	c_08
+s_3361	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-16:0, 2-16:1) [Golgi membrane]	t_1950	c_08
+e_1031	FRQ1 [Golgi membrane]	t_1958	c_08
+e_1032	PIK1 [Golgi membrane]	t_1502	c_08
+s_3362	1-phosphatidyl-1D-myo-inositol (1-16:1, 2-16:1) [Golgi membrane]	t_1817	c_08
+s_3363	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-16:1, 2-16:1) [Golgi membrane]	t_1951	c_08
+s_3364	1-phosphatidyl-1D-myo-inositol (1-18:0, 2-16:1) [Golgi membrane]	t_1818	c_08
+s_3365	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-18:0, 2-16:1) [Golgi membrane]	t_1952	c_08
+s_3366	1-phosphatidyl-1D-myo-inositol (1-18:1, 2-16:1) [Golgi membrane]	t_1819	c_08
+s_3367	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-18:1, 2-16:1) [Golgi membrane]	t_1953	c_08
+s_3368	1-phosphatidyl-1D-myo-inositol (1-16:0, 2-18:1) [Golgi membrane]	t_1820	c_08
+s_3369	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-16:0, 2-18:1) [Golgi membrane]	t_1954	c_08
+s_3370	1-phosphatidyl-1D-myo-inositol (1-16:1, 2-18:1) [Golgi membrane]	t_1821	c_08
+s_3371	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-16:1, 2-18:1) [Golgi membrane]	t_1955	c_08
+s_3372	1-phosphatidyl-1D-myo-inositol (1-18:0, 2-18:1) [Golgi membrane]	t_1822	c_08
+s_3373	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-18:0, 2-18:1) [Golgi membrane]	t_1956	c_08
+s_3374	1-phosphatidyl-1D-myo-inositol (1-18:1, 2-18:1) [Golgi membrane]	t_1823	c_08
+s_3375	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-18:1, 2-18:1) [Golgi membrane]	t_1957	c_08
+s_3376	1-phosphatidyl-1D-myo-inositol (1-16:0, 2-16:1) [nucleus]	t_1816	c_13
+s_3377	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-16:0, 2-16:1) [nucleus]	t_1950	c_13
+s_3378	1-phosphatidyl-1D-myo-inositol (1-16:1, 2-16:1) [nucleus]	t_1817	c_13
+s_3379	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-16:1, 2-16:1) [nucleus]	t_1951	c_13
+s_3380	1-phosphatidyl-1D-myo-inositol (1-18:0, 2-16:1) [nucleus]	t_1818	c_13
+s_3381	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-18:0, 2-16:1) [nucleus]	t_1952	c_13
+s_3382	1-phosphatidyl-1D-myo-inositol (1-18:1, 2-16:1) [nucleus]	t_1819	c_13
+s_3383	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-18:1, 2-16:1) [nucleus]	t_1953	c_13
+s_3384	1-phosphatidyl-1D-myo-inositol (1-16:0, 2-18:1) [nucleus]	t_1820	c_13
+s_3385	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-16:0, 2-18:1) [nucleus]	t_1954	c_13
+s_3386	1-phosphatidyl-1D-myo-inositol (1-16:1, 2-18:1) [nucleus]	t_1821	c_13
+s_3387	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-16:1, 2-18:1) [nucleus]	t_1955	c_13
+s_3388	1-phosphatidyl-1D-myo-inositol (1-18:0, 2-18:1) [nucleus]	t_1822	c_13
+s_3389	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-18:0, 2-18:1) [nucleus]	t_1956	c_13
+s_3390	1-phosphatidyl-1D-myo-inositol (1-18:1, 2-18:1) [nucleus]	t_1823	c_13
+s_3391	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-18:1, 2-18:1) [nucleus]	t_1957	c_13
+s_3392	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-16:0, 2-16:1) [vacuolar membrane]	t_1959	c_16
+e_1033	VPS15 [vacuolar membrane]	t_1960	c_16
+s_3393	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-16:1, 2-16:1) [vacuolar membrane]	t_1961	c_16
+s_3394	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-18:0, 2-16:1) [vacuolar membrane]	t_1962	c_16
+s_3395	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-18:1, 2-16:1) [vacuolar membrane]	t_1963	c_16
+s_3396	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-16:0, 2-18:1) [vacuolar membrane]	t_1964	c_16
+s_3397	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-16:1, 2-18:1) [vacuolar membrane]	t_1965	c_16
+s_3398	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-18:0, 2-18:1) [vacuolar membrane]	t_1966	c_16
+s_3399	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-18:1, 2-18:1) [vacuolar membrane]	t_1967	c_16
+s_3400	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate (1-16:0, 2-16:1) [nucleus]	t_1968	c_13
+s_3401	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate (1-16:1, 2-16:1) [nucleus]	t_1969	c_13
+s_3402	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate (1-18:0, 2-16:1) [nucleus]	t_1970	c_13
+s_3403	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate (1-18:1, 2-16:1) [nucleus]	t_1971	c_13
+s_3404	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate (1-16:0, 2-18:1) [nucleus]	t_1972	c_13
+s_3405	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate (1-16:1, 2-18:1) [nucleus]	t_1973	c_13
+s_3406	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate (1-18:0, 2-18:1) [nucleus]	t_1974	c_13
+s_3407	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate (1-18:1, 2-18:1) [nucleus]	t_1975	c_13
+s_3408	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate (1-16:0, 2-16:1) [cell envelope]	t_1968	c_02
+s_3409	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate (1-16:1, 2-16:1) [cell envelope]	t_1969	c_02
+s_3410	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate (1-18:0, 2-16:1) [cell envelope]	t_1970	c_02
+s_3411	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate (1-18:1, 2-16:1) [cell envelope]	t_1971	c_02
+s_3412	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate (1-16:0, 2-18:1) [cell envelope]	t_1972	c_02
+s_3413	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate (1-16:1, 2-18:1) [cell envelope]	t_1973	c_02
+s_3414	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate (1-18:0, 2-18:1) [cell envelope]	t_1974	c_02
+s_3415	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate (1-18:1, 2-18:1) [cell envelope]	t_1975	c_02
+s_3416	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate (1-16:0, 2-16:1) [vacuolar membrane]	t_1976	c_16
+e_1034	FAB1 [vacuolar membrane]	t_1068	c_16
+s_3417	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate (1-16:1, 2-16:1) [vacuolar membrane]	t_1977	c_16
+s_3418	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate (1-18:0, 2-16:1) [vacuolar membrane]	t_1978	c_16
+s_3419	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate (1-18:1, 2-16:1) [vacuolar membrane]	t_1979	c_16
+s_3420	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate (1-16:0, 2-18:1) [vacuolar membrane]	t_1980	c_16
+s_3421	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate (1-16:1, 2-18:1) [vacuolar membrane]	t_1981	c_16
+s_3422	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate (1-18:0, 2-18:1) [vacuolar membrane]	t_1982	c_16
+s_3423	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate (1-18:1, 2-18:1) [vacuolar membrane]	t_1983	c_16
+s_3424	1-acylglycerophosphoethanolamine (16:0) [endoplasmic reticulum membrane]	t_1984	c_05
+e_1035	LRO1 [endoplasmic reticulum membrane]	t_1985	c_05
+s_3425	1-acylglycerophosphoethanolamine (16:1) [endoplasmic reticulum membrane]	t_1986	c_05
+s_3426	1-acylglycerophosphoethanolamine (18:0) [endoplasmic reticulum membrane]	t_1987	c_05
+s_3427	1-acylglycerophosphoethanolamine (18:1) [endoplasmic reticulum membrane]	t_1988	c_05
+s_3428	1-acylglycerophosphocholine (16:0) [endoplasmic reticulum membrane]	t_1934	c_05
+s_3429	1-acylglycerophosphocholine (16:1) [endoplasmic reticulum membrane]	t_1935	c_05
+s_3430	1-acylglycerophosphocholine (18:0) [endoplasmic reticulum membrane]	t_1936	c_05
+s_3431	1-acylglycerophosphocholine (18:1) [endoplasmic reticulum membrane]	t_1937	c_05
+s_3432	episterol [endoplasmic reticulum membrane]	t_0345	c_05
+s_3433	episteryl oleate [endoplasmic reticulum membrane]	t_0346	c_05
+s_3434	episteryl palmitoleate [endoplasmic reticulum membrane]	t_0347	c_05
+s_3435	fecosterol [endoplasmic reticulum membrane]	t_0362	c_05
+s_3436	fecosteryl oleate [endoplasmic reticulum membrane]	t_0364	c_05
+s_3437	fecosteryl palmitoleate [endoplasmic reticulum membrane]	t_0365	c_05
+s_3438	lanosterol [endoplasmic reticulum membrane]	t_0503	c_05
+s_3439	lanosteryl oleate [endoplasmic reticulum membrane]	t_0504	c_05
+s_3440	lanosteryl palmitoleate [endoplasmic reticulum membrane]	t_0505	c_05
+s_3441	ergosterol [endoplasmic reticulum membrane]	t_0350	c_05
+s_3442	ergosteryl oleate [endoplasmic reticulum membrane]	t_0353	c_05
+s_3443	ergosteryl palmitoleate [endoplasmic reticulum membrane]	t_0354	c_05
+s_3444	zymosterol [endoplasmic reticulum membrane]	t_0727	c_05
+s_3445	zymosteryl oleate [endoplasmic reticulum membrane]	t_0733	c_05
+s_3446	zymosteryl palmitoleate [endoplasmic reticulum membrane]	t_0734	c_05
+e_1036	NTE1 [endoplasmic reticulum membrane]	t_1419	c_05
+s_3447	sn-glycero-3-phosphocholine [endoplasmic reticulum membrane]	t_0664	c_05
+s_3448	phosphatidylcholine (1-16:0, 2-16:1) [cell envelope]	t_1851	c_02
+s_3449	H2O [cell envelope]	t_0399	c_02
+s_3450	1-acylglycerophosphocholine (16:0) [cell envelope]	t_1934	c_02
+s_3451	palmitoleate [cell envelope]	t_0596	c_02
+s_3452	phosphatidylcholine (1-16:1, 2-16:1) [cell envelope]	t_1852	c_02
+s_3453	1-acylglycerophosphocholine (16:1) [cell envelope]	t_1935	c_02
+s_3454	phosphatidylcholine (1-18:0, 2-16:1) [cell envelope]	t_1853	c_02
+s_3455	1-acylglycerophosphocholine (18:0) [cell envelope]	t_1936	c_02
+s_3456	phosphatidylcholine (1-18:1, 2-16:1) [cell envelope]	t_1854	c_02
+s_3457	1-acylglycerophosphocholine (18:1) [cell envelope]	t_1937	c_02
+s_3458	phosphatidylcholine (1-16:0, 2-18:1) [cell envelope]	t_1855	c_02
+s_3459	oleate [cell envelope]	t_0585	c_02
+s_3460	phosphatidylcholine (1-16:1, 2-18:1) [cell envelope]	t_1856	c_02
+s_3461	phosphatidylcholine (1-18:0, 2-18:1) [cell envelope]	t_1857	c_02
+s_3462	phosphatidylcholine (1-18:1, 2-18:1) [cell envelope]	t_1858	c_02
+s_3463	palmitate [cell envelope]	t_0595	c_02
+s_3464	stearate [cell envelope]	t_0671	c_02
+s_3465	phosphatidylethanolamine (1-16:0, 2-16:1) [cell envelope]	t_1827	c_02
+s_3466	1-acylglycerophosphoethanolamine (16:0) [cell envelope]	t_1984	c_02
+s_3467	phosphatidylethanolamine (1-16:1, 2-16:1) [cell envelope]	t_1828	c_02
+s_3468	1-acylglycerophosphoethanolamine (16:1) [cell envelope]	t_1986	c_02
+s_3469	phosphatidylethanolamine (1-18:0, 2-16:1) [cell envelope]	t_1829	c_02
+s_3470	1-acylglycerophosphoethanolamine (18:0) [cell envelope]	t_1987	c_02
+s_3471	phosphatidylethanolamine (1-18:1, 2-16:1) [cell envelope]	t_1830	c_02
+s_3472	1-acylglycerophosphoethanolamine (18:1) [cell envelope]	t_1988	c_02
+s_3473	phosphatidylethanolamine (1-16:0, 2-18:1) [cell envelope]	t_1831	c_02
+s_3474	phosphatidylethanolamine (1-16:1, 2-18:1) [cell envelope]	t_1832	c_02
+s_3475	phosphatidylethanolamine (1-18:0, 2-18:1) [cell envelope]	t_1833	c_02
+s_3476	phosphatidylethanolamine (1-18:1, 2-18:1) [cell envelope]	t_1834	c_02
+s_3477	sn-glycero-3-phosphoethanolamine [cell envelope]	t_1989	c_02
+s_3478	phosphatidyl-L-serine (1-16:0, 2-16:1) [cell envelope]	t_1808	c_02
+s_3479	1-acylglycerophosphoserine (16:0) [cell envelope]	t_1990	c_02
+s_3480	phosphatidyl-L-serine (1-16:1, 2-16:1) [cell envelope]	t_1809	c_02
+s_3481	1-acylglycerophosphoserine (16:1) [cell envelope]	t_1991	c_02
+s_3482	phosphatidyl-L-serine (1-18:0, 2-16:1) [cell envelope]	t_1810	c_02
+s_3483	1-acylglycerophosphoserine (18:0) [cell envelope]	t_1992	c_02
+s_3484	phosphatidyl-L-serine (1-18:1, 2-16:1) [cell envelope]	t_1811	c_02
+s_3485	1-acylglycerophosphoserine (18:1) [cell envelope]	t_1993	c_02
+s_3486	phosphatidyl-L-serine (1-16:0, 2-18:1) [cell envelope]	t_1812	c_02
+s_3487	phosphatidyl-L-serine (1-16:1, 2-18:1) [cell envelope]	t_1813	c_02
+s_3488	phosphatidyl-L-serine (1-18:0, 2-18:1) [cell envelope]	t_1814	c_02
+s_3489	phosphatidyl-L-serine (1-18:1, 2-18:1) [cell envelope]	t_1815	c_02
+s_3490	sn-glycero-3-phosphoserine [cell envelope]	t_1994	c_02
+s_3491	1-acylglycerophosphoinositol (16:0) [cell envelope]	t_1995	c_02
+s_3492	1-acylglycerophosphoinositol (16:1) [cell envelope]	t_1996	c_02
+s_3493	1-acylglycerophosphoinositol (18:0) [cell envelope]	t_1997	c_02
+s_3494	1-acylglycerophosphoinositol (18:1) [cell envelope]	t_1998	c_02
+s_3495	1-(sn-glycero-3-phospho)-1D-myo-inositol [cell envelope]	t_0043	c_02
+s_3496	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate (1-16:0, 2-16:1) [cytoplasm]	t_1968	c_03
+s_3497	diglyceride (1-16:0, 2-16:1) [cytoplasm]	t_1759	c_03
+s_3498	1D-myo-inositol 1,4,5-trisphosphate [cytoplasm]	t_0059	c_03
+e_1037	PLC1 [cytoplasm]	t_1637	c_03
+s_3499	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate (1-16:1, 2-16:1) [cytoplasm]	t_1969	c_03
+s_3500	diglyceride (1-16:1, 2-16:1) [cytoplasm]	t_1762	c_03
+s_3501	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate (1-18:0, 2-16:1) [cytoplasm]	t_1970	c_03
+s_3502	diglyceride (1-18:0, 2-16:1) [cytoplasm]	t_1764	c_03
+s_3503	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate (1-18:1, 2-16:1) [cytoplasm]	t_1971	c_03
+s_3504	diglyceride (1-18:1, 2-16:1) [cytoplasm]	t_1766	c_03
+s_3505	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate (1-16:0, 2-18:1) [cytoplasm]	t_1972	c_03
+s_3506	diglyceride (1-16:0, 2-18:1) [cytoplasm]	t_1761	c_03
+s_3507	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate (1-16:1, 2-18:1) [cytoplasm]	t_1973	c_03
+s_3508	diglyceride (1-16:1, 2-18:1) [cytoplasm]	t_1763	c_03
+s_3509	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate (1-18:0, 2-18:1) [cytoplasm]	t_1974	c_03
+s_3510	diglyceride (1-18:0, 2-18:1) [cytoplasm]	t_1765	c_03
+s_3511	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate (1-18:1, 2-18:1) [cytoplasm]	t_1975	c_03
+s_3512	diglyceride (1-18:1, 2-18:1) [cytoplasm]	t_1767	c_03
+s_3513	diglyceride (1-16:0, 2-16:1) [nucleus]	t_1759	c_13
+s_3514	diglyceride (1-16:1, 2-16:1) [nucleus]	t_1762	c_13
+s_3515	diglyceride (1-18:0, 2-16:1) [nucleus]	t_1764	c_13
+s_3516	diglyceride (1-18:1, 2-16:1) [nucleus]	t_1766	c_13
+s_3517	diglyceride (1-16:0, 2-18:1) [nucleus]	t_1761	c_13
+s_3518	diglyceride (1-16:1, 2-18:1) [nucleus]	t_1763	c_13
+s_3519	diglyceride (1-18:0, 2-18:1) [nucleus]	t_1765	c_13
+s_3520	diglyceride (1-18:1, 2-18:1) [nucleus]	t_1767	c_13
+s_3521	diglyceride (1-16:0, 2-16:1) [mitochondrial membrane]	t_1759	c_10
+e_1038	PGC1 [mitochondrial membrane]	t_1627	c_10
+s_3522	diglyceride (1-16:1, 2-16:1) [mitochondrial membrane]	t_1762	c_10
+s_3523	diglyceride (1-18:0, 2-16:1) [mitochondrial membrane]	t_1764	c_10
+s_3524	diglyceride (1-18:1, 2-16:1) [mitochondrial membrane]	t_1766	c_10
+s_3525	diglyceride (1-16:0, 2-18:1) [mitochondrial membrane]	t_1761	c_10
+s_3526	diglyceride (1-16:1, 2-18:1) [mitochondrial membrane]	t_1763	c_10
+s_3527	phosphatidate (1-16:0, 2-16:1) [cell envelope]	t_1751	c_02
+s_3528	phosphatidate (1-16:1, 2-16:1) [cell envelope]	t_1753	c_02
+s_3529	phosphatidate (1-18:0, 2-16:1) [cell envelope]	t_1755	c_02
+s_3530	phosphatidate (1-18:1, 2-16:1) [cell envelope]	t_1757	c_02
+s_3531	phosphatidate (1-16:0, 2-18:1) [cell envelope]	t_1752	c_02
+s_3532	phosphatidate (1-16:1, 2-18:1) [cell envelope]	t_1754	c_02
+s_3533	phosphatidate (1-18:0, 2-18:1) [cell envelope]	t_1756	c_02
+s_3534	phosphatidate (1-18:1, 2-18:1) [cell envelope]	t_1758	c_02
+s_3535	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-16:0, 2-16:1) [cell envelope]	t_1959	c_02
+s_3536	phosphate [cell envelope]	t_0608	c_02
+s_3537	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-16:1, 2-16:1) [cell envelope]	t_1961	c_02
+s_3538	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-18:0, 2-16:1) [cell envelope]	t_1962	c_02
+s_3539	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-18:1, 2-16:1) [cell envelope]	t_1963	c_02
+s_3540	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-16:0, 2-18:1) [cell envelope]	t_1964	c_02
+s_3541	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-16:1, 2-18:1) [cell envelope]	t_1965	c_02
+s_3542	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-18:0, 2-18:1) [cell envelope]	t_1966	c_02
+s_3543	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-18:1, 2-18:1) [cell envelope]	t_1967	c_02
+s_3544	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-16:0, 2-16:1) [cytoplasm]	t_1959	c_03
+s_3545	1-phosphatidyl-1D-myo-inositol (1-16:0, 2-16:1) [cytoplasm]	t_1816	c_03
+s_3546	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-16:1, 2-16:1) [cytoplasm]	t_1961	c_03
+s_3547	1-phosphatidyl-1D-myo-inositol (1-16:1, 2-16:1) [cytoplasm]	t_1817	c_03
+s_3548	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-18:0, 2-16:1) [cytoplasm]	t_1962	c_03
+s_3549	1-phosphatidyl-1D-myo-inositol (1-18:0, 2-16:1) [cytoplasm]	t_1818	c_03
+s_3550	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-18:1, 2-16:1) [cytoplasm]	t_1963	c_03
+s_3551	1-phosphatidyl-1D-myo-inositol (1-18:1, 2-16:1) [cytoplasm]	t_1819	c_03
+s_3552	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-16:0, 2-18:1) [cytoplasm]	t_1964	c_03
+s_3553	1-phosphatidyl-1D-myo-inositol (1-16:0, 2-18:1) [cytoplasm]	t_1820	c_03
+s_3554	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-16:1, 2-18:1) [cytoplasm]	t_1965	c_03
+s_3555	1-phosphatidyl-1D-myo-inositol (1-16:1, 2-18:1) [cytoplasm]	t_1821	c_03
+s_3556	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-18:0, 2-18:1) [cytoplasm]	t_1966	c_03
+s_3557	1-phosphatidyl-1D-myo-inositol (1-18:0, 2-18:1) [cytoplasm]	t_1822	c_03
+s_3558	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-18:1, 2-18:1) [cytoplasm]	t_1967	c_03
+s_3559	1-phosphatidyl-1D-myo-inositol (1-18:1, 2-18:1) [cytoplasm]	t_1823	c_03
+s_3560	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-16:0, 2-16:1) [endoplasmic reticulum membrane]	t_1959	c_05
+e_1039	SAC1 [endoplasmic reticulum membrane]	t_1320	c_05
+s_3561	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-16:1, 2-16:1) [endoplasmic reticulum membrane]	t_1961	c_05
+s_3562	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-18:0, 2-16:1) [endoplasmic reticulum membrane]	t_1962	c_05
+s_3563	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-18:1, 2-16:1) [endoplasmic reticulum membrane]	t_1963	c_05
+s_3564	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-16:0, 2-18:1) [endoplasmic reticulum membrane]	t_1964	c_05
+s_3565	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-16:1, 2-18:1) [endoplasmic reticulum membrane]	t_1965	c_05
+s_3566	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-18:0, 2-18:1) [endoplasmic reticulum membrane]	t_1966	c_05
+s_3567	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-18:1, 2-18:1) [endoplasmic reticulum membrane]	t_1967	c_05
+s_3568	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-16:0, 2-16:1) [Golgi membrane]	t_1959	c_08
+e_1040	SAC1 [Golgi membrane]	t_1320	c_08
+s_3569	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-16:1, 2-16:1) [Golgi membrane]	t_1961	c_08
+s_3570	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-18:0, 2-16:1) [Golgi membrane]	t_1962	c_08
+s_3571	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-18:1, 2-16:1) [Golgi membrane]	t_1963	c_08
+s_3572	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-16:0, 2-18:1) [Golgi membrane]	t_1964	c_08
+s_3573	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-16:1, 2-18:1) [Golgi membrane]	t_1965	c_08
+s_3574	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-18:0, 2-18:1) [Golgi membrane]	t_1966	c_08
+s_3575	1-phosphatidyl-1D-myo-inositol 3-phosphate (1-18:1, 2-18:1) [Golgi membrane]	t_1967	c_08
+s_3576	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-16:0, 2-16:1) [cytoplasm]	t_1950	c_03
+s_3577	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-16:1, 2-16:1) [cytoplasm]	t_1951	c_03
+s_3578	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-18:0, 2-16:1) [cytoplasm]	t_1952	c_03
+s_3579	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-18:1, 2-16:1) [cytoplasm]	t_1953	c_03
+s_3580	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-16:0, 2-18:1) [cytoplasm]	t_1954	c_03
+s_3581	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-16:1, 2-18:1) [cytoplasm]	t_1955	c_03
+s_3582	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-18:0, 2-18:1) [cytoplasm]	t_1956	c_03
+s_3583	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-18:1, 2-18:1) [cytoplasm]	t_1957	c_03
+s_3584	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-16:0, 2-16:1) [endoplasmic reticulum membrane]	t_1950	c_05
+s_3585	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-16:1, 2-16:1) [endoplasmic reticulum membrane]	t_1951	c_05
+s_3586	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-18:0, 2-16:1) [endoplasmic reticulum membrane]	t_1952	c_05
+s_3587	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-18:1, 2-16:1) [endoplasmic reticulum membrane]	t_1953	c_05
+s_3588	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-16:0, 2-18:1) [endoplasmic reticulum membrane]	t_1954	c_05
+s_3589	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-16:1, 2-18:1) [endoplasmic reticulum membrane]	t_1955	c_05
+s_3590	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-18:0, 2-18:1) [endoplasmic reticulum membrane]	t_1956	c_05
+s_3591	1-phosphatidyl-1D-myo-inositol 4-phosphate (1-18:1, 2-18:1) [endoplasmic reticulum membrane]	t_1957	c_05
+s_3592	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate (1-16:0, 2-16:1) [cell envelope]	t_1976	c_02
+s_3593	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate (1-16:1, 2-16:1) [cell envelope]	t_1977	c_02
+s_3594	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate (1-18:0, 2-16:1) [cell envelope]	t_1978	c_02
+s_3595	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate (1-18:1, 2-16:1) [cell envelope]	t_1979	c_02
+s_3596	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate (1-16:0, 2-18:1) [cell envelope]	t_1980	c_02
+s_3597	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate (1-16:1, 2-18:1) [cell envelope]	t_1981	c_02
+s_3598	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate (1-18:0, 2-18:1) [cell envelope]	t_1982	c_02
+s_3599	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate (1-18:1, 2-18:1) [cell envelope]	t_1983	c_02
+s_3600	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate (1-16:0, 2-16:1) [cytoplasm]	t_1976	c_03
+s_3601	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate (1-16:1, 2-16:1) [cytoplasm]	t_1977	c_03
+s_3602	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate (1-18:0, 2-16:1) [cytoplasm]	t_1978	c_03
+s_3603	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate (1-18:1, 2-16:1) [cytoplasm]	t_1979	c_03
+s_3604	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate (1-16:0, 2-18:1) [cytoplasm]	t_1980	c_03
+s_3605	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate (1-16:1, 2-18:1) [cytoplasm]	t_1981	c_03
+s_3606	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate (1-18:0, 2-18:1) [cytoplasm]	t_1982	c_03
+s_3607	1-phosphatidyl-1D-myo-inositol 3,5-bisphosphate (1-18:1, 2-18:1) [cytoplasm]	t_1983	c_03
+s_3608	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate (1-16:0, 2-16:1) [endoplasmic reticulum membrane]	t_1968	c_05
+e_1041	INP54 [endoplasmic reticulum membrane]	t_1535	c_05
+s_3609	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate (1-16:1, 2-16:1) [endoplasmic reticulum membrane]	t_1969	c_05
+s_3610	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate (1-18:0, 2-16:1) [endoplasmic reticulum membrane]	t_1970	c_05
+s_3611	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate (1-18:1, 2-16:1) [endoplasmic reticulum membrane]	t_1971	c_05
+s_3612	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate (1-16:0, 2-18:1) [endoplasmic reticulum membrane]	t_1972	c_05
+s_3613	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate (1-16:1, 2-18:1) [endoplasmic reticulum membrane]	t_1973	c_05
+s_3614	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate (1-18:0, 2-18:1) [endoplasmic reticulum membrane]	t_1974	c_05
+s_3615	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate (1-18:1, 2-18:1) [endoplasmic reticulum membrane]	t_1975	c_05
+e_1042	VAC14 [vacuolar membrane]	t_1999	c_16
+e_1043	FIG4 [vacuolar membrane]	t_1510	c_16
+s_3616	1,2-diacylglycerol 3-diphosphate (1-16:0, 2-16:1) [vacuolar membrane]	t_2000	c_16
+s_3617	1,2-diacylglycerol 3-diphosphate (1-16:1, 2-16:1) [vacuolar membrane]	t_2001	c_16
+s_3618	1,2-diacylglycerol 3-diphosphate (1-18:0, 2-16:1) [vacuolar membrane]	t_2002	c_16
+s_3619	1,2-diacylglycerol 3-diphosphate (1-18:1, 2-16:1) [vacuolar membrane]	t_2003	c_16
+s_3620	1,2-diacylglycerol 3-diphosphate (1-16:0, 2-18:1) [vacuolar membrane]	t_2004	c_16
+s_3621	1,2-diacylglycerol 3-diphosphate (1-16:1, 2-18:1) [vacuolar membrane]	t_2005	c_16
+s_3622	1,2-diacylglycerol 3-diphosphate (1-18:0, 2-18:1) [vacuolar membrane]	t_2006	c_16
+s_3623	1,2-diacylglycerol 3-diphosphate (1-18:1, 2-18:1) [vacuolar membrane]	t_2007	c_16
+s_3624	1,2-diacylglycerol 3-diphosphate (1-16:0, 2-16:1) [Golgi membrane]	t_2000	c_08
+s_3625	1,2-diacylglycerol 3-diphosphate (1-16:1, 2-16:1) [Golgi membrane]	t_2001	c_08
+s_3626	1,2-diacylglycerol 3-diphosphate (1-18:0, 2-16:1) [Golgi membrane]	t_2002	c_08
+s_3627	1,2-diacylglycerol 3-diphosphate (1-18:1, 2-16:1) [Golgi membrane]	t_2003	c_08
+s_3628	1,2-diacylglycerol 3-diphosphate (1-16:0, 2-18:1) [Golgi membrane]	t_2004	c_08
+s_3629	1,2-diacylglycerol 3-diphosphate (1-16:1, 2-18:1) [Golgi membrane]	t_2005	c_08
+s_3630	1,2-diacylglycerol 3-diphosphate (1-18:0, 2-18:1) [Golgi membrane]	t_2006	c_08
+s_3631	1,2-diacylglycerol 3-diphosphate (1-18:1, 2-18:1) [Golgi membrane]	t_2007	c_08
+s_3632	1-acyl-sn-glycerol 3-phosphate (16:0) [cytoplasm]	t_1742	c_03
+s_3633	1-monoglyceride (16:0) [cytoplasm]	t_2008	c_03
+e_1044	PHM8 [cytoplasm]	t_2009	c_03
+s_3634	1-acyl-sn-glycerol 3-phosphate (16:1) [cytoplasm]	t_1743	c_03
+s_3635	1-monoglyceride (16:1) [cytoplasm]	t_2010	c_03
+s_3636	1-acyl-sn-glycerol 3-phosphate (18:0) [cytoplasm]	t_1744	c_03
+s_3637	1-monoglyceride (18:0) [cytoplasm]	t_2011	c_03
+s_3638	1-acyl-sn-glycerol 3-phosphate (18:1) [cytoplasm]	t_1745	c_03
+s_3639	1-monoglyceride (18:1) [cytoplasm]	t_2012	c_03
+s_3640	1-acyl-sn-glycerol 3-phosphate (16:0) [vacuolar membrane]	t_1742	c_16
+s_3641	1-monoglyceride (16:0) [vacuolar membrane]	t_2008	c_16
+s_3642	1-acyl-sn-glycerol 3-phosphate (16:1) [vacuolar membrane]	t_1743	c_16
+s_3643	1-monoglyceride (16:1) [vacuolar membrane]	t_2010	c_16
+s_3644	1-acyl-sn-glycerol 3-phosphate (18:0) [vacuolar membrane]	t_1744	c_16
+s_3645	1-monoglyceride (18:0) [vacuolar membrane]	t_2011	c_16
+s_3646	1-acyl-sn-glycerol 3-phosphate (18:1) [vacuolar membrane]	t_1745	c_16
+s_3647	1-monoglyceride (18:1) [vacuolar membrane]	t_2012	c_16
+s_3648	1-acyl-sn-glycerol 3-phosphate (16:0) [Golgi membrane]	t_1742	c_08
+s_3649	1-monoglyceride (16:0) [Golgi membrane]	t_2008	c_08
+s_3650	1-acyl-sn-glycerol 3-phosphate (16:1) [Golgi membrane]	t_1743	c_08
+s_3651	1-monoglyceride (16:1) [Golgi membrane]	t_2010	c_08
+s_3652	1-acyl-sn-glycerol 3-phosphate (18:0) [Golgi membrane]	t_1744	c_08
+s_3653	1-monoglyceride (18:0) [Golgi membrane]	t_2011	c_08
+s_3654	1-acyl-sn-glycerol 3-phosphate (18:1) [Golgi membrane]	t_1745	c_08
+s_3655	1-monoglyceride (18:1) [Golgi membrane]	t_2012	c_08
+s_3656	ergosteryl palmitoleate [lipid particle]	t_0354	c_09
+s_3657	H2O [lipid particle]	t_0399	c_09
+s_3658	ergosteryl oleate [lipid particle]	t_0353	c_09
+s_3659	episteryl palmitoleate [lipid particle]	t_0347	c_09
+s_3660	episterol [lipid particle]	t_0345	c_09
+s_3661	episteryl oleate [lipid particle]	t_0346	c_09
+s_3662	fecosteryl palmitoleate [lipid particle]	t_0365	c_09
+s_3663	fecosteryl oleate [lipid particle]	t_0364	c_09
+s_3664	lanosteryl palmitoleate [lipid particle]	t_0505	c_09
+s_3665	lanosterol [lipid particle]	t_0503	c_09
+s_3666	lanosteryl oleate [lipid particle]	t_0504	c_09
+s_3667	zymosteryl palmitoleate [lipid particle]	t_0734	c_09
+s_3668	zymosteryl oleate [lipid particle]	t_0733	c_09
+s_3669	zymosteryl palmitoleate [cell envelope]	t_0734	c_02
+s_3670	zymosteryl oleate [cell envelope]	t_0733	c_02
+e_1045	LDH1 [lipid particle]	t_2013	c_09
+s_3671	1-monoglyceride (16:0) [lipid particle]	t_2008	c_09
+s_3672	1-monoglyceride (16:1) [lipid particle]	t_2010	c_09
+s_3673	1-monoglyceride (18:0) [lipid particle]	t_2011	c_09
+s_3674	1-monoglyceride (18:1) [lipid particle]	t_2012	c_09
+s_3675	diglyceride (1-16:0, 2-18:1) [mitochondrion]	t_1761	c_11
+s_3676	1-monoglyceride (16:0) [mitochondrion]	t_2008	c_11
+s_3677	oleate [mitochondrion]	t_0585	c_11
+e_1046	TGL2 [mitochondrion]	t_0938	c_11
+s_3678	diglyceride (1-16:1, 2-18:1) [mitochondrion]	t_1763	c_11
+s_3679	1-monoglyceride (16:1) [mitochondrion]	t_2010	c_11
+s_3680	diglyceride (1-18:0, 2-18:1) [mitochondrion]	t_1765	c_11
+s_3681	1-monoglyceride (18:0) [mitochondrion]	t_2011	c_11
+s_3682	diglyceride (1-18:1, 2-18:1) [mitochondrion]	t_1767	c_11
+s_3683	1-monoglyceride (18:1) [mitochondrion]	t_2012	c_11
+s_3684	glycerol [lipid particle]	t_0387	c_09
+e_1047	YJU3 [lipid particle]	t_2014	c_09
+s_3685	1-acylglycerophosphoethanolamine (16:0) [lipid particle]	t_1984	c_09
+s_3686	phosphatidylethanolamine (1-16:0, 2-18:1) [lipid particle]	t_1831	c_09
+s_3687	1-acylglycerophosphoethanolamine (16:1) [lipid particle]	t_1986	c_09
+s_3688	phosphatidylethanolamine (1-16:1, 2-18:1) [lipid particle]	t_1832	c_09
+s_3689	1-acylglycerophosphoethanolamine (18:0) [lipid particle]	t_1987	c_09
+s_3690	phosphatidylethanolamine (1-18:0, 2-18:1) [lipid particle]	t_1833	c_09
+s_3691	1-acylglycerophosphoethanolamine (18:1) [lipid particle]	t_1988	c_09
+s_3692	phosphatidylethanolamine (1-18:1, 2-18:1) [lipid particle]	t_1834	c_09
+s_3693	phosphatidylcholine (1-16:0, 2-16:1) [lipid particle]	t_1851	c_09
+s_3694	1-acylglycerophosphocholine (16:0) [lipid particle]	t_1934	c_09
+s_3695	phosphatidylcholine (1-16:1, 2-16:1) [lipid particle]	t_1852	c_09
+s_3696	1-acylglycerophosphocholine (16:1) [lipid particle]	t_1935	c_09
+s_3697	phosphatidylcholine (1-18:0, 2-16:1) [lipid particle]	t_1853	c_09
+s_3698	1-acylglycerophosphocholine (18:0) [lipid particle]	t_1936	c_09
+s_3699	phosphatidylcholine (1-18:1, 2-16:1) [lipid particle]	t_1854	c_09
+s_3700	1-acylglycerophosphocholine (18:1) [lipid particle]	t_1937	c_09
+s_3701	phosphatidylcholine (1-16:0, 2-18:1) [lipid particle]	t_1855	c_09
+s_3702	phosphatidylcholine (1-16:1, 2-18:1) [lipid particle]	t_1856	c_09
+s_3703	phosphatidylcholine (1-18:0, 2-18:1) [lipid particle]	t_1857	c_09
+s_3704	phosphatidylcholine (1-18:1, 2-18:1) [lipid particle]	t_1858	c_09
+s_3705	phosphatidylethanolamine (1-16:0, 2-16:1) [lipid particle]	t_1827	c_09
+s_3706	phosphatidylethanolamine (1-16:1, 2-16:1) [lipid particle]	t_1828	c_09
+s_3707	phosphatidylethanolamine (1-18:0, 2-16:1) [lipid particle]	t_1829	c_09
+s_3708	phosphatidylethanolamine (1-18:1, 2-16:1) [lipid particle]	t_1830	c_09
+e_1048	IPT1 [Golgi membrane]	t_0940	c_08
+e_1049	AUR1 [Golgi membrane]	t_1287	c_08
+e_1050	KEI1 [Golgi membrane]	t_0980	c_08
+s_3709	ergosterol ester [endoplasmic reticulum membrane]	t_0352	c_05
+s_3710	phosphatidyl-L-serine [endoplasmic reticulum membrane]	t_0610	c_05
+s_3711	phosphatidylcholine [endoplasmic reticulum membrane]	t_0613	c_05
+s_3712	phosphatidylethanolamine [endoplasmic reticulum membrane]	t_0614	c_05
+s_3713	triglyceride [endoplasmic reticulum membrane]	t_0702	c_05
+e_1051	GCY1 [cytoplasm]	t_2015	c_03
+s_1796	potassium [boundary]	t_0625	c_01
