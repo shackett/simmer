@@ -23,7 +23,7 @@ Integrating boundary fluxes with the yeast metabolic reconstruction in order to 
 - Calculate fluxes using quadratic programming (calculate_QP_fluxes)
 - Flux uncertainty can be calculated using python script (python/qp_fba_clust.py)
 
-## R/MCMC_NNLS_example.R
+## Fitting experimental data to reaction forms using MCMC and NNLS
 
 Bayesian approach to fitting reaction equations to measured fluxes.
 
