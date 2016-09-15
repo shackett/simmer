@@ -32,7 +32,7 @@ setup_FBA_constraints(return_infeasible = F, infRxMet)
 # calculate fluxes using quadratic programming
 inferred_fluxes <- calculate_QP_fluxes()
 
-knitr::kable(head(inferred_fluxes, 5))
+knitr::kable(head(dplyr::select(inferred_fluxes, reactionID:`P0.30`), 5))
 
 # generate files to read into python for calculating upper and lower bounds on flux using FVA
 # read_write_python_FVA(status = "write", directory = "~/Desktop/")

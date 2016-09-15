@@ -664,8 +664,6 @@ setup_inequality_constraints <- function(){
 #'
 #' @return a data.frame containing all fluxes that were non-zero in at least one condition
 #'
-#' @import gurobi
-#'
 #' @export
 calculate_QP_fluxes <- function(){
 
@@ -802,11 +800,11 @@ calculate_QP_fluxes <- function(){
 
     ### Run standard quadratic programming ###
 
-    solvedModel <- gurobi(qpModel, qpparams) #solve with barrier algorithm
+    solvedModel <- gurobi::gurobi(qpModel, qpparams) #solve with barrier algorithm
 
     if(solvedModel$status == "NUMERIC"){
       alt_parms <- qpparams; alt_parms$method <- 1
-      solvedModel <- gurobi(qpModel, alt_parms) #solve with dual simplex
+      solvedModel <- gurobi::gurobi(qpModel, alt_parms) #solve with dual simplex
     }
 
     collapsedFlux <- sapply(unique(Sinfo$reaction), function(frcombo){
