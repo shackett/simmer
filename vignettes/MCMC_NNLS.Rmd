@@ -61,24 +61,26 @@ finalize_reaction_equations(rxnEquations, all_species, kinetically_differing_iso
 
 kineticParPrior <- build_kinetic_parameter_priors(rxnSummary, kineticPars, omic_data)
 
-#### Sampling l(par|X) using MCMC-NNLS ####
+# Sampling l(par|X) using MCMC-NNLS
 
 fit_reaction_equation_MCMC_NNLS(markov_pars, kineticPars, kineticParPrior, rxnEquations, all_species, omic_data, kinetically_differing_isoenzymes)
-  
+
+# display posterior samples  
 kable(head(markov_par_vals, 10))
 ```
 
 ## Combine all functions to evaluate a single reaction form
 
-```{r loop_all_rMechs, cache = T, dependson = "import"}
+```{r loop_all_rMechs, cache = T}
 fitted_reaction_equations <- parallel::mclapply(reactionForms, function(x){
   fit_reaction_equations(x)
 }, mc.cores = 4)
 
-# 
 rMech_summary_table$maxLogLik <- sapply(fitted_reaction_equations, function(x){max(x[[1]]$logLikelihood)})
 
 all_rMech_logLik <- rMech_summary_table %>%
   group_by(reaction) %>%
   arrange(desc(maxLogLik))
+
+kable(head(all_rMech_logLik, 10))
 ```
