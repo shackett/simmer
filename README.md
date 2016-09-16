@@ -6,7 +6,7 @@ To install this repository as a local package run the following R code:
 
 ```{r}
 install.packages("devtools")
-devtools::install_github("shackett/simmer", build_vingettes = TRUE)
+devtools::install_github("shackett/simmer")
 ```
 
 Vignettes are available that reproduce the flux inference and reaction equation fitting:
